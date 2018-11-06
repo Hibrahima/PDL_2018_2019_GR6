@@ -1,0 +1,10 @@
+Nom,Taille en octets lors des calculs,Valeur par défaut,Valeurs possibles
+boolean,Un seul bit suffit, mais on réserve souvent un octet pour les stocker.,false,true, false
+byte,1,0,entiers compris entre -128 et +127 (-27 et 27-1)
+short,2,0,entiers compris entre −32 768 et 32 767 (-215 et 215-1)
+int,4,0,entiers compris entre −2 147 483 648 et +2 147 483 647 (-231 et 231-1)
+long,8,0,entiers compris entre −9 223 372 036 854 775 808 et 9 223 372 036 854 775 807 (-263 et 263-1)
+char,2,'\u0000',Ensemble des valeurs Unicode (valeurs de U+0000 à U+FFFF, 4 chiffres obligatoires après '\u') Les 128 premiers caractères sont les codes ASCII et se notent entre apostrophes : 'a', '1', '\, '\n'.
+float,4,0.0,Ensemble des nombres [−3,402 823 47 × 1038 .. −1,402 398 46 × 10−45], 0, [1,402 398 46 × 10−45 .. 3,402 823 47 × 1038]
+double,8,0.0,Ensemble des nombres [−1,797 693 134 862 315 70 × 10308 .. −4,940 656 458 412 465 44 × 10−324], 0, [4,940 656 458 412 465 44 × 10−324 .. 1,797 693 134 862 315 70 × 10308]
+Object,Dépendant de la machine virtuelle,null
