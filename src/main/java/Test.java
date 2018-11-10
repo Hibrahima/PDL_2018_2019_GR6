@@ -30,7 +30,7 @@ public class Test {
 	
 	@org.junit.jupiter.api.Test
 	@DisplayName("generate CSV files")
-	@Disabled
+	//@Disabled
 	public void generateCSVFiles(){
 		converter.convertHtmlToCsv(url);
 	}
@@ -63,7 +63,8 @@ public class Test {
 	
 	@org.junit.jupiter.api.Test
 	@DisplayName("test csv file content")
-	@AfterAll
+	//@AfterAll
+	@Disabled
 	public static void  testCSVFileContent() {
 		String[] filenames = {"Java_(langage)_tableau1.csv", "Java_(langage)_tableau2.csv", 
 				"Java_(langage)_tableau3.csv", "Java_(langage)_tableau4.csv", "Java_(langage)_tableau5.csv"};
