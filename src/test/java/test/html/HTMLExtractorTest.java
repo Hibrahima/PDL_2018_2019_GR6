@@ -35,5 +35,13 @@ public class HTMLExtractorTest {
 		assertEquals(3, tables.size());
 	}
 	
+	@Test
+	@DisplayName("Comparison_of_TLS_implementations")
+	public void testComparison_of_TLS_implementations() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_TLS_implementations").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_TLS_implementations");
+		assertEquals(18, tables.size());
+	}
+	
 	
 }
