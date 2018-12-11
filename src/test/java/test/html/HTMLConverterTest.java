@@ -77,7 +77,25 @@ public class HTMLConverterTest {
 		assertEquals("-45 abc def", result.toString());
 	}
 
+	@Test
+	@DisplayName("test process td text with separator and caracters")
+	@Tag("robustness")
+	public void testPrcocessTdTextWithSeparatorAndCaracters() {
+		StringBuilder result = htmlConverter.processCurrentTDText(new StringBuilder("true" + separator + "false"));
+		assertEquals("true false", result.toString());
+
+		result = htmlConverter.processCurrentTDText(new StringBuilder("true" + separator + "36"));
+		assertEquals("true 36", result.toString());
+
+		result = htmlConverter.processCurrentTDText(new StringBuilder("life is complated" + separator + "-17"));
+		assertEquals("life is complated -17", result.toString());
+
+		result = htmlConverter.processCurrentTDText(new StringBuilder("-45" + separator + "abc def"));
+		assertEquals("-45 abc def", result.toString());
+	}
+
 	
+
 	@Test
 	@DisplayName("test validy of all csv files")
 	@Tag("robustness")
