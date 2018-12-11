@@ -60,6 +60,23 @@ public class HTMLConverterTest {
 		assertDoesNotThrow(() -> htmlConverter.convertAllToCSV());
 	}
 
+	@Test
+	@DisplayName("test process td text with separator and number")
+	@Tag("robustness")
+	public void testPrcocessTdTextWithSeparatorAndNumber() {
+		StringBuilder result = htmlConverter.processCurrentTDText(new StringBuilder("154" + separator + "8"));
+		assertEquals("154.8", result.toString());
+
+		result = htmlConverter.processCurrentTDText(new StringBuilder("247" + separator + "a"));
+		assertEquals("247 a", result.toString());
+
+		result = htmlConverter.processCurrentTDText(new StringBuilder("0" + separator + "z"));
+		assertEquals("0 z", result.toString());
+
+		result = htmlConverter.processCurrentTDText(new StringBuilder("-45" + separator + "abc def"));
+		assertEquals("-45 abc def", result.toString());
+	}
+
 	
 	@Test
 	@DisplayName("test validy of all csv files")
