@@ -94,7 +94,17 @@ public class HTMLConverterTest {
 		assertEquals("-45 abc def", result.toString());
 	}
 
-	
+	@Test
+	@DisplayName("test process td text with separator at end and beginning")
+	@Tag("robustness")
+	public void testPrcocessTdTextWithSeparatorAtEndAndBeginniing() {
+		StringBuilder result = htmlConverter.processCurrentTDText(new StringBuilder(separator + "some text"));
+		assertEquals(separator + "some text", result.toString());
+
+		result = htmlConverter.processCurrentTDText(new StringBuilder("some text" + separator));
+		assertEquals("some text" + separator, result.toString());
+
+	}
 
 	@Test
 	@DisplayName("test validy of all csv files")
