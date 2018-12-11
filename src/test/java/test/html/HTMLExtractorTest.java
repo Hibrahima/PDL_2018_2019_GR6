@@ -67,5 +67,11 @@ public class HTMLExtractorTest {
 	}
 	
 	
-	
+	@Test
+	@DisplayName("Comparison_of_audio_player_software)")
+	public void testComparison_of_audio_player_software() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_audio_player_software").get();
+		Elements tables = extractor.extractTables(doc, Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_audio_player_software");
+		assertEquals(9, tables.size());
+	}
 }
