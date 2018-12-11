@@ -1,15 +1,15 @@
-File manager,Family,UI,Icon view,List view,Column view,Thumbnails,Details + Thumbs,Grouping,Content dependent [22],Twin panel,Favorites / Bookmark,Panel tabs
+File manager,Family,UI,Icon view,List view,Column view,Thumbnails,Details + Thumbs,Grouping,Content dependent [23],Twin panel,Favorites / Bookmark,Panel tabs
 Altap Salamander,Orthodox,GUI,Yes,Yes,Yes,Yes,No,No,No,Yes,Partial,No
 Commander One,Orthodox,GUI,Yes,Yes,Yes,Yes,?,?,No,?,Yes,Yes
 CRAX Commander,Orthodox,GUI,Yes,Yes,No,Yes,?,?,No,Yes,Yes,Yes
 Demos Commander,Orthodox,Text,?,Yes,?,?,?,?,?,Yes,?,?
 Directory Opus,Orthodox,GUI,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-Dired,Orthodox,Text,?,Yes,?,Yes  on GUI[23],Yes  on GUI[23],?,?,Yes  one or more,Partial (bookmarks),Yes (show tab-bar optional) [24]
+Dired,Orthodox,Text,?,Yes,?,Yes  on GUI[24],Yes  on GUI[24],?,?,Yes  one or more,Partial (bookmarks),Yes (show tab-bar optional) [25]
 Dolphin,Navigational,GUI,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes
 Double Commander,Orthodox,GUI,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 DOS Navigator,Orthodox,Text,?,Yes,?,?,?,?,?,Yes,?,?
-emelFM2,Orthodox,GUI,No,Yes,No,Yes[25],?,No,No,Yes,?,No
-FAR Manager,Orthodox,Text [26],Partial[27],Yes,Yes,Yes[28],Partial[27],Yes,Yes,Yes,Yes,Partial [m 1]
+emelFM2,Orthodox,GUI,No,Yes,No,Yes[26],?,No,No,Yes,?,No
+FAR Manager,Orthodox,Text [27],Partial[28],Yes,Yes,Yes[29],Partial[28],Yes,Yes,Yes,Yes,Partial [m 1]
 File Commander,Orthodox,Text,No,Yes,Yes,No,Partial,Yes,No,Yes,No,No
 File Manager,Orthodox,GUI,Yes,Yes,No,?,?,?,?,Yes,No,No
 Finder,Spatial / Miller Columns,GUI,Yes,Yes,Yes,Yes,Yes  with Cover Flow,Yes,No,No,Yes,No
@@ -33,7 +33,7 @@ Windows Explorer,Navigational / Spatial,GUI,Yes,Yes,Yes [m 2],Yes,Partial [m 3],
 Xandros File Manager,Navigational,GUI,Yes,?,?,?,?,?,?,?,?,?
 Xfe,Hybrid Navigational,GUI,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No
 Xfm,Spatial,GUI,Yes,No,No,No,No,?,?,No,?,No
-xplorer²,Hybrid Navigational / Orthodox,GUI,Yes,Yes,Yes,Yes,Yes[29],Yes,Yes,Yes,Yes,Yes
+xplorer²,Hybrid Navigational / Orthodox,GUI,Yes,Yes,Yes,Yes,Yes[30],Yes,Yes,Yes,Yes,Yes
 XYplorer,Hybrid Navigational / Orthodox,GUI,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes
 ZTreeWin,Orthodox,Text,No,Yes,Yes,No,Partial,Yes,No,Yes,Yes,No
 File manager,Family,UI,Icon view,List view,Column view,Thumbnails,Details + Thumbs,Grouping,Content dependent,Twin panel,Favorites / Bookmark,Panel tabs

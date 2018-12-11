@@ -2,7 +2,7 @@ File manager,SMB/CIFS,WebDAV,NFS,AFP,FTP,FISH/SSH
 Altap Salamander,Yes,No,Yes,No,Yes,Yes
 Commander One,Yes[n 1],Yes,Yes[n 1],Yes[n 1],Yes,Yes
 CRAX Commander,Yes[n 1],Yes,Yes[n 1],Yes[n 1],Yes,Yes
-Directory Opus,Yes,Yes,Yes,No,Yes,Yes (SFTP & SSL[33])
+Directory Opus,Yes,Yes,Yes,No,Yes,Yes (SFTP & SSL[34])
 Dired,Yes[n 1],Yes[n 1],Yes[n 1],No,Yes,Yes[n 1]
 Dolphin,Yes,Yes,Yes,?,Yes,Yes
 Double Commander,Yes,?,?,?,Yes,?
