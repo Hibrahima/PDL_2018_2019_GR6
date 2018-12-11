@@ -1,0 +1,20 @@
+Name,Code review,Bug tracking,Web hosting,Wiki,Translation system,Shell server,Mailing List,Forum,Personal branch,Private branch,Announce,Build system,Team,Release Binaries,Self-hosting
+Assembla,Yes[20],Yes,Yes,Yes,Yes,No,No,No,Yes,Yes[21],Yes,Yes,Yes,Unknown,No
+Bitbucket,Yes[22],Yes[a],Yes[23],Yes,No,No,No,No,Yes,Yes[b],No,Yes[24],Yes,No[25],Commercially (BitBucket Server formerly Stash)[c]
+Buddy,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes[d],Yes,Yes,Yes
+CloudForge,Unknown,Yes,Yes,Yes,No,No,No,No,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No
+GitHub,Yes[26],Yes[27][e],Yes[28],Yes,No,No,No,No,Yes,Yes[f],Yes,3rd-party (e.g. Travis CI  Appveyor and others)[29],Yes,Yes,Commercially (GitHub Enterprise)
+GitLab,Yes[30],Yes,Yes[31],Yes,No,No,No,No,Yes,Yes,Yes,Yes[32],Yes,Yes[33],Yes[g]
+GNU Savannah,Yes[34],Yes,Yes,No,No,Yes,Yes,No[35],No,No,Yes,No,Yes,Unknown,Yes
+Helix TeamHub,Yes[36],Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,No,Yes  with hooks. Jenkins  TeamCity  etc.,No,Yes,Yes
+java.net/Project Kenai,Unknown,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Unknown,No
+Kallithea,Yes,No,Yes,No,No,Unknown,No,No,Yes,Yes,No,No,Yes,Yes,Yes
+Launchpad,Yes,Yes,No,No,Yes,No,Yes,No,Yes,Yes[h],Yes,Yes[i],Yes,Unknown,Yes
+OSDN,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No
+Ourproject.org,Unknown,Yes,Yes,Yes,No,Unknown,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes
+Phabricator,Yes,Yes,Yes,Yes,Unknown,Yes,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Yes
+RhodeCode,Yes,No,Yes,No,No,Unknown,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes
+SourceForge,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes[j],Yes,No,Yes,Yes,Yes
+Team Foundation Server,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Visual Studio Team Services,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+Name,Code review,Bug tracking,Web hosting,Wiki,Translation system,Shell server,Mailing List,Forum,Personal branch,Private branch,Announce,Build system,Team,Release Binaries,Self-hosting
