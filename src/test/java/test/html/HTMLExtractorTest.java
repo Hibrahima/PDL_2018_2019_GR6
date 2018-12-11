@@ -43,5 +43,14 @@ public class HTMLExtractorTest {
 		assertEquals(18, tables.size());
 	}
 	
+	@Test
+	@DisplayName("Python_(langage)")
+	public void testComparison_of_PythonLangage() throws IOException {
+		Document doc = Jsoup.connect(Constants.FR_BASE_WIKIPEDIA_URL + "Python_(langage)").get();
+		Elements tables = extractor.extractTables(doc, Constants.FR_BASE_WIKIPEDIA_URL + "Python_(langage)");
+		assertEquals(0, tables.size());
+	}
+	
+	
 	
 }
