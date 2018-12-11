@@ -52,5 +52,12 @@ public class HTMLExtractorTest {
 	}
 	
 	
+	@Test
+	@DisplayName("Comparison_of_Exchange_ActiveSync_clients")
+	@Tag("robustness")
+	public void testComparison_of_Exchange_ActiveSync_clients() throws IOException {
+		assertThrows(HttpStatusException.class, () -> Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_Exchange_ActiveSync_clients").get());
+	}
+	
 	
 }
