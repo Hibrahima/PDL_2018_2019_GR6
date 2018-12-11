@@ -43,7 +43,13 @@ public class HTMLConverterTest {
 
 	}
 
-
+	@Test
+	@DisplayName("test Comparison_of_audio_player_software")
+	public void testComparison_of_audio_player_software() throws IOException {
+		Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + "Comparison_of_audio_player_software").get();
+		htmlConverter.convertToCsv(doc, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_audio_player_software",
+				Constants.HTML_TEST_OUTPUT_DIR);
+	}
 
 	@Test
 	@DisplayName("test converts all files to csv")
