@@ -11,7 +11,7 @@ import helper.Statistics;
 import helper.StatisticsImpl;
 import interfaces.Extractor;
 
-public class HTMLExtractor implements Extractor {
+public class WikiExtractor implements Extractor {
 	private static final String wiki_regex = "^https:\\//[a-z]{2}\\.wikipedia\\.org\\/wiki/.+";
 	public static int ignoredTablesCount = 0;
 	private Statistics statistics;

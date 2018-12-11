@@ -17,13 +17,13 @@ import helper.FileHandlerImpl;
 import interfaces.Converter;
 import interfaces.FileHandler;
 
-public class HTMLConverter implements Converter {
-	private HTMLExtractor extractor;
+public class WikiConverter implements Converter {
+	private WikiExtractor extractor;
 	private FileHandler filehandler;
 	private char separator = ',';
 
-	public HTMLConverter() {
-		this.extractor = new HTMLExtractor();
+	public WikiConverter() {
+		this.extractor = new WikiExtractor();
 		this.filehandler = new FileHandlerImpl();
 
 	}
@@ -87,7 +87,7 @@ public class HTMLConverter implements Converter {
 			if (tableElements == null)
 				System.out.println("Oups, smething wrong happened");
 			else {
-				for (Element currentTable : tableElements) {
+				for (Element currentTable : tableElements) { 
 					Elements currentTableTrs = currentTable.select("tr");
 					for (int i = 0; i < currentTableTrs.size(); i++) {
 						Element currentTr = currentTableTrs.get(i);
