@@ -15,6 +15,15 @@ import helper.WikiRunner;
 import interfaces.Extractor;
 import wikipedia.wiki.WikiExtractor;
 
+/**
+ * 
+ * @author Ibrahima HAIDARA
+ * @author Mariam Coulibaly
+ * @author Mahamadou Sylla
+ * @author Abdoul Hamide Ba
+ *
+ */
+
 public class WikiExtractorTest {
 	
 	private Extractor extractor;

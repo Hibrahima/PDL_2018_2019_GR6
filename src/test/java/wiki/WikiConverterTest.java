@@ -17,13 +17,22 @@ import org.junit.jupiter.api.Test;
 
 import helper.Constants;
 import helper.FileHandlerImpl;
-import helper.Statistics;
 import helper.TablePrinter;
 import helper.UrlNotFoundException;
 import helper.WikiRunner;
 import interfaces.FileHandler;
+import interfaces.Statistics;
 import wikipedia.wiki.WikiConverter;
 import wikipedia.wiki.WikiExtractor;
+
+/**
+ * 
+ * @author Ibrahima HAIDARA
+ * @author Mariam Coulibaly
+ * @author Mahamadou Sylla
+ * @author Abdoul Hamide Ba
+ *
+ */
 
 public class WikiConverterTest {
 	
