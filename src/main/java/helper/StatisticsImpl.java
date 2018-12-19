@@ -9,31 +9,29 @@ public class StatisticsImpl implements Statistics {
 	private int extractedTablesNumber;
 
 	public StatisticsImpl(String url, int ignoredTablesNumber, int extractedTablesNumber) {
-		super();
+		Objects.requireNonNull(url, "url should ne be null");
+		Objects.requireNonNull(ignoredTablesNumber, "number of ignored tables should ne be null");
+		Objects.requireNonNull(extractedTablesNumber, "number of extracted tables should ne be null");
 		this.url = url;
 		this.ignoredTablesNumber = ignoredTablesNumber;
 		this.extractedTablesNumber = extractedTablesNumber;
 	}
 	
 	public StatisticsImpl() {
-		// TODO Auto-generated constructor stub
 	}
 
 	@Override
 	public String getUrl() {
-		// TODO Auto-generated method stub
 		return this.url;
 	}
 
 	@Override
 	public int getIgnoredTablesNumber() {
-		// TODO Auto-generated method stub
 		return this.ignoredTablesNumber;
 	}
 
 	@Override
 	public int getExtractedTablesNumber() {
-		// TODO Auto-generated method stub
 		return this.extractedTablesNumber;
 	}
 
