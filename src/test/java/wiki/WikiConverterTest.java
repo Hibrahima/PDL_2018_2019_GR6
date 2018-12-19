@@ -85,7 +85,7 @@ public class WikiConverterTest {
 		TablePrinter printer = new TablePrinter();
         //st.setRightAlign(true);//if true then cell text is right aligned
 		printer.setShowVerticalLines(true); //if false (default) then no vertical lines are shown
-		printer.setHeaders("Url", "Nbr of Igored", "Nbr of Extracted", "Total");//optional - if not used then there will be no header and horizontal lines
+		printer.setHeaders("Url", "Igored", "Extracted", "Total");//optional - if not used then there will be no header and horizontal lines
 		System.out.println("taille de la liste = "+WikiExtractor.statisticsList.size());
 		for(Statistics s : WikiExtractor.statisticsList) {
 			int total = s.getExtractedTablesNumber()+s.getIgnoredTablesNumber();
