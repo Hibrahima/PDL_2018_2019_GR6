@@ -35,7 +35,9 @@ Ce répertoire contient des tableaux émanant  de deux sources différentes :
    mvn -Dtest=WikiConverterTest test </br>
  Pour exécuter le cas de test d'extraction en wiki </br>
    mvn -Dtest=WikiExtractorTest test </br>
- Pour exécuter tous les cas de test </br>
+ 
+
+Pour exécuter tous les cas de test </br>
    mvn test
 
 Assurez-vous d'avoir au moins maven 3.8.0 installé avant de lancer les tests ou configurez la version du compilateur maven dans le fichier pom.xml
