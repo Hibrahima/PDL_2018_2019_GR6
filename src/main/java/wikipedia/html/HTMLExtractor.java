@@ -1,11 +1,15 @@
 package wikipedia.html;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.regex.Pattern;
 import org.jsoup.HttpStatusException;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+
+import helper.Constants;
 import helper.Constrains;
 import helper.Statistics;
 import helper.StatisticsImpl;
@@ -15,6 +19,11 @@ public class HTMLExtractor implements Extractor {
 	private static final String wiki_regex = "^https:\\//[a-z]{2}\\.wikipedia\\.org\\/wiki/.+";
 	public static int ignoredTablesCount = 0;
 	private Statistics statistics;
+	public static Collection<Statistics> statisticsList;
+	
+	public HTMLExtractor() {
+		HTMLExtractor.statisticsList = new ArrayList<>();
+	}
 
 	@Override
 	public boolean isWikipediaUrl(String url) {
@@ -28,16 +37,21 @@ public class HTMLExtractor implements Extractor {
 		if (!isWikipediaUrl(url)) {
 			System.out.println(url + " is not valid");
 		} else {
-			// Document doc = Jsoup.connect(url).get();
 			tableElements = doc.select("table");
+			int initialSize = tableElements.size();
 			tableElements = convertThsToTds(tableElements);
 			tableElements = ignoredElements(url, "div", tableElements);
 			tableElements = ignoredElements(url, "ul", tableElements);
 			tableElements = ignoredClasses(url, tableElements);
-			// tableElements = ignoredElements("img", tableElements);
+			//tableElements = ignoredElements("img", tableElements);
 			tableElements = ignoredElements(url, "p", tableElements);
-			// tableElements = ignoredElements(url, "br", tableElements);
-			tableElements = ignoreTablesWithLessRows(url, tableElements, 3);
+			//tableElements = ignoredElements(url, "br", tableElements);
+			//tableElements = ignoreTablesWithLessRows(url, tableElements, 3);
+			int finalSize = tableElements.size();
+			statistics.setUrl(url);
+			statistics.setIgnoredTablesNumber(initialSize - finalSize );
+			statistics.setExtractedTablesNumber(finalSize);
+			HTMLExtractor.statisticsList.add(statistics);
 
 		}
 		return tableElements;
@@ -50,12 +64,8 @@ public class HTMLExtractor implements Extractor {
 		for (Element currentTable : tableElements) {
 			currentTableClasses = currentTable.className().split(" ");
 			for (String cs : currentTableClasses) {
-				// System.out.println("current class "+cs);
 				if (cs.startsWith(Constrains.INFOBOX.getConstrainName())) {
-					currentTable.clearAttributes();
-					currentTable.addClass("tekhel");
-					ignoredTablesCount++;
-					// System.out.println("-----------------------------infobox caught!");
+					currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 				}
 
 			}
@@ -63,16 +73,14 @@ public class HTMLExtractor implements Extractor {
 					&& currentTable.hasClass(Constrains.COLLAPSBLE.getConstrainName())
 					&& currentTable.hasClass(Constrains.NOPRINT.getConstrainName())
 					&& currentTable.hasClass(Constrains.AUTOCOLLAPSE.getConstrainName())) {
-				currentTable.clearAttributes();
-				currentTable.addClass("tekhel");
-				ignoredTablesCount++;
+				currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 			}
+			
 
 		}
 
-		statistics.setIgnoredTablesNumber(ignoredTablesCount);
-
-		return tableElements.not(".tekhel");
+		
+		return tableElements.not("."+Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 	}
 
 	private Elements convertThsToTds(Elements tableElements) {
@@ -99,33 +107,30 @@ public class HTMLExtractor implements Extractor {
 				Elements currentRowItems = currentRow.select("td");
 				Elements TdInnerTables =  currentRowItems.select("table");
 				if(TdInnerTables.size() > 0) {
-					TdInnerTables.addClass("tekhel");
+					TdInnerTables.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 					currentRow.remove();
 				}
 				
 				for (int j = 0; j < currentRowItems.size(); j++) {
 					currentTdTags = currentRowItems.get(j).select(tag);
-					if (currentRowItems.get(j).hasAttr("rowspan") || currentRowItems.get(j).hasAttr("colspan")
-							|| currentRowItems.get(j).hasClass("mbox-image")) {
-						currentTable.clearAttributes();
-						currentTable.addClass("tekhel");
-						ignoredTablesCount++;
+					if (currentRowItems.get(j).hasAttr(Constants.ROW_SPAN_ATTRIBUTE) 
+							|| currentRowItems.get(j).hasAttr(Constants.COL_SPAN_ATTRIBUTE)
+							|| currentRowItems.get(j).hasClass(Constants.MBOX_IMAGE_CLASS)) {
+						currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE); 
 					}
 
 					if (currentTdTags.size() > 0) {
 						if (tag.equals("p") || tag.equals("br")) {
 							currentRowItems.get(j).remove();
-						} else {
-							currentTable.clearAttributes();
-							currentTable.addClass("tekhel");
-							ignoredTablesCount++;
 						}
+						if(tag.equals("div"))
+							currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 					}
 				}
+				
 			}
 		}
-		statistics.setIgnoredTablesNumber(ignoredTablesCount);
-		return tableElements.not(".tekhel");
+		return tableElements.not("."+Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 	}
 
 	@Override
@@ -133,12 +138,12 @@ public class HTMLExtractor implements Extractor {
 		for (Element currentTable : tableElements) {
 			Elements currentTableRowElements = currentTable.select("tr");
 			if (currentTableRowElements.size() < numberOfRows) {
-				currentTable.clearAttributes();
-				currentTable.addClass("tekhel");
-				ignoredTablesCount++;
+				currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 			}
 
 		}
-		return tableElements.not(".tekhel");
+		return tableElements.not("."+Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 	}
+	
+	
 }
