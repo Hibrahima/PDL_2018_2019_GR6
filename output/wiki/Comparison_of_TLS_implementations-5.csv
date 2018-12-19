@@ -1,0 +1,21 @@
+Implementation,SRP<ref name=srp>RFC 5054</ref>,SRP-DSS<ref name=srp/>,SRP-RSA<ref name=srp/>,PSK-RSA<ref name=psk>RFC 4279</ref>,PSK<ref name=psk/>,DHE-PSK (forward secrecy)<ref name=psk/>,ECDHE-PSK (forward secrecy)<ref name=ecdhepsk>RFC 5489</ref>,KRB5<ref name=Kerberos>RFC 2712</ref>,DH-ANON<ref name=tls/> (insecure),ECDH-ANON<ref name="rfc4492"/> (insecure)
+BearSSL,,,,,,,,,,
+Botan,,,,,,,,,,
+CryptoComply,,,,,,,,,,
+cryptlib,,,,,,,,,,
+GnuTLS,,,,,,,,,,
+JSSE,,,,,,,,,,
+LibreSSL,<ref name="libressl_2.0.4"></ref>,<ref name="libressl_2.0.4"/>,<ref name="libressl_2.0.4"/>,,,,,,,
+MatrixSSL,,,,,,,,,,
+mbed TLS,,,,,,,,,,
+NSS,<ref name="nss_srp"></ref>,<ref name="nss_srp"/>,<ref name="nss_srp"/>,<ref name="nss_psk"></ref>,<ref name="nss_psk"/>,<ref name="nss_psk"/>,<ref name="nss_psk"/>,,<ref></ref>,<ref></ref>
+OpenSSL,,,,,,,,<ref name="OpenSSL-0.9.7"></ref>,<ref name="OpenSSL-1.0.0"></ref>,<ref name="OpenSSL-1.0.0"/>
+RomStl,,,,,,,,,,
+RSA BSAFE Micro Edition Suite,,,,,,,,,,
+RSA BSAFE SSL-J,,,,,<ref></ref>,,,,,
+rustls,,,,,,,,,,
+SChannel,,,,,,,,,,
+Secure Transport,,,,,,,,,,
+wolfSSL,,,,,,,<ref name="wolfssl-3.9.0"></ref>,,,
+Erlang/OTP SSL application,,,,,,,,,,
+Implementation,SRP<ref name=srp/>,SRP-DSS<ref name=srp/>,SRP-RSA<ref name=srp/>,PSK-RSA<ref name=psk/>,PSK<ref name=psk/>,DHE-PSK (forward secrecy)<ref name=psk/>,ECDHE-PSK (forward secrecy)<ref name=ecdhepsk/>,KRB5<ref name=Kerberos/>,DH-ANON<ref name=tls/> (insecure),ECDH-ANON<ref name="rfc4492"/> (insecure)

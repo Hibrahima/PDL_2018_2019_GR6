@@ -1,0 +1,4 @@
+Name,Language,WMS,WFS,GeoRSS,Other
+OpenLayers,JavaScript,,,,support for navigation  icons  markers  and layer selection.
+Leaflet,JavaScript,<ref>http://leafletjs.com/reference.html#tilelayer-wms</ref>,,,support for navigation  icons  markers  layers  GeoJSON
+MapDotNet,JavaScript/HTML5,,,,digitizing  wkt rendering  draggable icons and content  geospatial queries (intersection  overlapping)

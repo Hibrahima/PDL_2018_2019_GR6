@@ -1,0 +1,20 @@
+Implementation,DEFLATE<ref name="tls-comp">RFC 3749</ref> (insecure)
+BearSSL,
+Botan,
+CryptoComply,
+cryptlib,
+GnuTLS,
+JSSE,
+LibreSSL,<ref name="OpenBSD5.6"/>
+MatrixSSL,
+mbed TLS,
+NSS,
+OpenSSL,
+RSA BSAFE<ref name=RSABSAFETECH />,
+RomSTL,
+rustls,
+SChannel,
+Secure Transport,
+wolfSSL,
+Erlang/OTP SSL application,
+Implementation,DEFLATE

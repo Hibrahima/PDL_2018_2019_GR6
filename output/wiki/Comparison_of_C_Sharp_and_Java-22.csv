@@ -1,0 +1,10 @@
+Native interoperability,Java,C#
+Cross-language interoperability,(with GraalVM  Nashorn  CORBA  JNI or JNA)<ref name="cross-plattform" />,; C# was designed for it<ref name="cross-plattform"></ref>
+External/native methods,
+Marshalling,,; metadata controlled
+Pointers and arithmetics,<ref></ref>
+Native types,<ref></ref>
+Fixed-size buffers,
+Explicit stack allocation,
+Address-of,
+Object pinning (fix variable to address),

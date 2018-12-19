@@ -1,0 +1,30 @@
+Name,FAT16  dosfs; FAT32  vfat,NTFS,Ext2,Ext3,XFS,ReiserFS,UFS,UFS2,HFS,HFS+,MINIXfs,BFS,ISO 9660,UDF,NFS,SMBFS,RAM disk  tmpfs,ZFS,Other special file systems
+Linux,,,,,,,,<ref>http://hawking.nonlogic.org/archives/2007/04/06/ufs2_write_support_for_linux</ref>,,,,,,,,,,,9P  FUSE  sysfs  configfs  Reiser4  JFS  Btrfs  UnionFS  Ext4
+FreeBSD,,,,,,,,,,,,,,,,,,,FUSE  nullfs  UnionFS
+NetBSD,,,,,,,,,,,,,,,,,,,PUFFS  LFS  EFS
+OpenBSD,,,,,,,,,,,,,,,,,,,AFS
+DragonFly BSD,,,,,,,,,,,,,,,,,,,HAMMER  nullfs  PUFFS
+OpenSolaris  illumos,,,,,,,,,,,,,,,,,,,SMB (native)  QFS
+AuroraUX,,,,,,,,,,,,,,,,,,,SMB (native)  QFS
+Darwin  OpenDarwin,,,,,,,,,,,,,,,,,,,
+MINIX,,,,,,,,,,,,,,,,,,,
+FreeDOS,,,,,,,,,,,,,,,,,,,
+Genode,,,,,,,,,,,,,,,,,,,Extensible VFS layer
+Haiku,,,,,,,,,,,,,,,,,,,
+KolibriOS,,,,,,,,,,,,,,,,,,,
+MenuetOS,,,,,,,,,,,,,,,,,,,
+GNU,,,,,,,,,,,,,,,,,,,
+ReactOS,,,,,,,,,,,,,,,,,,,
+L4  Fiasco  Pistachio,,,,,,,,,,,,,,,,,,,
+Plan 9,,,,,,,,,,,,,,,,,,,Fossil  Venti  most system services
+AROS,,,,,,,,,,,,,,,,,,,SFS  AFFS
+Syllable,,,,,,,,,,,,,,,,,,,AFS
+Inferno,,,,,,,,,,,,,,,,,,,kfs  most system services
+FreeRTOS,,,,,,,,,,,,,,,,,,,
+eCos,,,,,,,,,,,,,,,,,,,MMFS  ROMfs  JFFS2  YAFFS
+RTEMS,,,,,,,,,,,,,,,,,,,TarFS  TFTP FS  IMFS  miniIMFS
+HelenOS,,,,,,,,,,,,,,,,,,,locfs  exFAT
+E/OS,,,,,,,,,,,,,,,,,,,,V2 OS
+K42
+UnixLite -->
+Name,FAT16  dosfs; FAT32  vfat,NTFS,Ext2,Ext3,XFS,ReiserFS,UFS,UFS2,HFS,HFS+,MINIXfs,BFS,ISO 9660,UDF,NFS,SMBFS,RAM disk  tmpfs,ZFS,Other special file systems

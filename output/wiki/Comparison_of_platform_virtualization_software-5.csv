@@ -1,0 +1,13 @@
+Name,Maximum host cores / CPUs,Maximum host memory,Maximum host disk volume size,Maximum number of guest VM running,Maximum number of logical CPU per VM guest,Maximum amount of memory per VM guest,Maximum number of SCSI + IDE disks per VM guest,Maximum disk size per VM guest
+Containers  or Zones,No theoretical limit (largest SPARC has 384 physical cores),32 TB (largest SPARC),No limit,8191,No limit,No limit,No limit,No limit
+VMware Player 4.0<ref name="vmware7" />,4 cores<ref name="linuxforge" />,No limit,N/A,?,8,8 GB (32-bit); 64 GB (64-bit),?,2 TB
+VMware Server 2.0<ref name="vmware6" />,16 CPUs,No limit,N/A,64,2,8 GB,4 IDE; 60 SCSI,950 GB
+VMware vSphere Hypervisor (ESXi) 4.1<ref name="vmware4" />,160 logical cores,1 TB,2 TB minus 512 bytes,320,8,255 GB,4 IDE; 60 SCSI,2 TB minus 512 bytes
+VMware vSphere ESXi 5.0<ref name="vmware5" />,160 logical cores,2 TB,64 TB,512,32,1 TB,4 IDE; 60 SCSI,2 TB minus 512 bytes
+VMware vSphere Hypervisor (ESXi 5.5) (free)<ref></ref>,16 NUMA Nodes / 320 logical CPUs,4 TB,Depending on filesystem,512,8,1 TB,4 IDE; 60 SCSI,62 TB
+VMware vSphere Hypervisor (ESXi 5.5)<ref name="vmware55" />,16 NUMA Nodes / 320 logical CPUs,4 TB,Depending on filesystem,512,64,1 TB,4 IDE; 60 SCSI,62 TB
+VirtualBox 4.1.x,256 logical cores (Windows version limited to 64)<ref name="virtualbox3" />,No limit,No limit,No limit<ref name="virtualbox2" />,32,1 TB<ref name="theregister" />,4 IDE; no limit for SATA  SCSI  SAS,2 TB<ref>The command-line version allows a virtual disk image of more than 2 TB.</ref>
+Microsoft Hyper-V Server R2<ref name="technet5" />,64 cores / 8 CPUs<ref name="arstechnica" />,1 TB,No limit,384,4,64 GB,4 IDE; 256 SCSI,2 TB
+Microsoft Hyper-V Server 2012<ref name="technet4" />,320 cores / 64 CPUs,4 TB,No limit,1024,64,1 TB,4 IDE; 256 SCSI,64 TB
+Xen<ref name=":0"></ref>,4095 CPUs,16TB,No limit,No limit,512 PV / 128 HVM,512GB PV / 1TB HVM,?,?
+Xen Server<ref name=":0" />,4095 CPUs,16TB,No limit,No limit,512 PV / 128 HVM,512GB PV / 1TB HVM,?,?

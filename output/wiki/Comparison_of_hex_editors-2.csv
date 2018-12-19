@@ -1,0 +1,12 @@
+,Maximum file size,Partial file loading,Disk sector editing,Bit editing,Text editor,Insert/delete bytes,Character encodings(ao),Search Unicode,File structure view,Disassembler,File compare,Find in files,Bookmarks,Macro,Data inspector
+beye,8 PiB,,,,,,ANSI  EBCDIC  ASCII  Macintosh,,,data-sort-value="Yes",,,
+bvi,Unlimited,,,,,,ANSI  ASCII,,,,,and replace,
+Emacs,,,,,,,,,,,,,,,
+FlexHex,Unlimited,,,,,,ANSI  OEM  UTF-16,,,,,,,,
+Frhed,Limited by RAM,,(read only),,,,ANSI  OEM,,,,,,
+Hiew,Unlimited,,,,,,ASCII OEM  Unicode Custom,,,data-sort-value="Yes",,,,
+HxD,Unlimited<ref name="hxd_features">HxD features</ref>,,,,,,ANSI  ASCII  OEM  EBCDIC  Macintosh,,,,,,,,
+VEDIT,Standard  2 GiB  Pro 64  unlimited,,data-sort-value="Partial",,,,ANSI  OEM  EBCDIC  ASCII  custom,,,,,,,
+UltraEdit,>4 GiB,,,,,,ANSI  OEM  EBCDIC  ASCII  Mac  Unix  UTF-8,,,,,,
+WinHex,Unlimited,,,,,,support of these formats: ANSI  UNICODE  OEM  UTF-8/UTF-16  EBCDIC  ASCII,,,,,data-sort-value="Yes" and replace,,<ref name="Winhex_macro">WinHex: Scripting</ref>,
+,Maximum file size,Partial file loading,Disk sector editing,Bit editing,Text editor,Insert/delete bytes,Character encodings(ao),Search Unicode,File structure view,Disassembler,File compare,Find in files,Bookmarks,Macro,Data inspector

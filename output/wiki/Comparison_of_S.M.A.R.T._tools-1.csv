@@ -1,0 +1,11 @@
+Name,Operating system,License,User interface,Fixed drives,USB  eSATA and<br />removable drives,RAID support}},Shows S.M.A.R.T. attributes,Hard drive<br />self-testing,Notification,Notes
+AIDA64,Windows,<ref></ref>,GUI,,,,,,Monitoring only available in the Business Edition<ref>Features | AIDA64 Business Edition | Network Audit | Remote Control . Aida64.com. Retrieved on 2013-09-27.</ref>,
+Argus Monitor,Windows,<ref></ref>,GUI,,,,,,By window  sound  email  program execution at choosable parameter changes  threshold,Also shows temperature of CPU  GPU  CPU core speed  Intel Turbo Boost status  CPU power consumption  system load and system fan speeds. Can control speed of GPU and system fans.
+Defraggler,Windows,,GUI,,,,,,,Primarily a defragmenter; supports basic S.M.A.R.T. stat display  includes the one-word summary of drive-health.
+Disk Utility,macOS,,GUI,,,,,,,Summary information includes one line for S.M.A.R.T.<ref>Disk Utility 12.x: See detailed information about a disk. support.apple.com. Retrieved on 2014--02-09.</ref>
+GNOME Disks,Linux,,GUI,,,,,,GNOME pop-up notification,LiveCDs are available for download  allowing the user to use GNOME Disks without any changes to the computer.
+smartmontools<ref></ref>,Windows  Unix-like (Linux  macOS  BSD  etc.),,CLI and GUI (via GSmartControl and HDD Guardian),,,<ref>Supported_RAID-Controllers – smartmontools. Sourceforge.net (2011-04-20). Retrieved on 2013-09-27.</ref>,,,window  sound  email  program execution at choosable parameter changes  threshold,LiveCDs are available for download  allowing the user to use smartmontools without any changes to the computer.
+Speccy,Windows,,GUI,,<ref>https://forum.piriform.com/topic/48694-speccy-fails-to-read-smart-data-on-usb-connected-hdds/?tab=comments#comment-290331</ref>,,,,,
+SpeedFan,Windows,,GUI,,,,,,Window  sound  e-mail  running a command; at parameter changes  threshold  temperature,Estimate health and performance by percentage  and offers online drive analysis (and compares from other users).
+SpinRite,DOS  FreeDOS,,GUI,,,,<ref>"SATA Operation with SpinRite"  Gibson Research Corporation  accessed March 4  2011.</ref>,,,
+Name,Operating system,License  price,User interface,Fixed drives,USB  eSATA and<br />removable drives,RAID support,Shows S.M.A.R.T. attributes,Hard drive<br />self-testing,Notification,Notes

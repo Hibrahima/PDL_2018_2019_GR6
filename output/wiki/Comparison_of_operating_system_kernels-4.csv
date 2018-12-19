@@ -1,0 +1,8 @@
+Kernel Name,Container (no resource management  no security),Container (no resource management),Container (resource management),Paravirtualization,Full virtualization,User-space execution,Kernel as Library,Kernel as Kernel Driver,Hypervisor-Enforced Kernel Partitioning
+Linux,,colspan="2",,,,,,
+DragonFly BSD kernel,,colspan="2",,,,{{?}},{{?}},
+FreeBSD kernel,,colspan="2",,,,{{?}},{{?}},
+NetBSD kernel,,,,,,,,{{?}},
+Solaris kernel,,colspan="2",,,,{{?}},{{?}},
+Windows NT kernel,colspan="3",colspan="2",colspan="2",,<ref></ref>
+XNU,,,,,,,{{?}},{{?}},

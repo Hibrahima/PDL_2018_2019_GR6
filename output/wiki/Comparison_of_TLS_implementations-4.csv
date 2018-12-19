@@ -1,0 +1,26 @@
+Implementation,RSA<ref name=tls>RFC 5246</ref>,RSA-EXPORT (insecure)<ref name=tls/>,DHE-RSA (forward secrecy)<ref name=tls/>,DHE-DSS (forward secrecy)<ref name=tls/>,ECDH-ECDSA<ref name="rfc4492">RFC 4492</ref>,ECDHE-ECDSA (forward secrecy)<ref name="rfc4492"/>,ECDH-RSA<ref name="rfc4492"/>,ECDHE-RSA (forward secrecy)<ref name="rfc4492"/>,GOST R 34.10-94  34.10-2001<ref name=gostlink>[//tools.ietf.org/html/draft-chudov-cryptopro-cptls-04 draft-chudov-cryptopro-cptls-04 - GOST 28147-89 Cipher Suites for Transport Layer Security (TLS)]</ref>
+BearSSL,,,,,,,,,
+Botan,,,,,,,,,
+CryptoComply,,,,,,,,,
+cryptlib,,,,,,,,,
+GnuTLS,,,,<ref name="GnuTLS-3.4.0"/>,,,,,
+JSSE,,,,,,,,,<ref name="GOST-extensions-JSSE">Extensions to support JSSE in SChannel might be available.</ref>
+LibreSSL,,<ref name="OpenBSD5.6"/>,,,,,,,<ref name="libressl-2.1.2"></ref>
+MatrixSSL,,,,,,,,,
+mbed TLS,,,,,,,,,
+NSS,,,<ref name="nss-3.20"></ref>,,,,,,<ref name=mozilla_bug518787></ref><ref name=mozilla_bug608725></ref>
+OpenSSL,,<ref name="openssl-1.1.0-note"/>,,<ref name="openssl-1.1.0-note"/>,,,,,<ref name="OpenSSL-GOST">openssl/engines/ccgost/README.gost</ref>
+RomStl,,,,,,,,,
+RSA BSAFE,,,,,,,,,
+rustls,,,,,,,,,
+SChannel XP/2003,,,,,,,,,<ref name="GOST-extensions-SChannel">Extensions to support GOST in SChannel might be available.</ref>
+SChannel Vista/2008,,,,<ref name="MSA 3174644">https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2016/3174644</ref>,,,,,<ref name="GOST-extensions-SChannel"/>
+SChannel 8/2012,,,<ref name="ms14-066"></ref><ref name="20141111msblog"></ref><ref name="win8.1aesgcm">Update adds new TLS cipher suites and changes cipher suite priorities in Windows 8.1 and Windows Server 2012 R2</ref>,<ref name="MSA 3174644">https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2016/3174644</ref>,,,,,<ref name="GOST-extensions-SChannel"/>
+SChannel 7/2008R2  8.1/2012R2,,,,<ref name="MSA 3174644">https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2016/3174644</ref>,,,,,<ref name="GOST-extensions-SChannel"/>
+SChannel 10,,,,<ref name="MSA 3174644">https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2016/3174644</ref>,,,,,<ref name="GOST-extensions-SChannel"/>
+Secure Transport OS X 10.6,,,,,,,,,
+Secure Transport OS X 10.8-10.10,,,,,,,,,
+Secure Transport OS X 10.11,,,,,,,,,
+wolfSSL,,,,,,,,,
+Erlang/OTP SSL application,,,,,,,,,
+Implementation,RSA<ref name=tls/>,RSA-EXPORT (insecure)<ref name=tls/>,DHE-RSA (forward secrecy)<ref name=tls/>,DHE-DSS (forward secrecy)<ref name=tls/>,ECDH-ECDSA<ref name="rfc4492"/>,ECDHE-ECDSA (forward secrecy)<ref name="rfc4492"/>,ECDH-RSA<ref name="rfc4492"/>,ECDHE-RSA (forward secrecy)<ref name="rfc4492"/>,GOST R 34.10-94  34.10-2001<ref name=gostlink/>

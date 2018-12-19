@@ -1,0 +1,24 @@
++ Properties of TeX editors 3,,Collapsible sections,Find and replace using RegEx,Intelligent error handling,Autocompletion of LaTeX commands,Parenthesis matching,Starts up to previous state<ref group=Note>Starts up to previous state including the current editing point.</ref>,Unicode support,RTL Support<ref group=Note>RTL support means Right to Left language support.</ref>,
+AUCTeX,,,,,,<ref group=Note>configurable as an option of the Emacs editor</ref>,,,AUCTeX
+Authorea,,,,,,,,?,Authorea
+Auto-Latex Equations for Google Docs,,,,,,,,?,Auto-Latex Equations for Google Docs
+CoCalc,,,,,,,,?,CoCalc
+Gummi,,,,,,,,?,Gummi
+Kile,Yes<ref group=Note>With usual \section{} notation  Kile collapses equations and figures  but not sections. Collapsing of sections is possible with non-standard notation \begin{section}{}...\end{section}{}  but it eliminates sections from Structure View. An alternative possibility is bracketing sections with comments %BEGIN and %END.</ref>}},,,,,,,,Kile
+GNOME-LaTeX,Planned,,,,,,,,GNOME-LaTeX
+LEd,,,?,,,(just same files),,?,LEd
+LyX,,,,,,,,,LyX
+MeWa,,,,,,,,?,MeWa
+Notepad++,,,,<ref group=Note>This will have to be set up manually.</ref>,,,,,Notepad++
+Scientific WorkPlace,,?,?,,,,,?,Scientific WorkPlace
+ShareLaTeX,,,,,,,,?,ShareLaTeX
+TeXmacs,,,,,,,,?,TeXmacs
+Texmaker,,,,,,,,,Texmaker
+TeXnicCenter,,,,,,,,?,TeXnicCenter
+TeXShop,,,,,,,,?,TeXShop
+TeXstudio,,,,,,,,,TeXstudio
+TeXworks,,<ref group=Note>Provides a subset of the regular expression syntax implemented in the Perl scripting language  but fully supports Unicode (  [http://code.google.com/p/texworks/issues/detail?id=194 Issue 194: Add advanced regexp options to Find/Replace] )</ref>,,<ref group=Note>Template file in resource directory (  Documentation of the code completion feature )</ref>,,,,,TeXworks
+Verbosus,,,,,,,,?,Verbosus
+WinEdt,,(modified),,,,,,,WinEdt
+WinShell,,,,,,(just same files),,?,WinShell
+,Collapsible sections,Find and replace using RegEx,Intelligent error handling,Autocompletion of LaTeX commands,Parenthesis matching,Starts up to previous state<ref group=Note>Starts up to previous state including the current editing point.</ref>,Unicode support,RTL Support<ref group=Note>RTL support means Right to Left language support.</ref>,

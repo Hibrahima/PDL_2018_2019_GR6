@@ -1,0 +1,16 @@
+Client name,Development status,Open source client,End-to-end authentication<ref group=lower-alpha name="end-to-end-authentication">End-to-end authentication protects communications from man-in-the-middle attacks by the service provider.</ref>,Encryption protocols,Forward secrecy,Multiple encryption,Encrypted group calling,Proxy  Tor
+ZRTP,ECDH,DTLS,SRTP
+FaceTime,,<ref name="EFF"/>,<ref name="EFF"/>,,,,,<ref name="EFF"/>,,,
+Google Duo,,,,,,,,,,,
+Jitsi<ref group=lower-alpha name="sip-encryption">Only if the user has registered with a compatible SIP provider. Some SIP providers do not support certain encryption protocols.</ref>,,,<ref name="EFF"/>,,,,,<ref name="EFF"/>,,,
+Line<ref name="Line-2016-08-10"></ref><ref name="Shin-2016-08-11"></ref>,,,,,,,,,,<ref name="Line-2016-08-10"/>,
+Linphone<ref group=lower-alpha name="sip-encryption"/>,,,,,,,,,,,
+PGPfone,,<ref></ref>,,,,,,,,,
+Signal,,,<ref name="EFF"/>,,,,,<ref name="EFF"/>,,,<ref></ref>
+Silent Phone,,<ref></ref>,<ref name="EFF"/>,,,,,<ref name="EFF"></ref>,,,
+Telegram,,,<ref></ref>,,,,,,,,
+Threema,,<ref group=lower-alpha name="encryption-open" /><ref></ref>,<ref name="threema-whitepaper"></ref>,,<ref name="threema-whitepaper" />,<ref name="threema-whitepaper" />,<ref name="threema-whitepaper" />,<ref group="lower-alpha" name="threema-forward-secrecy">Only on the network connection  not on the end-to-end layer.</ref><ref name="threema-whitepaper" />,,,
+Viber<ref name="Lunden-19-April-2016"></ref>,,,,,,,,,,,
+WhatsApp,,<ref group=lower-alpha name="encryption-open">Only the encryption related source code is open.</ref><ref name="whatsapp-ows" />,<ref name="whatsapp-ows"></ref>,,<ref name="whatsapp-ows"/>,,<ref name="whatsapp-ows"/>,<ref name="whatsapp-ows"/>,<ref name="whatsapp-ows"/>,,
+Wire,,,<ref></ref>,,,<ref name="Wire Security Whitepaper"></ref>,<ref name="Wire Security Whitepaper"/>,,,,
+Zfone,,<ref></ref>,,,<ref></ref>,,<ref></ref>,,,,

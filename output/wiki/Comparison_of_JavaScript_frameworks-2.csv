@@ -1,0 +1,30 @@
+,AngularJS,Dojo,Ember.js,Enyo,Ext JS,Google Web Toolkit,jQuery,jQWidgets,MooTools,OpenUI5,Prototype & script. aculo.us<ref name="addon" />,qooxdoo,SmartClient and SmartGWT,SproutCore,Wakanda,ZK,Webix
+Feature detection<ref>Feature detection is preferred by many to browser sniffing to support future browsers: Browser Detecting (and what to do Instead)  Feature Detection: State of the Art Browser Scripting  Browser Feature Detection</ref>,,<ref></ref>,,,<ref></ref>,<ref></ref><ref></ref>,<ref></ref>,,<ref></ref>,,<ref>Feature detection all the way </ref>,,<ref>Author disagrees that feature detection alone is sufficient</ref>,,Partial,bot=InternetArchiveBot |fix-attempted=yes }} https://www.paolodellaguzzo.com/blog/</ref>,
+DOM wrapped<ref name="kangax"></ref>,,,,,,,,,<ref></ref>,,<ref></ref><ref></ref>,,,,,,
+XMLHttpRequest data retrieval,,<ref name="AJAX and Dojo">AJAX and Dojo </ref>,,,,,,<ref name="jqxDataAdapter"></ref>,<ref name="MooTools Request"></ref>,,,,,,,,
+WebSocket,,<ref name="AJAX and Dojo"/>,,,,,,,<ref name="MooTools Request"/>,<ref></ref>,,,,,,,<ref></ref>
+Server push data retrieval,,<ref name="cometd.org"></ref>,,,<ref></ref>,<ref></ref>,<ref name="cometd.org"/>,,,,,,<ref></ref>,,,<ref></ref>,
+Other data retrieval,,<ref></ref>,,,,,,<ref name="jqxDataAdapter" />,,,,,,,,,
+Drag and drop,,<ref></ref>,,,,<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,,,,,,,<ref></ref>
+Simple visual effects,,<ref></ref>,,,,,,,<ref></ref>,,,,,<ref name="showcase.sproutcore.com"></ref>,,,
+Animation / <br /> advanced visual effects,,<ref></ref>,,<ref></ref>,,,,,<ref></ref>,,,,,<ref name="showcase.sproutcore.com"/>,,,<ref></ref>
+Back button support / <br /> history management,,<ref></ref>,,<ref></ref>,<ref>Since v2.2</ref>,,<ref></ref>,,<ref></ref>,,,,,,,,
+Input form widgets & validation,,<ref></ref>,,,,, Validation requires plugin<ref></ref>,<ref></ref>,<ref></ref>,,,,,,,,,<ref></ref><ref></ref>
+,AngularJS,Dojo,Ember.js,Enyo,ExtJS,Google Web Toolkit,jQuery,jQWidgets,MooTools,OpenUI5,Prototype & script. aculo.us<ref name="addon" />,qooxdoo,SmartClient and SmartGWT,SproutCore,Wakanda,ZK,Webix
+Grid,,<ref></ref>,,,,,<ref></ref>,<ref></ref>,<ref> or or </ref>,,,,,,<ref></ref>,,<ref></ref>
+Hierarchical Tree,,<ref></ref>,,<ref></ref>,<ref></ref>,,<ref>  </ref>,<ref></ref>,<ref></ref>,,,<ref>Demo browser</ref>,,,(Auto Form)<ref></ref>,,<ref></ref>
+Rich text editor,,<ref></ref>,,,<ref></ref>,,<ref>markitup  jwysiwyg  htmlbox   WYMeditor </ref>,<ref name="jqxEditor"></ref>,<ref></ref>,,,,,,<ref></ref>,,<ref></ref>
+Autocompletion tools,,<ref></ref>,,,,,<ref></ref>,<ref></ref>,<ref></ref>,,,,,,<ref></ref>,,
+HTML generation tools,,<ref>As of Dojo 1.3  the NodeList.addContent() api can be used to create content for example: dojo.query(".note").addContent("h4 NOTE: h4"  "before");</ref>,,,,,,<ref name="jqxEditor" />,<ref>MooTools Elements </ref>,,,,,,,,
+Widgets themeable / skinnable,,<ref></ref>,,,<ref></ref>,<ref></ref>,<ref></ref>,,,,,,,,,,
+GUI resizable panels and modal dialogs,,,,,,,,<ref></ref>,<ref name="mochaJxlib">Using MochaUI Library or JxLib</ref>,,,,,,<ref></ref>,<ref name="zkoss.org"></ref>,
+GUI page layout,,,,,,,<ref></ref>,<ref></ref><ref></ref>,<ref name="mochaJxlib" />,,,,,,<ref></ref>,<ref name="zkoss.org"/>,<ref></ref>
+Canvas support,,<ref>dojo.gfx </ref>,,,,,<ref></ref>,<ref name="jqxDraw"></ref>,<ref></ref>,,,,,,<ref></ref>,<ref name="zkoss1"></ref>,
+Mobile/tablet support (touch events),,<ref></ref>,,,,<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,,,,,,<ref></ref><ref></ref>,<ref></ref>,<ref>https://webix.com/touch/ Webix mobile/tablet support</ref>
+Accessibility / <br /> graceful degradation<ref>All JavaScript frameworks can be written in an accessible way with graceful degradation  frameworks seen here which imply out-of-the-box accessibility have made a special effort to document best practices for their particular framework.</ref>,,<ref name="docs.dojocampus.org"></ref>,,,<ref name="docs.sencha.com"></ref>,<ref></ref>,,<ref name="jQWidgetsAccessibility"></ref>,,,,<ref>Qooxdoo's "Extreme JavaScript" paradigm </ref>,,,,,<ref></ref>
+ARIA compliant,,<ref name="docs.dojocampus.org"/>,,,<ref name="docs.sencha.com"/>,,<ref></ref>,<ref name="jQWidgetsAccessibility" />,,,,,,,,,<ref></ref>
+Developer tools  Visual design,,<ref>Wavemaker</ref><ref>Aptana Studio</ref>,,<ref></ref>,<ref></ref><ref></ref><ref></ref>,,<ref></ref><ref></ref>,<ref name="jQWidgetsThemeBuilder"></ref><ref></ref><ref></ref>,<ref></ref><ref></ref>,,,<ref>Custom build  JS Linker  API generation  Unit test framework  etc. </ref>,,,<ref></ref>,,<ref></ref><ref></ref>
+Offline storage<ref>JavaScript frameworks currently only have the ability to support offline storage by taking advantage of pre-installed browser extensions such as Google Gears. If a user does not have one of these supported extensions installed in their browser already then offline support will be unavailable to the framework. JavaScript framework developers interested in implementing Gears may want to start with the Gears Getting Started Guide.</ref>,,<ref>o.DojoToolkit.Org/offline says "Dojo Offline is no longer supported after Dojo 1.3"</ref>,,,<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,,,,,,,planned,,
+Cross-browser 2d Vector Graphics<ref>Some JavaScript libraries provide 2d graphics primitives that can be used for cross-browser vector graphics. These libraries rely on underlying technologies in the browser or plugins such as Canvas  SVG  VML  Flash  and Silverlight to do the actual rendering  but help isolate application and widget code from the rendering engine API differences</ref>,,<ref></ref>,,,,,<ref>jQuery SVG plugin</ref>,<ref name="jqxDraw" />,<ref></ref>,,,,,],(via Raphael),<ref name="zkoss1"/>,(via Raphael)<ref></ref>
+Charting & Dashboard<ref>Some JavaScript libraries include widgets for Charts  Gauges  and other data visualizations.</ref>,,<ref></ref>,,,<ref>Chart API</ref>,,<ref></ref><ref>jQuery Visualize Plugin </ref>,<ref></ref><ref></ref>,,,,,,,<ref></ref>,<ref></ref>,<ref></ref>
+RTL Support in UI Components,,,,,,,,<ref name="jQWidgetsAccessibility" />,,,,,,,,,

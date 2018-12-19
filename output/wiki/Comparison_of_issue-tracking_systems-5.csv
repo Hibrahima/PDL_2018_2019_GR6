@@ -1,0 +1,38 @@
+System,Git,Mercurial,Bazaar,Monotone,Darcs,CVS,Subversion,Perforce,AccuRev,ClearCase,Others
+Apache Bloodhound,,,,,,,,<ref name="PerforcePlugin">via the PerforcePlugin</ref>,,,
+Assembla Tickets,,,,,,,,,,,
+Axosoft,,<ref>via the Mercurial SCM Plug-In For Axosoft</ref>,,,,,,,,,VSS  Vault Sourcegear
+Bugzilla,<ref></ref>,<ref></ref>,,,,,,,,,
+Debbugs,,,,,,,,,,,
+Faveo Helpdesk,,,,,,,,,,,
+FogBugz,,,,,,,,,,,<ref>Visual SourceSafe  Vault</ref>
+Fossil,,,,,,,,,,,<ref>Fossil</ref>
+FusionForge,,,,,,,,,,,
+GNATS,,,,,,,,,,,
+HP Application Lifecycle Management,,,,,,,,<ref name="perforce1"></ref>,,,
+IBM Rational ClearQuest,,,,,,,,<ref></ref>,,,
+Jira,,,,,,,,,<ref>No diff  just virtual version numbers.</ref>,<ref>There is an unsupported plugin for associating issues with ClearCase check-ins for an outdated version of JIRA. ClearCase support through Atlassian FishEye has been removed in all versions since April 2012. End of Support Announcement for IBM ClearCase</ref>,<ref>Commit Policy Plugin integrates JIRA with Bitbucket Server (formerly known as Atlassian Stash)  in addition to Subversion  Git and Mercurial.</ref>
+Liberum Help Desk,,,,,,,,,,,
+MantisBT,,<ref>via the SourceHgWeb plugin</ref>,,,,,,,,,
+Microsoft Dynamics CRM,,,,,,,,,,,
+org-mode,,,,,,,,,,,
+OTRS,,,,,,,,,,,
+Phabricator,,,,,,,,,,,
+Pivotal Tracker,,,,,,,,,,,
+Redmine,,,,,,,,<ref name="perforce1"/>,,,
+Request Tracker,,,,,,,,,,,
+Roundup,,,,,,,,,,,
+StarTeam,,,,,,,,,,,- StarTeam includes revision control
+Supportworks,,,,,,,,,,,
+SysAid,,,,,,,,,,,
+Team Foundation Server,<ref>newly supported</ref>,,<ref>via the bzr-tfs plugin</ref>,,,,<ref>via the SVNBridge</ref>,,,,- TFS includes revision control
+TestTrack,,,,,,,,,,,- Surround SCM  VSS
+The Bug Genie,,,,,,,,,,,
+Trac,,,,,,,,<ref name="PerforcePlugin"/>,,,
+TrackerSuite.Net,,,,,,,,,,,
+Tuleap,,,,,,,,,,,
+Twproject,,,,,,,,,,,
+Usersnap,,,,,,,,,,,
+Wrike,,,,,,,,,,,
+YouTrack,<ref name="viaTeamCity">Via TeamCity integration</ref>,<ref name=viaTeamCity/>,,,,<ref name=viaTeamCity/>,<ref name=viaTeamCity/>,<ref name=viaTeamCity/>,,<ref name=viaTeamCity/>,<ref name=viaTeamCity/><ref>Visual SourceSafe  Team Foundation Server  Borland StarTeam</ref>
+System,Git,Mercurial,Bazaar,Monotone,Darcs,CVS,Subversion,Perforce,AccuRev,ClearCase,Others

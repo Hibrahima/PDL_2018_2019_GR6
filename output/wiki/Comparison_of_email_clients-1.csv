@@ -1,0 +1,58 @@
+Client,Author/Developer,Operating system,Software license,User Interface
+Alpine,University of Washington,Cross-platform,,TUI
+Balsa,Stuart Parmenter,Linux,,GUI (GTK+)
+Becky! Internet Mail,Rimarts,Windows,,GUI
+BlitzMail,Dartmouth College,,,GUI
+Citadel,citadel.org,Unix-like,,Webmail
+Claws Mail,the Claws Mail team,Cross-platform,,GUI (GTK+)
+Cone,Courier Mail Server developers,Unix-like,,TUI
+Courier (formerly Calypso),Micro Computer Systems  Inc.  continued by Rose City Software,Windows,,GUI
+Elm,Dave D. Taylor  Sydney Weinstein  Bill Pemberton  Michael Elkins  Kari Hurtta,Unix-like,,TUI
+eM Client,eM Client Inc.,Windows,,GUI
+EmailTray,Internet Promotion Agency S.A.,Windows  Android,,GUI
+Eudora OSE,Qualcomm,Windows  macOS,,GUI
+Eureka Email,Sean O'Connor,Windows,,GUI
+Evolution,The GNOME Project,Unix-like,,GUI (GTK+)
+FirstClass,Open Text,,,GUI
+Forté Agent,Mark Sidell,Windows,,GUI
+Geary,Yorba Foundation,Unix-like,,GUI (GTK+)
+GNUMail,Ludovic Marcotte and others,Unix-like  macOS,,GUI
+Gnus,Gnus team,Cross-platform,,TUI and GUI
+GroupWise,Micro Focus (formerly Novell),Cross-platform,,GUI
+Hiri,Hiri,Cross-platform,,GUI
+i.Scribe  InScribe,Memecode,Windows  macOS  Linux,,GUI
+IBM Notes (formerly IBM Lotus Notes),IBM Collaboration Solutions (formerly Lotus Software)  IBM,Windows  macOS  Linux,,GUI (Notes)  Web (iNotes) and Mobile (Traveler)
+IMP,Horde LLC,Cross-platform,,Webmail
+KMail,KDE,Cross-platform,,GUI (Qt)
+Mailbird,Mailbird,Windows,,GUI
+Mailpile,Mailpile,Linux  Windows  macOS,,Webmail
+mailx,,Unix-like,,TUI
+Microsoft Entourage,Microsoft,macOS,,GUI
+Microsoft Outlook,Microsoft,Windows  macOS,,GUI
+Mozilla Mail & Newsgroups,Mozilla Foundation,,,GUI (XUL)
+Mozilla Thunderbird,Mozilla Foundation,Cross-platform,,GUI (XUL)
+Mulberry,Cyrus Daboo (formerly Cyrusoft International  Inc./ISAMET),Cross-platform,,GUI
+Mutt,Michael Elkins,Cross-platform,,TUI (ncurses)
+Netscape Messenger,Netscape Communications,,?,GUI
+Netscape Messenger 9,Netscape Communications,,,GUI
+Nylas Mail,Nylas,macOS  Linux  Windows,,GUI
+nmh / MH,RAND Corporation,Unix-like,,CLI
+Opera Mail,Opera Software,Cross-platform,,GUI
+Outlook Express,Microsoft,Windows,,GUI
+Pegasus Mail,David Harris,Windows,,GUI
+Pine,University of Washington,Cross-platform,,TUI
+Pocomail,Poco Systems,Windows,,GUI
+RoundCube,The RoundCube Team,Cross-platform,,Webmail
+SeaMonkey Mail & Newsgroups,SeaMonkey Council,Cross-platform,,GUI (XUL)
+Spark,Readdle,macOS,,GUI
+Spicebird,Synovel,Windows  Linux  BSD,,GUI (XUL)
+SquirrelMail,The SquirrelMail Project Team,Cross-platform,,Webmail
+Sylpheed,Hiroyuki Yamamoto,Cross-platform,,GUI (GTK+)
+The Bat!,RitLabs,Windows,,GUI
+Trojitá,KDE,Cross-platform,,GUI (Qt)
+Turnpike,Thus PLC (Demon Internet),Windows,,GUI
+Windows Live Mail,Microsoft,Windows,,GUI
+Windows Mail,Microsoft,Windows,,GUI
+YAM,YAM Open Source Team and contributing authors,AmigaOS,,GUI
+Zimbra Desktop,Zimbra,Cross-platform,,GUI
+Client,Author/Developer,Operating system,Software license,User interface

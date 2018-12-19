@@ -1,0 +1,60 @@
+Name,Whole disk,Partition,File,Swap space,Hibernation file
+Aloaha Secure Stick,,,,,
+ArchiCrypt Live,<br />(except for the boot volume),,,,
+BestCrypt,,,,,<ref></ref>
+BitArmor DataControl,,,,,
+BitLocker,<br />(except for the boot volume),,<ref>Within a VHD http://www.howtogeek.com/193013/how-to-create-an-encrypted-container-file-with-bitlocker-on-windows/</ref>,<br />(parent volume is encrypted),<br />(parent volume is encrypted)
+Bloombase Keyparc,,,,,
+CenterTools DriveLock,,,,,
+CGD,,,<ref name=cgd-paper/>,,
+Check Point Full Disk Encryption,,,,,
+CipherShed,,,,,
+CrossCrypt,,,,,
+CryFS,,,,,
+CryptArchiver,,,,,
+Cryhod,,,,,<br />(parent volume is encrypted)
+Cryptoloop,,,,,
+Cryptomill,,,,,
+CryptoPro Secure Disk Enterprise,,,<br />(add-on Secure Device),,
+CryptoPro Secure Disk for BitLocker,,,,,
+DiskCryptor,,,,,
+Disk Protect,,,,,
+Dm-crypt / LUKS,,,<ref>dm-crypt can encrypt a file-based volume when used with the losetup utility included with all major Linux distributions</ref>,,<ref>yes  but the user needs custom scripts: http://www.linuxquestions.org/questions/slackware-14/luks-encryption-swap-and-hibernate-627958/</ref>
+DriveCrypt,,<ref name=drivecrypt/>,<ref name=drivecrypt/>,,
+DriveSentry GoAnywhere 2,,,,,
+E4M,,,,,
+e-Capsule Private Safe,,,<ref>Uses proprietary e-Capsule file system not exposed to the OS.</ref>,,
+eCryptfs,,,,,
+EgoSecure HDD Encryption,,,,,
+FileVault,,,<ref name=nsa-vilefault/>,<ref name=not-technically-filevault>not technically part of FileVault  but provided by many versions of Mac OS X; can be enabled independently of FileVault</ref><ref name=nsa-vilefault/>,<ref name=not-technically-filevault /><ref>http://macmarshal.com/images/Documents/mm_wp_102.pdf</ref>
+FileVault 2,<ref name=mac-filevault></ref>,<ref name=ars-filevault />,,,
+FinalCrypt,,,,,
+FREE CompuSec,,,,,
+FreeOTFE,<br />(except for the boot volume),,,,
+GBDE,,,<ref name=mdconfig>File-based volume encryption is possible when used with mdconfig(8) utility.</ref>,,
+GELI,,,<ref name=mdconfig/>,,
+Loop-AES,,<ref name=loop-aes/>,<ref name=loop-aes/>,<ref name=loop-aes/>,<ref name=loop-aes/>
+McAfee Drive Encryption (SafeBoot),,,,,<ref name=ControlBreak></ref>
+n-Crypt Pro,,,,,
+PGPDisk,,,,,
+Private Disk,,,,,
+ProxyCrypt,,,,,
+R-Crypto,,,,,
+SafeGuard Easy,,,,,
+SafeGuard Enterprise,,,,,
+SafeGuard PrivateDisk,,,,,
+SafeHouse Professional,,,,,
+Scramdisk,,,,,
+Scramdisk 4 Linux,,,,,
+SecuBox,,,,,
+SecureDoc,<ref name=sdoc-faq />,,,,
+Sentry 2020,,,,,
+Softraid / RAID C,,,,(encrypted by default in OpenBSD)<ref>http://www.openbsd.org/plus38.html OpenBSD 3.8 change notes</ref>,
+Svnd / Vnconfig,,,,(encrypted by default in OpenBSD),
+SpyProof!,,,,,
+Symantec Endpoint Encryption,,,,,
+Trend Micro Endpoint Encryption,,,,,
+TrueCrypt,<ref>however  not Windows UEFI-based computers with a GUID partition table (GPT)</ref>,,,,<ref name="ReferenceA"/>
+VeraCrypt,,,,,<ref name="ReferenceA"/>
+CyberSafe Top Secret,,,,,
+Name,Whole disk,Partition,File,Swap space,Hibernation file

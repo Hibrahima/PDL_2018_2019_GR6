@@ -1,0 +1,19 @@
+Object orientation,Java,C#
+Classes,
+Interfaces,
+Abstract classes,
+Member accessibility levels,
+Class-level inner classes,;<kbd>static</kbd> inner classes are class level,; all inner classes are class level
+Instance-level inner classes,
+Statement-level (local) anonymous classes,
+Partial classes,; Third-party library<ref>Extension created for the Java programming language</ref>
+Implicit (inferred) anonymous classes,,<ref></ref>
+Deprecation/obsolescence,
+Overload versioning,
+Enums can implement interfaces,
+Properties,, but see JavaBeans spec
+Events,
+Operator overloading,
+Indexers,
+Implicit conversions,; but see autoboxing
+Explicit conversions,

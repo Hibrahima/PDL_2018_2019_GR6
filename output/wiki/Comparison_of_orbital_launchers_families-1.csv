@@ -1,0 +1,80 @@
+Family,Country,,Payload (kg),Cost (US$  millions),Launches reaching…,Status,Date of flight,Refs,Notes
+LEO,GTO,TLI,Total,Space,Any orbit,Target orbit,First,Last
+Angara 1.2,,Khrunichev,,--,--,,,1,--,--,Active,2014,--,<ref name="khrunichev"></ref><ref name="MARKET-SMALL-SATELLITE">The market for launching small satellite in Russia... </ref><ref name="angara1ml"></ref>,As of 2017  only launch was suborbital<ref>Peter B. de Selding  "Russia's Angara 1.2 Rocket Succeeds in Inaugural Flight  Khrunichev Says"  Space News  Jul. 9  2014 (accessed 22 Sept 2014)</ref>
+Angara A5,,Khrunichev,to 35.000,to 12.500,--,--,,1,1,1,Active,2014,--,<ref name="khrunichev"/><ref name="rsw">http://www.russianspaceweb.com/angara5_flight1.html Angara-5 takes to the sky</ref>,
+Antares,,Orbital ATK,,--,--,,,,,,Active,2013,--,<ref name="Antares"></ref><ref name=orbital-fs2017></ref><ref name=os201112b></ref>,Cygnus launcher
+Ariane 1-2-3,,Aérospatiale,--,,--,--,,,,,Retired,1979,1989,<ref name="ESA ariane"></ref><ref name="ariane4"></ref>,
+Ariane 4,,Aérospatiale,,,--,--,,,--,--,Retired,1988,2003,<ref name="ariane4"/>,Var: 40  42P. 42L  44P  44L  44LP
+Ariane 5,,Airbus,,<ref name=sf101-20160824></ref>,--,-220,,,,,Active,1996,--,Var: G G+ GS  ECA  ES.
+Ariane 6,,Airbus Safran,--,,--,,--,--,--,--,Devel.,2020,--,,Var: Ariane 62 & Ariane 64.
+ASLV,,ISRO,,--,--,--,,,--,--,Retired,1987,1994,<ref name="astronautix ASLV"></ref>,
+Athena I & II,,Lockheed ATK,,--,,--,,,--,--,Retired,1995,2001,<ref></ref>,Launch Lunar Prospector.<ref></ref>
+Atlas A-B-C-D-E-F-G Atlas I,,Lockheed,,,--,--,,,--,--,Retired,1957,1997,<ref></ref><ref name="Atlas"></ref><ref name="Atlas I"></ref><ref></ref>,Launch Mercury. Atlas or Centaur upper stage.
+Atlas II,,Lockheed,,,--,--,,,,,Retired,1991,2004,<ref>Spaceflight Now  Atlas IIAS (accessed 24 Sept 2014)</ref><ref></ref><ref name="final">Tariq Malik "Final Atlas 2 Rocket Orbits Classified U.S. Satellite"  Space News  August 31  2004 (Accessed 24 Sept 2014)</ref>,
+Atlas III,,Lockheed,,,--,--,,,,,Retired,2003,2005,variants: IIIA  IIIB
+Atlas V,,ULA,,,,-153,,,,,Active,2002,,<ref name="Atlas V"></ref><ref></ref>,Launched Juno & New Horizons
+BFR,,SpaceX,+,--,+,--,,--,--,--,Devel.,2020,--,<ref></ref><ref></ref><ref></ref><ref>https://www.spacex.com/mars</ref>,Fully reusable. Expected as early as 2020  with suborbital spaceship tests beginning in the first half of 2019.
+Black Arrow,,RAE Westland,,--,--,--,,,,,Retired,1969,1971,<ref name="BlackArrow"></ref>,
+Delta,,Douglas,,,--,--,,,--,--,Retired,1960,1989,<ref name="Thor"></ref><ref name="space.skyrocket.de"/>,Launched Pioneer & Explorer probes. Variants : A  B  C  D  E  G  J  L  M  N  300  900  1X00  4X00  2X00  3X00  5X00
+Delta II,,ULA,,,,,,,,,Retired,1989,2018,<ref name="Thor"/><ref name="DeltaII">Full perfs of Delta Family  SkyRocket.de </ref><ref></ref>,Launched Mars probes MGS to Phoenix Variants : 6000  7000 and Heavy.
+Delta III,,Boeing,,,--,--,,,,,Retired,1998,2000,<ref name="delta3"></ref><ref name="slr_D3"></ref>,
+Delta IV,,ULA,,,,--,,,,,Active,2002,--,<ref name="DeltaIV">Delta IV Heavy Delta IV</ref>,Variants : M  M+ and Heavy.
+Diamant,,SEREB,,--,--,--,,,,,Retired,1965,1975,,
+,Yuzhmash,,--,,,,,,,Retired,1999,2015,<ref></ref><ref></ref> <ref name=retired></ref>,
+Electron,,Rocket Lab,,,,,,,,,Active,2017,--,<ref></ref>,
+Energia,,NPO Energia,,,,,,,,,Retired,1987,1988,<ref>Russian Space Web  Energia page. Accessed 21 September 2010</ref>,1 partial failure with Polyus spacecraft  1 successful flight with Buran shuttle.
+Epsilon,,IHI Corporation,,--,--,--,,,,,Active,2013,--,<ref>JAXA pages: Epsilon Design E   and Result E</ref><ref>JAXA  Epsilon E press package</ref>,
+Falcon 1,,SpaceX,<ref name="astronautix_falcon_1"></ref>,--,--,<ref name="astronautix_falcon_1"/>,<ref name=sfn20090714></ref>,<ref name="astronautix_falcon_1"/>,<ref name="astronautix_falcon_1"/>,<ref name=sfn20090714/>,Retired<ref name="astronautix_falcon_1"/>,2006,2009,,
+Falcon 9 v1.0  v1.1  FT  B5,,SpaceX,,,--,,,,,,Active,2010,--,<ref name="Falcon"></ref><ref></ref>,upgrade to version 1.1 in 2013; upgrade to version FT in 2015 Launcher of Dragon capsule * notes: One flight put primary but not secondary payload into correct orbit <ref name=spaceorbcomm></ref> one rocket and payload were destroyed before launch in preparation for static fire<ref></ref> and thus is not counted. Falcon 9 Block 5 first launched 11th May 2018 with Bangabandhu 1  the first fully sized Bangladesh satellite.
+Falcon Heavy,,SpaceX,,,--,-150,,,,--,Active,2018,--,<ref name=sfn20110404></ref><ref name=sx20111203></ref><ref></ref>,First test launch 2018-02-06
+GSLV Mk.I,,ISRO,,,--,--,,,,,Retired,2001,2010,<ref name="gslv1"></ref><ref>ISRO GSLV </ref><ref name="GSLV2"></ref>,
+GSLV Mk.II,,ISRO,,,--,--,,,,,Active,2010,--,<ref name="gslv1"></ref><ref>ISRO GSLV </ref><ref name="GSLV2"></ref>,
+GSLV Mk.III (LVM3),,ISRO,,,--,--,,,,,Active,2014,--,<ref name=isro20121218></ref><ref name=isro20120812></ref>,
+H-I,,Mitsubishi,,,--,--,,,,,Retired,1986,1992,<ref></ref>,license-built version of the Thor-ELT
+H-II  IIA & IIB,,Mitsubishi,,,--,,,,,,Active,1994,--,<ref name=H-II></ref>,Var:. A202 A2022 A2024 A204 B
+Haas,,ARCA,,,--,--,,--,--,--,Devel.,2018,--,<ref name=Haas></ref><ref name="haas2cauniversetoday"></ref>,Launch from balloon
+J-I,,IHI Corporation Nissan Motors,,--,--,--,,,,,Retired,1996,1996,,Partial demo flight only
+,Yuzhnoye Polyot,,--,--,,,--,--,,Retired,1967,2010,<ref name="FAA"/><ref name="astronautixKosmos"></ref><ref></ref>,Var: 1  2  3  3M
+Kaituozhe,,CALT,,--,--,--,,,,,Active,2002,,,Var: 1  2
+Lambda 4S,,Nissan ISAS,,--,--,--,,,,,Retired,1966,1970,,
+Long March 1,,CALT,,,--,--,,,--,--,Retired,1970,2002,<ref name="astronautixCZ1"></ref><ref></ref><ref></ref>,Var: 1  1D
+,CALT,,,,--,,,--,--,Active,1971,--,<ref name="LM5"></ref>,Var: 2A 2C 2D 2E 3.3A 3B 3C 4.4B Launcher of Shenzhou
+Long March 5,,CALT,,,,--,,,,,Active,2016,--,Var: 5  5B
+Long March 6,,CALT,,--,--,--,,,,,Active,2015,--,<ref></ref>,
+Long March 7,,CALT,,--,--,--,,,,,Active,2016,--,<ref></ref>,
+Minotaur I,,Orbital ATK,,--,--,--,,,,,Active,2000,--,<ref name="minotaur-history">Orbital Sciences  Minotaur History </ref><ref name="minotaur">Orbital Sciences  Minotaur-1 Overview (accessed 25 September 2014)]</ref>,Derived from the Minuteman II
+Minotaur IV & V,,Orbital ATK,,,,,,,,,Active,2010,--,<ref name= "minotaur-history" /><ref name="minotaur-IV-V-VI">Orbital Sciences  Minotaur IV-V-VI Overview (accessed 25 September 2014)]</ref>,Also 2 suborbital launches (HTV-2a). Variants: IV  IV Lite  IV HAPS  V. Derived from Peacekeeper missile
+Mu 1-3-4,,Nissan Motor IHI,,--,--,--,,,--,--,Retired,1966,1995,<ref></ref>,Var: 1  3D  4S  3C  3H  3S  3SII
+Mu 5,,Nissan Motor IHI,,--,--,--,,,,,Retired,1997,2006,,Var: M-V  M-V KM
+N1,,NPO Energia,,--,,--,,,,,Retired,1969,1972,<ref></ref>,Designed for Soviet Manned Lunar Mission
+N-I & II,,Mitsubishi,,,--,--,,,--,--,Retired,1975,1987,<ref name=N-2></ref>,Derived from the American Delta rocket
+Naro,,Khrunichev KARI,,--,--,--,,,,,Retired,2009,2013,<ref Name="Naro"></ref>,First stage uses the Russian RD-151 engine
+Pegasus,,Orbital ATK,,--,--,--,,,,,Active,1990,--,<ref></ref>,
+UR-500 Proton,,Khrunichev,,,,(Proton-M),,,,--,Active,1965,--,<ref name="Proton"></ref><ref> Circumlunar probe launched by Proton-K/D.</ref><ref name=gao-surplus></ref>,Var: K  M. Medium in development.
+PSLV,,ISRO,,,--,--,,,,,Active,1993,,<ref name="SkyrocketPSLV">Polar Satellite Launch Vehicle</ref><ref name="PSLV"></ref>,Var: CA  XL  HP  3S Launched moon probe Chandrayaan I  Mars probe Mangalyaan I
+UR-100N Rokot Strela,,Eurockot Khrunichev,,--,--,--,,,,,Active,1994,--,<ref></ref><ref></ref><ref></ref><ref>Russian Strela Launches Kondor Satellite (retrieved 24 Sept 2014)</ref>,23 launches of Rokot; 2 launches of Strela
+Rus-M,,NPO Energia,,,--,--,,--,--,--,Devel.,--,--,,
+Safir,,ISA,,--,--,--,,,,,Active,2007,--,<ref name="safir"></ref>,
+Saturn I & IB,,Chrysler Douglas,,--,--,,,,,,Retired,1961,1975,<ref name="saturnhistory">NASA  Saturn launch vehicles (PDF)</ref><ref name="Saturn1"></ref>,Saturn 1 family also included 6 suborbital test launches
+Saturn V,,Boeing North American Douglas,,--,,,,,,,Retired,1967,1973,<ref name= "saturnhistory" /><ref name="SaturnV"></ref><ref name="historySaturnV"></ref>,Var: Apollo  Skylab
+Scout,,US Air Force NASA,,--,--,--,,,--,--,Retired,1960,1994,<ref></ref>,Var: X1  X2  A  D  G
+Shavit,,IAI,,--,--,,,,,,Active,1988,--,<ref name="shavit"></ref>,Var: Shavit  -1  -2
+,Makeyev,,--,--,--,,,--,--,Retired,1995,2006,<ref name="volna"></ref>,Var: Volna  Shtil  2.1  2R  3
+R-7 Semyorka Soyuz,,RSC Energia TsSKB-Progress,,,,--,,,--,--,Active,1957,--,<ref name="R7"></ref> <ref name="Soyuz"></ref>,Var: Sputnik  Luna  Vostok-L  Vostok-K  Voskhod  Molniya  Molniya-L  Molniya-M  Polyot  Soyuz  Soyuz-L  Soyuz-M  Soyuz-U  Soyuz-FG  Soyuz-2  Soyuz-2-1v
+Simorgh,,ISA,,--,--,--,,,,,Active,2016,--,<ref name="Simorgh"></ref>,
+SLS,,Orbital ATK Boeing United Launch Alliance Aerojet Rocketdyne,to 130.000,--,--,--,,--,--,--,Devel.,2020,--,<ref>SLS fact sheet  PDF  Nasa website</ref><ref></ref>,Expected 2020
+SLV,,ISRO,,--,--,--,,,,,Retired,1979,1983,<ref>Claude Lafleur  SLV / Indian Launch Vehicle  Spacecraft Encyclopedia (accessed Sept 25 2014)</ref>,Launched Rohini satellite series
+SS-520,,IHI Aerospace,,--,--,--,,,,,,2017,--,<ref></ref>,Two successful suborbital flights  one failed and one successful attempt to reach orbit. A test how small orbital rockets can be. The rocket has a mass of only 2.6 tonnes.
+STS Space Shuttle,,Alliant Martin Marietta Rockwell,,,--,,,,,,Retired,1981,2011,<ref></ref>,Orbiter mass: 68585 kg.
+,MITT,,--,--,--,,,,,Active,1993,--,<ref></ref>,
+Taurus / Minotaur-C,,Orbital Sciences,,--,--,--,,,,,Active,1989,--,<ref name="taurus"></ref>,Var:2110  3110  3210
+Thor,,Douglas,,--,,--,,,--,--,Retired,1957,1980,<ref name="space.skyrocket.de"></ref>,Launched Pioneer & Explorer probes
+,Martin Marietta,,,,,,,--,--,Retired,1959,2005,<ref></ref><ref name="Titan4"></ref>,Var: I  II  IIIA  IIIB  IIIC  IIID  IIIE  34D  IVA  IVB Gemini launcher
+,Yuzhmash,,--,--,--,,,--,--,Retired,1967,2009,<ref></ref>,Var: 1  2  3.
+Unified Launch Vehicle,,ISRO,,,--,--,,--,--,--,Devel.,--,--,<ref>http://www.indiandefensenews.in/2014/10/isros-unified-launch-vehicle-ulv.html</ref>,Var: 6S12  2S60  2S138  2S200
+Unha-3,,KCST,,--,--,--,,,,?,Active,2006,--,Variants: Paektusan based on Taepodong-1 missile; Unha based on Taepodong-2 missile.
+Vanguard,,Martin,,--,--,--,,--,,,Retired,1957,1959,<ref name="vanguard"></ref>,
+Vega,,Avio,,--,--,,,,,,Active,2012,--,<ref name="vega"></ref>,Vega-C and Vega-E in development.
+VLM,,CTA,,--,--,--,,,,,Devel.,2019,--,<ref name="VLS"></ref>,
+Vulcan,,ULA,--,,,--,--,,Devel.,2021,,<ref></ref><ref></ref><ref></ref><ref></ref>,
+Zenit,,Yuzhnoye,,,,--,,,,,Active,1985,--,<ref name="zenit"></ref>,Var: 2  2M (2SB  2SLB)  3SL  3SLB  3SLBF

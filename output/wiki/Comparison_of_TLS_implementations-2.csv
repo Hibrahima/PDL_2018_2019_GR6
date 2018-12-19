@@ -1,0 +1,32 @@
+Implementation,SSL 2.0 (insecure)<ref name=sslv2></ref>,SSL 3.0 (insecure)<ref name="auto">RFC 6101</ref>,TLS 1.0<ref name="auto1">RFC 2246</ref>,TLS 1.1<ref name="auto2">RFC 4346</ref>,TLS 1.2<ref name=tls/>,TLS 1.3,DTLS 1.0<ref name="auto3">RFC 4347</ref>,DTLS 1.2<ref name="RFC 6347"/>
+BearSSL,,,,,,,,
+Botan,,<ref name="Botan 1.11.13"></ref>,,,,,,
+BoringSSL,,,,,,<br />(draft version),,
+Bouncy Castle,,,,,,<br />(draft version),,
+CryptoComply,,,,,,<br />(draft version),,
+cryptlib,,,,,,,,
+GnuTLS,,<ref name="GnuTLS-3.4.0"></ref>,,,,<ref name="GnuTLS 3.6.3"></ref>,,
+JSSE,,<ref></ref>,,,,<ref></ref>,,
+LibreSSL,<ref name="OpenBSD5.6"></ref>,<ref name="libressl-2.3"></ref>,,,,,,
+MatrixSSL,,<ref name="Matrix-POODLE"></ref>,,,,,,
+mbed TLS,,<ref name="mbed-2.0"/>,,,,,<ref name="mbed-2.0"></ref>,<ref name="mbed-2.0"/>
+NSS,,<ref name="NSS-3.19"></ref>,,<ref name="NSS-3.14"></ref>,<ref name="NSS-3.15.1"></ref>,<ref name="NSS-3.39"></ref>,<ref name="NSS-3.14"/>,<ref name="NSS-3.16.2"></ref>
+OpenSSL,<ref name="openssl-1.1.0-note"/>,,,<ref name="openssl-1.0.1-note"></ref>,<ref name="openssl-1.0.1-note" />,,,<ref name="openssl-1.0.2-note"></ref>
+RomSTL,,,,,,,,
+RSA BSAFE<ref name=RSABSAFETECH></ref>,,,,,,,,
+rustls,,,,,,<br />(draft version),,
+S2n<ref name=S2NSPEC></ref>,,,,,,,,
+SChannel XP  2003<ref name=XP2003schannel></ref>,,,,,,,,
+SChannel Vista<ref name=Vista2008schannel></ref>,,,,,,,,
+SChannel 2008<ref name=Vista2008schannel/>,,,,,,,,
+SChannel 7  2008R2<ref name=Windows7schannel></ref>,,,,,,,<ref name=MS2574819></ref>,<ref name=MS2574819 />
+SChannel 8  2012<ref name="Windows7schannel"/>,,,,,,,,
+SChannel 8.1  2012R2  10 v1507 & v1511<ref name="Windows7schannel"/>,,,,,,,,
+SChannel 10 v1607 / 2016<ref name="Windows10_v1607schannel"></ref>,,,,,,,,
+Secure Transport OS X 10.2-10.7  iOS 1-4,,,,,,,,
+Secure Transport OS X 10.8-10.10  iOS 5-8,,,,,,,,
+Secure Transport OS X 10.11  iOS 9,,,,,,,,
+Secure Transport OS X 10.13  iOS 11,,,,,,<br />(draft version)<ref></ref>,,
+wolfSSL,,<ref name="wolfSSL-3.6.6"></ref>,,,,,,
+Erlang/OTP SSL application,,,,,,,,
+Implementation,SSL 2.0 (insecure)<ref name=sslv2/>,SSL 3.0 (insecure)<ref name="auto"/>,TLS 1.0<ref name="auto1"/>,TLS 1.1<ref name="auto2"/>,TLS 1.2<ref name=tls/>,TLS 1.3,DTLS 1.0<ref name="auto3"/>,DTLS 1.2<ref name="RFC 6347"/>

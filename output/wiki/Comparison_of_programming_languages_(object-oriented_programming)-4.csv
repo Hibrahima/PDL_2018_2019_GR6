@@ -1,0 +1,25 @@
+,public,private,protected,friend
+ABAP Objects,public section.<ref name="abapsection">Scope identifier must appear once in the file declaration  all variable declarations after this scope identifier have his scope  until another scope identifier or the end of class declaration is reached</ref> data field type type'.',private section.<ref name="abapsection" /> data field type type'.',protected section.<ref name="abapsection" /> data field type type'.',<ref>In ABAP  specific fields or methods are not declared as accessible by outside things. Rather  outside classes are declared as friends to have access to the class's fields or methods.</ref>
+C++ (STL),public: type field';',private: type field';',protected: type field';',<ref>In C++  specific fields are not declared as accessible by outside things. Rather  outside functions and classes are declared as friends to have access to the class's fields. See friend function and friend class for more details.</ref>
+C#,public type field «'=' value»';',private type field «'=' value»';',protected type field «'=' value»';',internal type field «'=' value»';'
+D,,package type field «'=' value»';'
+Java,protected type field «'=' value»';',type field «'=' value»';'
+eC,public type field';',private type field';'
+Eiffel,feature<br /> field: TYPE,feature {NONE}<br /> field: TYPE,feature {current_class'}' <br /> field: TYPE,feature {FRIEND} <br /> field: TYPE
+Objective-C,@public type field';',@private type field';',@protected type field';',@package type field';'
+Swift,colspan=4
+Smalltalk,colspan=2,
+Python,self.field' = 'value<ref name="assign_value">Just assign a value to it in a method</ref>,<ref>Python doesn't have private fields - all fields are publicly accessible at all times. A community convention exists to prefix implementation details with one underscore  but this is unenforced by the language.</ref>,colspan=2
+Visual Basic .NET,Public field' As 'type «'=' value»,Private field' As 'type «'=' value»,Protected field' As 'type «'=' value»,Friend field' As 'type «'=' value»
+Xojo,Public field' As 'type «'=' value»,Private field' As 'type «'=' value»,Protected field' As 'type «'=' value»,
+PHP,public $field «'=' value»';',private $field «'=' value»';',protected $field «'=' value»';',
+Perl,$self->{field'} = 'value';'<ref name="assign_value"/>,colspan=3
+Perl 6,has« type »$'.'field« is rw»,has« type »$'!'field,colspan=2
+Ruby,colspan=2,@field = value<ref name="assign_value"/>,
+Windows PowerShell,Add-Member <br />«'-MemberType '»'NoteProperty '<br />«'-Name '»Bar «'-Value '»value<br />-InputObject variable,colspan=3
+OCaml,colspan=2,val «'mutable'» field = value,rowspan=2
+F#,,let «'mutable'» field = value,
+JavaScript,this.field' = 'value <br /> this["field"] = value<ref name="assign_value"/>,,,
+COBOL,,level-number field clauses'.'<ref>All class data is 'private' because the COBOL standard does not specify any way to access it.</ref>,,
+Cobra,var field «'as' type» «'=' value»,var __field «'as' type» «'=' value»,var _field «'as' type» «'=' value»,
+ISLISP,(field :initform value :accessor accessor-name :initarg keyword),,,

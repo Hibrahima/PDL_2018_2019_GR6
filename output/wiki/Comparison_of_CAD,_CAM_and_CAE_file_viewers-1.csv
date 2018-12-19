@@ -1,0 +1,6 @@
+Application,Latest stable release,Developer,3D support?,Runs on POSIX style systems?,Runs on Windows?,Other platforms?,Open source?,User Interface Language(s),Supported format(s)
+Caddie,14,Advanced Computer Solutions,,,,,(Free download),EN,DXF  DWG  DRW
+progeCAD Viewer DWG (based on IntelliCAD) (incomplete entry),2009,progeCAD,,,,,,EN,DWG  DXF
+VariCAD Viewer,2014 v2,VariCAD,,Linux,,,,EN  DE  JP  PT  CN,DWG (2D)  DXF (2D)  STEP (3D)<ref>VariCAD - CAD system description</ref>
+WorkXPlore 3D,1.7 (2009),Sescoi,,,,,(Free download),EN  FR  DE  ES  IT  JP  CN,DWG  DXF  IGES  STEP  STL  UNISURF  3D WorkNC  XDW  Parasolid  SolidWorks  Pro/E  Catia V4  Catia V5  UGS  ISO toolpaths  CADDS  Solid Edge<ref>Comparison of WorkXPlore 3D versions</ref>
+LibreCAD,2.0.6 (10/2014)<ref>LibreCAD Download page</ref>,LibreCAD,,,,,(GPLv2),CN  EN  ES  FR  DE  HU  IT  JP  RU  other,DXF

@@ -1,0 +1,7 @@
+Kernel Name,HTTP,FTP,NFS,CIFS,Name server,Transport-layer load balancer,Application-layer load balancer,9P,TLS proxy,WAF,Memcached server
+Linux kernel,,,,,,,,,<ref>doc/Documentation/networking/tls.txt kernel.org</ref>,<ref></ref>,
+DragonFly BSD kernel,,,,,,,,,,,
+FreeBSD kernel,,,,,,,,,,,
+Solaris kernel,,,,<ref>OpenSolaris Project Weaves CIFS Server Into the Solaris Kernel </ref>,,<ref name="Integrated Load Balancer">Integrated Load Balancer</ref>,<ref name="Integrated Load Balancer"/>,,,,
+Windows NT kernel,,,,,,,,,,,
+XNU,,,,,,,,,,,

@@ -1,0 +1,5 @@
+Kernel name,Intel,NVIDIA,AMD,ARM,Qualcomm,Imagination Technologies,Broadcom,VeriSilicon
+Intel HD/Iris Graphics,GeForce/Quadro/Tesla,Radeon,Mali,Adreno,PowerVR,VideoCore4,Vivante
+Linux kernel,,,,,,,,
+Windows NT kernel,,,,{{?}},,{{?}},{{?}},{{?}}
+XNU,colspan=3,,,,,

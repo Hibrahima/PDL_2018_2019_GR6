@@ -1,0 +1,44 @@
+,8 bit (byte),16 bit (short integer),32 bit,64 bit (long integer),Word size,Arbitrarily precise (bignum)
+Signed,Unsigned,Signed,Unsigned,Signed,Unsigned,Signed,Unsigned,Signed,Unsigned
+Ada<ref name=Ada_RM_2012>Ada Reference Manual - Language and Standard Libraries; ISO/IEC 8652:201x (E)  </ref>,range -2**7 .. 2**7 - 1,range 0 .. 2**8 - 1 or mod 2**8,range -2**15 .. 2**15 - 1,range 0 .. 2**16 - 1 or mod 2**16,range -2**31 .. 2**31 - 1,range 0 .. 2**32 - 1 or mod 2**32,range -2**63 .. 2**63 - 1,mod 2**64,Integer,range 0 .. 2**Integer'<wbr/>Size - 1 or mod Integer'<wbr/>Size,
+ALGOL 68 (variable-width),short short int,rowspan=2,short int,rowspan=2,int,rowspan=2,long int,rowspan=2,int,,long long int
+bytes & bits
+C (C99 fixed-width),int8_t,uint8_t,int16_t,uint16_t,int32_t,uint32_t,int64_t,uint64_t,int,unsigned int,rowspan=5
+C++ (C++11 fixed-width)
+C (C99 variable-width),signed char,unsigned char,short,unsigned short,long,unsigned long,long long,unsigned long long
+C++ (C++11 variable-width)
+Objective-C (Cocoa),signed char' or 'int8_t,unsigned char' or 'uint8_t,short' or 'int16_t,unsigned short' or 'uint16_t,int' or 'int32_t,unsigned int' or 'uint32_t,long long' or 'int64_t,unsigned long long' or 'uint64_t,NSInteger' or 'long,NSUInteger' or 'unsigned long
+C#,sbyte,byte,short,ushort,int,uint,long,ulong,IntPtr,UIntPtr,System.Numerics<wbr/>.BigInteger (.NET 4.0)
+Java,byte,,char,,,,,java.math<wbr/>.BigInteger
+Go,int8,uint8 or byte,int16,uint16,int32,uint32,int64,uint64,int,uint,big.Int
+Rust,i8,u8,i16,u16,i32,u32,i64,u64,isize,usize,
+Swift,Int8,UInt8,Int16,UInt16,Int32,UInt32,Int64,UInt64,Int,UInt
+D,byte,ubyte,short,ushort,int,uint,long,ulong,,,BigInt
+Common Lisp<ref name=HyperSpec></ref>,(integer -128 127),(integer 0 255),(integer -32768 32767),(integer 0 65536),(integer -2147483648 2147483647),(integer 0 4294967296),(integer -9223372036854775808 9223372036854775807),(integer 0 18446744073709551616),,,bignum
+Scheme,,,,,,,,,,,
+ISLISP<ref name=Specification></ref>,,,,,,,,,,,bignum
+Pascal (FPC),shortint,byte,smallint,word,longint,longword,int64,qword,integer,cardinal,
+Visual Basic,,Byte,Integer,,Long,,colspan=2,rowspan=2 colspan=2,rowspan=1
+Visual Basic .NET,SByte,Short,UShort,Integer,UInteger,Long,ULong,System.Numerics<wbr/>.BigInteger (.NET 4.0)
+FreeBasic,Byte or Integer<8>,UByte or UInteger<8>,Short or Integer<16>,UShort or UInteger<16>,Long or Integer<32>,ULong or UInteger<32>,LongInt or Integer<64>,ULongInt or UInteger<64>,Integer,UInteger,
+Python 2.x,colspan=2,colspan=2,colspan=2,colspan=2,int,,long
+Python 3.x,colspan=2,colspan=2,colspan=2,colspan=2,colspan=2,int
+S-Lang,colspan=2,colspan=2,colspan=2,colspan=2,colspan=2,
+Fortran,INTEGER<wbr/>(KIND = n),,INTEGER<wbr/>(KIND = n),,INTEGER<wbr/>(KIND = n),,INTEGER<wbr/>(KIND = n),,,,
+PHP,colspan=2,colspan=2,int,,int,,colspan=2,
+Perl 5,colspan=2,colspan=2,colspan=2,colspan=2,colspan=2,Math::BigInt
+Perl 6,int8,uint8,int16,uint16,int32,uint32,int64,uint64,Int,colspan=2
+Ruby,colspan=2,colspan=2,colspan=2,colspan=2,Fixnum,,Bignum
+Erlang,colspan=2,colspan=2,colspan=2,colspan=2,integer(),,integer()
+Scala,Byte,,Short,Char,Int,,Long,,,,scala.math.BigInt
+Seed7,,,,,,,integer,,,,bigInteger
+Smalltalk,colspan=2,colspan=2,colspan=2,colspan=2,SmallInteger,,LargeInteger
+Windows PowerShell,colspan=2,colspan=2,colspan=2,colspan=2,colspan=2,
+OCaml,colspan=2,colspan=2,int32,,int64,,int' or 'nativeint,,open Big_int;; big_int
+F#,sbyte,byte,int16,uint16,int32 or int,uint32,uint64,nativeint,unativeint,bigint
+Standard ML,,Word8.word,colspan=2,Int32.int,Word32.word,Int64.int,Word64.word,int,word,LargeInt.int or IntInf.int
+Haskell (GHC),«import Int» Int8,«import Word» Word8,«import Int» Int16,«import Word» Word16,«import Int» Int32,«import Word» Word32,«import Int» Int64,«import Word» Word64,Int,«import Word» Word,Integer
+Eiffel,INTEGER_8,NATURAL_8,INTEGER_16,NATURAL_16,INTEGER_32,NATURAL_32,INTEGER_64,NATURAL_64,INTEGER,NATURAL,
+COBOL,BINARY-CHAR «SIGNED»,BINARY-CHAR UNSIGNED,BINARY-SHORT «SIGNED»,BINARY-SHORT UNSIGNED,BINARY-LONG «SIGNED»,BINARY-LONG UNSIGNED,BINARY-DOUBLE «SIGNED»,BINARY-DOUBLE UNSIGNED,,,
+Mathematica,colspan=2,colspan=2,colspan=2,colspan=2,colspan=2,Integer
+Wolfram Language,colspan=2,colspan=2,colspan=2,colspan=2,colspan=2,Integer

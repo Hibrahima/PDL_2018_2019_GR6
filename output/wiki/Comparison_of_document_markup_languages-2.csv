@@ -1,0 +1,29 @@
+Language,Major purpose,Based on,Markup type,Structural markup,Presentational markup<ref>Many markup languages have purposely avoided presentational markups. For markup languages based on SGML and XML  CSS is used as a presentation layer.</ref>
+AsciiDoc,Multi-purpose,,Tag,,
+Computable Document Format,Interactive technical documents  infographics  blogs<ref>Uses and Examples of the Computable Document Format (CDF)  Wolfram.com.</ref>,Wolfram Language,Tag,,
+Darwin Information Typing Architecture (DITA),Technical documents,XML,Tag,,<ref>Includes basic presentational content and SVG and MathML markup  officially supported in version 1.3. In select XML editors and management systems  the images and content can be viewed as rendered  through CSS mostly.</ref>
+DocBook,Technical documents,SGML / XML,Tag,,<ref>Presentational content is supported through SVG and MathML markup. In select XML editors  the images can be viewed as rendered.</ref>
+Encoded Archival Description (EAD),Finding aids,XML,Tag,,
+Extensible HyperText Markup Language (XHTML),Hypertext documents,XML,Tag,,<ref>Presentational markup is deprecated as of XHTML 1.0 and no longer allowed as of XHTML 1.1</ref>
+HyperText Markup Language (HTML),Hypertext documents,SGML,Tag,,<ref>Presentational markup is deprecated as of HTML 4.0</ref>
+Lilypond,Music notation,,Control code,,
+Maker Interchange Format (MIF),Technical documents,,Tag,,
+Markdown,Formatted Technical documents  Hypertext documents  E-mail,Text E-mail conventions,Tag,,
+Math Markup Language (MathML),Mathematical documents,XML,Tag,,<ref>MathML comes in two mark-up syntaxes: a semantic and a presentational.</ref>
+The Music Encoding Initiative (MEI),Music notation,XML,Tag,,
+Music Extensible Markup Language (MusicXML),Music notation,XML,Tag,,
+Office Open XML (OOXML),Multi-purpose,XML / ZIP,Tag,,
+OpenDocument Format (ODF),Multi-purpose,XML / ZIP,Tag,,
+Open Mathematical Document (OMDoc),Mathematical documents,XML,Tag,<ref>uses Content MathML  OpenMath or other formats for formulae</ref>,<ref>Exact presentation of symbols can be specified in OMDoc; these specifications are used when transforming OMDoc to a presentational format.</ref>
+Org-mode,Multi-purpose (notes  project management  publishing  literate programming),Text outliner,Tag,,
+reStructuredText,Technical and Multi-purpose documents<ref>http://docutils.sourceforge.net/docs/ref/rst/introduction.html#goals</ref>,Structured Text and Setext,Tag,,<ref>uses CSS</ref>
+Rich Text Format (RTF),Formatted documents,TeX,Pattern parsing,,
+Scalable Vector Graphics (SVG),2D Vector graphics,XML,Tag,,
+Script,Multi-purpose,RUNOFF,Control code,,
+TeX,Academic documents,,Control code,,
+Texinfo,Technical documents,TeX  Scribe,Control code,,
+Textile,Hypertext documents,AsciiDoc (based on some similarities and dates of release),Tag,,
+Text Encoding Initiative (TEI),Academic  linguistic  literary and technical documents,SGML / XML,Tag,,
+troff (typesetter runoff)  groff (GNU runoff),Technical documents,RUNOFF,Control code,,
+Wireless Markup Language (WML),Hypertext documents,XML,Tag,,
+Language,Major purpose,Based on,Markup type,Structural markup,Presentational markup

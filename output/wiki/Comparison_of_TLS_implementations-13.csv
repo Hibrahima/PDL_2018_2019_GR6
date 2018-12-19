@@ -1,0 +1,19 @@
+Implementation,PKCS #11 device,Intel AES-NI,VIA PadLock,ARMv8-A,Intel SGX,Intel QAT
+BearSSL,,,,,,
+Botan,<ref name="Botan 1.11.31"></ref>,,,,,
+CryptoComply,,,,,,
+cryptlib,,,,,,
+GnuTLS,,,,<ref>https://lists.gnupg.org/pipermail/gnutls-devel/2016-October/008194.html</ref>,,
+JSSE,,<ref></ref>,,,,
+LibreSSL,,,,,,
+MatrixSSL,,,,,,
+mbed TLS,,<ref></ref>,,,,
+NSS,<ref>Normally NSS's libssl performs all operations via the PKCS#11 interface  either to hardware or software tokens</ref>,<ref></ref>,<ref></ref>,,,
+OpenSSL,<ref>https://habrahabr.ru/post/134725/  http://forum.rutoken.ru/topic/1639/  https://dev.rutoken.ru/pages/viewpage.action?pageId=18055184 </ref>,,,<ref></ref>,,
+RomSTL,,,,,,
+RSA BSAFE,,,,,,
+rustls,,,,,,
+SChannel,,,,,,
+Secure Transport,,<ref>https://opensource.apple.com/source/Security/Security-55179.13/sec/Security/SecECKey.c</ref><ref>http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT5396/Crypto_Officer_Role_Guide_for_FIPS_140-2_Compliance_OS_X_Mountain_Lion_v10.8.pdf</ref>,,,,
+wolfSSL,,,,,,<ref></ref>
+Implementation,PKCS #11 device,Intel AES-NI,VIA PadLock,ARMv8-A,Intel SGX,Intel QAT

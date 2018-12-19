@@ -1,0 +1,37 @@
+Client,CTCP,DCC,IPv6,SSL,TLS,DANE,OCSP,CRL,SASL,OTR
+Bersirc,,,,,,,,,,
+BitchX,,,,,,,,,,
+ChatZilla,,,,,,,,,,
+Colloquy,,,,,,,,,,<ref></ref>
+degesch,,,,,,,,,,
+DMDirc,,,,,,,,,,
+ERC,,,,,,,,,,
+HexChat,,,,,,,,,,
+HydraIRC,,,,,,,,,,
+IceChat,,,,,,,,,,
+ircII,,,,,,,,,,
+IRCjr,,,,,,,,,,
+Ircle,,,,,,,,,,
+Irssi,,,,,,,,,
+jIRCii,,,,,,,,,,
+KiwiIRC,,,,,,,,,,
+Konversation,,,,,,,,,,
+KVIrc,,,,,,,,,,
+LimeChat,,,,,,,,,,
+Linkinus,,,,,,,,,,
+Mibbit,,,,,,,,,,
+mIRC,,,,,,,,,,
+Nettalk,,,,,,,,,,
+Opera,,,,,,,,,
+PIRCH,,,,,,,,,,
+PJIRC,,,,,,,,,,
+Quassel,,,,,,,,,,<ref></ref>
+qwebirc,,,,,,,,,,
+rcirc,,,,,,,,,,
+Scrollback,,,,,,,,,,
+Smuxi,,,,,,,,,,<ref></ref>
+Snak,,,,,,,,,,
+Visual IRC,,,,,,,,,,
+WeeChat,,,,,,,,,,<ref name=cypherpunks_otr /><ref></ref>
+XChat,,,,,,,,,,<ref name=cypherpunks_otr /><ref name=irssi_xchat_otr />
+Client,CTCP,DCC,IPv6,SSL,TLS,DANE,OCSP,CRL,SASL,OTR

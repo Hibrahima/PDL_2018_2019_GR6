@@ -1,0 +1,25 @@
+Assembler,License,Instruction set,Host platform
+Assembly Language for Multics (ALM),,GE-645<br />Honeywell 6180,GE-645<br />Honeywell 6180
+Babbage,,GEC 4000 series,GEC 4000 series
+COMPASS<ref>COMPASS is a family of assemblers for disparate machines.</ref>,,CDC mainframe,CDC mainframe
+MACRO-10,,PDP-10,PDP-10
+MACRO-11,,PDP-11,PDP-11
+vasm,,Zilog Z80  Motorola 6800 family,various
+GPASM,,PIC microcontroller,many
+MIPS,,MIPS,MIPS
+Symbolic Optimal Assembly Program (SOAP),,IBM 650,IBM 650
+Technical Assembly System (TASS),,IBM 650,IBM 650
+Autocoder<ref>Autocoder is actually a family of assemblers for disparate machines.</ref>,,IBM 705  14xx  1410  7010  7070  7072  7074  7080,various
+Fortran Assembly Program (FAP),,IBM 709  704x  709x,Fortran Monitor System  IBSYS
+GCOS Macro Assembly Program (GMAP),,GE-600 series  Honeywell 6000 series,GCOS
+Macro Assembly Program (MAP),,IBM 709  704x  709x,IBSYS/IBJOB on 709  704x  709x
+Meta-Symbol,,SDS Sigma series,BTM  UTS  CP-V
+Symbolic Assembly Program (SAP),,IBM 704,IBM 704
+Symbolic Programming System (SPS)<ref>SPS is actually a family of assemblers for disparate machines.</ref>,,IBM 14xx  1620  1710,IBM 1401  1440  1460  1620  1710
+ASMB  ASBL  NSBL - Numeric op codes <br />used for 1900 Operating System Executive,,ICL 1900,ICL 1900
+GINerator mnemonic opcodes <br />used for GEORGE (operating system),,ICL 1900,ICL 1900
+PLAN mnemonic opcodes <br />used for commercial 1900 programs,,ICL 1900,ICL 1900
+Single Address Assembly Language (SAAL),,UNIVAC 1005,UNIVAC 1005
+Sleuth,,UNIVAC 1107,EXEC  EXEC II  EXEC 8
+Meta Assembler (MASM),,UNIVAC 1100/2200 series,UNIVAC EXEC 8
+UTMOST,{{?}},UNIVAC III,UNIVAC III

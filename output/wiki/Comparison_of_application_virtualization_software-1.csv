@@ -1,0 +1,13 @@
+Virtual machine,Machine model,Memory management,Code security,Interpreter,JIT,AOT,Shared libraries,Common Language Object Model,Dynamic typing
+Android Runtime (ART),register,automatic,,,,,,,
+Common Language Runtime (CLR),stack,automatic or manual,,,,,,,
+Dis (Inferno),register,automatic,,,,,,,
+DotGNU Portable.NET,stack,automatic or manual,,,,,,,
+Java virtual machine (JVM),stack,automatic,,,,,,,<ref></ref>
+JikesRVM,stack,automatic,,,,,,,
+LLVM,register,manual,,,,,,,
+Mono,stack,automatic or manual,,,,,,,
+Parrot,register,automatic,,,<ref></ref>,,,,
+Dalvik,register,automatic,,,,,,,
+Squeak,stack,automatic,,,,,,,
+BEAM (Erlang),register,automatic,,,,,,,

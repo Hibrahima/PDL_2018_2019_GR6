@@ -1,0 +1,25 @@
+Algorithm,Output size (bits),Internal state size<ref group="p">The internal state here means the "internal hash sum" after each compression of a data block. Most hash algorithms also internally use some additional variables such as length of the data compressed so far since that is needed for the length padding in the end. See the Merkle–Damgård construction for details.</ref>,Block size,Length size,Word size,Rounds
+BLAKE2b,512,1024,512,–,64,12
+BLAKE2s,256,512,256,–,32,10
+GOST,256,256,256,256,32,32
+HAVAL,256/224/192/160/128,256,1.024,64,32,3/4/5
+MD2,128,384,128,–,32,18
+MD4,128,128,512,64,32,3
+MD5,128,128,512,64,32,64
+PANAMA,256,8.736,256,–,32,–
+RadioGatún,Unlimited<ref group="p">RadioGatún is an Extendable-Output Function which means it has an output of unlimited size. The official test vectors are 256-bit hashes. RadioGatún claims to have the security level of a cryptographic sponge function 19 words in size  which means the 32-bit version has the security of a 304-bit hash when looking at preimage attacks  but the security of a 608-bit hash when looking at collision attacks. The 64-bit version  likewise  has the security of a 608-bit or 1216-bit hash. For the purposes of determining how vulnerable RadioGatún is to length extension attacks  only two words of its 58-word state are output between hash compression operations.</ref>,58 words,19 words<ref group="p">RadioGatún is not a Merkle–Damgård construction and  as such  does not have a block size. Its belt is 39 words in size; its mill  which is the closest thing RadioGatún has to a "block"  is 19 words in size.</ref>,–,1–64<ref group="p">Only the 32-bit and 64-bit versions of RadioGatún have official test vectors</ref>,18<ref group="p">The 18 blank rounds are only applied once in RadioGatún  between the end of the input mapping stage and before the generation of output bits</ref>
+RIPEMD,128,128,512,64,32,48
+RIPEMD-128/256,128/256,128/256,512,64,32,64
+RIPEMD-160,160,160,512,64,32,80
+RIPEMD-320,320,320,512,64,32,80
+SHA-0,160,160,512,64,32,80
+SHA-1,160,160,512,64,32,80
+SHA-224  SHA-256,224/256,256,512,64,32,64
+SHA-384  SHA-512  SHA-512/224  SHA-512/256,384/512/224/256,512,1.024,128,64,80
+SHA-3,224/256/384/512<ref group="p">Although the underlying algorithm Keccak has arbitrary hash lengths  the NIST specified 224  256  384 and 512 bits output as valid modes for SHA-3.</ref>,1600,1600-2*bits,–,64,24
+SHA3-224,224,1600,1152,–,64,24
+SHA3-256,256,1600,1088,–,64,24
+SHA3-384,384,1600,832,–,64,24
+SHA3-512,512,1600,576,–,64,24
+Tiger(2)-192/160/128,192/160/128,192,512,64,64,24
+WHIRLPOOL,512,512,512,256,8,10

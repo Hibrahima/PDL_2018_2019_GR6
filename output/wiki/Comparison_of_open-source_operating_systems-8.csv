@@ -1,0 +1,3 @@
+Operating system,Mandatory access control,Software executable space protection,Operating system-level virtualization,Virtualisation,Userspace protection,Others
+Linux,}},PaX }},,IPFilter  Iptables,grsecurity  RSBAC
+FreeBSD

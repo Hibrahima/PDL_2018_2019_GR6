@@ -1,0 +1,7 @@
+Kernel Name,NFS,AFS,CIFS,Coda,9P,Ceph
+DragonFly BSD kernel,,,,,,
+FreeBSD kernel,,,,,,
+Linux kernel,,,,,,
+Solaris kernel,,,,,,
+Windows NT kernel,,,,,,
+XNU,,,,,,

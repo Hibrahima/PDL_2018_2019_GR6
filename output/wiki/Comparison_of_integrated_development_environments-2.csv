@@ -1,0 +1,5 @@
+IDE,License,Windows,Linux,macOS,Other platforms,Debugger,GUI builder,Toolchain,Profiler,Code coverage,Autocomplete,Static code analysis,GUI-based design,Class browser,Latest stable release
+Eclipse w/ AonixADT<ref></ref>,,,,,FreeBSD  JVM  Solaris,,<ref name="Eclipse Qt Integration"></ref>,,,,,,,,December 2009
+GNAT Programming Studio,,,,,DragonFly BSD  FreeBSD  NetBSD  OpenBSD  Solaris,,<ref name="GtkAda User's Guide"></ref>,,,,,,,,June 2014
+SlickEdit,,,,,Solaris  Solaris SPARC  AIX  HP-UX,,,,,,,,,,October 2016
+Understand,,,,,Solaris,,,,,,,,,,December 2015

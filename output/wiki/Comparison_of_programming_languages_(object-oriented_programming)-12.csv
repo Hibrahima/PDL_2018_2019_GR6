@@ -1,0 +1,23 @@
+,Has member?,Handler for missing member
+,Method,Field,Method,Field
+ABAP Objects,rowspan=2 colspan=4
+C++ (STL)
+Objective-C (Cocoa),[x' respondsToSelector:@selector('method')]',,forwardInvocation:,
+Smalltalk,x respondsTo: selector,,doesNotUnderstand:,
+C#,(using reflection)
+eC
+Java
+D,,,opDispatch()
+Eiffel,colspan=4
+Python,hasattr(x'  "'method'") and callable('x'.'method')',hasattr(x'  "'field'")',__getattr__()
+Visual Basic .NET,(using reflection)
+Xojo,(using Introspection)
+Windows PowerShell,(using reflection)
+F#,(using reflection)
+Ruby,x'.respond_to?(:'method')',,method_missing(),
+PHP,method_exists(x'  "'method'")',property_exists(x'  "'field'")',__call(),__get() / __set()
+Perl,x'->can("'method'")',exists x'->{'field'}',AUTOLOAD,
+Perl 6,x'.can("'method'")',x'.'field'.defined',AUTOLOAD,
+OCaml,colspan=4
+JavaScript,typeof x'.'method''' === "function",field in x,,
+COBOL,colspan=4

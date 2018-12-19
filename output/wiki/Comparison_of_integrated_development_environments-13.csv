@@ -1,0 +1,5 @@
+IDE,License,Written in Java only,Windows,Linux,macOS,Other platforms,GUI builder
+Eclipse JDT,,,,,,FreeBSD  JVM  Solaris,
+IntelliJ IDEA,, proprietary,,,,,FreeBSD  OpenBSD  Solaris,
+NetBeans,, GPL2,,,,,OpenBSD  Solaris,
+SlickEdit,,,,,,Solaris  Solaris SPARC  AIX  HP-UX,

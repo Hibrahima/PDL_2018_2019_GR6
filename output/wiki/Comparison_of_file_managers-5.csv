@@ -1,0 +1,36 @@
+File manager,Symbolic links,Browse compressed folders,Slideshows,Shows combined Size of Selected Directories,Branch Sizes,Directory Compare,Synchronizer,Find as you type (Type-ahead find),Embedded/Integrated Terminal,For Directories  size column shows:
+Altap Salamander,,,,,,,(for remote folders),,,DIR
+Commander One,,,,,,,,,, in the PRO Pack<ref></ref>,DIR and Total size including subdirectories
+CRAX Commander,,,,,,,,,,DIR and Total size including subdirectories
+Directory Opus,,,,,,,,,,DIR and Total size including subdirectories
+Dired,,,,,,,,,<ref></ref>,Literal <ref group="browse" name="literal" />
+DOS Navigator,,,,,,,,<ref>Press and release Alt</ref>,,Total size including subdirectories
+Dolphin,,,,,,,,,,Number of entries
+Double Commander,,,,,,,,,,DIR
+emelFM2,,,,,,,,,,Literal <ref group="browse" name="literal" />
+FAR Manager,,,<ref group="n" name="Plugin"/>,,,,<ref>Via plugins  or manual with helping of the embedded Advanced Compare.</ref>,,,
+File Commander,,,,,,,,,,
+Finder,,,,,,,,,,
+ForkLift,,,,,,,,,,DIR and Total size including subdirectories
+GNOME Commander,,,,,,,,,,
+Konqueror,,,,(with konq-plugin),,(with kdiff3 plugin),(with kdiff3 plugin),,,Folder only size (default) selectable to file count/total size
+Krusader,,,,,,,,,,
+Midnight Commander,,<ref>Extensible via compression plugins  supported formats list depends on distribution package maintainer</ref>,,,,,<ref>Can be done in two steps</ref>,,,
+muCommander,<ref></ref>,,,,,,,,, command execution only,
+GNOME Files (Nautilus),,,,,,,,,, With Plugin<ref></ref><ref></ref>,Number of entries
+Nemo,?,?,?,?,?,?,?,?
+Nomad.NET,,,,,,,,,, via Plugin,DIR and Total size including subdirectories
+Path Finder,,,,,,,,,<ref></ref>,
+PCManFM,,,,,,,,,, but there is a fork attempt<ref></ref>,Nothing
+ROX-Filer,,,,,,,,, and browsing with tab completion,,Nothing
+Thunar,,,,,,,,,,Literal*
+Total Commander,<ref></ref>,,In plugin,,,,,,,DIR and Total size including subdirectories
+Windows Explorer,<ref>Copying directory junctions across drives creates an empty directory in the target</ref>,,,(in folder tooltips),,,,,,
+Xandros File Manager,,,,,,,,,,
+Xfe,,,,,,,,,,
+Xfile,,,,,,,,,<ref></ref>,
+Xfm,,,,,,,,,,
+xplorer²,,,,,,,,,<ref></ref>,
+XYplorer,,,<ref>via XYplorer script- SlideShow</ref>,,,,,,<ref></ref>,Contents including subs
+ZTreeWin,,,,,,,,,,Selectable: Number of entries or Size (Optional: Including subs)
+File manager,Symbolic links,Browse compressed folders,Slideshows,Shows combined Size of Selected Directories,Branch Sizes,Directory Compare,Synchronizer,Find as you type (Type-ahead find),Embedded/Integrated Terminal,For Directories  size column shows:

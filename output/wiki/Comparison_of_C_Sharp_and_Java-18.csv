@@ -1,0 +1,7 @@
+Functional programming,Java,C#
+Method references,<ref name="oracle1"/>
+Closures,
+Lambda expressions,<ref></ref>
+Expression trees,
+Generic query language,; but see 'Java 8 Stream equivalent' (Monad)<ref></ref>
+Tail recursion compiler optimizations,,<ref></ref>

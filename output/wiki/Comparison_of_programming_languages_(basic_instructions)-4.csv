@@ -1,0 +1,39 @@
+,Text,Boolean,Enumeration,Object/Universal
+Character,String
+Ada<ref name="Ada_RM_2012" />,Character,String' & 'Bounded_String' & 'Unbounded_String,Boolean,(item1  item2  ...),tagged null record
+ALGOL 68,char,string' & 'bytes,bool' & 'bits,- User defined,
+C (C99),char' 'wchar_t,,bool,enum «name» {item1  item2  ... '''};,void *
+C++ (STL),[[std::string|«std::»string]]
+Objective-C,unichar,NSString *,BOOL,id
+C#,char,string,bool,enum name {item1  item2  ... },object
+Java,String,boolean,Object
+Go,byte' 'rune,string,bool,const ( item1 = iota' item2 ... ' ),interface{}
+Rust,char,String,bool,enum name { item1  item2  ...},
+Swift,Character,String,Bool,enum name { case item1  item2  ... },Any
+D,char,string,bool,enum' name '{item1  item2  ... },std.variant.Variant
+Common Lisp,,,,,
+Scheme,,,,,
+ISLISP,,,,,
+Pascal (ISO),char,,boolean,(item1  item2  ...),
+Object Pascal (Delphi),string,variant
+Visual Basic,,String,Boolean,Enum' name item1 <br /> item2 <br /> ... 'End Enum,Variant
+Visual Basic .NET,Char,Object
+Xojo,,Object or Variant
+Python,,str,bool,,object
+JavaScript,,String,Boolean,,Object
+S-Lang,,,,,
+Fortran,CHARACTER(LEN = *),CHARACTER(LEN = :)  allocatable,LOGICAL(KIND = n),,CLASS(*)
+PHP,,string,bool,,(type declaration omitted)
+Perl,,,,,UNIVERSAL
+Perl 6,Char,Str,Bool,enum' name '<'item1 item2 ...'> or<br /> enum' name '<<:item1(value) :item2(value) ...>>,Mu
+Ruby,,String,Object,,Object
+Scala,Char,String,Boolean,object' name 'extends Enumeration { val' item1'  item2  ... = Value' '},Any
+Seed7,char,string,boolean,const type: name is new enum item1 <br /> item2 <br /> ... end enum;,
+Windows PowerShell,,,,,
+OCaml,char,string,bool,,
+F#,</nowiki> item2 = value | ...,obj
+Standard ML,,
+Haskell (GHC),Char,String,Bool,,
+Eiffel,CHARACTER,STRING,BOOLEAN,,ANY
+COBOL,PIC X,PIC X(string length) or PIC X«X...»,PIC 1«(number of digits)» or PIC 1«1...»,,OBJECT REFERENCE
+Mathematica,,String,,,

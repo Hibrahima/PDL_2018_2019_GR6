@@ -1,0 +1,25 @@
+,constructor,destructor,finalizer<ref>A finalizer is called by the garbage collector when an object is about to be garbage-collected. There is no guarantee on when it will be called or if it will be called at all.</ref>
+ABAP Objects,methods constructor «'importing' parameter = argument»<br />method constructor. instructions endmethod.<ref>In ABAP  the constructor is to be defined like a method (see comments about method) with the following restrictions: the method name must be "constructor"  and only "importing" parameters can be defined</ref>,colspan=2
+C++ (STL),~class'() { 'instructions' }',
+C#,class'('«parameters»') { 'instructions' }',void Dispose(){ instructions' }',~class'() { 'instructions' }'
+D,this(«parameters»') { 'instructions' }',,~this() { instructions' }'
+eC,class'() {' instructions },~class'() {' instructions },
+Java,class'('«parameters»') { 'instructions' }',,void finalize() { instructions' }'
+Eiffel,<ref name="creation routine">Any Eiffel procedure can be used as a creation procedure  aka constructors. See Eiffel paragraph at Constructor (computer science).</ref>,,<ref>Implementing {DISPOSABLE}.dispose ensures that dispose will be called when object is garbage collected.</ref>
+Objective-C (Cocoa),- (id)init { instructions... return self; } or <br /> - (id)initWithFoo':'parameter «bar':'parameter ...»' { 'instructions... return self; },- (void)dealloc { instructions' }',- (void)finalize { instructions' }'
+Swift,init(«parameters»') { 'instructions' }',deinit { instructions' }',
+Python,def __init__(self«'  'parameters»'):'<br /> instructions,,def __del__(self):<br /> instructions
+Visual Basic .NET,Sub New(«parameters»')'<br /> instructions <br />End Sub,Sub Dispose()<br /> instructions <br />End Sub,Overrides Sub Finalize()<br /> instructions <br />End Sub
+Xojo,Sub Constructor(«parameters»')'<br /> instructions <br />End Sub,Sub Destructor()<br /> instructions <br />End Sub,
+PHP,function __construct(«parameters»') { 'instructions' }',function __destruct() { instructions' }',
+Perl,sub new { my ($class«'  'parameters»') = @_; my $self = {}; 'instructions ... bless($self  $class); return $self; },sub DESTROY { my ($self) = @_; instructions' }',
+Perl 6,submethod BUILD { instructions } or<br /> «'multi' » method new(««$self':' »parameters»') { self.bless(*  'field1 => value1  ...); ... instructions }''',submethod DESTROY { instructions },
+Ruby,def initialize«'('parameters')'» <br /> instructions <br /> end,colspan=2
+Windows PowerShell,colspan=3
+OCaml,initializer instructions<ref>This "initializer" construct is rarely used. Fields in OCaml are usually initialized directly in their declaration. Only when additional imperative operations are needed is "initializer" used. The "parameters to the constructor" in other languages are instead specified as the parameters to the class in OCaml. See the class declaration syntax for more details.</ref>,colspan=2
+F#,do instructions or<br /> new(parameters') = ' expression<ref>This syntax is usually used to overload constructors</ref>,member this.Dispose() = instructions,override this.Finalize() = instructions
+JavaScript,function name'('«parameters»')' { instructions }<ref>In JavaScript  constructor is an object.</ref>,colspan=2
+JavaScript (ES6),constructor(«parameters»') {' instructions }
+COBOL,<ref>Constructors can be emulated with a factory method returning a class instance.</ref>,colspan=2
+Cobra,cue init(parameters')'<br /> base.init<br /> instructions,def dispose<br /> instructions,
+ISLISP,(defmethod initialize-object ((instance <class-name>) initvalues),

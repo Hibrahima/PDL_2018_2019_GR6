@@ -1,0 +1,23 @@
+Client name,Platform,License,WebDAV ACL editor,Discovery of other user’s collections,ICalendar events,ICalendar tasks,ICalerdar journals,ICalendar VAVAILABILITY (RFC 7953),CalDAV Scheduling,CardDAV,vCard Synchronization,User interface,Online store,.well-known URLs,[http://www.calconnect.org/pubdocs/CD0903%20Freebusy%20Read%20URL.pdf FBURL],[[SRV record|<span title='RFC 6764 “Locating Services for Calendaring Extensions to WebDAV (CalDAV) and vCard Extensions to WebDAV (CardDAV)”'>DNS SRV]],handles home-sets
+AgenDAV<ref>AgenDAV project home</ref>,Cross-platform JavaScript Web browser,,limited,,,,,,Does not arrange meetings with participants,,out of scope,AgenDAV's fullcalendar.io,,The used server is fixed in the configuration file,Does not arrange meetings with participants,the caldav-server settings need to be fixed in AgenDAV’s configuration file,
+Cadaver<ref>Cadaver home</ref>,Command-line,,,,,,,,,,,,,,,,
+aCal<ref></ref>,Android,,,,,,,,,,,aCal,,,,,
+AndroidCaldavSyncAdapater<ref></ref>,Android,,,,,,,,,,out of scope,Android,,,Out of scope,,
+CalDavZAP<ref>CalDavZAP</ref>,Cross-platform JavaScript Web browser,,,,,,,,Does not arrange meetings with participants,,out of scope,CalDavZAP,,The used server is fixed in the configuration file,Does not arrange meetings with participants,The used server is fixed in the configuration file,
+CardDavMATE<ref>CardDavMATE</ref>,Cross-platform JavaScript Web browser,,,,out of scope,out of scope,out of scope,out of scope,out of scope,vCard 3.0 only,,CardDavMATE,,The used server is fixed in the configuration file,Out of scope,The used server is fixed in the configuration file,
+InfCloud (CalDavZAP+CardDavMATE)<ref>InfCloud (integrated version of CalDavZAP and CardDavMATE)</ref>,Cross-platform JavaScript Web browser,,,,,,,,Does not arrange meetings with participants,vCard 3.0 only,,InfCloud,,The used server is fixed in the configuration file,Does not arrange meetings with participants,The used server is fixed in the configuration file,
+Chandler Desktop<ref>Chandler Project </ref>,Cross-platform Python,,,,,,,,,,,,,,,,
+DAVdroid<ref>DAVdroid website</ref>,Android,,,,,,,Out of scope,,,Server always wins,Android  OpenTasks,,,Out of scope,,
+jqCalDAV<ref>jqCalDAV project home</ref>,Cross-platform JavaScript Web browser,,,,,,,,,,,,,,,,
+KCardDAV<ref>KCardDAV project home</ref> (discontinued),Cross-platform Kontact add-on,,,,,,,,,,,,,,,,
+KOrganizer  KAddressBook  Kontact,Unix-KDE,,,,,,,,,,,KOrganizer,,,,,
+Lightning<ref>Lightning - Project Home</ref>,Cross-platform Thunderbird Add-on,,,,,,,,,,Out of scope,Lightning,,,,,probably not
+CardBook<ref>CardBook source</ref>,Cross-platform Thunderbird Add-on,,,,Out of scope,Out of scope,Out of scope,Out of scope,Out of scope,vCard 3.0 and vCard 4.0,,CardBook,Mozilla Add-ons (ATN),,Out of scope,,partial
+MineTime<ref>MineTime features</ref>,Cross-platform,,,,,,,,,,,,MineTime,minetime.ai,,,
+Mulberry<ref>Mulberry client configuration</ref>,Cross-platform,,,,,,,,,,,,,,,,
+Outlook CalDav Synchronizer<ref>Outlook CalDav Synchronizer website</ref>,Windows,,,,,,,,,,,Outlook,,,,,
+pyCardDAV<ref>pyCardDAV project home</ref>,Cross-platform Python,,,,,,,,,,,,,,,,
+The Bat!<ref>The Bat! - Features</ref>,Windows,,,,,,,,,,,The Bat!,,,,,
+Inverse SOGo Connector-Integrator<ref>SOGo Overview</ref>,Cross-platform Thunderbird Add-on,,,,,,,,,,,Mozilla,,,,,
+Evolution,Cross-platform,,,,,,,,,vCard 3.0 only,,Evolution,,,if the URL does not require authentication,,
+ReminderFox<ref>ReminderFox project home</ref>,Cross-platform Firefox,,,,,,,,,,,ReminderFox,,,,,

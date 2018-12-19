@@ -1,0 +1,41 @@
+System,Web,Email,CLI,GUI,REST,SOAP,Mylyn<ref name="MylynList"></ref>,Visual Studio,Others
+Apache Bloodhound,,<ref name="Pluggable email handler for Trac"></ref><ref name="email2trac utilities"></ref>,,,,,,,XMLRPC
+Assembla Tickets,,,,,,,,,
+Axosoft,,,,,,,,,- iPhone
+Bugzilla,,,,,,,,<ref name="Tasktop Dev for Visual Studio"/>,XMLRPC<ref name="XML-RPC doesn't work in IIS"></ref>
+Debbugs,,,,,,,,,
+Faveo Helpdesk,,,,,,,,,- Android App iOS App
+FogBugz,,,,,,,,,XML
+Fossil,,,,,,,,,
+FusionForge,,,,,,,,,
+GLPI,,,,,,,,,
+GNATS,,,,,,,,,
+HP Quality Center,,,,<ref></ref>,,,<ref></ref>,<ref name="Tasktop Dev for Visual Studio"></ref>,- IntelliJ IDEA
+IBM Rational ClearQuest,,,,,,,,,
+IBM Rational Team Concert,,,,,,,,,
+Jira,,,<ref>By third-party extension: plugins.atlassian.com</ref>,,,,,<ref name="Tasktop Dev for Visual Studio"/>,- Android App  iPhone App
+Launchpad,,,,,,,,,- Python<ref name="launchpadlib">Launchpadlib is a Python client library for the Launchpad RESTful API.</ref>
+Liberum Help Desk,,,,,,,,,
+MantisBT,,,,,,,,,- Android App
+Microsoft Dynamics CRM,,,,,,,,,
+org-mode,,,,,,,,,
+OTRS,,,,,,,,,
+Phabricator,,,,,,,,,
+Pivotal Tracker,,,,,,,,,- XML  iOS App
+Redmine,,,<ref group="notes" name="CLI-ROR">The Ruby on Rails console can be used to manually create tickets or replies</ref>,,,,,,- Android App  iOS App
+Request Tracker,,,,,<ref></ref>,,,,
+Roundup,,,,,,,,,XMLRPC<ref name="XML-RPC access to Roundup"></ref>
+StarTeam,,,,,,,,,
+Supportworks,,,,,<ref>Through 5005 API  but is undocumented</ref>,,,,
+SysAid,,,,,,,,,
+Team Foundation Server,,,,,,,,,
+TestTrack,,,,,,,,,- XML  Eclipse
+The Bug Genie,,,,,,,,,
+Trac,,<ref name="Pluggable email handler for Trac"/>,,,,,,,XMLRPC
+TrackerSuite.Net,,,,,,,,,
+Tuleap,,,,,,,,,
+Twproject,,,,,,,,,
+Usersnap,,,,,,,,,
+Wrike,,,,,,,,,
+YouTrack,,,,,,,<ref name="Eclipse Plugin Connector for YouTrack"></ref>,,
+System,Web,Email,CLI,GUI,REST,SOAP,Mylyn<ref name=MylynList/>,Visual Studio,Others

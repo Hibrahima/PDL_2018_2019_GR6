@@ -1,0 +1,28 @@
+,construction,destruction
+ABAP Objects,data variable type ref to class .<br />create object variable «'exporting' parameter = argument».<ref>parameter = argument may be repeated if the constructor has several parameters</ref>,<ref>SAP reserved to himself the use of destruction</ref><ref name="gc">This language uses garbage collection to release unused memory.</ref>
+C++ (STL),class variable«'('parameters')'»';' or<br />class *variable = new class«'('parameters')'»';',delete pointer';'
+C#,class variable = new class'('parameters''');,variable'.Dispose();'<ref name="gc" />
+Java,<ref name="gc" />
+D,destroy(variable');'
+eC,class «instance handle» { «properties/data members assignments  instance method overrides» },delete instance handle';'
+Objective-C (Cocoa),class *variable = [[class' alloc ] init];' or <br />class *variable = [[class' alloc ] 'initWithFoo':'parameter «bar':'parameter ...»'];',[variable release];
+Swift,let variable = class'('parameters')',
+Python,variable = class'('parameters')',del variable<ref name="gc" /> (Normally not needed)
+Visual Basic .NET,Dim variable As New class'('parameters')',variable'.Dispose()'<ref name="gc" />
+Xojo,Dim variable As New class'('parameters')',variable = Nil
+Eiffel,create variable or<br />create «'{'TYPE'}'» variable'.'make_foo «'('parameters')'» or<br />variable := create {TYPE'}' or<br />variable := create {TYPE'}.'make_foo «'('parameters')'»,<ref name="gc" />
+PHP,$variable = new class'«('parameters')»;',unset($variable');'<ref name="gc" />
+Perl 5,«'my '»'$'variable = class'->new'«'('parameters')'»';',undef($variable');'
+Perl 6,«'my '»$variable = class'.new'«'('parameters')'»';',$variable'.undefine;'
+Ruby,variable = class'.new'«'('parameters')'»,<ref name="gc" />
+Windows PowerShell,$variable = New-Object «'-TypeName'» class ««'-ArgumentList'» parameters»,Remove-Variable «'-Name'» variable
+OCaml,let variable = new class «parameters» or <br />let variable = object members end<ref>OCaml objects can be created directly without going through a class.</ref>,<ref name="gc" />
+F#,let variable = «'new' »class'('«parameters»')'
+Smalltalk,The class is an Object. Just send a message to a class  usually #new or #new:  and many others  for example: Point x: 10 y: 20.
+Array with: -1 with: 3 with: 2.,
+JavaScript,var variable = new class«(parameters)» or <br />var variable = { «key1':' value1«' ' key2':' value2 ...»»'}',<ref name="gc" />
+(Delphi),ClassVar := ClassType.ConstructorName'('parameters''');,ClassVar'.Free;'
+Scala,<ref name="gc" />
+COBOL,INVOKE class "NEW" RETURNING variable or MOVE class'::"NEW"' TO variable,
+Cobra,variable «'as' class» = class'('parameters')',variable'.dispose'
+ISLISP,(setq variable (create (class <some-class> [:field-1 value-1 [:field-2 value-2] ..]))),<ref name="gc" />

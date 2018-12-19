@@ -1,0 +1,13 @@
+Application,bin/cue,Apple disk image,img,ISO image,Nero CD image,Audio file/cue
+Alcohol 120%,,,,,,
+CDBurnerXP,<ref name="disk-image-format-support-convert">Unsupported format can be converted to a supported one.</ref>,,,,<ref name="disk-image-format-support-convert" />,
+cdrtools,,,,,,
+DeepBurner,,,,,,
+ExpressBurn,,,,,,
+ImgBurn,,,,,,
+InfraRecorder,,,,,,
+K3b,,,,,,
+Nero Burning ROM,,,,,,
+UltraISO,,,,,,
+X-CD-Roast,,,,,,
+Application,bin/cue,Apple disk image,img,ISO image,Nero CD image,Audio file/cue

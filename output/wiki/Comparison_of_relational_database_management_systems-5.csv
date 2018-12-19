@@ -1,0 +1,46 @@
+,Temporary table,Materialized view
+4th Dimension,,
+ADABAS,,
+Adaptive Server Enterprise,1,- see precomputed result sets
+Advantage Database Server,,(only common views)
+Altibase,,(only common views)
+Apache Derby,,
+ClustrixDB,,
+CUBRID,,
+DB2,,
+Empress Embedded Database,,
+EXASolution,,
+Firebird,,(only common views)
+HSQLDB,,
+H2,,(only common views)
+Informix Dynamic Server,,2
+Ingres,,
+InterBase,,
+Linter SQL RDBMS,,
+LucidDB,,
+MariaDB,,4
+MaxDB,,
+Microsoft Access (JET),,
+Microsoft Visual Foxpro,,
+Microsoft SQL Server,,
+Microsoft SQL Server Compact (Embedded Database),,
+Mimer SQL,,
+MonetDB,,
+MySQL,,4
+OpenBase SQL,,
+Oracle,,
+Oracle Rdb,,
+OpenLink Virtuoso,,
+Pervasive PSQL,,
+Polyhedra DBMS,,(only common views)
+PostgreSQL,,5
+Raima Database Manager,,
+RDM Server,,
+SAP HANA,,
+solidDB,,(only common views)
+SQL Anywhere,,
+SQLite,,
+Teradata,,
+UniData,,
+UniVerse,,
+,Temporary table,Materialized view

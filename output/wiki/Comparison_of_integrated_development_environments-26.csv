@@ -1,0 +1,4 @@
+IDE,License,Windows,Linux,macOS,Other platforms
+Eclipse JDT,,,,,FreeBSD  JVM  Solaris
+IntelliJ IDEA,, proprietary,,,,FreeBSD  OpenBSD  Solaris
+NetBeans,, GPL2,,,,Solaris

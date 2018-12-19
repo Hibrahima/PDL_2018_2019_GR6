@@ -1,0 +1,12 @@
++Language and inputs
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Non-English languages support,<ref>Android Issue 3732: Search Improve contact search Android Issue 9199: SQLite3 Unicode Case not working (only ASCII case works) (include ICU support) </ref>,<ref></ref><ref></ref><ref name=iOSVoiceLangs></ref>,,,,
+Underlining spell checker,<ref></ref><ref></ref>,<ref></ref>,<ref></ref>,,,?
+Built-in system-wide dictionary,<ref></ref>,<ref></ref>,<ref name="http://www.microsoft.com/windowsphone/en-us/howto/wp7/basics/typing-shortcuts.aspx"></ref>,,,
+Autoexpanding text replacements,,<ref></ref>,<ref name="http://www.microsoft.com/windowsphone/en-us/howto/wp7/basics/typing-shortcuts.aspx"/>,<ref></ref>,?,?,?
+Keyboard next word prediction,No <ref>Android Issue 8011: Next word predictive text </ref> 3rd party software<ref>How to Enable Predictive Text on Galaxy S3 | AndroidWidgetCenter.com </ref>,<ref>Apple brings predictive text to iOS 8 - CNET </ref>,<ref>Windows Phone 8S by HTC Support - Entering words with predictive text | HTC United Kingdom </ref>,,,
+Keyboard cursor controller,,;<ref>iOS 12 brings trackpad mode to every iPhone and iPad</ref> 9-11: Only on devices with 3D Touch;<ref>How to use iOS 9's keyboard as a trackpad with 3D Touch on iPhone 6s</ref>,<ref></ref>,,,
+Optical character recognition input method,<ref>Android Issue 56579: Input method via camera OCR </ref>,</ref> 8+: Only for inputting credit card details}}<ref>Safari in iOS 8 uses camera to scan and enter credit card info </ref>,,,,
+Third party input methods,<ref></ref>,,,No  only for Android apps through sideload of Android keyboard<ref></ref>,?,?,?
+Gesture text input,<ref></ref>,3rd party software like SwiftKey,<ref></ref>,,?,<ref>Swype-like virtual keyboard </ref>
+Emoji support,<ref>Android Issue 8375: Add emoji support to android . Code.google.com (2010-05-17). Retrieved on 2012-07-03.</ref>,<ref></ref>,<ref name="http://blogs.windows.com/bloggingwindows/2011/07/06/windows-phone-around-the-world-language-support-in-mango/"></ref>,<ref></ref>,?,3rd party software

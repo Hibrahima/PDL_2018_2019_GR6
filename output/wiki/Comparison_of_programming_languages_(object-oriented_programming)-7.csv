@@ -1,0 +1,20 @@
+,read-write,read-only,write-only
+ABAP Objects,colspan=3
+C++ (STL),colspan=3
+C#,type Bar { get; set; },type Bar { get; private set; },type Bar { private get; set; }
+D,colspan=3
+Java,colspan=3
+Objective-C 2.0 (Cocoa),@property (readwrite) type bar';' <br /> and then inside @implementation <br /> @synthesize bar';',@property (readonly) type bar';' <br /> and then inside @implementation <br /> @synthesize bar';',
+Swift,var bar : type,let bar : type,
+Eiffel,,,
+Python,@property<br />def bar(self):<br />instructions<br />@bar'.setter'<br />def bar(self  value):<br />instructions,@property<br />def bar(self):<br />instructions,bar = property()<br />@bar'.setter'<br />def bar(self  value):<br />instructions
+Visual Basic .NET,Property Bar As type« = initial_value» (VB 10),,
+PHP,,,
+Perl<ref>these examples need the Class::Accessor module installed</ref>,use base qw(Class::Accessor);<br />__PACKAGE__->mk_accessors('Bar');,use base qw(Class::Accessor);<br />__PACKAGE__->mk_ro_accessors('Bar');,use base qw(Class::Accessor);<br />__PACKAGE__->mk_wo_accessors('Bar');
+Perl 6,colspan=3
+Ruby,attr_accessor :bar,attr_reader :bar,attr_writer :bar
+Windows PowerShell,,,
+OCaml,colspan=3
+F#,member val Bar = value with get  set,,
+COBOL,level-number bar clauses PROPERTY.,level-number bar clauses PROPERTY «WITH» NO SET.,level-number bar clauses PROPERTY «WITH» NO GET.
+Cobra,pro bar from var «'as' type»,get bar from var «'as' type»,set bar from var «'as' type»

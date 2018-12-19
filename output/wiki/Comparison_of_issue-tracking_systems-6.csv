@@ -1,0 +1,39 @@
+System,Form based,Public key cryptography,Two-factor,OpenID,OAuth,LDAP,Shibboleth,Others
+Apache Bloodhound,,<ref name="SSL Authentication Plugin"></ref>,,<ref name="OpenID Authentication Plugin"></ref>,,,,
+Assembla Tickets,,,,,,(private version),,
+Axosoft,,,,,,,,
+Bugzilla,,,,<ref name="OpenID Auth Plugin"></ref>,,,,
+Debbugs,,,,,,,,
+Faveo Helpdesk,,,,,,,,
+FogBugz,,,,,,,,
+Fossil,,,,,,,,
+FusionForge,,,,,,,,, CAS
+GLPI,,,,,,,,
+GNATS,,,,,,,,
+HP Quality Center,,,,,,,,
+IBM Rational ClearQuest,,,,,,,,
+Jira,,,,,,,, via plugin<ref></ref><ref></ref>,, via Crowd<ref></ref>
+Liberum Help Desk,,,,,,,,
+MantisBT,,,,<ref></ref>,<ref></ref>,,,
+Microsoft Dynamics CRM,,,,,,,,
+org-mode,,,,,,,,
+OTRS,,,,,,,,
+Phabricator,,,,,,,,
+Pivotal Tracker,,,,, Google Account,,,,
+Redmine,,<ref></ref>,,<ref></ref>,,,, via Apache (using mod_rails),
+Request Tracker,,,,<ref>Needs a third-party extension (RT-Authen-OpenID on MetaCPAN.org)</ref>,,<ref>Needs a third-party extension (RT::Authen::ExternalAuth)</ref>,,<ref>See publicly available extensions</ref>
+Roundup,,,,<ref>developed by bugs.python.org team</ref>,,,<ref>See wiki page on ShibbolethLogin</ref>,<ref>Supports AUTHORIZATION header/var from front end authenticating web server/proxy.</ref>
+StarTeam,,,,,,,,
+Supportworks,,,,,,,,
+SysAid,,,,,,,,, CAS
+Team Foundation Server,,,,,,,,
+TestTrack,,,,,,,,- custom DLL
+The Bug Genie,,,,<ref name="OpenID Authentication Plugin"/>,,,,
+Trac,,<ref name="SSL Authentication Plugin"/>,,<ref name="OpenID Authentication Plugin"/>,,,,
+TrackerSuite.Net,,,,,,,,
+Tuleap,,,,,,,,
+Twproject,,,,,,,,, Simple container auth.
+Usersnap,,,,,,,,
+Wrike,,,,,,,,
+YouTrack,,,,,,,,: JIRA account
+System,Form based,Public key cryptography,Two-factor,OpenID,OAuth,LDAP,Shibboleth,Others

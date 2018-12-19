@@ -1,0 +1,6 @@
+Syntax,Here document,Language(s)
+<<EOF<br />I have a lot of things to say<br />and so little time to say them<br />EOF,Yes,Bourne shell  Perl  PHP  Ruby
+<<<EOF<br />I have a lot of things to say<br />and so little time to say them<br />EOF,Yes,PHP
+@"<br />I have a lot of things to say<br />and so little time to say them<br />"@,No,Windows Powershell
+"[<br />I have a lot of things to say<br />and so little time to say them<br />]",No,Eiffel
+"""<br />I have a lot of things to say<br />and so little time to say them<br />""",No,CoffeeScript  Python  Groovy  Swift

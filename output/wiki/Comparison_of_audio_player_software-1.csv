@@ -1,0 +1,42 @@
+Name,Author,First public release,Stable version,Cost,Software license,Based framework,Written in
+AIMP,AIMP DevTeam,,,,,BASS audio library (decoder),Delphi
+Amarok,Mark Kretschmann,,,,,via Phonon: GStreamer  xine  MPlayer  VLC  DirectShow  QuickTime,C++
+Aqualung,Tom Szilagyi et al.,,0.9beta11,,,,C
+aTunes,Alex Aranda et al.,,,,,,Java
+Audacious,Audacious Development Team,,,,,XMMS based,C  C++ (GTK+)
+Banshee,Aaron Bockover,,,,,GStreamer,C#
+Clementine,Clementine Team,,,,,GStreamer,C++ (Qt)
+cmus,Timo Hirvonen,,,,,,C
+Cog,Vincent Spader,,,,,,Objective-C
+Exaile,Adam Olsen,,,,,GStreamer,Python (GTK+)
+Ecoute,Louka Desroziers & Julien Sagot,,3.0.8,(until version 4),,AV Foundation & QuickTime,Objective-C
+Flash MP3 Player,Reality Software,,1.00,,,,
+foobar2000,Peter Pawlowski,,,,(core) <br />BSD (SDK),,C++
+GMusicBrowser,Quentin Sculo,,1.1.15 (released on ),,,GStreamer/MPlayer/mpg123/mpv,GTK2 Perl
+Guayadeque Music Player,,,,,,GStreamer,C++ (wxWidgets  wxSqlite)
+iTunes,Apple Inc.,,,,,QuickTime,
+JRiver Media Center,JRiver  Inc.,,,,,JRiver code,C++
+JuK,Scott Wheeler,,,,,,C++
+MediaMonkey Standard,Ventis Media Inc.,,,,,,Delphi  C
+MediaMonkey Gold,Ventis Media Inc.,,,,,,Delphi  C
+MediaMonkey Lifetime,Ventis Media Inc.,,,,,,
+Groove Music,Microsoft,,,,,,
+MPXPLAY,MPXPLAY,,,,,,C
+Music on Console,Damian Pietras,,,,,,C
+Music Player Daemon,Warren Dukes,,,,,,C
+MusicBee,Steven Mayall,,3.2.6827,,,BASS audio library,Visual Basic .NET
+musikCube,Casey Langen,,,,,,
+Napster,William Christopher Gorog,,,,,,
+Quod Libet,Quod Libet Team,,,,,GStreamer,Python (GTK) PyGTK
+Rdio,Rdio Inc,,,,,
+Rhapsody,RealNetworks,,,,,,
+Rhythmbox,Colin Walters,,,,,GStreamer,C
+Songbird,POTI Inc.,,,,,GStreamer
+Sonic Visualiser,Centre for Digital Music at Queen Mary  University of London,,3.1.1 (August 14  2018),,,,
+Sonique,Media Science,,1.96 (March 2002),,,,
+Spotify,Spotify LTD,,,,,,
+Style Jukebox,Digital Geek LTD,,,,,,C#
+Winamp,Nullsoft,,,,,Wasabi,C/C++
+XMMS,XMMS Team,,,,,original,C
+XMPlay,Un4seen Developments,,3.8 (),,,original (based on the BASS audio library),
+Name,Author,First public release date,Stable version,Cost,Software license,Based framework,Written in

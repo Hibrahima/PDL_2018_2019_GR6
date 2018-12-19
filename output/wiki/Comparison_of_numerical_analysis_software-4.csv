@@ -1,0 +1,12 @@
+,Standalone executables creation support,Symbolic computation support,OOP support,GUI creation support,Multi-dimensional arrays as primitive data type,Centralized extension library website,Can call code in other languages,Can be called from other languages
+Analytica,,,,,,,COM  Excel,Excel  COM  .NET
+Dyalog APL,<ref></ref>,,<ref></ref>,Win32  .NET  WPF  HTML/JS,,,COM  .NET  WebServices  Shared Libraries  DLLs  NAG  R  JavaScript<ref name="Dyalog APL Interface Guide"></ref>,COM  .NET  WebServices<ref name="Dyalog APL Interface Guide"/>
+GNU Data Language,,,,GUI Widgets since v.0.9 but still incomplete,,,C  Python,Python
+GNU MCSim,,,,XMCSim with TCL/TK and wish,,,C,R
+GNU Octave,with mkoctfile,only with GiNaC extension,<ref></ref>,<ref></ref>,,<ref></ref>,C++  Fortran <ref></ref> Perl <ref name="OctavePerl"/> Tcl<ref></ref>,Java <ref></ref> Perl <ref name="OctavePerl"></ref> C++<ref></ref>
+J,,,,,,,JavaScript,JavaScript
+Maple,,,<ref></ref>,,,<ref></ref>,C  C#  Fortran,MATLAB <ref></ref> Excel <ref></ref> VisualBasic  Java  and C<ref></ref>
+MLAB,,,,,,,,
+PDL,<ref></ref>,,<ref></ref>,<ref></ref>,,<ref></ref>,C via perlXS; C  Python  F77  etc. via Inline,Perl  C<ref></ref>
+SageMath,,,,,,<ref></ref>,Many languages<ref></ref><ref></ref><ref></ref>,(any language that can call Python)
+TK Solver,,,,,,,.NET Excel,Unknown

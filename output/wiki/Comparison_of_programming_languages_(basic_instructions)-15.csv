@@ -1,0 +1,32 @@
+,Argument values,Argument counts,Program name / Script name
+Ada<ref name="Ada_RM_2012" />,Argument (n')',Argument_Count,Command_Name
+C (C99),argv[n']',argc,first argument
+Objective-C
+C++
+C#,args[n']',args.Length,Assembly.GetEntryAssembly()<wbr/>.Location;
+Java,args.length,
+D,first argument
+JavaScript Windows Script Host implementation,WScript.Arguments(n')',WScript.Arguments.length,WScript.ScriptName or WScript.ScriptFullName
+Go,os.Args[n']',len(os.Args),first argument
+Swift,Process.arguments[n']' or <br /> Process.unsafeArgv[n']',Process.arguments.count or <br /> Process.argc,first argument
+Common Lisp,,,
+Scheme (R6RS),(list-ref (command-line) n')',(length (command-line)),first argument
+ISLISP,,,
+Pascal,ParamStr(n')',ParamCount,first argument
+Visual Basic,Command,,App.Path
+Visual Basic .NET,CmdArgs(n')',CmdArgs.Length,[Assembly].GetEntryAssembly().Location
+Xojo,System.CommandLine,(string parsing),Application.ExecutableFile.Name
+Python,sys.argv[n']',len(sys.argv),first argument
+S-Lang,__argv[n']',__argc,first argument
+Fortran,DO i' = '1' 'argc' CALL GET_COMMAND_ARGUMENT ('i' 'argv(i)) ENDDO,argc' = COMMAND_ARGUMENT_COUNT ()',CALL GET_COMMAND_ARGUMENT (0' 'progname')'
+PHP,$argv[n']',$argc,first argument
+Bash shell,$n ($1  $2  $3  ...) $@ (all arguments),$#,$0
+Perl,$ARGV[n']',scalar(@ARGV),$0
+Perl 6,@*ARGS[n']',@*ARGS.elems,$PROGRAM_NAME
+Ruby,ARGV[n']',ARGV.size,$0
+Windows PowerShell,$args[n']',$args.Length,$MyInvocation.MyCommand<wbr/>.Name
+OCaml,Sys.argv.(n')',Array.length Sys.argv,first argument
+F#,args.[n']',args.Length,Assembly.GetEntryAssembly()<wbr/>.Location
+Standard ML,List.nth (CommandLine<wbr/>.arguments ()  n')',length (CommandLine<wbr/>.arguments ()),CommandLine.name ()
+Haskell (GHC),},},System.getProgName
+COBOL,,

@@ -1,0 +1,25 @@
+Program,search (criteria),selection (styles),metadata,adjust image (functions),hotkeys,color management (ICC),JPEG Lossless operations,Unicode support,other / special
+ACDSee,,individual  linear  block,Exif  IPTC,many,,,rotation only,,GPS Location  Scripts for batch/pre processing  automatic slideshow
+CDisplay,,,,Rotate  Filter,configurable,,,,Slider  automatic slideshow  mouse control
+Comix,,,,Rotate  Filter,,,,,Slider  automatic slideshow  mouse control
+digiKam,file name  comments  most Exif and meta data,linear  block  complex,Exif and IPTC,many editing function,,,in 90° steps,,Geotagging  batch processing  detect duplicate/similar images  export to Internet/social media/HTML
+Eye of gnome,,,,Rotate,unconfigurable,,,,
+F-Spot,,,,,,,,,Export to HTML  Flickr  or O.r.i.g.i.n.a.l.
+FastPictureViewer,Filter the view by rating  file name...,Copy  move  delete  rate  label,Write XMP Rating/Label  IPTC metadata  Windows Rating  embedded or in sidecar files  shows shooting info (Exif) and realtime RGB histogram,,,(supports custom monitor profile  direct conversion from image colorspace to monitor colorspace  ICC v4),n/a,, native,Native 32 and 64-bit  Tethered shooting (MTP/PTP over USB)  Multicore-aware  DirectX accelerated  HD Photo / JPEG XR support.
+Gonvisor,,Delete  rename,,,,,n/a,, native,Made to easily read comics or manga can display two pages at time and view images in compressed ZIP  RAR  7z  cbr  cba  cbz etc.
+FastStone Image Viewer,,individual  linear,JPEG comment,many,,,lossless transitions,,
+Geeqie,collections  keywords  filename  location  size  date  dimensions  comments  previous results,block  linear  complex,,rotate  brightness  contrast,,,,,find duplicates  sort manager  recent collections
+gThumb,name  comment  date  category  folder  recursive-folder,linear  block  complex,,manipulate color  flip/rotate  etc.,,,,,bookmarks  comments  rename series  create index image  create HTML album
+Gwenview,tags,,Exif  IPTC  XMP,Rotate  Red eye removal  saturation  color balance  levels and more,,,,,batch processing  export to Internet/social media/HTML
+KPhotoAlbum,keywords  comments  title  any field from Exif metadata,linear  complex,,per KIPI plugins,configurable,,,,Quick-tagging using keyboard tokens
+Phase One Media Pro,name  date  rating  file size  and many more.,individual  linear,EXIF  IPTC  and custom keywords,Rotate  Red eye removal  saturation  color balance  levels and more,,,,,Find duplicates  hierarchical keywords  distributable catalog with free Media Pro reader  offline browsing of images
+Picasa,name  date  rating  faces,individual  linear,Keywords,basic,,,rotation only,,collages  Geotagging  Search for Faces  find duplicates
+ResourceSpace,,,Exif  IPTC  user defined,rotate  gamma,,,,,
+Shotwell,,individual  linear  hide,Read IPTC  Exif  XMP,Exposure  Saturation  Tint  Shadows  Temperature  and more,,,,,Non-destructive editor  Auto Enhance Images  Duplicate  Upload  Favorite
+Simple Comic,,,,<br />rotate,,,,,capture page  remove page  set icon
+STDU Viewer,,,,,,,,,
+Windows Photo Viewer,,,,rotate  lossless JPEG rotate  annotate TIFF images,,,rotate only,,
+XnView and XnViewMP,name  date  file size  image size  meta data  ...,individual  linear,IPTC  Exif  JPEG comment,many,configurable,Custom monitor profile supported,,Supported in XnViewMP,Supports Adobe Photoshop Filter 8BF plugins
+xv,,individual  all,view comments,many,,,,,
+Zoner Photo Studio,name  date  file size  meta data,individual  linear,IPTC  Exif  XMP  JPEG comment,very many,configurable,,,,sign images  16 bits per channel  GPS support  merge pictures to HDR  WIC codecs support
+Program,search (criteria),selection (styles),metadata,adjust image (functions),hotkeys,color management (ICC),JPEG Lossless operations,Unicode support,other / special

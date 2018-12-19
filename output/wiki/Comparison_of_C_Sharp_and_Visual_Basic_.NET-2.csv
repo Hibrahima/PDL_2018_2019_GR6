@@ -1,0 +1,8 @@
+C#,Visual Basic .NET
+if (i<10) {
+    // condition is true 
+} else if (othercondition) { 
+    // condition is false and othercondition is true
+} else { 
+    // condition and othercondition are false 
+}

@@ -1,0 +1,31 @@
+Name,ATA,SATA,SCSI,USB 3.0,USB 2.0,USB 1.1,FireWire,PCMCIA/PC card,AGP,Nvidia official driver IA-32,Nvidia official driver IA-64,Nvidia official driver AMD64,ATI official driver x86,ATI official driver x86-64,ATI r200 free software driver,ATI r300 free software driver,Nvidia free software driver,Audio,TV tuner  video editing  or webcam
+Linux,,,,2.6.31+<ref></ref>,,,,,,,,,,,,,,nv(2d only)  nouveau(3d with mesa),,
+FreeBSD,,,,8.2+,,,,,,,,,,,,,,,
+OpenBSD,,,,5.7+,,,,,,,,,,,<ref name="openbsd1"></ref>,2d only<ref name="openbsd1"/>,2d only<ref></ref>,,
+NetBSD,,,,7.1<ref></ref>,,,,,,,,,,,,,,,
+DragonFly BSD,,,,<ref></ref>,,,,,,,,,,,,,,,
+OpenSolaris  illumos,,,,,,,,,,,,,,,,,,,
+AuroraUX,,,,,,,,,,,,,,,,,,,
+Darwin  OpenDarwin,,,,,,,,,,,,,,,,,,,
+MINIX,,,,,,,,,,,,,,,,,,,
+FreeDOS,,,,,<ref name="USB with DOS">USB with DOS – Limited support for some devices provided by third-party driver.</ref>,<ref name="USB with DOS"/>,,,,,,,,,,,,,
+Genode,,,,,,,,,,,,,,,,,,,
+Haiku,,,,,,,,,,,,,,,,,,,
+KolibriOS,,,,,,,,,,,,,,,,,,,
+MenuetOS,,,,,,,,,,,,,,,,,,,
+GNU,,,,,,,,,,,,,,,,,,,
+ReactOS,,,,,<ref name="reactos.org">http://www.reactos.org/wiki/index.php/Installing_ReactOS#Choosing_an_installation_strategy – Very limited support.</ref>,<ref name="reactos.org"/>,,,,,,,,,,,,,
+L4  Fiasco  Pistachio,,,,,,,,,,,,,,,,,,,
+Plan 9,,,,,,,,,,,,,,,,,,,
+AROS,,,,,,,,,,,,,own,,,,2D only,,
+Syllable,,,,,,,,,,,,,,,,,,,
+Inferno,,,,,,,,,,,,,,,,,,,
+FreeRTOS,,,,,,,,,,,,,,,,,,,
+eCos,,,,,,,,,,,,,,,,,,,
+RTEMS,,,,,,,,,,,,,,,,,,,
+HelenOS,,,,,,,,,,,,,,,,,,,
+E/OS,,,,,,,,,,,,,,,,,,,
+K42
+UnixLite
+-->
+Name,ATA,SATA,SCSI,USB 3.0,USB 2.0,USB 1.1,FireWire,PCMCIA/PC card,AGP,Nvidia official driver IA-32,Nvidia official driver IA-64,Nvidia official driver AMD64,ATI official driver x86,ATI official driver x86-64,ATI r200 free software driver,ATI r300 free software driver,Nvidia free software driver,Audio,TV tuner  video editing  or webcam

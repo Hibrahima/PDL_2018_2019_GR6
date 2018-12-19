@@ -1,0 +1,46 @@
+,Union,Intersect,Except,Inner joins,Outer joins,Inner selects,Merge joins,Blobs and Clobs,Common Table Expressions,Windowing Functions,Parallel Query,System-versioned Tables
+4th Dimension,,,,,,,,,,,,
+ADABAS,,,,,,,,,,,,
+Adaptive Server Enterprise,,,,,,,,,,,,
+Advantage Database Server,,,,,,,,,,,,
+Altibase,,,,,,,,,,,,
+Apache Derby,,,,,,,,,,,,
+ClustrixDB,,,,,,,,,,,,
+CUBRID,,,,,,,,,,<ref name="CUBRID 9.0 release"/>,,
+DB2,,,,,,,,,,,<ref></ref>,<ref name="system-versioning">https://modern-sql.com/blog/2018-08/whats-new-in-mariadb-10.3#3.system-versioned-tables</ref>
+Empress Embedded Database,,,,,,,,,,,,
+EXASolution,,,,,,,,,,,,
+Firebird,,,,,,,,,,,,
+HSQLDB,,,,,,,<ref name="New Features in HyperSQL 2.2">New Features in HyperSQL 2.2</ref>,,,,<ref name="New Features in HyperSQL 2.2"/>,
+H2,,,,,,,,,experimental<ref>H2 > Advanced > Recursive Queries</ref>,<ref>H2 Roadmap</ref>,,
+Informix Dynamic Server,,,,,,,,,,,<ref>Informix parallel data query (PDQ)</ref>,
+Ingres,,,,,,,,,,,,
+InterBase,,,,,,,,,,,,
+Linter SQL RDBMS,,,,,,,,,,,,
+LucidDB,,,,,,,,,,,,
+MariaDB,,<ref name="intersect_in_mariadb"></ref>,<ref name="except_in_mariadb"></ref>,,,,,,<ref name="cte_in_mariadb"></ref>,<ref name="mdb_window"></ref>,<ref name="ReferenceA"></ref>,<ref name="system-versioning">https://modern-sql.com/blog/2018-08/whats-new-in-mariadb-10.3#3.system-versioned-tables</ref>
+MaxDB,,,,,,,,,,,,
+Microsoft Access (JET),,,,,,,,,,,,
+Microsoft Visual Foxpro,,,,,,,,,,,,
+Microsoft SQL Server,,,,,,,,,,<ref></ref>,<ref></ref>,<ref name="system-versioning">https://modern-sql.com/blog/2018-08/whats-new-in-mariadb-10.3#3.system-versioned-tables</ref>
+Microsoft SQL Server Compact (Embedded Database),,,,,,,,,,,,
+Mimer SQL,,,,,,,,,,,,
+MonetDB,,,,,,,,,,,,
+MySQL,,,,,,,,,<ref name="bugs.mysql.com"></ref>,,<ref name="ReferenceA"/>,<ref name="system-versioning">https://modern-sql.com/blog/2018-08/whats-new-in-mariadb-10.3#3.system-versioned-tables</ref>
+OpenBase SQL,,,,,,,,,,,,
+OpenLink Virtuoso,,,,,,,,,,,,
+Oracle,,,,,,,,,1,,<ref></ref>,<ref name="system-versioning">https://modern-sql.com/blog/2018-08/whats-new-in-mariadb-10.3#3.system-versioned-tables</ref>
+Oracle Rdb,,,,,,,,,,,,
+Pervasive PSQL,,,,,,,,,,,,
+Polyhedra DBMS,,,,,,,,,,,,
+PostgreSQL,,,,,,,,,<ref></ref>,,<ref></ref>,<ref name="system-versioning">https://modern-sql.com/blog/2018-08/whats-new-in-mariadb-10.3#3.system-versioned-tables</ref>
+Raima Database Manager,,,,,,,,,,,,
+RDM Server,,,,,,,,,,,,
+SAP HANA,,,,,,,,,,,,
+solidDB,,,,,,,,,,,,
+SQL Anywhere,,,,,,,,,,,,
+SQLite,,,,,,,,,<ref>SQLite Query Language: WITH clause</ref>,<ref>Window Functions</ref>,,<ref name="system-versioning">https://modern-sql.com/blog/2018-08/whats-new-in-mariadb-10.3#3.system-versioned-tables</ref>
+SQream DB,,,,,,,,,,,,
+Teradata,,,,,,,,,,,,
+UniVerse,,,,,,,,,,,,
+,Union,Intersect,Except,Inner joins,Outer joins,Inner selects,Merge joins,Blobs and Clobs,Common Table Expressions,Windowing Functions,Parallel Query,System-versioned Tables

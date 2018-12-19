@@ -1,0 +1,47 @@
++Interoperability
+Research Networking Tool,Interoperability with Institutional Enterprise Systems,Interoperability with External Systems,Integration with Add-on Components or Products,Regional  National  International or Federated Connectivity?
+Academic Room,,unknown,unknown,The system is voluntary  so national and international by active inclusion
+Activity Insight,(Banner  Datatel  PeopleSoft  CampusVue  Jenzabar  etc.),(Google Scholar  Scopus  Web of Science  RefWorks  etc.),(EndNote  Mendeley  Zotero  tools which generate BiBTeX  CSV or XML files),
+C-IKNOW,,(is possible),Unknown,
+PROFILES by Mentis® (formerly Collaborative Partnership / Profile System),,(has API  works with Elsevier PURE  Activity Insight  VIVO etc.),(funding opportunities from grants.gov),(National and International)
+Community Academic Profiles - CAP,,,Yes,
+Converis,(Bisynchronous and one way operations with institution's enterprise system both possible.),(Yes  Web of Science  ORCID  pubmed  europubmed.),(Integrates with Pentaho Research Analytics module and InCites),
+CurvitaTM Profile Manager,,,Unknown,
+CUSP - Columbia University Scientific Profiles,,PubMed only,Unknown,
+Digital Vita,,(only PubMed),Unknown,National federated connectivity through DIRECT2Experts
+Elsevier's Pure,institutions have access to Web Services in order to feed data into internal databases; Web Services can be consumed as directed by institution. Pure currently ingests a range of data from institutions' own systems  including grants data  HR data  institutional repositories  publication databases  book listings and more.,Scopus  PubMed  NIH RePORTER  Embase  Mendeley  arXiv  Worldcat  CrossRef  JournalTOC  CAB Abstracts  SAO/NSA Astrophysics Data System  Web of Science  institution's internal databases  including HR data  grants  publications  patents  etc.,Pure integrates with SciVal to allow easy analysis of your researcher impact with the benchmark capabilities of SciVal.,The Pure Community Module interconnects participating institutions into a single centralized Pure instance. Additional functionality enables users to search across different institutions or run cross-campus reports https://www.elsevier.com/solutions/pure/features/pure-community-module
+Elsevier's SciVal,(Institutions have access to the API with Scopus data in order to feed data into internal databases.),(Integrates with Pure.),(Scopus & ScienceDirect),
+Epernicus Solutions & Epernicus Network,(Possible  for Epernicus Solutions),,Unknown,
+ERIM Member Profile System (ERIM MIS),,ID resolver included  so links to external systems are created  like SSRN  ResearcherID  Google scholar alerts & Search  social mention search from personal page  MEEBO sharing possible  Tynt statistics included,Unknown,
+EUREKA!TM Enhancing Student Research,,,Unknown,
+Expertise @ Maryland,May be possible,,Unknown,
+Faculty Profile System,,,Unknown,
+Faculty Research Information Profile (FRIP),Discontinued. Work on this system ceased; moved on to developing Digital Vita,N/A,N/A,N/A
+Faculty Scholarly Productivity Index,Unknown,Unknown,Unknown,
+GENIUS,,Only other InfoEd modules (SMARTS: Service that automatically sends notices of funding opportunities via email. You provide keywords that describe your research interests  and SMARTS matches those keywords with present funding programs; SPIN: Enables subscribers to directly search for all sponsored programs  past and present  contained within the InfoEd database),Unknown,
+Google,,,Possibly,
+HUBzero,,PubMed; data is semantic web compliant as of August 2011,Possibly,
+iamResearcher,Unknown,Unknown,Unknown,Unknown
+iAMscientist,,PubMed,Unknown,
+i2iConnect,,,Unknown,
+InCites,(Institutions have access to Web Services in order to feed data into internal databases.),(Integrates with Converis.),(Web of Science  ResearcherID),
+INDURE (Indiana Database for University Research Expertise),,,Unknown,for 4 Indiana institutions only
+Lattes Database,Unknown,Unknown,Unknown,Unknown
+LatticeGrid,InfoEd  eIRB  Medical School faculty database,(PubMed),(Possible),National federated connectivity through DIRECT2Experts
+LinkedIn,,,Unknown,
+Life Science Network,,(Pubmed),,
+Loki,Possible,,Unknown,
+Lyterati,(Ellucian  PeopleSoft  Workday InfoEd  Coeus),(PubMed  VIVO  Google Scholar  BibTex or CSV Sources),(BibTex and CSV),, capable
+McCormick Collaboration Visualization Tool,,Only Clarivate Analytics Web of Science,Unknown,
+MizzouLinks,Maybe,,Unknown,
+MyScienceWork,,Unknown,Unknown,
+OSU:pro,,Unknown,Unknown,
+Pivot,,Maybe,Unknown,Unknown
+Profiles Research Networking Software,,Pubmed  commercial sources of publication data  semantic web applications via VIVO ontology.,,Profiles Users Group has regular conference calls and works on collaborative software development projects. Profiles can perform federated queries across other Profiles instances  and with other products using linked open data (VIVO ontology) and the DIRECT2Experts API.
+REACH NC Life Science Experts Visualization Tool,,Through SciVal API,,
+Research Accelerator,,,Unknown,
+ResearcherID,,Through ResearcherID download service  institutions can load data into their internal systems. Also is integrated with other Clarivate Analytics offerings  including Web of Science  EndNote  and Research In View,Unknown,
+SciENcv,(is possible through open data exchange standards),,Unknown,
+Symplectic Elements,Clients have the ability to integrate with existing web profile management systems  export data for business intelligence solutions and easily submit research outcomes for various government assessment exercises. This includes HR  publications  teaching activities  grants  institutional repositories  and any other system providing or consuming research data.,Elements integrates with a variety of external systems including: Altmetric  figshare  ORCID  SHERPA/RoMEO (licensing information)  DOAJ (licensing information),Elements can be linked to all major open repository technologies and an open source VIVO Harvester extension is also available.,
+VIVO,Data can be ingested from a wide variety of local sources (including HR  grants  course databases  institutional repositories  membership rosters  research interests  and many others) to reflect a complete view of the institution's priorities and efforts.,see mini-grants <http://www.vivoweb.org/blog/2011/01/award-announcement-vivo-collaborative-research-projects-program>; eagle-i; Drupal; many others - any tool that can consume open linked data. Other ongoing collaborations with Wellspring (maintaining VIVO profiles with a focus upon tech transfer and also as a 3rd party implementation service provider) and with Symplectic.,VIVO collaborates with eagle-I on research resources. Future plans include adding many additional data types which are meaningful in the academic research setting. VIVO data are structured using a comprehensive ontology designed for local extension and major ontology "plugins" such as BIBO and eagle-i.,VIVO Consortium received $12.2M NIH ARRA U24 award in 2009 to fully develop software and create national system of federated research expertise directories/research networking systems; All other semantic web-compliant software platforms can be integrated into the consortium (example: Harvard Profiles). Participant in Direct2Experts and VIVO Search
+Yaffle,,,Unknown,The Canadian research funding councils as well as knowledge mobilization networks across the country (governments and universities) are working to develop a model to share what Yaffle has built

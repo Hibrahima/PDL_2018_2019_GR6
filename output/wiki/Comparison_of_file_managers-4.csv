@@ -1,0 +1,35 @@
+File manager,SMB/CIFS,WebDAV,NFS,AFP,FTP,FISH/SSH
+Altap Salamander,,,,,,
+Commander One,<ref group="n" name="ossupport" />,,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,,
+CRAX Commander,<ref group="n" name="ossupport" />,,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,,
+Directory Opus,,,,,,(SFTP & SSL<ref>Requires an additional licence (purchased separately)</ref>)
+Dired,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,,,<ref group="n" name="ossupport" />
+Dolphin,,,,,,
+Double Commander,,,,,,
+emelFM2,,,,,,
+Far Manager,,<ref group="n" name="ExternalWebDAV" />,<ref group="n" name="UNIXServe" />,,,<ref group="n" name="plugin" />
+File Commander,,<ref group="n" name="ExternalWebDAV" />,<ref group="n" name="UNIXServe" />,,<ref group="n" name="ExternalFTP" />,<ref group="n" name="ExternalSFTP" />
+File Manager,,,,,,
+Finder,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,
+ForkLift,,,,,,
+GNOME Commander,,,,,,
+Konqueror,,,,,,
+Krusader,,,,,,
+muCommander,,,,,,
+Midnight Commander,,,,,,
+GNOME Files (Nautilus),,,,,,
+Nemo,}<ref group="n" name="gvfs" />,?,?,?,?,?
+Nomad.NET,,,,,,
+Path Finder,,,,,(Read Access),
+PCManFM,<ref group="n" name="gvfs" />,,,,,
+ROX-Filer,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />,<ref group="n" name="ossupport" />
+Total Commander,,<ref group="n" name="plugin" />,<ref group="n" name="UNIXServe" />,,,
+Thunar,<ref group="n" name="gvfs" />,<ref group="n" name="gvfs" />,<ref group="n" name="gvfs" />,,<ref group="n" name="gvfs" />,<ref group="n" name="gvfs" />
+Windows Explorer,,,<ref group="n" name="SUA" />,,,
+Xandros File Manager,,,,,,
+Xfe,,,,,,
+Xfm,,,,,,
+xplorer²,,<ref group="n" name="NetPlaces" />,<ref group="n" name="UNIXServe" />,,,
+XYplorer,,,<ref group="n" name="SUA" />,,,
+ZTreeWin,,<ref group="n" name="ExternalFTP" />,<ref group="n" name="UNIXServe" />,,<ref group="n" name="ExternalFTP" />,<ref group="n" name="ExternalSFTP" />
+File manager,SMB/CIFS,WebDAV,NFS,AFP,FTP,FISH/SSH

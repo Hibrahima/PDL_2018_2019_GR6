@@ -1,0 +1,21 @@
+Name,Architecture,Store,Integrated firewall,SMP support,USB support,UDMA support,Long filename support,Package management,Update management,APIs,DDIs,Safe Mode,Data Execution Prevention,DirectX
+Windows NT 3.1,IA-32  DEC Alpha  MIPS,,,,,,(NTFS and HPFS volumes only),,,Win32  OS/2  POSIX,DLL  KMD,,,
+Windows NT 3.5,IA-32  DEC Alpha  MIPS,,,,,,(except on CDFS volumes),,,Win32  OS/2  POSIX,DLL  KMD,,,
+Windows NT 3.51,IA-32  DEC Alpha  MIPS  PowerPC,,,,,,(except on CDFS volumes),,,Win32  OS/2  POSIX,DLL  KMD,,,
+Windows NT 4.0,IA-32  DEC Alpha  MIPS  PowerPC,,,,(if the Ion USB update is installed),,,,Windows Update (if Internet Explorer 5 or later is installed),Win32  OS/2  POSIX,DLL  KMD,,,3.0a  5.0(unofficial)
+Windows 2000,IA-32,,,,(USB 2.0 with update or SP4)<ref></ref>,,,,Windows Update  WSUS,Win32  OS/2  POSIX,DLL  KMD  WDM  KMDF,,,7.0  9.0c(feb2010)(optional)
+Windows XP,IA-32(NT5.1)  Itanium(NT5.1/5.2)  x64(NT5.2),,,(Professional Edition only),(USB 2.0 with update or SP1+)<ref></ref>,,,,Windows Update  WSUS,Win32  .NET,DLL  KMD  WDM  KMDF  UMDFv1,,(in SP2),9.0c
+Windows Server 2003,IA-32  Itanium  x64,,,,(USB 2.0)<ref></ref>,,,,Windows Update  WSUS,Win32,DLL  KMD  WDM  KMDF  UMDFv1,,(in SP1),9.0c
+Windows Fundamentals for Legacy PCs,IA-32,,,,,,,,Windows Update  WSUS,Win32,DLL  KMD  WDM  KMDF  UMDFv1,,,9.0c
+Windows Vista,IA-32  x64,Windows Marketplace,,,(USB 2.0),,,,Windows Update  WSUS,Win32  .NET  POSIX (only Enterprise and Ultimate),DLL  KMD  WDM  KMDF  UMDFv1,,,10.1 11.0(optional)
+Windows Server 2008,IA-32  Itanium  x64,,,,(USB 2.0),,,,Windows Update  WSUS,Win32,DLL  KMD  WDM  KMDF  UMDFv1,,,10.1 11.0(optional)
+Windows Home Server,IA-32,,,,(USB 2.0),,,,Windows Update,Win32,DLL  KMD  WDM  KMDF  UMDFv1,,,9.0c
+Windows 7,IA-32  x64,,,,(USB 3.0),,,,Windows Update  WSUS,Win32  .NET,DLL  KMD  WDM  KMDF  UMDFv1,,,11.0 11.1(optional)
+Windows Server 2008 R2,Itanium  x64,,,,(USB 3.0),,,,Windows Update  WSUS,Win32  .NET,DLL  KMD  WDM  KMDF  UMDFv1,,,11.0 11.1(optional)
+Windows Home Server 2011,x64,,,,(USB 3.0),,,,Windows Update,Win32,DLL  KMD  WDM  KMDF  UMDFv1,,,11.0 11.1(optional)
+Windows Server 2012,x64,Windows Store,,,(USB 3.0),,,Windows Store,Windows Update  WSUS,Win32  .NET  WinRT,DLL  KMD  WDM  KMDF  UMDFv1,,,11.1
+Windows 8,IA-32  x64,Windows Store,,,(USB 3.0),,,Windows Store,Windows Update  WSUS,Win32  .NET  WinRT,DLL  KMD  WDM  KMDF  UMDFv1,,,11.1
+Windows 8.1,IA-32  x64,Windows Store,,,(USB 3.0),,,Windows Store  PowerShell,Windows Update  WSUS  Windows Store,Win32  .NET  WinRT,DLL  KMD  WDM  KMDF  UMDFv1  UMDFv2,,,11.2
+Windows Server 2012 R2,x64,Windows Store,,,(USB 3.0),,,Windows Store,Windows Update  WSUS  Windows Store,Win32  .NET  WinRT,DLL  KMD  WDM  KMDF  UMDFv1  UMDFv2,,,11.2
+Windows 10,IA-32  x64,Windows Store,,,(USB 3.1 and Thunderbolt 3),,,Windows Store  PowerShell,Windows Update  WSUS  Windows Store,Win32  .NET  WinRT  Linux,DLL  KMD  WDM  KMDF  UMDFv1  UMDFv2,,,12
+Windows Server 2016,x64,Windows Store,,,(USB 3.1 and Thunderbolt 3),,,Windows Store,Windows Update  WSUS  Windows Store,Win32  .NET  WinRT,DLL  KMD  WDM  KMDF  UMDFv1  UMDFv2,,,12

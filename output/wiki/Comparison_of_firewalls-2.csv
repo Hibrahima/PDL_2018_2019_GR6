@@ -1,0 +1,23 @@
+Firewall,License,Cost,OS
+Clavister,,Included on all Clavister NGFWs,Proprietary operating system cOS Core
+Check Point,,Included on Check Point security gateways,Proprietary operating system Check Point IPSO and Gaia (Linux-based)
+FortiGate,,Included on all Fortigate devices
+Palo Alto Networks,,Included on Palo Alto Networks firewalls,Proprietary operating system PANOS
+Sophos,,Included on Sophos UTM,Linux-based appliance
+Cisco ASA Firepower,,Included on all CISCO ASA devices,Proprietary operating system
+Cisco PIX,,Included on all CISCO PIX devices,Proprietary operating system
+Juniper SSG,,Included on Netscreen security gateways,Proprietary operating system ScreenOS
+Juniper SRX,,Included on SRX security gateways,Proprietary operating system Junos
+Sonicwall,,Included on Dell appliance
+Barracuda Firewall,,Included Firewall Next Generation appliance,Windows-based appliance<br />embedded firewall distribution
+Cyberoam,,Included Firewall Sophos appliance,Windows-based appliance<br />embedded firewall distribution
+D-Link,,Included Firewall DFL,Windows-based appliance<br />embedded firewall distribution
+Endian Firewall,,Free / Paid,Linux-based appliance
+Forcepoint NGFW,,Included on all Forcepoint NGFW devices,Proprietary operating system
+OPNsense,Simplified BSD / FreeBSD License,Free / Paid,FreeBSD-based appliance<br />firewall distribution
+pfSense,ESF/Apache 2.0,Free / Paid,FreeBSD-based appliance<br />firewall distribution
+Untangle,GPL,Free / Paid,Linux-based appliance<br />firewall distribution
+Zeroshell,GPL,Free / Paid,Linux/NanoBSD-based appliance<br />firewall distribution
+SmoothWall,GPL,Free / Paid,Linux-based appliance<br />embedded firewall distribution <ref>"(Smoothwall is) a Free firewall that includes its own security-hardened GNU/Linux operating system"  Smoothwall. Retrieved on 2 August 2016.</ref>
+IPFire,GPL,Free (Donations welcomed),Linux-based appliance<br />embedded firewall distribution
+WinGate,GPL,Free / Paid,Windows-based appliance<br />embedded firewall distribution

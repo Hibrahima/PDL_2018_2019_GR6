@@ -1,0 +1,30 @@
+Name,Networking support,NE2000/RTL8029,RTL8139,Gigabit Ethernet,10 Gigabit Ethernet,Wireless LAN,Bluetooth,IrDA
+Linux,,,,,,,,
+FreeBSD,,,,,,,,
+OpenBSD,,,,,,,,
+NetBSD,,,,,,,,
+DragonFly BSD,,,,,,,,
+OpenSolaris  illumos,,,,,,,,
+AuroraUX,,,,,,,,
+Darwin  OpenDarwin,,,,,,,,
+MINIX,,,,,,,,
+FreeDOS,,,,,,,,
+Genode,,,,,,,,
+Haiku,,,,,,,,
+KolibriOS,,,,,,,,
+MenuetOS,,,,,,,,
+GNU,,,,,,,,
+ReactOS,,,,,,,,
+L4  Fiasco  Pistachio,,,,,,,,
+Plan 9,,,,,,,,
+AROS,,,,,,,,
+Syllable,,,,,,,,
+Inferno,,,,,,,,
+FreeRTOS,,,,,,,
+eCos,,,,,,,,
+RTEMS,,,,,,,,
+HelenOS,,,,,,,,
+E/OS,,,,,,,,,V2 OS
+K42
+UnixLite -->
+Name,Networking support,NE2000/RTL8029,RTL8139,Gigabit Ethernet,10 Gigabit Ethernet,Wireless LAN,Bluetooth,IrDA

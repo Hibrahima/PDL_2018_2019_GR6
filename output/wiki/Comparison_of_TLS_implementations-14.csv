@@ -1,0 +1,20 @@
+Implementation,/dev/crypto,af_alg,Windows CSP,CommonCrypto,OpenSSL engine
+BearSSL,,,,,
+Botan,,,,,
+CryptoComply,,,,,
+cryptlib,,,,,
+GnuTLS,,,,,
+JSSE,,,,,
+LibreSSL,,,,,<ref name="libressl-2.2.1"></ref>
+MatrixSSL,,,,,
+mbed TLS,,,,,
+NSS,,,,,
+OpenSSL,,,,,
+RomSTL,,,,,
+RSA BSAFE,,,,,
+rustls,,,,,
+SChannel,,,,,
+Secure Transport,,,,,
+wolfSSL,,,,,
+Erlang/OTP SSL application,,,,,
+Implementation,/dev/crypto,af_alg,Windows CSP,CommonCrypto,OpenSSL engine

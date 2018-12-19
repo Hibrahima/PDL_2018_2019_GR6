@@ -1,0 +1,7 @@
+,Type,Method,Type inheritance,Table inheritance
+CUBRID,,,,
+Oracle,,<ref group="Note">No private methods  no way to call super method from a child.</ref>,,
+OpenLink Virtuoso,,,,
+PostgreSQL,,,,
+Informix,,,,
+WakandaDB,,,,

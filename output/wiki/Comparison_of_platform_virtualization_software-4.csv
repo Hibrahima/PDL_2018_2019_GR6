@@ -1,0 +1,33 @@
+Name,Can boot an OS on another disk partition as guest,USB support,GUI,Live memory allocation,3D acceleration,Snapshots per VM,Snapshot of running system,Live migration,Shared folders,Shared clipboard,PCI passthrough
+KVM,,,<ref name="virt-manager" />,,(via AIGLX),,<ref name="sheepdog" />,<ref name="kvm" />,,,
+User Mode Linux,,,,,,,,,,N/A,
+Containers  or Zones,,,,,Not needed,<ref></ref>,,,,Not needed,Not needed
+DosBox,,,,,,,,,,,
+Oracle VirtualBox (formerly OSE  GPLv2),,,,,,branched<ref name="vbox310" />,,,,,
+Oracle VirtualBox with Extension Pack and Guest Additions (PUEL),,,,,,branched<ref name="vbox310"/>,,,,,
+Oracle VM Server for SPARC (LDoms),,,,,,,,,,,
+OKL4 Microvisor,,,VMs only,,,,,,,,
+Virtual Iron 4.2,,,,,,,,,,,
+Virtual PC 2007,,,,,,,,,,,
+Windows Virtual PC,,,,,,,,,,,
+VirtualPC 7 for Mac,,,,,,,,,,,
+Microsoft Virtual Server 2005 R2,,,,,,?,,,,,
+Microsoft Hyper-V Server 2008 R2,,,,,(via RemoteFX),branched,,,,,
+Microsoft Hyper-V Server 2012 R2,,,,,(via RemoteFX),branched,,,,,
+Virtuozzo,,,,,,,,,,,
+VMware ESX Server 3.0 atp,,,,,,?,,,,,
+VMware ESX Server 2.5.3,,,,,,,,,,,
+VMware ESX Server 4.0 (vSphere),,,,,,?,,,,,<ref name=esxpci />
+VMware Fusion 2.0,,,,,,,,,,,
+VMware Server,,,,,,1,,,,,
+VMware Workstation 5.5,,,,,; also supported with VMGL<ref name="VMGL" />,branched,,,,,
+VMware Workstation 6.0,,,,,; Also supported with VMGL<ref name="VMGL"/>,branched,,,,,
+VMware Workstation 7.0 and 8.0,,,,,.<ref name="vmware3" />,branched,,,,,
+VMware Player,,,,,supported with VMGL<ref name="VMGL"/>,,,,,,
+Wind River hypervisor,,,,,,,,,,,
+Wind River VxWorks MILS Platform,,,,,,,,,,,
+Xen,,<ref></ref>,<ref name="virt-manager" />,,Supported with VMGL<ref name="VMGL"/>,?,,,,,
+XenServer,,,<ref name="virt-manager" />,,Supported with VMGL<ref name="VMGL"/>,,,,,,
+z/VM,,Not applicable,(zURM/HMC),,Not applicable,,,(2011),,Not applicable,Not applicable
+z LPARs,,Not applicable,(HMC),,Not applicable,,,(2007),,Not applicable,Not applicable
+Name,Can boot an OS on another disk partition as guest,USB,GUI,Live memory allocation,3D acceleration,Snapshots per VM,Snapshot of running system,Live migration,Shared folders,Shared clipboard,PCI passthrough

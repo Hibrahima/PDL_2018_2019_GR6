@@ -1,0 +1,10 @@
+Kernel,Acorn ADFS,Amiga FFS,BeFS,BFS,cramfs,EFS,ext2,ext3,ext4,F2FS,FAT,FreeVxFS,HFS,HFS+,HPFS,ISO 9660,JFFS,JFFS2,JFS,MINIX fs,NSS,NTFS,OCFS,QNX4 FS,System V FS,UDF,UFS,XFS,ZFS,ReiserFS,Reiser4,Btrfs,HAMMER,Tux3,exFAT,ReFS
+DragonFly BSD kernel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+FreeBSD kernel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Linux kernel,<ref name="experi">experimental and dangerous write support</ref>,,,,,,,,,,,,,,,,,,,,,,,<ref name="experi"/> <ref>write support currently broken</ref>,,,<ref name="experi"/>,,,,,,,,</ref>)}},
+MINIX 3 kernel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NetWare kernel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ReactOS kernel,,,,,,,,,,,<ref name="reactos-fs">Version Status - ReactOS</ref>,,,,,<ref name="reactos-fs"/>,,,,,,,,,,<ref name="reactos-fs"/>,,,,,,<ref name="win-btrfs">additional driver needed - see https://github.com/maharmstone/btrfs</ref>,,,,
+Solaris kernel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Windows NT kernel,,,,,,,<ref name=windowsextdriver>additional driver needed - see http://www.fs-driver.org/</ref>,<ref name=winext2fsd>additional driver needed - see http://www.ext2fsd.com</ref>,<ref name="winext2fsd"/>,,,,<ref name=windowsext>additional driver needed</ref>,<ref name="windowsext"/>,,,,,,,,,,,,,,,,,,<ref name="win-btrfs"/>,,,,
+XNU,,,,,,,<ref name="Macext">Third party module required. Mac OS X Kernel Module available here</ref>,<ref name="Macext"/>,,,,,,,,,,,,,,,,,,,,,,,,,,,,

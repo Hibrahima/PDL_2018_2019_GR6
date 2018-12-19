@@ -1,0 +1,57 @@
+Company,Software,On-demand<br /> scan,On-access<br /> scan,Boot-time<br /> scans,Heuristics,CloudAV,Firewall,IDS,IPS,Sandbox,Email Security,AntiSpam,Web protection,Macro protection,Live<br />Update,Support,Settings Import/ Export,installer/ updater MIMA safe,License,Price,First release,Country of origin,Original author/s,Notes
+AhnLab,AhnLab V3 Internet Security,,,,,,,,,?,,,,,,,?,,,,1988,South Korea,Dr. Ahn Cheol-Soo
+Avast,Avast Free Antivirus,,,,,,,,,,,,,,,,,,,1988,Czech Republic,Pavel Baudiš and Eduard Kučera
+Avast,Avast Pro Antivirus,,,,,,,,,,,,,,,,,,,1997,Czech Republic,Pavel Baudiš and Eduard Kučera
+Avast,Avast Internet Security,,,,,,,,,,,,,,,,,,,2009,Czech Republic,Pavel Baudiš and Eduard Kučera
+Avast,Avast Premier,,,,,,,,,,,,,,,,,,,2012,Czech Republic,Pavel Baudiš and Eduard Kučera
+AVG Technologies (avast),AVG Antivirus FREE,,,,,,,,,?,,,,,,,,,,1992,Czech Republic,Jan Gritzbach and Tomáš Hofer
+AVG Technologies (avast),AVG Antivirus,,,,,,,,,?,,,,,,,,,,2006,Czech Republic,Jan Gritzbach and Tomáš Hofer
+AVG Technologies (avast),AVG Internet Security,,,,,,,,,?,,,,,,,,,,2008,Czech Republic,Jan Gritzbach and Tomáš Hofer
+Avira,Avira Antivirus FREE (formerly AntiVir),,,,,,,,,?,,,,,,,?,,,,1988,Germany,Tjark Auerbach
+Avira,Avira Internet Security,,,,,,,,,?,,,,,,,?,,,,2002,Germany,Tjark Auerbach
+Bitdefender,Bitdefender Antivirus Free,,,,,,,,,?,,,,,,,?,,,,2013,Romania,
+Bitdefender,Bitdefender Antivirus Plus,,,,,,,,,,,,,,,,?,,,,1996,Romania,
+Bitdefender,Bitdefender Internet Security,,,,,,,,,,,,,,,,?,<ref name=":0">uses http</ref>,,,2008,Romania,
+Check Point,ZoneAlarm PRO Antivirus + Firewall,,,,,,,,,?,,,,,,,,,,2002,Israel,,Third-party antivirus engine (Kaspersky) <ref></ref>
+Check Point,ZoneAlarm Extreme Security,,,,,,,,,?,,,,,,,,,,2002,United States,
+ClamWin,ClamWin,,(with Winpooch or Clam Sentinel),(with Clam Sentinel),,,,,,?,,,,,,,?,,,,2002,Australia,,Third-party antivirus engine (ClamAV)
+Comodo Group,Comodo Antivirus,,,,,,,,,,,,,,,,,,,2008,United States,
+Comodo Group,Comodo Antivirus Advanced,,,,,,,,,,,,,,,,,,,2008,United States,
+Comodo Group,Comodo Internet Security,,,,,,,,,,,,,,,,,,,2010,United States,
+Dr.Web,Dr.Web Anti-virus,,,,,,,,,,,,,,,,,,,1992,Russia,Igor Danilov
+Dr.Web,Dr.Web Security Space,,,,,,,,,,,,,,,,,,,2006,Russia,Igor Danilov
+ESET,ESET NOD32 Antivirus,,,,,,,,,?,,,<ref name=eset_webprotection_1>ESET Knowledgebase  http://kb.eset.com/esetkb/index?page=content&id=SOLN2820</ref><ref name=eset_webprotection_2>ESET Knowledgebase  http://kb.eset.com/esetkb/index?page=content&id=SOLN2844</ref>,,,,,,,1987,Slovakia,Peter Paško and Miroslav Trnka
+ESET,ESET Smart Security,,,,,,,,,?,,,<ref name="eset_webprotection_1" /><ref name="eset_webprotection_2" />,,,,<ref name=":0">uses http</ref>,,,2007,Slovakia,Peter Paško and Miroslav Trnka
+F-Secure,F-Secure Antivirus,,,,,,,,,?,,,,,,,?,,,,1991,Finland,Petri Allas and Risto Siilasmaa,Third-party antivirus engine (Bitdefender)
+F-Secure,F-Secure Internet Security,,,,,,,,,?,,,,,,,?,,,,2004,Finland,Petri Allas and Risto Siilasmaa,Third-party antivirus engine (Bitdefender)
+FRISK Software,F-PROT Antivirus,,,,,,,,,?,,,,,,,?,,,,1989,Iceland,Friðrik Skúlason (second engine also with Dr. Vesselin Bontchev)
+Fortinet,FortiClient,,,,,,,,,?,,,,,,,?,,,,2004,United States,
+G Data Software,G DATA AntiVirus,,,,,,,,,?,,,,,,,?,,,,1987,Germany,Andreas Lüning and Kai Figge,Third-party antivirus engine (Bitdefender)
+G Data Software,G DATA InternetSecurity,,,,,,,,,?,,,,,,,?,,,,2004,Germany,Andreas Lüning and Kai Figge,Third-party antivirus engine (Bitdefender)
+Kaspersky Lab,Kaspersky Anti-Virus,,,,,,,,,?,,,,,,,?,,,,1997,Russia,Eugene Kaspersky and Natalia Kaspersky,Banned by USG
+Kaspersky Lab,Kaspersky Internet Security,,,,,,,,,?,,,,,,,?,,,,2007,Russia,Eugene Kaspersky and Natalia Kaspersky,Banned by USG
+Kaspersky Lab,Kaspersky Total Security,,,,,,,,,?,,,,,,,,,,,Russia,Eugene Kaspersky and Natalia Kaspersky,Banned by USG
+McAfee,McAfee Antivirus,,,,,,,,,?,,,,,,,?,,,,1987,United States,John McAfee,John McAfee "uninstall video" scandal
+McAfee,McAfee Internet Security,,,,,,,,,?,,,,,,,?,,,,2006,United States,John McAfee,John McAfee "uninstall video" scandal
+Microsoft,Windows Defender,,,,Only Windows 10,,excepting Windows Firewall<ref>https://docs.microsoft.com/en-us/windows/access-protection/windows-firewall/windows-firewall-with-advanced-security</ref>,,,?,,,,,,,,,,2012,United States,
+NANO Security Ltd,NANO Antivirus,,,,,,,,,?,,,,,,,,,,2009,Russia,
+Panda Security,Panda Antivirus Pro,,,,,,,,,?,,,,,,,?,,,,1990,Spain,Mikel Urizarbarrena
+Panda Security,Panda Internet Security,,,,,,,,,?,,,,,,,?,,,,2002,Spain,Mikel Urizarbarrena
+Panda Security,Panda Antivirus Free,,,,,,,,,?,,,,,,,?,,,,2009,Spain,
+Qihoo 360,360 Total Security,,,,,,,,,?,,,,,,,?,,,,2006,China,
+Quick Heal,Quick Heal Total Security,,,,,,,,,?,,,,,,,Yes,,,,1995,India,
+Sophos,Sophos Anti-Virus,,,,,,,,,?,,,,,,,?,,,,1988,United Kingdom,Jan Hruska and Peter Lammer
+Sophos,Sophos EndUser Protection,,,,,,,,,?,,,,,,,?,,,,2000,United Kingdom,Jan Hruska and Peter Lammer
+Cisco (originally Immunet),Immunet,,,,,,,,,?,,,,,,,?,,,,2010,United States,,Third-party antivirus engine (ClamAV)
+Symantec,Norton AntiVirus,,,,,,,,,?,,,,,,,?,,,,1991,United States,,Whitelists FBI backdoor scandal<ref name="FBI trojan"></ref><ref name="FBI Trojan horse triggers alarms"></ref>
+Symantec,Norton Internet Security,,,,,,,,,?,,,,,,,?,,,,2000,United States,,Whitelists FBI backdoor scandal<ref name="FBI trojan"/><ref name="FBI Trojan horse triggers alarms"/>
+Symantec (originally PC Tools),Spyware Doctor with AntiVirus,,,,,,,,,?,,,,,,,?,,,,2003,United States,
+Trend Micro,Titanium Antivirus Plus,,,,,,,,,?,,,,,,,?,,,,1990,Japan,
+Trend Micro,Titanium Internet Security,,,,,,,,,?,,,,,,,?,,,,2008,Japan,
+TrustPort,TrustPort Antivirus,,,,,,,,,?,,,,,,,?,,,,2008,Czech Republic,,Third-party antivirus engine (?)
+TrustPort,TrustPort Internet Security,,,,,,,,,?,,,,,,,?,,,,2008,Czech Republic,,Third-party antivirus engine (?)
+TrustPort,TrustPort Total Protection,,,,,,,,,?,,,,,,,?,,,,2008,Czech Republic,,Third-party antivirus engine (?)
+VirusBlokAda,Vba32 AntiVirus,,,,,,,,,?,,,,,,,?,,,,2010,Belarus,
+Webroot,SecureAnywhere AntiVirus,,,,,,,,,?,,,,,,,?,,,,2011,United States,
+Webroot,SecureAnywhere Internet Security Plus and Complete,,,,,,,,,?,,,,,,,?,,,,2011,United States,
+Company,Software,On-demand scan,On-access scan,Boot-time scans,Heuristics,CloudAV,Firewall,IDS,IPS,Sandbox,Email Security,AntiSpam,Web protection,Macro protection,Live-Update,Support,Settings Import/Export,installer/ updater MIMA safe,License,Price,First release,Country of origin,Original author/s,Notes

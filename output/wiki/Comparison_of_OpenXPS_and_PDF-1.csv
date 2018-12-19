@@ -1,0 +1,40 @@
+File format,OpenXPS,PDF
+Based on a format<br />developed by,Microsoft,Adobe Systems
+Standardized by,Ecma International<ref> printweek.com {{!}} Latest Print Industry News  Jobs  Features  Product Reviews  Used Printing and Packaging Machinery |access-date= 2009-07-11 |archive-url= https://web.archive.org/web/20071224200156/http://www.printweek.com/news/674714/XPS-format-passes-first-standardisation-test/ |archive-date=2007-12-24 |dead-url=yes }}</ref>,ISO
+First public release date,2006<ref></ref>,1993<ref>[http://www.webopedia.com/DidYouKnow/Computer_Science/2005/pdf.asp All About Adobe PDF - Webopedia.com]</ref>
+Latest stable version,Ecma International Standard ECMA-388 — Open XML Paper Specification — 1st Edition,ISO 32000-1:2008 — Document management — Portable document format — Part 1: PDF 1.7
+Latest standardised version,Ecma International Standard ECMA-388 — Open XML Paper Specification — 1st Edition,ISO 32000-1:2008 — Document management — Portable document format — Part 1: PDF 1.7
+Language type,Markup language (XML)<ref name="globalgraphics">http://www.globalgraphics.com/xps/faq.pdf</ref><ref name="verydoc">[http://www.verydoc.com/xps.html XPS: XML Paper Specification]</ref>,PDF is a database of objects that may be created from PostScript or generated directly by an application.
+XML schema representation,XML Schema (W3C) (XSD) and RELAX NG (ISO/IEC 19757-2)<ref>[http://www.ecma-international.org/publications/standards/Ecma-388.htm Standard ECMA-388]</ref>,N/A
+Compression format,ZIP<ref name="globalgraphics" /><ref name="verydoc" /><ref name="zdnet">[http://dictionary.zdnet.com/definition/XML+Paper+Specification.html xml paper specification News and Other Resources | ZDNet]</ref>,LZW for both text and images; JPEG  JPEG 2000  and RLE for images only<ref>[PDF Reference  Sixth edition  http://www.adobe.com/devnet/acrobat/pdfs/pdf_reference_1-7.pdf]  p. 39</ref>
+Container structure,Open Packaging Conventions (ISO/IEC 29500-2:2008)<ref name="globalgraphics" /><ref name="verydoc" />,
+3D graphic content,X3D (ISO/IEC 19775/19776)<ref name="ECMA-388">http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-388.pdf</ref>,U3D (Standard ECMA-363)<ref>[https://www.adobe.com/devnet/acrobat3d/ Acrobat 3D Developer Center | Adobe Acrobat 3D Developer Center]</ref><ref></ref>
+Full file content compression,<ref name="amyuni" />,<ref name="iso32000">http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=51502 ISO 32000-1:2008</ref>
+Fast page by page download from web servers,<ref name="amyuni" />,<ref name="amyuni" />
+Multiple documents in one file,<ref name="amyuni" />,<ref>[https://admin.adobe.acrobat.com/_a295153/p81291074/ A9 PDF Binders]</ref>
+Document bookmarks and outline,<ref name="amyuni" /><ref name="pdfzone"></ref>,<ref name="amyuni" /><ref name="mactech">[http://www.mactech.com/articles/mactech/Vol.15/15.09/PDFIntro/ PDF Intro]</ref>
+Reflowable,<ref>[http://msdn.microsoft.com/en-us/library/aa480192.aspx An Introduction to Windows Presentation Foundation]</ref>,With Tagged PDF<ref>[https://books.google.com/books?id=dlJ94KZqwqcC&pg=PA379 Web accessibility: web standards and ... - Google Books]</ref>
+Hyperlinks,<ref name="amyuni" /><ref name="xpsdev"/><ref name="informationweek">[http://www.informationweek.com/news/software/enterpriseapps/showArticle.jhtml?articleID=172901469 Microsoft Adds XPS In Office 12 To Fight Adobe - InformationWeek]</ref>,<ref name="amyuni" /><ref name="mactech" />
+Page thumbnails,<ref name="amyuni" /><ref name="xpsdev"/>,<ref name="amyuni" /><ref>http://eprints.nottingham.ac.uk/219/1/meckler94.pdf</ref>
+Annotations,<ref name="xpsdev">[http://www.xpsdev.com/xps-annotator XPS Annotator | XPSDev]</ref>,<ref name="amyuni" /><ref name="mactech" />
+Image transparencies,<ref name="amyuni" />,<ref name="amyuni" />
+Gradient fills,<ref name="amyuni" /><ref name="informationweek" />,<ref name="amyuni" />
+Alpha channel in color definitions,<ref name="amyuni" />,<ref name="amyuni" />
+Support for multiple transparency blending modes,,<ref name="iso32000" />
+Change tracking,<ref name="amyuni" />,<ref name="amyuni" />
+Password protection,<ref name="amyuni" />,<ref name="amyuni" /><ref name="mactech" />
+Digital signatures,<ref name="verydoc" /><ref name="zdnet" /><ref name="amyuni" /><ref name="xpsdev"/>,<ref name="mactech" /><ref name="filiol">https://www.blackhat.com/presentations/bh-europe-08/Filiol/Presentation/bh-eu-08-filiol.pdf</ref>
+JPEG (RGB and CMYK) (ISO/IEC 10918-1),<ref name="zdnet" /><ref name="amyuni" />,<ref name="filiol" />
+JPEG 2000 (ISO/IEC 15444-1),<ref name="amyuni" />,<ref name="filiol" />
+JBIG2 for bi-level images,<ref name="amyuni" />,<ref name="iso32000" />
+PNG,<ref name="amyuni" />,<ref name="amyuni" />
+TIFF (RGB and CMYK),<ref name="amyuni" />,<ref name="amyuni" />
+HD Photo / JPEG XR (ISO/IEC 29199-2:2009),<ref name="globalgraphics" />,<ref name="amyuni" />
+Gray support,<ref name="amyuni" />,<ref name="amyuni" />
+RGB support,<ref name="amyuni" />,<ref name="amyuni" />
+CMYK support,<ref name="amyuni" />,<ref name="amyuni" />
+Spot color support,<ref name="amyuni" />,<ref name="amyuni" />
+Filename extensions,oxps<ref name="ECMA-388" />,pdf<ref></ref>
+Internet media types,application/oxps<ref name="ECMA-388" />,application/pdf
+Standard licensing,Ecma copyrighted free download,ISO copyrighted free download
+File format,OpenXPS,PDF

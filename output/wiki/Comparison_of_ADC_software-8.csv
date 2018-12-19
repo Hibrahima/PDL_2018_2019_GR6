@@ -1,0 +1,14 @@
+ADC client,Magnet URI,UPnP,NAT traversal,DHT,Encryption,IPv6,Plugin/API,Proxy,Hash algorithms,Protocol support,NMDC compatible,Other
+AirDC++,,,,,,,Web API,,Tiger tree hash,TIGR  ADCS  UCMD NATT  SEGA  PFSR  KEYP  PBD1  UBN1  MCN1  BLOM  SUDP  QP  HBRI  ASCH,,
+AirDC++ Web Client,,,,,,,Web API,,Tiger tree hash,Inherits from AirDC++,,
+ApexDC++,,,,,,,C++  Lua,,Tiger tree hash,Inherits from StrongDC++,,
+DC++,,,,,,,C++  Lua,,Tiger tree hash,TIGR  ADCS  UCMD  BLOM  NATT  SEGA,,
+jucy,,,,,,,Eclipse RCP,,Tiger tree hash,TIGR  ADCS  KEYP  SUDP  BLOM  UCMD,,
+LinuxDC++,,,,,,,,,Tiger tree hash,Inherits from DC++,,
+EiskaltDC++,,,,,,,Lua  QtScript  QML,,Tiger tree hash,TIGR  ADCS  UCMD  BLOM  NATT  SEGA  PFSR  KEYP  FS,,
+FlylinkDC++,,,,,,,,,Tiger tree hash,Inherits from StrongDC++,,
+RSX++,,,,,,,C++  Lua,,Tiger tree hash,Inherits from StrongDC++,,
+TKDC++,,,,,,,C++  Lua,,Tiger tree hash,TIGR  ADCS  UCMD  BLOM  NATT  PFSR  SEGA,,
+StrongDC++,,,,,,,,,Tiger tree hash,TIGR  ADCS  UCMD  BLOM  NATT  PFSR  QP  SEGA,,
+ncdc,,,,,,,,,Tiger tree hash,TIGR  ADCS  KEYP  SUDP,,
+ADC client,Magnet URI,UPnP,NAT traversal,DHT,Encryption,IPv6,Plugin,Proxy,Hash algorithms,Protocol support,NMDC compatible,Other

@@ -1,0 +1,33 @@
+,Integer,Single precision,Double precision,Half and Quadruple precision etc.
+Ada<ref name="Ada_RM_2012" />,,Complex,Complex,Complex
+ALGOL 68,,compl,long compl etc.,short compl etc. & long long compl etc.
+C (C99) <ref></ref>,,float complex,double complex,rowspan=7
+C++ (STL),,std::complex<float>,std::complex<double>
+C#,,,System.Numerics.Complex <br />(.NET 4.0)
+Java,,,
+Go,,complex64,complex128
+D,,cfloat,cdouble
+Objective-C,,,
+Common Lisp,(complex integer),(complex single-float),(complex double-float),complex
+Scheme,,,,rowspan=4
+Pascal,,,
+Visual Basic,,,
+Visual Basic .NET,,,System.Numerics.Complex <br />(.NET 4.0)
+Perl,,,Math::Complex,
+Perl 6,,complex64,complex128,Complex
+Python,,,complex,rowspan=15
+JavaScript,,,
+S-Lang,,,
+Fortran,,COMPLEX(KIND = n)
+Ruby,Complex,,Complex
+Scala,,,
+Seed7,,,complex
+Smalltalk,Complex,Complex,Complex
+Windows PowerShell,,,
+OCaml,,,Complex.t
+F#,,,System.Numerics.Complex <br />(.NET 4.0)
+Standard ML,,,
+Haskell (GHC),,ComplexComplex Float,ComplexComplex Double
+Eiffel,,,
+COBOL,,,
+Mathematica,Complex,,,Complex

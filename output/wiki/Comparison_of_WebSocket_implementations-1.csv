@@ -1,0 +1,24 @@
+,Client (library),Server (library),Version compared,Protocol (spec) version support,Protocol test report,License,Implementation: language  environment,API: language  environment,Self-hosted server,Text message support,Binary message support,API message-based,API frame-based,API streaming input-output,Flow-control framework,Automatic pongs for pings,Automatic heartbeat pings,Manual pings-pongs,Frame size limit
+Google Chrome 15<ref name="Chromium website">Chromium website</ref>,,,15.0.874.8,8 (10),,,C++  WebKit,JavaScript  HTML5,,,,,,, No,,,,,≥ 16 MB (memory-limited?)
+Google Chrome 16<ref name="Chromium website"/>,,,16.0.912,13 (17/RFC 6455),,,C++  WebKit,JavaScript  HTML5,,,,,,, No,,,,,≥ 16 MB (memory-limited?)
+Mozilla Firefox 7<ref name="Necko website">Necko website</ref>,,,7 beta,8 (10),,,C++  Necko,JavaScript  HTML5,,,,,,, No,,,,,< 16 MB
+Mozilla Firefox 11<ref name="Necko website"/>,,,11.0,13 (17/RFC 6455),,,C++  Necko,JavaScript  HTML5,,,,,,, No,,,,,< 2 GB (memory-limited?)
+Achex WS<ref>Achex WS website</ref>,,,2.17,RFC 6455,,,C++,C++  JavaScript,,,,,,,,,,,2^16
+Kaazing WebSocket Gateway<ref>Kaazing website</ref>,,,5.0 Dec 2014,RFC 6455,,,Java  JMS,JavaScript  Flash/Flex  Silverlight  Objective-C & iOS  Java  Java & Android  .NET  Xamarin,,,,,,,,,,,memory-limited  configurable
+Lightstreamer<ref>Lightstreamer website</ref>,,,7.0.2,RFC 6455,,,Java,JavaScript  Flash/Flex  Silverlight  iOS  macOS  tvOS  watchOS  Java  J2ME  Android  .NET PCL/Unity,,,,,,,,,,,Data driven  configurable
+MigratoryData<ref>MigratoryData website</ref>,,,5.0.15,RFC 6455,,,Java,JavaScript  iOS  Android  Java  C++  .NET  PHP  Node.js  Python  Ruby,,,,,,, No,,,,,263  configurable
+noPoll<ref>noPoll website</ref>,,,0.3.2,RFC 6455,,,ANSI C,ANSI C,,,,,,,,,,,memory-limited  configurable
+POCO C++ Libraries<ref>POCO C++ Libraries documentation</ref>,,,1.4.6,RFC 6455,,,C++  POCO C++ Libraries,C++,,,,,,,,,,,memory-limited  configurable
+PowerWebSockets<ref>PowerWebSockets website</ref>,,,15.176.5188,RFC 6455,Test report<ref>PowerWebSockets Autobahn|Testsuite report</ref>,,.NET,.NET Framework  .NET Compact Framework  Xamarin. iOS  Xamarin.Android  Windows Phone  Silverlight  Mono,,,,,,,,,,,memory-limited  configurable
+Push Technology Diffusion<ref>Push Technology website</ref>,,,4.6.1,RFC 6455,,,Java,JavaScript  Flash/Flex  Silverlight  Objective-C & iOS  Java  Java & Android  .NET  Java J2ME & BlackBerry  C/C++  Node.js,,,,,,,,<ref name="ReferenceA">Pings and heartbeats are defined in the Diffusion protocol layer</ref>,<ref name="ReferenceA"/>,,memory-limited  configurable
+QtWebSockets<ref>QtWebSockets website</ref>,,,1.0,RFC 6455,,,C++  Qt,Qt,,,,,,,,,,,memory-limited  configurable
+Resin<ref>Caucho website</ref>,,,4.026,RFC 6455,,,Java  C,Java,,,,,,,,,,,memory-limited  configurable
+WebSocketListener<ref>WebSocketListener website</ref>,,,2.1.3,RFC 6455,,,.NET  Mono,.NET  Mono,,,,,,,,,,,Configurable
+Wt<ref>wt website</ref>,,,3.2.0,0.7.8.13 (17),[? Report],,C++  Boost Asio,C++,,,,,,,,,,,memory-limited  configurable
+XSockets.NET<ref>XSockets.NET website</ref>,,,5.*,RFC 6455,,,.NET,,,,,,,,,,,memory-limited  configurable
+RIWA Gateway<ref>RIWA website</ref>,,,2.01,RFC 6455,,,Java,Java  Android  iOS  JavaScript,,,,,,,,,,,memory-limited  configurable
+µWebSockets<ref name = "µWebSockets GitHub repository">µWebSockets (GitHub)</ref>,,,v0.14.0,RFC 6455,Testsuite report">µWebSockets Autobahn|Testsuite report</ref>,,C++  epoll  Libuv  Boost Asio,C++  JavaScript  Node.js,,,,,,,,,,,memory-limited  configurable
+Boost.Beast<ref name = "Beast repository">Boost.Beast (GitHub)</ref>,,,94,RFC 6455,Testsuite report">Beast.WebSocket Autobahn|Testsuite report</ref>,,C++  Boost Asio,C++,,,,,,,,,,,unlimited (packets streamed to user code)  permessage-deflate also unlimited (chunked)
+libwebsockets<ref name = "libwebsockets.org website">libwebsockets.org website</ref>,,,2.4,RFC 6455 + RFC 7692,Testsuite report">libwebsockets.org lws Autobahn|Testsuite report</ref>,,C  libuv  libev  libevent  poll  external poll loop integration  OpenSSL  mbedTLS,C  HTML5  JavaScript,,,,,,, yes,,,,,unlimited (packets streamed to user code)  permessage-deflate also unlimited (chunked)
+websocket++<ref name = "websocketpp">websocket++ website</ref>,,,0.7.0,RFC 6455,,,C++11,C++11,?,?,?,?,?,?,?,?,?,?,?
+facil.io<ref name = "facil.io website">facil.io website</ref>,,,0.4.2,RFC 6455,,,C,C,,,,,,, yes,,,,,configurable client to server limits. unlimited (chucked) server to client.

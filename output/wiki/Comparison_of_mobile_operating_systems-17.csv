@@ -1,0 +1,11 @@
++Sound and voice
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Separate volume for ringtone and media,,,<ref name="blogs.windows.com"/>,,?,
+Voice commands,<ref>List of Google Now voice commands </ref>,(Siri),Microsoft Cortana<ref name="http://www.wpcentral.com/cortana-windows-phone-81-handson-video"></ref>,<ref name="http://www.berryreview.com/2013/03/13/blackberry-explains-the-security-of-voice-control-data/">BlackBerry Explains the Security of Voice Control Data - BerryReview </ref>,?,</ref>}}
+Offline voice commands,<ref></ref>,<ref></ref>,, Playback control not available<ref>Voice commands in Mango – Microsoft Answers . Answers.microsoft.com (2011-09-06). Retrieved on 2012-07-03.</ref>,<ref name="http://www.berryreview.com/2013/03/13/blackberry-explains-the-security-of-voice-control-data/"/>,?,
+Voice recognition,,(Siri),Microsoft Cortana<ref name="http://www.wpcentral.com/cortana-windows-phone-81-handson-video"/>,,?,
+Offline voice recognition,<ref>Android 4.1 Jelly Bean adds Offline Voice Typing – SlashGear . Slashgear.com. Retrieved on 2012-07-03.</ref>,, only calling and music playback<ref>Tips for using Voice Control with iPhone and iPod touch . Apple.com. Retrieved on 2015-04-10.</ref>,, only calling and launching apps,,,
+Non-English voice recognition,,<ref name=iOSVoiceLangs/>,<ref name="http://blogs.windows.com/bloggingwindows/2011/07/06/windows-phone-around-the-world-language-support-in-mango/"/>,,?,
+Sound recorder,<ref></ref> and not voice controlled),<ref></ref><ref></ref>,,<ref></ref> for older versions: 3rd party software  also similarly limited,</ref> app  works in background but not voice controlled. 7.1 and older: Very limited (Doesn't work in background and not voice controlled)}},,3rd party software<ref>cornedor/sailfish-recorder · GitHub </ref>,Third party app
+Call recorder,Prevented by OS restrictions <ref></ref> but possible with 3rd party firmware<ref></ref>,</ref>}},some devices<ref></ref>,With third-party software<ref></ref>}}
+Sound trim,No <ref></ref> but 3rd party software available<ref></ref>,<ref>How to Edit a Voice Memo on Your iPhone video from Answers.com Videos </ref>,<ref></ref>,?,?,?,?

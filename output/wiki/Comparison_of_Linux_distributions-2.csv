@@ -1,0 +1,73 @@
+Distribution,Default Linux kernel,Default file system,Default init system,Install-time desktop environment or window manager selection
+Alpine Linux,,ext4,openrc,none
+ALT Linux,,ext3,systemd,KDE Plasma Workspaces  Xfce
+Arch Linux,<ref name="common-distros"></ref>,none<ref></ref>,systemd,none
+BLAG,,ext3,sysvinit,GNOME
+Bodhi Linux,,ext4,systemd,Moksha (Enlightenment fork)
+Canaima,<ref name="common-distros" />,,,Cinnamon and MATE
+CentOS,<ref name="common-distros" />,xfs,systemd,GNOME
+Chakra,,ext4,systemd,KDE Plasma Workspaces
+ClearOS,,ext3,,none (Web based)
+CoreOS,,ext4,systemd,None
+CrunchBang Linux,,ext4,sysvinit,Openbox
+Damn Small Linux,,ext3,sysvinit,JWM
+Debian,<ref name="common-distros" /> Built with Linux-libre tools.<ref name="debian-linux" />,ext4,systemd,GNOME  KDE  Xfce  LXDE<ref name=cdimage.debian.org></ref>
+Devuan,,ext4,sysvinit,Xfce
+Dragora GNU/Linux-Libre,,ext4,runit,Xfce
+dyne:bolic,,,,GNOME
+Fedora,,ext4,systemd,GNOME (default Workstation Edition)  Spins for: KDE Plasma Workspaces  Xfce  LXDE  MATE (with Compiz)  Cinnamon  Sugar on a Stick
+Funtoo,,none,openrc,None
+Gentoo,,none,openrc,Awesome  Enlightenment  Fluxbox  GNOME  KDE  LXDE-Meta  Openbox  XBMC and Xfce (live DVD)<ref></ref>
+gNewSense,<ref name="debian-linux"></ref>,ext3,sysvinit,GNOME
+gnuLinEx,,ext2,,GNOME
+GuixSD,,btrfs  ext4,GNU Shepherd,GNOME  Xfce  Mate  Enlightenment  i3  ratpoison  xmonad
+Hyperbola GNU/Linux-libre,,none,openrc<ref></ref>,
+Instant WebKiosk,,SquashFS,,Has no DE. It's a browser-only interface
+Kali Linux,,ext3,systemd,GNOME
+Knoppix,,xfs,microknoppix,LXDE
+LibreCMC<ref></ref>,,ext4,busybox-init,none
+Linux Mint<ref></ref>,<ref name="common-distros" />,ext4,systemd,MATE  Cinnamon  KDE 4  XFCE
+Mageia,,ext4,systemd,KDE Plasma Workspaces  GNOME
+Mandriva Linux,,ext4,systemd,KDE Plasma Workspaces
+Manjaro Linux,,none<ref></ref>,systemd,Xfce  KDE  GNOME <ref></ref>
+MEPIS,,ext3  ext4,sysvinit,KDE Plasma Workspaces
+Musix GNU+Linux<ref></ref>,,ext4,initscripts,LXDE
+OpenELEC,,SquashFS,shell script,XBMC Media Center
+openSUSE,,btrfs,systemd,KDE Plasma Workspaces  GNOME  Xfce
+OpenWrt,,overlayfs+SquashFS/JFFS2<ref></ref>,procd<ref></ref>,none
+Parabola GNU/Linux-libre,,none,openrc or systemd,none
+Pardus,,ext4,,KDE Plasma Workspaces
+Parsix,,ext4,systemd,GNOME
+PCLinuxOS,,none,sysvinit,KDE Plasma Workspaces  GNOME  LXDE  Xfce  Enlightenment  Openbox
+Pentoo,,SquashFS,openrc,Enlightenment
+Porteus,,Squashfs  ext2  ext3  ext4  FAT32  reiser  xfs,sysvinit,KDE  LXDE  Xfce  Openbox  Razor-qt
+Puppy Linux,,SquashFS containing ext2,busybox-init,JWM
+Red Hat Enterprise Linux,,xfs,systemd,GNOME
+Rxart Desktop,,ext3,,KDE Plasma Workspaces
+Sabayon Linux,,ext4<ref></ref>,systemd,KDE Plasma Workspaces  GNOME
+Scientific Linux,,ext4,sysvinit  systemd<ref>Prior to v7.0  Scientific Linux used sysvinit. Since v7.0  it uses systemd. </ref>,GNOME
+Slackware,<ref name="common-distros" />,ext4,BSD init scripts,KDE Plasma Workspaces  Xfce  Fluxbox  Blackbox  twm
+Slax,,SquashFS,sysvinit,KDE Plasma Workspaces
+SliTaz GNU/Linux,,ext3,busybox-init,Openbox
+Solus,,ext4,systemd,Budgie  Gnome  MATE
+Source Mage GNU/Linux,,ext2,simpleinit-msb,none
+SteamOS,,,,
+SUSE Linux Enterprise Desktop,<ref name="common-distros" />,ext3,systemd,GNOME
+Tails,<ref name="common-distros" />,,systemd,GNOME
+Tor-ramdisk,,ext2,,none
+Trisquel,,ext4  xfs,systemd,GNOME  LXDE
+TurnKey GNU/Linux,,ext4,systemd,none - headless server by design; provides Webmin for administration
+Ubuntu/Edubuntu,<ref name="common-distros" />,ext4<ref name="10.10 release"></ref>,systemd,Unity
+Ubuntu GNOME,,ext4,systemd,GNOME 3
+Ubuntu MATE,,ext4,systemd,MATE
+Kubuntu,,ext4<ref name="10.10 release" />,systemd,KDE Plasma Workspaces
+Xubuntu,,ext4<ref name="10.10 release" />,systemd,Xfce
+Lubuntu,,ext4,systemd,LXDE
+Ututo,</ref> Ututo UL (development) uses Linux-libre. Ututo UL means "Ubuntu-Libre"}},ext3,,GNOME
+VectorLinux,,ReiserFS,sysvinit,KDE  Openbox  Fluxbox  IceWM  Xfce
+Void Linux,,none,runit,none
+Webconverger,,gitfs,sysvinit,dwm enforcing a Browser-only interface
+XBMC Live,,ext3,systemd,XBMC Media Center
+Zentyal,,ext4,,LXDE
+Zenwalk,,ext4,sysvinit,Xfce
+Distribution,Default Linux kernel,Default file system,Default init system,Install-time desktop environment or window manager selection

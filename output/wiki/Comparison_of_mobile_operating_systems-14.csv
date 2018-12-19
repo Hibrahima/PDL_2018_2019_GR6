@@ -1,0 +1,17 @@
++Productivity
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Multitasking,,<ref></ref> 4-6: Limited<ref></ref>,,<ref></ref> 7.5: Limited,,<ref name="Samsung Bada 2.0 to get multitasking  push notifications  a new UI and more" />,
+Quick app switching,<ref>Android 7.0 Nougat: 11 tips and tricks | Technology | The Guardian </ref>,via 3D Touch;<ref>How to multitask more efficiently with 3D Touch on iPhone 6s </ref> 5+: only on iPad<ref>8 Navigation Tricks Every iPad User Needs to Know </ref>,,,,
+Document-centric multitasking,<ref>Android "L" Feature Spotlight: The New "Document-Centric" Multitasking Interface Finally Makes Sense </ref>,,,,,
+Split-screen app usage,<ref>Android’s split-screen multitasking mode needs some help from developers | Ars Technica </ref>,only on iPad with 2 GB RAM or more<ref></ref>,,No  3rd party software<ref></ref>,<ref></ref>,No <ref>Split Screen Multitasking </ref>
+Desktop interactive widgets,,<ref name="ios10widgets">What's new with widgets in iOS 10 - CNET </ref>,(Live Tiles are not interactive)<ref></ref>,,,
+Lock screen widgets,(Notifications and settings). Full Widgets on Android 4.2-4.4 only.<ref></ref><ref>Exploring Android L: Lockscreen widgets also bite the dust - Pocketables </ref>,</ref> 5+: Notifications; 7+: Control Center 8+: Interactive Notifications<ref>Getting to know interactive notifications on iOS 8 </ref> 10+: Full widgets<ref name="ios10widgets"/>}},<ref></ref>,, interactive notifications  camera  alarm,,
+Notification view widgets,,,,, BB 10.2,,
+Quick settings toggles,<ref>Widgets To Quickly Change Android Settings - SocialTimes </ref>,<ref></ref>,<ref name="blogs.windows.com"/>,, customizable in 10.2.1+<ref></ref>,,</ref>}}
+Search multiple internal apps at once,,,<ref></ref>,,,<ref>Search (global) </ref>
+Settings search,or 3rd party software like LineageOS<ref>Android L's global settings search make an appearance on CyanogenMod | ZDNet </ref>,<ref></ref>,<ref name="http://www.pocketmeta.com/windows-phone-8-1-update-2-new-features-uncovered-21731/"/>,,,
+Search all fields of internal objects,<ref></ref>,<ref>iOS 6: minor tweaks that you might like . Phonearena.com. Retrieved on 2012-07-03.</ref>,,<ref></ref> but not other fields like address or notes<ref></ref>,<ref></ref>,,<ref>Consider all fields in contact app search </ref>|?
+Core apps missing search,Calendar<ref>Issue 2518 . code.google.com (2009-04-27).</ref> (available since 3+ and HTC Sense),Bookmarks<ref></ref>,Video<ref></ref>,?,?,?,?
+Phone number links to dialer,<ref></ref>,,,,,
+Addresses links to maps,<ref></ref> nor in Gmail<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,?,,?
+Dates links to calendar,,<ref></ref>,,,,,?

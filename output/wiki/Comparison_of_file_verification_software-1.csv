@@ -1,0 +1,56 @@
+Software,Developer,First public release,Latest stable date (version),Cost (USD),Open source,License,Linux,Mac OS X,Windows,Framework
+AccuHash,Irnis Haliullin,,2008-11-06 (2.0.18),,,proprietary,,,,
+BeaverSFV,Karl-Johan Sjögren,2008-09-14,1.2,,,freeware,,,,.NET
+CDCheck,Mitja Perko,2003 ?,2008-04-10 (3.1.14.0),various,,proprietary,,,,
+Checksum Compare,Sanktu Aire,2012,2016-02-10 (v1.42),,,freeware,,,,Qt
+Checksums,Acera AS,2015-05-12,2015-12-01 (1.0.2),,,freeware,,,,C++
+cfv,Matthew Mueller,2000-06-22,2009-06-07 (1.18.3),,,GPL,,,,Python
+CHK,Ilya Muravyov,2010,2017-11-06 (v2.35),,,freeware,,,,VCL
+cksum,various (POSIX),,various,,,various,,,,C
+CyoHash,Graham Bull,2009-09-01,2016-02-04 (2.2.0.1),,,BSD,,,,C++
+Data Digester,Leisenfels,2013-03-14,2015-04-15 (1.6.15),,,proprietary,,,,Java
+DeepDigest,Nick Stone,2012-03-24,2014-06-16 (1.3.27),,,GPL,,,,Qt
+DySFV,Johan Sonesson,2007,2013-04-23 (1.4.0.0),,,GPL,,,,.NET
+ExactFile,Brandon Staggs,2009,2009-02-23 (1.0.0.15),,,freeware,,,,VCL
+eXpress CheckSum Calculator,Irnis Haliullin,2002,2002-12-27 (1.0),,,freeware,,,,
+FastSum,Kirill Zinov,2003,1.7.0.403 GUI/1.9.0.149 CLI,various,,freeware/shareware,,,,
+FCIV,Microsoft,,2004-05-17,,,freeware,,,,
+Febooti Hash & CRC,Febooti Software,2006,2015-09-25 (v3.7),,,freeware,,,,
+FileVerifier++,Tom Bramer,2006,2010-05-22 (0.6.3.5830),,,GPL,,,,
+FlashSFV,Charles DeWeese,2007,2007-07-22 (2.6),,,freeware/donationware,,,,
+FSUM,SlavaSoft,,2007-03-03 (2.52),,,freeware,,,,
+Fsum Frontend,Thierry Micholt,2007,2008-05-27 (1.5.5.1),,,GPL,,,,
+PowerShell (via Get-FileHash),Microsoft,2012-09-04 (3.0),2018-01-10 (6.0),,,MIT License,,,,.NET Core  .NET Framework
+GtkHash<ref>https://github.com/tristanheaven/gtkhash</ref>,Tristan Heaven<ref>https://www.unix.com/man-page/all/1/gtkhash/</ref>,2007-06-29 (0.1.0),2017-11-01 (1.1.1 ),,,GPL,,,,GTK
+HashCalc,SlavaSoft,,2007-03-03 (2.02),,,freeware,,,,
+HashCheck Shell Extension: Gurnec version  SDL version,Kai Liu  various  gurnec (2.2.2-2.4.0)  Software Development Laboratories (3.0-3.1),2008-11-29,2016-09-07 (2.4.0),,,BSD,,,,C
+HashForm,Igor Gresovnik,2010,? (1.6),,,freeware,,,,.NET
+HashShell,Igor Gresovnik,?,2016-06-08 (1.6),,,freeware,,,,.NET
+ilSFV,Jud White,2009-10-26,2011-08-16 (1.10),,,freeware,,,,.NET 3.5
+jdigest,gdassieu,2009-09-10,2011-06-05 (0.3.0),,,GPL,,,,Java
+jHashCalc,Death Master,2007-10-01,2008-10-18 (1.2),,,GPL,,,,Java
+Jacksum,Johann N. Löfflmann,2002-07-07,2006-07-30 (1.7.0),,,GPL,,,,Java
+MD5 File Hasher,Digital-Tronic,2012,20150818 (1.5.0.1),,,freeware/shareware,,,,
+MD5 & SHA Checksum Utility,Raymond Lin,2013-06-03,2.1,various,,freeware/shareware,,,,.NET
+md5deep (and HashDeep),Jesse Kornblum,2003,2014-01-29 (4.4),,,public domain,,,,C++
+md5sum,various (POSIX),,various,,,various,,,,
+MD5summer,Luke Pascoe,,2006-04-05 (1.2.0.11),,,GPL / postcards,,,,(Delphi 7)
+MD5 Win Verifier,Serafino Sorleti,2014-03-06,2014-06-19 (1.1.0.5),,,freeware,,,,.NET
+PeaZip,Giorgio Tani,2006-09-16,2018-10-28 (6.6.1),,,LGPL,,,,Free Pascal
+QuickSFV,Mercedes,1999-11-22,2008-03-13 (2.36),,,freeware,,,,
+RapidCRC,,2004,2005-02-05 (0.6.1),,,GPL,,,,
+RekSFV,TryAndError  Inc.,2006,2017-07-23 (v1.7.6),,,freeware,,,,VCL
+RHash,Aleksey (Akademgorodok),,2014-08-05 (v1.3.3),,,freeware,,,,C
+SafeFileManager,Mindbytez Software,2012-11,2018-08-27 (v1.2),,,freeware,,,,Java
+Sigcheck,Mark Russinovich (Sysinternals - Microsoft),?,2016-07-29 (v2.53),,,freeware / Licensing FAQ,,,,?
+SFV Checker,Traction Software,,2013-08-05 (2.01),various,,proprietary,,,,
+sha1sum,various (POSIX),,various,,,various,,,,
+sha3sum,various (POSIX),,various,,,various,,,,Perl
+SuperSFV,Thomas Dixon,,1.2,,,GPL,,,,
+TeraCopy,Code Sector,2007,2017-02-23 (v3.0),various,,freeware/shareware,,,,
+Tom's Hash Explorer,Tom Andreas Mannerud,2016,2016-08-19 (1.2.0.0),,,freeware,,,,.NET
+Toolsley Hash & Validate,Toolsley.com,2014,various,,,freeware/shareware,,,,
+Total Commander,Christian Ghisler,2010-06-17,2015-09-17 (8.52a),,,proprietary,,,,Delphi
+WinHasher,Jeffrey T. Darlington,2007-09-26,2013-08-02 (v1.6.2.67),,,GPL,,,,.NET 2.0
+wxChecksums,Julien Couot,2003,2006-03-04 (v1.2.2),,,GPL,,,,GTK
+Software,Developer,First public release,Latest stable date (version),Cost (USD),Open source,License,Linux,Mac OS X,Windows,Framework

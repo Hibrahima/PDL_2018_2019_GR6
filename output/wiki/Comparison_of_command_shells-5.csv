@@ -1,0 +1,24 @@
+Shell,Pipes,Command substitution,Process substitution,Subshells,TCP/UDP connections as streams,Keystroke stacking
+Bourne shell,,,,,,<ref name="xautomation">xautomation and xdotool can be used to generate keystrokes under X Window System; or a program can be run in a pseudoterminal to be able to control it (as with the expect tool).</ref>
+POSIX shell,,,,,,<ref name="xautomation"/>
+bash (v4.0),,,,,,<ref name="xautomation"/>
+csh,,,,,,<ref name="xautomation"/>
+tcsh,,,,,,<ref name="xautomation"/>
+Hamilton C shell,,,,,,?
+Scsh,,?,?,?,,<ref name="xautomation"/>
+ksh (ksh93t+),,Yes ($(…) and ${<space>…;})}},,,,<ref name="xautomation"/>
+pdksh,,,,,,<ref name="xautomation"/>
+zsh,,,,,,<ref name="xautomation"/>
+ash,,,,,,<ref name="xautomation"/>
+CCP,,,,,,
+COMMAND.COM,,,,(only under DR-DOS multitasker via COMMAND.COM /T),,
+OS/2 CMD.EXE,,,,?,,
+Windows CMD.EXE,,,,,,
+4DOS,,,?,(via %@EXECSTR[] and %@EXEC[]  or via SET /M  ESET /M and UNSET /M and %@MASTER[…]),,(via KEYSTACK and KSTACK)<ref name="4DOS_8.00_HELP"></ref>
+4OS2,,?,?,?,,(via KEYSTACK)
+TCC (formerly 4NT),,,?,(via %@EXECSTR[] and %@EXEC[]),(via FTP  TFTP  FTPS  SFTP  HTTP  HTTPS and IFTP  client only),(via KEYSTACK)
+PowerShell,,,,,,?
+rc,,,Yes (via: <{cmd} if system supports /dev/fd/''<n>'')}},,,?
+BeanShell,,?,?,?,,?
+VMS DCL,,,,,,
+fish,,(...),</ref>}},,,<ref name="xautomation"/>

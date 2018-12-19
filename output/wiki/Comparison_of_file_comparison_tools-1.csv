@@ -1,0 +1,27 @@
+Name,Creator,FOSS,Free,First public release date,Year of latest stable version,Windows,Macintosh,Linux,Other platforms,Max Supported File Size
+Beyond Compare,Scooter Software<ref name="ScooterSoftware">Scooter Software</ref>,; Proprietary,,1996,2018-10-29 (v4.2.8),,,,,> 2GB (64 bits)
+Compare++,Coode Software<ref name="Coode Software">Coode Software</ref>,; Proprietary,,2010,2014-11-12 (2.21.2.0),<ref>Compare++ Operating system information</ref>,,,,
+diff  diff3,AT&T,; BSD 3-clause  BSD 4-clause  CDDL  GPL  Proprietary,,1974,,,(Mac OS X),,ported to most platforms as part of SCCS,> 2GB but less than 64 bits
+Eclipse (compare),,; Eclipse Public License,,2004-07-21,2016-09-28 (4.6.1 (Neon.1)),,,,Anything with Java,
+Ediff,Michael Kifer<ref name="Delorie.com">Michael Kifer</ref>,; GPL,,1994,2.81.4,<ref>Ediff requires a diff utility to function. As of December 2017  diff is not bundled with Emacs or Windows  so use of Ediff in a Windows environment requires installation of both Emacs and a diff implementation like GNU diff.</ref>,(Mac OS X),,Anything with Emacs and diff,
+ExamDiff Pro,PrestoSoft<ref name="PrestoSoft">PrestoSoft</ref>,; Proprietary,,1998,2017-09-23 (v 9.0.1.6),(Win98 and up),,,,
+Far Manager (compare),Eugene Roshal (original); FAR Group,; Revised BSD license,,1996,2017-08-07 (v3.0 build 5000),,,,,
+fc,Microsoft<ref name="Microsoft">Microsoft</ref>,; Proprietary,; Part of OS,1987,,(DOS),,,,
+FileMerge (aka opendiff),Apple Inc.,; Proprietary,; (part of Apple Developer Tools),1993 (part of NEXTSTEP 3.2<ref></ref>),2014 (v2.8),,(Mac OS X),,,
+Guiffy SureMerge,Guiffy Software<ref name="Guiffy Software">Guiffy Software</ref>,; Proprietary,,2000,2018-10-02 (v11.9),,,,Anything with Java,> 2GB
+IntelliJ IDEA (compare),JetBrains<ref name="JetBrains">JetBrains</ref>,; Proprietary,,2001,2016-11-22 (2016.3),,,,,
+jEdit JDiff plugin,Various<ref name="jedit">jedit.org</ref>,; GPL,,1998,2012-10-04 (3.3.0),,,,Anything with Java,
+Kompare,Otto Bruggeman<ref name="Otto Bruggeman">Otto Bruggeman</ref>,; GPLv2+,,,,<ref name="Installing Kompare in Windows">Installing Kompare in Windows</ref>,(Mac OS X),,,
+Lazarus Diff,Lazarus (software),; GPL,,2000,2016-11-13 (1.6.2),,,,FreeBSD,
+Meld,Stephen Kennedy<ref name="Stephen Kennedy">Stephen Kennedy</ref>,; GPLv2+,,2002,2018-06-19 (v3.18.2),<ref>Meld/Windows</ref>,,,BSD  Solaris,
+Notepad++ (compare),Various,; GPLv3,,2009,2015-01-06 (1.5.6.6),<ref>Notepad++ compare plugin</ref>,,,,
+Perforce P4Merge,Perforce,; Proprietary,,,2015 (2015.2),,,,Sun Solaris,
+Pretty Diff,Austin Cheney<ref>Pretty Diff</ref>,; MIT-compatible,,2009,2016-11-11 (2.1.14),(Web),(Web),(Web),Node.js,
+Tkdiff,Tkdiff<ref name="Tkdiff">tkdiff</ref>,; GPLv2+,,2003 (or before),2011-11-27 (v4.2),(Tcl),(Tcl),(Tcl),Anything with Tcl,
+Total Commander (compare),Christian Ghisler<ref name="Christian Ghisler">Christian Ghisler</ref>,; Proprietary,,,2016-11-23 (v9.00),,,,,
+twdiff (TextWrangler Diff Helper),Bare Bones Software  Inc.<ref>Bare Bones Software  Inc.</ref>,; Proprietary,; with TextWrangler,,2012 (1.0 (v22)),,,,,
+vimdiff,Bram Moolenaar et al.,; GPL-compatible <ref>vim license</ref>,,2001,2016-10-03 (v8.0.0022),,,,Anything with vim,
+WinDiff,Microsoft<ref>Microsoft</ref>,; Proprietary,; Part of Platform SDK,1992,2002-08-16 14:36:14 (v5.00.2195.6601),,,,,
+WinMerge,Dean Grimm<ref>Dean Grimm</ref>,; GPL,,1998,2013-02-03 (v2.14.0),(Win95 and up),(in wine<ref name="WinMerge in Wine">WinMerge in Wine</ref>),(in wine<ref name="WinMerge in Wine"/>),,2 GB
+UCC,USC CSSE<ref>USC CSSE</ref>,; USC-CSSE Limited Public License,,2009,2015-12-30 (2015.12),,,{2.6.9},Sun Solaris,
+Name,Creator,FOSS,Free,First public release date,Year of latest stable version,Windows,Macintosh,Linux,Other platforms,Max Supported File Size

@@ -1,0 +1,18 @@
+,Flat,Threaded,User selectable themes,Unread message tracking,WYSIWYG Editor,Export  portability,Email / NNTP interface,Languages,SSO
+bbPress,<ref name=forummatrix></ref>,,,,,<ref></ref>,<ref></ref><ref></ref>,<ref></ref>,
+Beehive Forum,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/> (using TinyMCE),<ref></ref>,,,
+Discourse,,<ref></ref>,<ref></ref>,,,<ref></ref>,<ref></ref>,<ref></ref><ref></ref>,</ref>  Custom<ref></ref>}}
+Discuz!,,,<ref></ref>,,,,,
+FluxBB,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,,,<ref></ref>,
+FUDforum,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref>For admins: http://fudforum.org/forum/index.php?t=msg&th=120851</ref>,<ref>Native NNTP gateway: http://fudforum.org/forum/index.php?t=msg&th=120406&goto=167140&#msg_167140</ref>,<ref></ref>
+Invision Power Board,<ref name=forummatrix/>,,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,,<ref>Only 3 languages updated in one year. https://invisionpower.com/files/category/107-language-packs/?sortby=file_name&filter=file_free&sortby=file_updated&sortdirection=desc&page=1 </ref>,,<ref></ref>
+MyBB<ref name=":1"></ref>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref></ref>,<ref></ref><ref></ref>,<ref></ref>,
+Phorum,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref></ref>,,<ref></ref>,
+phpBB<ref name=phpbbfeatures></ref>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref></ref>,<ref></ref><ref></ref>,<ref></ref>,(LDAP  OAuth)<ref></ref>
+PunBB<ref name=":0"></ref>,<ref name=forummatrix/>,,<ref name=forummatrix/>,<ref name=forummatrix/>,,,,<ref></ref><ref></ref>,
+Simple Machines Forum,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref>PM: http://custom.simplemachines.org/mods/index.php?action=search;basic_search=export</ref>,<ref></ref>,<ref></ref>,
+Thredded,<ref name=thredded/>,<ref name=thredded/>,<ref name=thredded/>,<ref name=thredded/>,<ref name=thredded/>,<ref name=thredded/>,<ref name=thredded/>,<ref name=thredded/>,<ref name=thredded/>
+UBB.threads,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,,,<ref></ref>,
+Vanilla Forums,<ref name=forummatrix/>,,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref>Attachments: http://vanillaforums.org/addon/myattachments-plugin</ref><ref>Admin-only: http://vanillaforums.org/addon/porter-core</ref>,,<ref> 2 languages 100 % translated.</ref>,<ref></ref>
+vBulletin<ref name=vbfeatures></ref>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref></ref><ref>vB 4: https://www.vbulletin.org/forum/showpost.php?p=2489379&postcount=1069</ref>,,<ref></ref>,
+XenForo,<ref name=forummatrix/>,,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref name=forummatrix/>,<ref>https://xenforo.com/xf2-docs/manual/importing/</ref>,,<ref>https://xenforo.com/community/resources/categories/xenforo-translations.14/ Available translations for latest version.</ref>,<ref>https://xenforo.com/xf2-docs/manual/connected-accounts/ OAuth SSO provided by Connected accounts feature.</ref>

@@ -1,0 +1,41 @@
+,calling a function,basic/void function,value-returning function,required main function
+Ada<ref name="Ada_RM_2012" />,foo «(parameters)»,procedure foo «(parameters)» is begin statements end foo,function foo «(parameters)» return type is begin statements end foo,
+ALGOL 68,foo«(parameters)»;,proc foo = «(parameters)» void: ( instructions );,proc foo = «(parameters)» rettype: ( instructions ...; retvalue );,
+APL,«parameters» foo parameters,foo←'{' statements },foo←'{' statements },
+C (C99),foo(«parameters»')',void foo(«parameters»') { 'instructions' }',type foo(«parameters»') { 'instructions ... return value'; }',«global declarations» int main(«'int argc  char *argv[]'»') { 'instructions' }'
+Objective-C
+C++ (STL)
+C#,static void Main(«'string[] args'»') { 'instructions' }' or static int Main(«'string[] args'»') { 'instructions' }'
+Java,public static void main(String[] args) { instructions' }' or public static void main(String... args) { instructions' }'
+D,int main(«'char[][] args'»') { 'instructions'}' or<br /> int main(«'string[] args'»') { 'instructions'}' or<br /> void main(«'char[][] args'»') { 'instructions'}' or<br /> void main(«'string[] args'»') { 'instructions'}'
+JavaScript,function foo(«parameters»') { 'instructions' }' or var foo = function («parameters»') {'instructions' }' or var foo = new Function («'"'parameter'" ' ...  "last parameter'"'»' "'instructions'");',function foo(«parameters»') { 'instructions ... return value'; }',
+Go,func foo(«parameters»') { 'instructions' }',func foo(«parameters»') 'type' { 'instructions ... return value' }',func main() { instructions' }'
+Swift,func foo(«parameters»') { 'instructions' }',func foo(«parameters»') -> 'type' { 'instructions ... return value' }',
+Common Lisp,(foo «parameters»')',(defun foo («parameters»')' instructions')' or (setf (symbol-function 'symbol')' lambda')',(defun foo («parameters»')' ... value')',rowspan=3
+Scheme,(define (foo parameters')' instructions')' or (define foo (lambda (parameters')' instructions'))',(define (foo parameters')' instructions... return_value')' or (define foo (lambda (parameters')' instructions... return_value'))'
+ISLISP,(defun foo («parameters»')' instructions')',(defun foo («parameters»')' ... value')'
+Pascal,foo«'('parameters')'»,Visual Basic,Foo(«parameters»')',Sub Foo(«parameters»') 'instructions' End Sub',Function Foo(«parameters»') As 'type instructions Foo = valueEnd Function,Sub Main() instructionsEnd Sub
+Visual Basic .NET,Function Foo(«parameters»') As 'type instructions Return valueEnd Function,Sub Main(«'ByVal CmdArgs() As String'»') 'instructions' End Sub' or Function Main(«'ByVal CmdArgs() As String'»') As Integer 'instructions'End Function'
+Xojo
+Python,foo(«parameters»')',def foo(«parameters»'):' instructions,def foo(«parameters»'):' instructions return value,
+S-Lang,foo(«parameters» «;qualifiers»')',define foo («parameters»') { 'instructions' }',define foo («parameters»') { 'instructions ... return value'; }',public define slsh_main () { instructions' }'
+Fortran,foo («arguments»') CALL sub_foo ('«arguments»')',SUBROUTINE sub_foo («arguments»') 'instructions' END SUBROUTINE',type' FUNCTION foo ('«arguments»') 'instructions' ... foo '= value' END FUNCTION',PROGRAM main' 'instructions' END PROGRAM'
+Forth,«parameters»' FOO',: FOO « stack effect comment: ( before -- ) » instructions' ;',: FOO « stack effect comment: ( before -- after ) » instructions' ;',
+PHP,foo(«parameters»')',function foo(«parameters»') { 'instructions' }',function foo(«parameters»') { 'instructions' ... return 'value'; }',rowspan=4
+Perl,foo(«parameters»')' or &foo«'('parameters')'»,sub foo { «'my ('parameters') = @_;'»' 'instructions' }',sub foo { «'my ('parameters') = @_;'»' 'instructions'... '«'return'»' 'value'; }'
+Perl 6,foo(«parameters»')' or &foo«'('parameters')'»,«'multi' »'sub foo('parameters') { 'instructions' }',«'our' «type» »«'multi' »'sub foo('parameters') { 'instructions'... '«'return'»' 'value'; }'
+Ruby,foo«'('parameters')'»,def foo«'('parameters')'» instructions end,def foo«'('parameters')'» instructions «'return'» value end
+Rust,foo(«paramaters»')',fn foo(«paramaters»') {' instructions },fn foo(«paramaters»') ->' type { instructions },fn main() { instructions }
+Scala,foo«'('parameters')'»,def foo«'('parameters')'»«': Unit ='» { instructions },def foo«'('parameters')'»«':' type» = { instructions ... «'return'» value },def main(args: Array[String]) { instructions }
+Windows PowerShell,foo «parameters»,function foo { instructions }; or function foo { «param(parameters)» instructions }''',function foo «'('parameters')'» { instructions' ' … return value' };' or function foo { «'param('parameters')'» instructions …' return 'value' }',rowspan=4
+Bash shell,foo «parameters»
+parameters $n ($1  $2  $3  ...) $@ (all parameters) $# (the number of parameters) $0 (this function name)
+OCaml,foo parameters,let «'rec'» foo parameters = instructions,let «'rec'» foo parameters = instructions... return_value
+F#,[<EntryPoint>] let main args = instructions
+Standard ML,fun foo parameters = ( instructions ),fun foo parameters = ( instructions... return_value ),
+Haskell,foo parameters = do instructions,foo parameters = return_value or foo parameters = do instructions return value,«'main :: IO ()'» main = do instructions
+Eiffel,foo («parameters»')',foo («parameters»')' require preconditions do instructions ensure postconditions end,foo («parameters»')': type require preconditions do instructions Result := value ensure postconditions end,
+CoffeeScript,foo(),foo = ->,foo = -> value,rowspan=2
+foo parameters,foo = () ->,foo = ( parameters ) -> value
+COBOL,CALL "foo'"' «'USING' parameters» «exception-handling» «'END-CALL'»,rowspan=2
+«'FUNCTION'» foo«(«parameters»)»,

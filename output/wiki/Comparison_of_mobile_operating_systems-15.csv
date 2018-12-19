@@ -1,0 +1,7 @@
++Ringtones and alerts
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Custom ringtones,,<ref>How To Create Your Own Ringtone on an iPhone . Youtube.com (2009-06-29). Retrieved on 2012-07-03.</ref>,<ref></ref>,,,
+Custom SMS/MMS tones,<ref name="How to Set Custom (SMS) Notification Ringtone on Android Phone"></ref>,<ref></ref>,<ref name="https://www.theverge.com/2013/10/14/4836394/windows-phone-8-update-3-features-screenshots-release-date"/>,<ref name="How to assign a ringtone and text alert to a contact on a BlackBerry Torch 9800"></ref>,?,
+Custom vibrate alert patterns,No <ref name="Android Issue 1027: More granular notification tone  volume  and repeat controls"></ref> possible on some Samsung devices such as Galaxy S III  but limited<ref name="Create custom vibration patterns for specific contacts with Samsung Galaxy S3 phone"></ref>,<ref></ref><ref></ref>,,<ref name="How to assign a ringtone and text alert to a contact on a BlackBerry Torch 9800"/>,?,
+Dismiss repeating alarm clock before trigger,<ref>Getting To Know Android 4.4 KitKat Edition - Android Gets Cleaner  Brighter  More Useful </ref>,<ref>Why we hate the iPhone alarm - Features - Macworld UK </ref>,,,,?
+Tap to snooze<ref>How every smartphone platform gets the alarm clock wrong</ref>,<ref>10 best alarm clock apps for Android</ref>,,,,,?

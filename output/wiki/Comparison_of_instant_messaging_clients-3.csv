@@ -1,0 +1,37 @@
+Client,Y!M,AIM/ICQ<ref group="lower-alpha" name="im-to-text-note">Supports messaging to a phone number (text messaging service).https://www.engadget.com/2004/07/13/how-to-use-aol-instant-messenger-to-send-a-text-message-to-ahttp://www.skype.com/en/features/sms</ref><ref group="lower-alpha" name="AOL-third-parties-support">AOL is ending AIM access to cryptographically insecure MD5 authentication.https://arstechnica.com/business/2017/02/aol-will-cut-off-third-party-app-access-to-aim/</ref><ref group="lower-alpha" name="AIM will be discontinued December 15  2017">AIM was discontinued December 15  2017.https://help.aol.com/articles/aim-discontinued</ref>,XMPP<ref group="lower-alpha" name="xmpp-note" />,IRC,IBM Lotus Sametime,Novell GroupWise Messenger,Gadu-Gadu,QQ,Skype<ref group="lower-alpha" name="im-to-text-note" />,MySpaceIM,SIP,Others
+Adium,,,,,,,,,<ref group="lower-alpha" name="skype-dep" />,,,MobileMe  NateOn  Steam IM  Telegram  Tox  Zephyr
+AIM,,<ref group="lower-alpha" name="icq-aim" />,,,,,,,,,
+AstraChat,,,,,,,,,,,
+Ayttm,,,,,,,,,,,
+BitlBee,,,,<ref group="lower-alpha" name="bitlbee-irc" />,colspan="6" <ref group="lower-alpha" name="pidgin" />,,<ref group="lower-alpha" name="pidgin" />
+Centericq,,,,,,,,,,,
+climm,,<ref group="lower-alpha" name="aim-icq" />,,,,,,,,,
+eBuddy,,,,,,,,,,,
+emesene,,,,,,,,,,,
+Empathy,colspan="2" <ref group="lower-alpha" name="pidgin" />,,colspan="6" <ref group="lower-alpha" name="pidgin" />,,<ref group="lower-alpha" name="pidgin" />
+Fire,,,,,,,,,,,
+Ichat,,<ref>Ichat doesn't support ICQ</ref>,,,,,,,,,,Bonjour
+IMVU,,,,,,,,,,,,IMVU
+Instantbird,,,,,,,,,,,,Netsoul
+Jitsi,,,,,,,,,,,,ippi  iptel.org  google talk
+Kadu,,,,,,,,,,,
+KDE Telepathy,,,,,,,,,,,,Telegram
+Kopete,,,,,,,,,<ref group="lower-alpha" name="skype-dep" />,,,SILC  WinPopup
+Messages,,<ref group="lower-alpha" name="icq-aim" />,,,,,,,,,,MobileMe
+Miranda IM,,,,,,,,<ref group="lower-alpha" name="plugin"/>,,,
+naim,,,,,,,,,,,,Lily
+Nimbuzz,,,,,,,,,,,,Twitter  Facebook chat  Google Talk
+Palringo,,,,,,,,,,,
+Paltalk,,,,,,,,,,,
+Pidgin,Plug-in,<ref group="lower-alpha" name="upgrade-to-version-2.12" />,,,,,,Plug-in,Plug-in,Plug-in,Plug-in<ref>Available in plugin</ref>,Bonjour  Facebook plugin  SIMPLE  Zephyr
+QIP,,,,,,,,,,,,MRA  XIMSS
+QuteCom,,,,,,,,,,,
+Ring,,,,,,,,,,,,Ring
+Spark (XMPP client),,,,,,,,,,,<ref group="lower-alpha" name="plugin"/>
+Tencent QQ,,,,,,,,,,,
+Tkabber,,,,,,,,,,,
+Trillian,<ref> Trillian }}</ref>,,,<ref group="lower-alpha" name="android" />,,<ref group="lower-alpha" name="android" />,<ref group="lower-alpha" name="plugin"/><ref group="lower-alpha" name="android" />,<ref group="lower-alpha" name="plugin"/><ref group="lower-alpha" name="android" />,<ref></ref><ref group="lower-alpha" name="android" />,,,LinkedIn <ref group="lower-alpha" name="android" /> Foursquare <ref group="lower-alpha" name="android" /> ASTRA  VZ<ref group="lower-alpha" name="android" />
+Yahoo! Messenger,<ref group="lower-alpha" name="wlm-yahoo" />,,,,,,,,,,
+Upptalk,,,,,,,,,,,
+Xabber,,,,,,,,,,,
+,Y!M,AIM/ICQ,XMPP,IRC,IBM Lotus Sametime,Novell GroupWise Messenger,Gadu-Gadu,QQ,Skype,MySpaceIM,SIP,Others

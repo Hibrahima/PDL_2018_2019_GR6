@@ -1,0 +1,30 @@
+rowspan="2",CF,CFast,SM,MMC,Memory Stick,SDSC,SDHC,SDXC,xD,XQD
+I,II,,,MMC,RS-MMC  MMCmobile,Std,PRO,PRO Duo,Micro,SDSC,miniSD,microSD,SDHC,miniSDHC,microSDHC,SDXC,microSDXC,Std,M,H,
+ExpressCard,E<ref name="cf2expresscard"></ref>,E<ref name="cf2expresscard"/>,,,E<ref name="exp12in2">DataFab EXP 12 in 2 </ref>,,E<ref name="exp12in1">DataFab exp 12 in 1 </ref>,E<ref name="exp12in1"/>,E<ref name="exp12in2"/>,,E<ref name="exp12in2"/>,E<ref name="exp12in2"/>,E<ref name="expm2microsd">DataFab exp M2+microSD </ref>,,,,,,E<ref name="exp12in2"/>,E<ref name="exp12in2"/>,E<ref name="exp12in2"/>,EM
+PCI Express Mini Card,,,,,,,,,,,,,,,,,,,,,,EM
+mSATA,,,XM,,,,,,,,,,,,,,,,,,,
+PC Card,EM<ref name="cf2pc"></ref>,EM<ref name="cf2pc"/>,,E<ref name="transcendusa1"></ref>,E<ref name="5in1-pc"></ref>,,E<ref name="5in1-pc"/>,E<ref name="5in1-pc"/>,,,E<ref name="5in1-pc"/>,,,,,,,,,,,
+PCMCIA,EM<ref name="cf2pc" />,EM<ref name="cf2pc"/>,,E<ref name="transcendusa1"/>,E<ref name="5in1-pc" />,,E<ref name="5in1-pc"/>,E<ref name="5in1-pc"/>,,,E<ref name="5in1-pc"/>,,,,,,,,,,,
+CF I,+,+,,E,E<ref name="sd2cf">Minolta SD-CF1 SD-to-CompactFlash adapter</ref>,,E<ref name="ms2cf">Transcend MemoryStick-to-CompactFlash adapter</ref>,E<ref name="ms2cf"/>,E<ref name="duo2cf"></ref>,,E<ref name="sd2cf"/>,,,,,,,,E<ref name="xd2cf">Olympus MACF-10 xD-to-CompactFlash adapter </ref>,E<ref name="xd2cf"/>,E<ref name="xd2cf"/>,
+CF II,,+,,E,E<ref name="sd2cf"/>,,E<ref name="ms2cf"/>,E<ref name="ms2cf"/>,,,E<ref name="sd2cf"/>,,,,,,,,E<ref name="xd2cf"/>,E<ref name="xd2cf"/>,E<ref name="xd2cf"/>,
+CFast,,,+,,,,,,,,,,,,,,,,,,,
+SM,,,,+,,,,,,,,,,,,,,,X<ref name="xd2sm">Hama xD-to-SM adapter</ref>,X<ref name="xd2sm"/>,X<ref name="xd2sm"/>,
+xD,,,,,,,,,,,,,E<ref name="microsd2xd">In March 2008  Olympus started shipping the MASD-1 microSD-to-xD adapter along with its latest compact digital cameras  with a shape designed to fit only in those latest cameras. The physical adapter is in fact purely electromechanical  although the xD and SD protocols are completely incompatible. This demonstrates that the cameras themselves must understand the SD protocol  and thus the adapter is more properly termed an electronic adapter  with the electronic logic contained in the camera rather than the physical accessory.</ref>,,,,,,+,+,+,
+XQD,,,,,,,,,,,,,,,,,,,,,,+
+MMC,,,,,+,M,,,,,D<ref>SD cards are usually thicker than MMC ones  and although it uses perfectly compatible pins  not every MMC slot may allow thick SD card to be inserted</ref>,,,,,,,,,,,
+MS,,,,,X<ref name="sd2ms"></ref>,,+,+,M,M,X<ref name="sd2ms"/>,X<ref name="sd2ms"/>,E<ref name="mcsd2ms">KingMax microSD to MS PRO Duo Adapter</ref>,,,,,,,,,
+SDSC,,,,,D,M,,,,,+,EM,EM,,,,,,,,,
+miniSD,,,,,,,,,,,,+,EM,,,,,,,,,
+microSD,,,,,,,,,,,,,+,,,,,,,,,
+SDHC,,,,,,,,,,,D<ref name="sdhc-backward-compat">SDHC devices are backward-compatible with normal SD cards. ()</ref>,EM,EM,+,EM,EM,,,,,,
+miniSDHC,,,,,,,,,,,,D<ref name="sdhc-backward-compat" />,EM,,+,EM,,,,,,
+microSDHC,,,,,,,,,,,,,D<ref name="sdhc-backward-compat" />,,,+,,,,,,
+SDXC,,uscb,,,,,,,,,D<ref name="sdxc-backward-compat">SDXC devices are backward-compatible with SD and SDHC cards. ()</ref>,EM,EM,D<ref name="sdxc-backward-compat" />,EM,EM,+,EM,,,,
+microSDXC,,,,,,,,,,,,,D<ref name="sdxc-backward-compat" />,,,D<ref name="sdxc-backward-compat" />,,+,,,,
+IDE PATA,EM<ref name="ide2cf"></ref>,EM<ref name="ide2cf"/>,,,,,,,,,E<ref name="ide2sd">Star Empery PT110 SD Card To ATA IDE 3.5 inch Hard Drive Adapter</ref><ref name="ide2sd2"></ref>,,,,,,,,,,,
+Serial ATA,E<ref name="toms_sata2cf"></ref>,E<ref name="toms_sata2cf"/>,EM,,,,,,,,,,,,,,,,,,,
+PCI Express,,,,,,,,,,,,,,,,,,,,,,EM
+USB,X<ref name="multi2usb">There are many USB-connected "n-in-1" memory card readers  for example Belkin's "Hi-Speed USB 2.0 15-in-1 Media Reader & Writer".</ref>,X<ref name="multi2usb"/>,,X<ref name="multi2usb"/>,X<ref name="multi2usb"/>,,X<ref name="multi2usb"/>,X<ref name="multi2usb"/>,E<ref name="msduo2usb">MS Duo and M2 adapters have appeared in the last 12 months which look like USB memory sticks</ref>,E<ref name="msduo2usb"/>,E<ref name="sd2usb"></ref>,,E<ref name="mcsd2usb">A-Data microSD to USB Adapter </ref>,,,,,,X<ref name="multi2usb"/>,X<ref name="multi2usb"/>,X<ref name="multi2usb"/>,X
+Floppy,,,,E<ref name="sm2floppy">DCRP Special Report: FlashPath Adapter by Tom Beardmore</ref>,E,E + M,E,E,,,,,,,,,,,,,
+Nintendo DS Slot-1,,,,,,,,,,,,,E<ref name="mcsd2ndss1">R4 microSD to NDS Slot-1 Adapter </ref>,,,,,,,,,
+Nintendo DS Slot-2,,,,,,,,,,,E<ref name="mcsd2ndss2">Supercard to NDS Slot-2 Adapter </ref>,E<ref name="mcsd2ndss2"/>,E<ref name="mcsd2ndss2"/>,,,,,,,,,

@@ -1,0 +1,25 @@
+IDE,License,Windows,Linux,macOS,Other platforms,Written in,Debugger,GUI builder,Integrated toolchain,Profiler,Code coverage,Autocomplete,Static code analysis,GUI-based design,Class browser,Latest stable release,C compiler,C++ compiler,Refactoring
+Anjuta,,,,,FreeBSD,C,,,,,,,,,,2016-03,,,
+AppCode (IntelliJ IDEA),,,,,,Java,,,,(Xcode profiler),,,,,,2012-12,(Xcode toolchain),(Xcode toolchain),
+C++Builder,,,(Cross compiler planned),(Cross compiler),cross-compiles for Android and iOS,C++ and Object Pascal,,,,(AQTime Standard in package manager),,,,,,2017-03 Tokyo 10.2,,,
+Code::Blocks,,,,,FreeBSD  OpenBSD  Solaris,C++,,,,,,,,<ref>Using the wxSmith plug-in (included in distribution  requires wxWidgets SDK)</ref>,,2017-12<ref>codeblocks.org / Also provides relatively stable "nightly builds"  an alternative to the official releases</ref>,(MinGW + custom),(MinGW + custom),
+CodeLite,,,,,FreeBSD,C++,,,,(As of CodeLite 6.1  integration with Valgrind),,,,<ref>Using the wxCrafter plug-in (included in distribution  requires wxWidgets SDK)</ref>,,2018-10-25<ref></ref>,(GCC  Clang  VC + custom),(GCC  Clang  VC + custom),
+Dev-C++,,,<ref>A Linux version was in the works  but has been abandoned since mid-2002; however  Dev-C++ has been reported to run on Wine.</ref>,,FreeBSD,Object Pascal,,,,,,,,,,2013-10 (Unofficial Version)  2005-02 (Official Version),,,
+Eclipse CDT,,,,,FreeBSD  JVM  Solaris,C++  Java,,<ref name="Eclipse Qt Integration"/>,<ref name="Eclipse CDT Toolchain"></ref>,<ref name="Eclipse Linux Tools Profiling"></ref>,<ref name="Eclipse Linux Tools Code Coverage"></ref>,,,,,2018-03<ref></ref><ref></ref><ref></ref>,,,
+Geany,,,,,FreeBSD  AIX  OpenBSD  Solaris  other Unix,C,(via a plug-in),,,,,,,,,2016-03<ref></ref>,,,
+GNAT Programming Studio,,,,,DragonFly BSD  FreeBSD  NetBSD  OpenBSD  Solaris,Ada,,,,,,,,,,2016-06,,,
+JetBrains CLion,,,,,,Java,,,,,,,,,,2017-11<ref></ref>,(customizable),(customizable),
+KDevelop,,,,,FreeBSD  Solaris,C/C++,,,,,,,,,,2018-11,,,
+LabWindows/CVI,,,,,cross-compile to Linux  Phar Lap ETS,,,,,,,,,,,2016-12,,,
+Microsoft Visual Studio,,,,,Mac OS 7 (v2.x-v4.x only)  Linux<ref name="VisualGDB">Linux is support for Visual Studio C/C++ is available via third-party plugin VisualGDB http://www.visualgdb.com/</ref>,C++ and C#,,,,,,,,,,2017-10,,,(also plugin)<ref name="Visual Assist X and Resharper C++">Refactoring for Visual Studio C/C++ is supported natively since Visual Studio 2015 and via third-party plugins Visual Assist X http://www.wholetomato.com/ and Resharper for C++ https://www.jetbrains.com/resharper-cpp/</ref>
+MonoDevelop,,,,,FreeBSD  OpenBSD  Solaris,C#,,,,,,,,,,2016-11,(GCC + custom),(GCC + custom),
+NetBeans C/C++ pack,,,,,OpenBSD  Solaris,Java,<ref name="netbeansCC++"></ref>,<ref name="netbeansCC++" />,<ref></ref>,<ref name="netbeansCC++" />,,,,,,2016-10<ref></ref>,,,
+OpenWatcom,,(32-bit only),partial,,FreeBSD  DOS  OS/2,C/C++,(GUI remote),,,,,,,,,2010-06,,,
+Oracle Solaris Studio (formerly Sun Studio),,,,,Solaris,,,,,,,,,,,2008-11,,,
+Qt Creator,,,,,FreeBSD  Maemo  OpenBSD  Symbian,C++,,,,,,,(clang),,,2016-12,,,<ref>qt-project.org </ref>
+Rational Software Architect (Eclipse IBM),,,,,FreeBSD  JVM  Solaris,Java,,,,,,,,,,2015-09,,,
+SlickEdit,,,,,Solaris  Solaris SPARC  AIX  HP-UX,C++,,,,,,,,,,2016-10,,,
+Ultimate++ TheIDE,,,,,,C++,,,,,,,,,,2015-12,,,
+Understand,,,,,Solaris,,,,,,,,,,,2015-12,,,
+Xcode (Apple),,,,,cross compiles to iOS,C  C++  Objective-C  Objective-C++,,,,,,,,,,2016-12,, llvm (llvm-gcc and gcc deprecated),, llvm (llvm-gcc and gcc deprecated),
+IDE,License,Windows,Linux,macOS,Other platforms,Written in C/C++,Debugger,GUI builder,Integrated toolchain,Profiler,Code coverage,Autocomplete,Static code analysis,GUI-based design,Class browser,Latest stable release,C compiler,C++ compiler,Refactoring

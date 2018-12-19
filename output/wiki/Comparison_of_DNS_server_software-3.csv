@@ -1,0 +1,23 @@
+Server,Creator,Cost (USD),Public source code,Software license
+AnswerX,Akamai,Unpublished price,,Clickwrap license
+BIND,Internet Systems Consortium,Free,,BSD  MPL 2.0 for 9.11+
+Microsoft DNS,Microsoft,Included with Windows Server,,Clickwrap license
+djbdns,Daniel J. Bernstein,Free,,Public domain
+Dnsmasq,Simon Kelley,Free,,GPL
+Simple DNS Plus,JH Software,$79 – $379,,Clickwrap license
+NSD,NLnet Labs,Free,,BSD variant
+Knot DNS,CZ.NIC,Free,,GPL
+PowerDNS,PowerDNS.COM BV / Bert Hubert,Free,,GPL
+MaraDNS,Sam Trenholme,Free,,BSD variant
+Nominum ANS,Nominum,Unpublished price,,Clickwrap license
+Nominum Vantio,Nominum,Unpublished price,,Clickwrap license
+pdnsd,Thomas Moestl and Paul Rombouts,Free,,GPL
+Posadis,Meilof Veeningen,Free,,GPL
+Unbound,NLnet Labs,Free,,BSD
+gdnsd,Brandon Black,Free,,GPL
+YADIFA,EURid,Free,,BSD
+yaku-ns,Salvatore Sanfilippo,Free,,GPL
+DNS Blast,EfficientIP,Unpublished price,,Clickwrap license
+Secure64 DNS Authority,Secure64,Unpublished price,,Clickwrap license
+Secure64 DNS Cache,Secure64,Unpublished price,,Clickwrap license
+Technitium DNS Server,Technitium Software,Free,,GPL

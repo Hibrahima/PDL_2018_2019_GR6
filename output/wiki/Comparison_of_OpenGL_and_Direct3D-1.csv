@@ -1,0 +1,3 @@
+API,Desktop support,Embedded system support,License
+Direct3D,Microsoft Windows  Xbox,Windows Embedded <ref>http://blogs.msdn.com/b/windows-embedded/archive/2009/06/25/component-tales-directx.aspx</ref> Windows CE (through Direct3D Mobile),<ref name="DirectXlicense" />
+OpenGL,Cross-platform<ref name="opengl.org">http://www.opengl.org/about/</ref>,Cross-platform through OpenGL ES<ref>https://www.khronos.org/opengles/</ref>,Open standard <ref name="opengl.org"/> some features patented

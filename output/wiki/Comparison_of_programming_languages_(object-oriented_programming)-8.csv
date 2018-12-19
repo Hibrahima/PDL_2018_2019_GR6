@@ -1,0 +1,21 @@
+,unary,binary,function call
+ABAP Objects,colspan=3
+C++ (STL),type operatorsymbol'() { 'instructions' }',type operatorsymbol'('type operand2') { 'instructions' }',type operator()(«parameters»') { 'instructions' }'
+C#,static type' operator 'symbol'('type operand') { 'instructions' }',static type' operator 'symbol'('type operand1'  'type operand2') { 'instructions' }',
+D,type opUnary(string s')() if ('s' == "'symbol'") { 'instructions' }',type opBinary(string s')('type operand2') if ('s' == "'symbol'") { 'instructions' }' <br /> type opBinaryRight(string s')('type operand1') if ('s' == "'symbol'") switch ('s') { 'instructions' }',type opCall(«parameters»') { 'instructions' }'
+Java,rowspan=2 colspan=3
+Objective-C
+Swift,func symbol'('operand1 : type') -> 'returntype' { 'instructions' }' (outside class),func symbol'('operand1 : type1'  'operand2 : type2') -> 'returntype' { 'instructions' }' (outside class),
+Eiffel<ref name="Eiffel operators">Although Eiffel does not support overloading of operators  it can define operators</ref>,op_name alias "symbol'":' TYPE <br />do instructions end,op_name alias "symbol'" ('operand: TYPE1'):' TYPE2 <br />do instructions end,
+Python,def __opname'__(self): <br /> 'instructions'<br /> return 'value,def __opname'__(self  'operand2'): <br /> 'instructions'<br /> return 'value,def __call__(self«'  'paramters»'): <br /> 'instructions'<br /> return 'value
+Visual Basic .NET,Shared Operator symbol'('operand' As 'type') As 'type'<br /> 'instructions' <br /> End Operator',Shared Operator symbol'('operand1' As 'type'  'operand2' As 'type') As 'type'<br /> 'instructions' <br /> End Operator',
+Xojo,Function Operator_name'('operand' As 'type') As 'type'<br /> 'instructions' <br /> End Function',colspan=2
+PHP,<ref>PHP does not support operator overloading natively  but support can be added using the "operator" PECL package.</ref>,function __invoke(«parameters»') { 'instructions' }' (PHP 5.3+)
+Perl,use overload "symbol'" => sub { my ($self) = @_; 'instructions' };',use overload "symbol'" => sub { my ($self  '$operand2'  '$operands_reversed') = @_; 'instructions' };',
+Perl 6,«'our' «type »»«'multi' »'method prefix:<'symbol'> ('«$operand':' »') {' instructions ... return value';' } or<br /> «'our' «type »»«'multi' »'method postfix:<'symbol'> ('«$operand':' »') {' instructions ... return value';' } or<br /> «'our' «type »»«'multi' »'method circumfix:<'symbol1 symbol2'> ('«$operand':' »') {' instructions ... return value';' },«'our' «type »»«'multi' »'method infix:<'symbol'> ('«$operand1':' » type operand2') {' instructions ... return value';' },«'our' «type »»«'multi' »'method postcircumfix:<( )> ('«$self':' » «parameters»') {' instructions }
+Ruby,def symbol <br /> instructions <br /> expression resulting in return value <br /> end,def symbol'('operand2')' <br /> instructions <br /> expression resulting in return value <br /> end,
+Windows PowerShell,rowspan=2 colspan=3
+OCaml
+F#,static member (symbol')' operand = expression,static member (symbol')' (operand1' ' operand2') =' expression,
+COBOL,colspan=3
+ISLISP,colspan=3

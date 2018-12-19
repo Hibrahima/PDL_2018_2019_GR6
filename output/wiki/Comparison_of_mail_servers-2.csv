@@ -1,0 +1,37 @@
+Mail Server,DNSBL,SURBL,Spamtraps,Greylisting,SPF,DKIM,DMARC,Tarpit,Bayesian filters,Regular expressions,Embedded Antivirus,Embedded Antispam
+agorum core,,,,,,,,,,,,
+Apache James,,,,,,,,,,,ClamAV<ref></ref>,(Apache SpamAssassin)
+Axigen,,<ref name="Kaspersky-anti-spam">via Kaspersky anti-spam add-on</ref>,,,,,,,, in SpamAssassin,,CYREN,CYREN
+Citadel,,,,,(via SpamAssassin),,,,(via SpamAssassin),,(ClamAV),(SpamAssassin)
+Courier Mail Server,,,,<ref name="courier-pythonfilter"></ref>,,<ref>Two DKIM filters can be found in Courier-MTA's links page</ref>,<ref>With zdkimfilter</ref>,,<ref name="courier-pythonfilter" />,<ref name="courier-pythonfilter" />,Clamav,<ref name="courier-pythonfilter" />
+Dovecot,,,,,,,,,,,,
+Eudora Internet Mail Server,,,,,,,,,,,,
+Exim,,,,,at build time,,at build time,,with spamassassin etc.,,any,any
+FirstClass,,,,,,,,,,,Symantec,
+Gordano Messaging Suite,,,,,,,,,,,CYREN  Authentium,CYREN
+GroupWise,,,,,,,,,,,,
+Halon,,,,,,,,,(via SpamAssassin),,(Sophos  ClamAV),(CYREN  SpamAssassin)
+Haraka,,,,,,,,,with spamassassin etc.,,ClamAV  AVG  any via plugins,SpamAssassin  MessageSniffer
+hMailServer,,,,,,,,,,,ClamAV,SpamAssassin
+IBM Lotus Domino,<ref></ref>,,,,<ref></ref>,,,,,,,
+IceWarp Mail Server,,,,,,,,,,,,
+Ipswitch IMail Server,,,,,,<ref></ref>,<ref></ref>,,,,Symantec  BitDefender,CYREN
+Kolab,,,,,,,,,with spamassassin etc.,,(via content filter interface),(via content filter interface)
+Mailsite,,,,,,,,,,,,
+Mailtraq,,,,,,,,,,,,
+Mercury Mail Transport System,,,,(GreyWall extension),,,,,(SpamHalter extension),,(ClamWall extension),
+Microsoft Exchange Server,(2003 & later),,,,,,,(2003 & later),,,,
+NetMail,,,,,,,,,,,,
+OpenSMTPD,,,,,,<ref></ref>,,,,,,
+Oracle Communications Messaging Server,,,,,,,,,with spamassassin etc.,,any,any
+Postfix,,,,,,<ref name=opendkim></ref>,<ref name=opendmarc></ref>,,with spamassassin etc.,,(via content filter interface),(via content filter interface)
+qmail,,,,,,,,,,,,
+Scalix,,(via Scalix AntiSpam powered by Cyren or SpamAssassin),(via Scalix AntiSpam powered by Cyren or SpamAssassin),,,,,,,,(via Scalix ZeroHour AntiVirus powered by Cyren or ClamAV),
+Sendmail,,(via milter/SA),,,,<ref name="opendkim"/>,<ref name="opendmarc"/>,,with spamassassin etc.,,ClamAV,SpamAssassin
+SparkEngine,,,,,,,,,,,,
+Synovel Collabsuite,,,,,,,,,,,ClamAV,SpamAssassin
+UW IMAP,,,,,,,,,,,,
+WinGate,,,,,,,,,,,,
+Zarafa,,,,,,,,,,,,
+Zimbra,,(via SpamAssassin),,(via Cluebringer Policy Daemon),,,,,,(partially),(via ClamAV  optionally any via Amavisd),(via SpamAssassin)
+Mail Server,DNSBL,SURBL,Spamtraps,Greylisting,SPF,DKIM,DMARC,Tarpit,Bayesian filters,Regular expressions,Embedded Antivirus,Embedded Antispam

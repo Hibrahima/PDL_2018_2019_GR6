@@ -1,0 +1,27 @@
+Shell,Command<br/>name<br/>completion,Path<br/>completion,Command<br/>argument<br/>completion,Wildcard<br/>completion,Command<br/>history,Mandatory<br/>argument<br/>prompt,Automatic<br/>suggestions,Syntax<br/>highlighting,Directory history  stack or similar features,Implicit<br/>directory<br/>change,Auto&shy;correction,Integrated<br/>environment,Snippets,Value<br/>prompt,Menu/options<br/>prompt,Progress<br/>indicator,Context<br/>sensitive<br/>help,Command<br/>builder
+Thompson shell,,,,,,,,,,,,,,,,,,
+Bourne shell 1977 version,,,,,,,,,,,,,,,,,,
+Bourne shell current version,,<ref name="ReferenceB">current versions from Jörg Schilling</ref>,,,<ref name="ReferenceB"/>,,,,(CDPATH  pushd  popd  dirs)  CDPATH since SVr4,,,,,,,,,
+POSIX shell,,,,,,,,,,,,,,,,,,
+bash (v4.0),,,,<ref>Alt-Shift-8 or Alt-* will expand to the full matching list of filenames</ref>,,,,,,,,,,,,,,
+csh,,,,,,,,,,,,,,,,,,
+tcsh,,,,,,,,,,,,,,,,,,
+Hamilton C shell,,,,,,,,,,,,,,,,,,
+Scsh,,,,,,,,,,,,,,,,,,
+ksh (ksh93t+),,,,,,,,,,,,,,,,,,
+pdksh,,,,,,,,,,,,,,,,,,
+zsh,,,,<ref></ref>,,,,<ref>zsh does not feature syntax highlighting  but a 3rd party project exists which offers this capability as an add-on: zsh-syntax-highlighting</ref>,,,,,,,,,,
+ash,,,,,,,,,,,,,,,,,,
+CCP,,,,,,,,,,,,,,,,,,
+COMMAND.COM,,,,,<ref name="doskey">Available through the DOSKEY add-on</ref><ref name="drdos">Available in DR-DOS through HISTORY</ref>,,,,,,,,,,(only via external CHOICE command  in DR-DOS also via SWITCH / DRSWITCH internal commands),,,
+OS/2 CMD.EXE,,,,,,,,,,,,,,,,,,
+Windows CMD.EXE,,,,,,,,,,,,,,(via SET /P command),,,,
+4DOS,,,,,<ref name="doskey_4dos" >Alternatively available through the DOSKEY add-on as well</ref><ref name="drdos_4dos">Alternatively available in DR-DOS through HISTORY as well</ref>,,,,,,,,,(via INPUT  INKEY and ESET commands),(via @SELECT[] function  and indirectly via a combination of INKEY  INPUT  SWITCH commands),,,(except for OPTION command for INI file directives)
+4OS2,?,?,?,?,,,,,,,,?,,?,?,,,
+TCC (formerly 4NT),,,,,,,,,,,,,,(via INPUT  INKEY  ESET and SET /P commands),(via @SELECT[] function  and indirectly via a combination of INKEY  INPUT  SWITCH commands)<ref>TCC has special prompt functions for Yes  No  Cancel  Close  Retry.</ref>,,,
+PowerShell,,,,,,,Yes  in ISE<ref name="powershell_ise" />,Yes  in ISE<ref name="powershell_ise" /> and PSReadLine<ref name="PSReadLine"></ref> module (included in v5.0<ref></ref>),<ref>Push-Location (with alias pushd) and Pop-Location (with alias popd) allows multiple location types (directories of file systems  organizational units of Active Directory  nodes of Windows Registry etc) to be pushed onto and popped from location stacks.</ref>,,Yes  in PSReadLine<ref name="PSReadLine" /> module,Yes  in ISE<ref name="powershell_ise"></ref>,Yes  in ISE<ref name="powershell_ise" />,,<ref>The $host.ui.PromptForChoice function allows for a menu-style prompt for choices. The prompt works from background jobs as well as from remote sessions  displaying the menu prompt on the console of the controlling session.</ref>,<ref>The [https://technet.microsoft.com/en-us/library/hh849902.aspx Write-Progress] cmdlet writes a progress bar which can indicate percentage  remaining seconds etc. The progress bar messages work from background jobs or remote sessions in addition to interactive scripts  i.e. the progress bar is displayed on the console of the controlling session  not as part of the regular output.</ref>,Yes  in ISE<ref name="powershell_ise" />,<ref>The [https://technet.microsoft.com/en-us/library/hh849915.aspx Show-Command] cmdlet inspects the command definition and opens an interactive windows with a named input field for each parameter/switch</ref>
+rc,<ref name="rio">Handled by rio  GNU readline  editline or vrl</ref>,<ref name="rio"/>,,,<ref name="rio" />,,,,,,,,,?,,,,
+BeanShell,,,,,,,,,,,,,,,,,,
+VMS DCL,,,,,,,,,,,,,,,,,,
+fish,,,<ref name="fishcompletion"></ref>,<ref name="fishcompletion"/>,,,,,,,,<ref>The fish shell is an interactive character based input/output surface</ref>,,,,,,
+Shell,Command<br/>name<br/>completion,Path<br/>completion,Command<br/>argument<br/>completion,Wildcard<br/>completion,Command<br/>history,Mandatory<br/>argument<br/>prompt,Automatic<br/>suggestions,Syntax<br/>highlighting,Directory history  stack or similar features,Implicit<br/>directory<br/>change,Auto&shy;correction,Integrated<br/>environment,Snippets,Value<br/>prompt,Menu/options<br/>prompt,Progress<br/>indicator,Context<br/>sensitive<br/>help,Command<br/>builder

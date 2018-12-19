@@ -1,0 +1,48 @@
++Ontologies and disambiguation
+Research Networking Tool,Thesaurus/Controlled Vocabulary Used,Ontology/Ontologies Supported,Automatic Author Disambiguation
+Academic Room,unknown,unknown,
+Activity Insight,,Fully customizable data collection screens; campus  college and department-defined ontologies,
+C-IKNOW,Not applicable,Uses elements of FOAF and Dublin Core in RDF; uses Pellet reasoning engine,(but can be done in conjunction with software developed at Northwestern University)
+PROFILES by Mentis® (formerly Collaborative Partnership / Profile System),,Dublin Core  Social Media and compatible with VIVO and other popular ontologies,
+Community Academic Profiles - CAP,MeSH,Unknown,(partial)
+Converis,In some fields,CASRAI  VIVO,(Author clustering capabilities used to match authors with papers)
+CurvitaTM Profile Manager,Unknown,Unknown,
+CUSP - Columbia University Scientific Profiles,Unknown,Unknown,
+Digital Vita,Unknown,Unknown,(but can be done manually by authors)
+Elsevier's Pure (now integrated with SciVal Experts),The "Elsevier Fingerprinting Engine" uses ten thesauri including MeSH to match and identify key concepts for an individual or group of people. Thesauri updates and expansion are ongoing.,Maps to VIVO ontology,
+Elsevier's SciVal,The "Elsevier Fingerprinting Engine" uses ten thesauri including MeSH to match and identify key concepts for an individual or group of people. Thesauri updates and expansion are ongoing.,Maps to VIVO ontology,
+Epernicus Solutions & Epernicus Network,Unknown,Unknown,(can be done manually by authors)
+ERIM Member Profile System (ERIM MIS),Unknown,Unknown,(uses author ID numbers)
+EUREKA!TM Enhancing Student Research,Unknown,Unknown,
+Expertise @ Maryland,Unknown,Unknown,
+Faculty Profile System,Unknown,Unknown,
+Faculty Research Information Profile (FRIP),N/A,N/A,N/A
+Faculty Scholarly Productivity Index,Unknown,Unknown,Unknown
+GENIUS,Unknown,Unknown,
+Google,None (Google uses generic keywords),Unknown,(but can be done manually through Google Scholar "My Citations" functionality)
+HUBzero,Unknown,Unknown,
+iamResearcher,Unknown,Unknown,
+iAMscientist,Unknown,Unknown,
+i2iConnect,Unknown,Unknown,
+InCites,In some fields,Unknown,(Though InCites can accept data from ResearcherID and Converis profiling systems for disambiguation)
+INDURE,Unknown,Unknown,N/A
+LatticeGrid,MeSH,Uses elements of FOAF and other ontologies,(but can be done manually by authors)
+Lattes Database,Unknown,Unknown,Unknown
+LinkedIn,None,Unknown,
+Life Science Network,Unknown,Unknown,(but can be done manually)
+Loki,Unknown,Unknown,(uses campus directory for authentication)
+Lyterati,,Fully customizable ontology that maps to VIVO,(using parsing algorithm on free text)
+McCormick Collaboration Visualization Tool,None,Unknown,
+MizzouLinks,Unknown,Unknown,
+MyScienceWork,Unknown,Unknown,
+ORCID (Open Researcher and Contributor ID),Unknown,Unknown,
+OSU:pro,Unknown,Unknown,Unknown
+Pivot,Unknown,Unknown,
+Profiles,MeSH  others are being developed to go beyond the life and biomedical sciences,VIVO RDF ontology with additional Profiles RDF classes and properties,Harvard Profiles uses an XML-based "disambiguation service" to import Medline publications and uses configurable heuristics in its disambiguation algorithm
+ReachNC,Scopus taxonomy uses MeSH and general keywords,Maps to VIVO ontology,
+Research Accelerator,Unknown,Unknown,
+ResearcherID,Unknown,Unknown,(although authors can build their publication list and manually disambiguate)
+SciENcv,No thesaurus used,Unknown,
+Symplectic Elements,MeSH  Fields of Research  ScienceMetrix.,Supports mapping of publication  person and grants data to the VIVO ontology via their open source VIVO Harvester Extension  as well as Harvard Catalyst's Profiles RNS.,
+VIVO,VIVO uses several thesauri that are available through Semantic Web  including MeSH,The VIVO Ontology was developed and supported by NIH-funded efforts and continues to be developed and built by its open source community at GitHub and in collaboration with the eagle-i project.,
+Yaffle,Unknown,Unknown,Unknown

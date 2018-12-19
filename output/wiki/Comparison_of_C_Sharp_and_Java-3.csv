@@ -1,0 +1,7 @@
+Reference types,Java,C#
+Garbage collection,
+Weak references,
+Reference queue (interaction with garbage collection),
+Soft references,
+Phantom references,
+Proxy support,; proxy generation,; object contexts

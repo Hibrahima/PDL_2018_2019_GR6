@@ -1,0 +1,4 @@
+Prog Language,Access server,Use database,List databases,List tables
+raw MySQL access,,<source lang=mysql inline>use db;</source>,<source lang=mysql inline>show databases;</source>,<source lang=mysql inline>show tables;</source>
+PHP,,
+Python,,,,

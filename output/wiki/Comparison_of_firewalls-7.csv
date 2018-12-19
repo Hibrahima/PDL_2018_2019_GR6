@@ -1,0 +1,6 @@
+Can:,NAT44 (static  dynamic w/o ports  PAT),NAT64  NPTv6,IDS (Intrusion Detection System),VPN (Virtual Private Network),AV (Anti-Virus),Sniffer,Profile selection
+Untangle,,,,(IPsec and OpenVPN),(clamav commtouch (optional) ),(tcpdump),
+Vyatta,(three NAT types),,(integrated Snort),(IPsec and OpenVPN),(with clamav Sophos Antivirus (optional) ),(with wireshark or tcpdump),
+WinGate,,,(with NetPatrol),(proprietary),(Kaspersky Labs),(filtered capturing to pcap format),
+pfSense,,(NPt),(with Snort),(OpenVPN  IPsec  L2TP  IKEv2  Tinc  PPTP),(with squid and clamav),(tcpdump),
+IPFire,,,(with Snort),(OpenVPN  IPsec  IKEv2),(with squid and clamav),(tcpdump),

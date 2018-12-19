@@ -1,0 +1,36 @@
+,fixed size array,dynamic size array
+one-dimensional array,multi-dimensional array,one-dimensional array,multi-dimensional array
+Ada<ref name="Ada_RM_2012" />,array (<first> .. <last>) of <type> or array (<discrete_type>) of <type>,array (<first1> .. <last1>  <first2> .. <last2>  ...) of <type> or array (<discrete_type1>  <discrete_type2>  ...) of <type>,array (<discrete_type> range <>) of <type>,array (<discrete_type1> range <>  <discrete_type2> range <>  ...) of <type>
+ALGOL 68,[first:last]<wbr/>«modename» or simply: [size]<wbr/>«modename»,[first1:last1  first2:last2]<wbr/>«modename» or [first1:last1][first2:last2]<wbr/>«modename» etc.,flex[first:last]<wbr/>«modename» or simply: flex[size]<wbr/>«modename»,flex[first1:last1  first2:last2]<wbr/>«modename» or flex[first1:last1]<wbr/>flex[first2:last2]<wbr/>«modename» etc.
+C (C99),type name'['size']',type name'['size1][size2],type *name or within a block: int n = ...; type name'['n']',
+C++ (STL),«std::»array<type  size'>'(C++11),,«std::»vector<type'>'
+C#,type'[]',type'['...],System<wbr/>.Collections<wbr/>.ArrayList or System<wbr/>.Collections<wbr/>.Generic<wbr/>.List<wbr/><type'>',
+Java,type'[]',type'[][]'...,ArrayList or ArrayList<type'>',
+D,type'['size']',type'['size1][size2],type'[]',
+Go,[size']'type,[size1][size2]...type,[]type,[][]type,
+Swift,,,[type']' or Array<type'>',[[type']]' or Array<Array<type'>>',
+Objective-C,NSArray,,NSMutableArray,
+JavaScript,,,Array
+Common Lisp,,,,
+Scheme,,,,
+ISLISP,,,,
+Pascal,array[first'..'last'] of' type,,
+Object Pascal (Delphi),array of type,array of array ... of type
+Visual Basic,,,,
+Visual Basic .NET,,,System<wbr/>.Collections<wbr/>.ArrayList or System<wbr/>.Collections<wbr/>.Generic<wbr/>.List<wbr/>(Of type')',
+Python,,,list,
+S-Lang,,,,
+Fortran,type' :: 'name'('size')',type' :: 'name'('size'1  'size'2 ...)',type'  ALLOCATABLE :: 'name'(:)',type'  ALLOCATABLE :: 'name'(: : ...)'
+PHP,,,array,
+Perl,,,,
+Perl 6,,,Array[type']' or Array of type,
+Ruby,,,Array,
+Scala,Array[type']',Array[...[Array[type']]'...],ArrayBuffer[type']',
+Seed7,array type<br />or<br />array [idxType']' type,array array type<br />or<br />array [idxType'] array ['idxType']' type,array type<br />or<br />array [idxType']' type,array array type<br />or<br />array [idxType'] array ['idxType']' type
+Smalltalk,Array,,OrderedCollection,
+Windows PowerShell,type'[]',type'['...],,
+OCaml,type array,type array ... array,,
+F#,type [] or type array,type [...],System<wbr/>.Collections<wbr/>.ArrayList or System<wbr/>.Collections<wbr/>.Generic<wbr/>.List<wbr/><type'>',
+Standard ML,type vector or type array,,,
+Haskell (GHC),,,,
+COBOL,level-number type OCCURS size «'TIMES'»'.',one-dimensional array definition...,level-number type OCCURS min-size TO max-size «'TIMES'» DEPENDING «'ON'» size'.',

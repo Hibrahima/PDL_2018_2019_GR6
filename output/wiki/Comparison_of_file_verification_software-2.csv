@@ -1,0 +1,56 @@
+Software,CRC32,MD5,SHA-1,SHA-224,SHA-256,SHA-384,SHA-512,SHA-3,Panama,RIPEMD-128,RIPEMD-160,RIPEMD-256,RIPEMD-320,Tiger,Whirlpool,Other
+AccuHash,,,,,,,,,,,,,,,,
+BeaverSFV,,,,,,,,,,,,,,,,
+CDCheck,,,(?),(?),(?),(?),,,,,,,,,,MD2
+cfv,,,,,,,,,,,,,,,,Torrent file
+Checksum Compare,,,,,,,,,,,,,,,,
+Checksums,,,,,,,,,,,,,,,,-
+CHK,,,,,,,,,,,,,,,,Adler-32  BLAKE2s  BLAKE2b  CRC64  MD4  SHA-1 (Base32)  SHA-256 (Base64)  SHA-512/224  SHA-512/256
+cksum,,,,,,,,,,,,,,,,
+CyoHash,,,,,,,,,,,,,,,,-
+Data Digester,,,,,,,,,,,,,,,,MD2  MD4  PGP
+DeepDigest,,,,,,,,,,,,,,,,
+DySFV,,,,,,,,,,,,,,,,
+eXpress CheckSum Calculator,,,,,,,,,,,,,,,,
+ExactFile,,,,,,,,,,,,,,,,Adler-32  GOST  MD2
+FastSum,,,,,,,,,,,,,,,,
+FCIV,,,,,,,,,,,,,,,,
+Febooti Hash & CRC,,,,,,,,,,,,,,,,MD2  MD4
+FileVerifier++,,,,,,,,,,,,,,,,
+FlashSFV,,,,,,,,,,,,,,,,
+FSUM,,,,,,,,,,,,,,,,Adler-32
+FSUM Frontend,,,,,,,,,,,,,,,,Total 96 algorithms
+PowerShell's Get-FileHash,,,,,,,,,,,,,,,,MACTripleDES
+HashCalc,,,,,,,,,,,,,,,,MD2  MD4  Adler-32
+HashCheck Shell Extension,,,,,,,,,,,,,,,,MD4
+HashForm,,,,,,,,,,,,,,,,
+HashShell,,,,,,,,,,,,,,,,
+ilSFV,,,,,,,,,,,,,,,,
+Jacksum,,,,,,,,,,,,,,,,Total 58 algorithms
+jdigest,,,,,,,,,,,,,,,,
+jHashCalc,,,,,,,,,,,,,,,,MD4
+MD5 File Hasher,,,,,,,,,,,,,,,,
+MD5 & SHA Checksum Utility,,,,,,,,,,,,,,,,
+md5deep,,,,,,,,,,,,,,,,
+md5sum,,,,,,,,,,,,,,,,
+MD5summer,,,,,,,,,,,,,,,,
+MD5 Win Verifier,,,,,,,,,,,,,,,,
+MultiHasher,,,,,,,,,,,,,,,,
+QuickSFV,,,,,,,,,,,,,,,,
+PeaZip,,,,,,,,,,,,,,,,Adler-32  CRC16  CRC24  CRC64  eDonkey  MD4
+RapidCRC,,,,,,,,,,,,,,,,
+RekSFV,,,,,,,,,,,,,,,,MD4 and HAVAL
+RHash,,,,,,,,,,,,,,,,MD4 and more
+SafeFileManager,,,,,,,,,,,,,,,,
+Sigcheck,,,,,,,,,,,,,,,,IMP
+SFV Checker,,,,,,,,,,,,,,,,
+sha1sum,,,,,,,,,,,,,,,,
+sha3sum,,,,,,,,,,,,,,,,Keccak  SHAKE  RawSHAKE
+SuperSFV,,,,,,,,,,,,,,,,
+TeraCopy,,,,,,,,,,,,,,,,XxHash
+Tom's Hash Explorer,,,,,,,,,,,,,,,,Entropy_(information_theory)  Shannon's Entropy
+Toolsley Hash & Validate,,,,,,,,,,,,,,,,
+Total Commander,,,,,,,,,,,,,,,,
+WinHasher,,,,,,,,,,,,,,,,
+wxChecksums,,,,,,,,,,,,,,,,
+Software,CRC32,MD5,SHA-1,SHA-224,SHA-256,SHA-384,SHA-512,SHA-3,Panama,RIPEMD-128,RIPEMD-160,RIPEMD-256,RIPEMD-320,Tiger,Whirlpool,Other

@@ -1,0 +1,2 @@
+C++,Java
+<source lang="cpp">a.x = 5; // modifies the object a</source>,<source lang="java">a.x = 5; // modifies the object referenced by a</source>

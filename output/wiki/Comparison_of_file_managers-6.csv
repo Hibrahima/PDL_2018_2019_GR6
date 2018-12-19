@@ -1,0 +1,31 @@
+File manager,File Name <ref group="D" name="FileName"/>,File Contents <ref group="D" name="FileContents"/>,Basic metadata search <ref group="D" name="BasicMetadata"/>,All metadata search <ref group="D" name="AllMetadata"/>,RegExp for Contents,Boolean (nesting levels),Fuzzy logic <ref group="D" name="FuzzyLogic"/>,Save searches <ref group="D" name="SaveSearches"/>,Refined searches <ref group="D" name="RefinedSearches"/>
+Altap Salamander,,,,,<ref group="s">Altap Salamander Search offers RegExp for defining the file content.</ref>,,,,
+Commander One,,,<ref group="s" name="ossupport" />,<ref group="s" name="ossupport" />,,,,,
+CRAX Commander,,,<ref group="s" name="ossupport" />,,,,,,
+Directory Opus,,,,,,,,,
+Dired,,,,,,,,,
+Dolphin,,,,,,,,,
+Double Commander,,,,,,,,,
+emelFM2,,,,,,,,,
+FAR Manager,,,,,<ref group="s" name="Plugin" />,<ref group="s" name="Plugin" />,<ref group="s" name="Plugin" />,,
+File Commander,,,,,,,,,
+Finder,,,,,,,,,
+ForkLift,,,,,,,,,
+Konqueror,,,,,,,,,
+Krusader,,,,,<ref></ref>,,,,
+GNOME Files (Nautilus),,,<ref group="s" name="Beagle" />,<ref group="s" name="Beagle" />,,,,,
+Nemo,?,?,?,?,?,?,?,?,?
+Nomad.NET,,,,,,,,,
+Path Finder,,,,,,,,,
+PCManFM,,,,,,,,,
+ROX-Filer,,,,,,,,,
+Total Commander,,,,,,,,,<ref group="s" name="Intersection" />
+Windows Explorer,,,,,,,,,
+Xandros File Manager,,,,,,,,,
+Xfe,,<ref group="s" name="TextContains" />,,,,,,,
+Xfile,,,,,,,,,
+Xfm,,,,,,,,,
+xplorer²,,,,,,,,,
+XYplorer,,,,,,,,,<ref group="s">After searching results  user can apply advanced visual filters to narrow down results.</ref>
+ZTreeWin,,,,,<ref group="s">ZTreeWin provides several context specific search syntaxes that are not pure regex</ref>,,,,
+File manager,File Name <ref group="D" name="FileName"/>,File Contents <ref group="D" name="FileContents"/>,Basic metadata search <ref group="D" name="BasicMetadata"/>,All metadata search <ref group="D" name="AllMetadata"/>,RegExp for Contents,Boolean (nesting levels),Fuzzy logic <ref group="D" name="FuzzyLogic"/>,Save searches <ref group="D" name="SaveSearches"/>,Refined searches <ref group="D" name="RefinedSearches"/>

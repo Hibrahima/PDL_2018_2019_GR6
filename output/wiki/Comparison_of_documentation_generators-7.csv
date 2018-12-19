@@ -1,0 +1,23 @@
+,HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub
+Ddoc,,,,,,,,,
+Document! X,,,,,,,,,
+Doxygen,,,,Indirectly,,Indirectly,,,,
+Epydoc,,,,,Indirectly,Indirectly,,,
+Haddock,,,,,,,,Partial,
+HeaderDoc,,,,,,,,,
+Imagix 4D,,,,,,,,,
+Javadoc,,Indirectly,Indirectly,Indirectly,Indirectly,Indirectly,Indirectly,Indirectly,Indirectly
+JSDoc,,,,,,,,,
+JsDoc Toolkit,,,,,,,,,+JSON
+Natural Docs,,,,,,,,,
+NDoc,,,,,,,,,
+phpDocumentor,,,,,,,,,
+pydoc,,,,,,,,,,
+RDoc,,,,,,,Indirectly,,
+ROBODoc,,Indirectly,,Indirectly,,Indirectly,,,
+Sandcastle,,,,,,,,,
+Sphinx,,,,Indirectly,,,,,,
+Visual Expert,,,,,,,,,
+VSdocman,,,,,,,,,
+YARD,,,,,,,,,
+,HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub

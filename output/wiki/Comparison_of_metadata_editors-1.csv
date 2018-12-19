@@ -1,0 +1,49 @@
+Software,Platform,License,Latest version,Last release year,Size<br />(MB),Description,Number,Supported metadata standards,Supported file formats
+EXIF,GPS,IPTC,XMP,Maker,Other,JPEG,TIFF,Raw,Other
+A Photo Manager<ref></ref><ref></ref>,Android,,0.6.3.180211 (35),2018,1.3,Show/Edit GPS infos of local photos through a map.,,,,,,,,,,,
+Auto ISO Tool<ref>http://aeropic.free.fr/H&amp;B/AUTO_ISO_patcher/</ref>,Windows,,,2007,0.2,GUI for ExifTool to patch Canon ISO information.,2,,-,,-,,-,,-,-,-
+AvPicFaceXmpTagger<ref></ref>,Linux  Windows,,1.7,2010,3.7,Write Picasa face recognition information as XMP to your images.,,-,-,-,,-,-,,-,-,-
+Daminion<ref></ref>,Windows,,Unknown  no trials available,2017,41.6,A tool that can update EXIF/IPTC/XMP/ID3/Office metadata in images  video  audio  Office documents  Camera raw images and vector images. Uses ExifTool  a free  open-source tool.,>70,,,,,,,,,,
+DBGallery<ref></ref>,Windows,,7.5,2016,63,Image management software which can update IPTC and XMP metadata in images  video  and audio. Uses Adobe's XMP Toolkit to read/write metadata.,32,,,,,-,-,,,,
+Description Explorer<ref></ref>,Windows,,0.5.2,2009,10.7,Collection of tools for XMP metadata.,15,-,-,-,,-,-,,-,-,-
+Easy Exif Delete<ref></ref>,Windows,,1.2,2010,0.8,Clean any EXIF unwanted data from your digital pictures.,,,,-,-,-,-i,,-,-,-
+EXIF-O-Matic<ref></ref>,Linux  MacOS  Windows,,1.2,2012,0.2,View EXIF tags.,,,,-,-,-,-,,-,-,-
+ExifAuto<ref></ref>,Windows,,2.2,2007,0.4,GUI front-end for ExifTool to perform simple operations.,5,,-,-,-,-,-,,,-,-
+EXIF Browser<ref></ref>,Windows,,0.9.9.16,2007,0.9,Extract EXIF information from image files.,,,,-,-,-,-,,,,
+Exif Copier<ref></ref>,Windows,,0.9,2010,5.0,Copy metadata between sets of multiple images using ExifTool.,,,,,,,,,,,
+ExifCleaner<ref></ref>,Windows,,1.8,2012,1.2,Lets you to erase/remove photographic metadata.,,,,,,,,,-,-,-
+EXIF Date Changer<ref></ref>,Windows,,3.55,2017,7,Allows you change the time  date  and other information stored in the metadata of your photos.,7,,-,,-,-,-,,,,
+ExifDropper<ref></ref>,Windows,,0.9,2009,0.1,Graphical front-end for ExifTool with drag-and-drop and command-line parameters.,>200,,,,,,,,,,
+ExifMixer<ref></ref>,Windows,,0.50,2008,0.4,GUI extension for the ExifTool with command-line parameters.,>200,,,,,,,,,,
+Exif Pilot<ref></ref>,Windows,,4.9.3,2016,2.1,Software for viewing  editing  and creating metadata.,26,,,,,,,,,,
+Exif Stats<ref></ref>,Windows,,,2006,2.0,Extract some tags using ExifTool.,,,,,,,,,,,
+Exif Tag Remover<ref></ref>,Windows,,5.1,2014,3.5,Allows you to easily delete all metadata tags.,,,,,,,,,,,
+ExifTool<ref></ref>,Linux  MacOS  Windows,,10.13,2018,3.9,Powerful command line utility.,>200,,,,,,,,,,
+ExifTool GUI<ref></ref>,Windows,,5.16,2012,1.4,GUI for the ExifTool with some editing features.,64,,,,,,,,,,
+EXIFutils<ref></ref>,Linux  MacOS  Windows,,3.1.4,2011,3.5,Set of command line utilities that extract  add  remove  copy  and replace metadata.,>200,,,,,,,,,,
+ExifyMe<ref></ref>,Windows,,1.0,2010,3.3,Restore EXIF metadata from an original image.,,,,-,-,-,-,,,,
+Exiv2<ref></ref>,Linux  MacOS  Windows,,0.26,2017,1.6,Command line utility and C++ Library,>200,,,,,,-,,,,-
+ExposurePlot<ref></ref>,Windows,,1.1.6,2015,0.6,Analyze your usage of the focal length of your lenses  ISO  shutter speed and aperture.,,,-,-,-,-,-,,-,-,-
+Free EXIF Eraser<ref></ref>,Windows,,1.1,2011,0.8,Allows you to easily and effectively delete entire EXIF/IPTC/XMP information from image files.,,,,,,,,,-,-
+GeoSetter<ref></ref>,Windows,,3.5.0,2018,19,Show and change geo data and other metadata (IPTC/XMP/EXIF) of image files (e.g. images taken by digital cameras). Batch changes possible,,,,,,-,-,,,,
+GUI2<ref></ref>,Windows,,1.3,2010,15.7,GUI extension for the ExifTool.,12,,,,,,,,,,
+Image Info Toolkit<ref></ref>,MacOS  Windows,,3.0,2012,4.9,Editor for IPTC and XMP metadata.,36,,,,,-,-,,,-,
+ImBatch<ref></ref>,Windows,,4.7.0 (actually 5.9.1),2016,11.9,Batch image processing tool,>50,,-,,-,-,-,,,,
+IPTC-PLUS Photo Metadata Toolkit<ref></ref>,Windows,,4,2011,1.2,Editor for IPTC and PLUS photo metadata with Adobe CS3 to CS5.,150,-,-,,,-,-,,,-,
+irfanview<ref></ref>,Windows,Freeware for non-commercial use,4.51,2018,3.36,Image viewer that also supports viewing image metadata,?,R,,R,,,,Yes,Yes,Yes,Yes
+iTag<ref></ref>,Windows,,500,2015,9.1,A tool that adds title  description and keyword tags to photos.,10,-,-,,,-,-,,,,
+JabRef,Java,,,,,Reference management software that uses BibTeX.,,,,,,,,,,,
+JExifViewer<ref></ref>,Linux  Windows,,1.8,2010,5.3,View EXIF information stored in JPEG files.,,,,-,-,-,-,,-,-,-
+JPEG & PNG Stripper<ref></ref>,Windows,,1.5.4,2012,0.1,A tool for stripping/cleaning/removing unnecessary metadata.,,,,,,,,,-,-,
+JPEG Comment Editor<ref></ref>,Windows,,1.0,2015,1.0,Software for creating  viewing  editing  and saving metadata as text file for your photos.,,-,-,-,-,-,-,,-,-,-
+Metadata++<ref></ref>,Windows,,1.11.4,2018,1.2,Edit  modify  add  delete any metadata from audio  video  photo  text...,>200,,,,,,,,,,
+<ref></ref>,Linux MacOS,,0.5.2,2014,3.1,Toolbox composed of a GUI application  a CLI application and a library  to anonymize/remove metadata,,,,,,,,,,,
+MetadataFox<ref></ref>,Windows,,1.1,2010,0.4,A tool to explore files by their XMP metadata.,,-,-,-,,-,-,,-,-,
+MetadataTouch<ref></ref>,Windows,,5.2,2011,0.6,A tool to view and edit IPTC and XMP metadata.,70,-,-,,,-,-,,-,-,
+MetaEditor,Windows,,3.3.0.0,2014,7.1,Allows you read and edit metadata within your digital photos.,>200,,,,,-,-,,,-,-
+MetaLith<ref></ref>,Windows,,10.00,2018,16,Allows you read  analyze and edit metadata. The main feature of the program is the ability to simultaneously edit any number of files.,>200,,,,,-,,,,,
+Opanda PowerExif<ref></ref>,Windows,,1.22,2013,1.6,A powerful GUI tool with batch processing to edit EXIF/GPS data and completely remove all data (include EXIF) in images.,>130,,,-,-,-,-,,,-,-
+PhotoME<ref></ref>,Windows,,0.8ß2,2009,3.1,Show and edit the metadata of image files  analyze and modify EXIF and IPTC-NAA data  and analyze ICC profiles.,>200,,,,-,,,,,,
+QuickImageComment<ref></ref>,Windows,,4.31,2018,15.8,Windows GUI to show images and edit meta data (using exiv2 library); GPS data can be shown and modified on a map; optimised to edit comments.,>200,,,,,,-,,,,-
+VRmeta<ref></ref>,Linux  MacOS  Windows,,1.0,2018,11.9,Add .xmp metadata  embed in-frame time-based metadata  export as .csv or .xmp  embed IPTC keywords and captions.,>unlimited,,,,,,,,,,
+XnView<ref></ref>,Linux  MacOS  Windows,,2.45,2018,4.6 to 14.6,Picture viewer  editor with slide show  scan module  add ons,>31,,,,,,,,,,

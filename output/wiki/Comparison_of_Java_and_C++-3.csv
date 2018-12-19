@@ -1,0 +1,2 @@
+C++,Java
+<source lang="cpp">a = new Foo();</source>,<source lang="java">a = new Foo(); // Only in constructor</source>

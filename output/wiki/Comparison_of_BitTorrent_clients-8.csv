@@ -1,0 +1,5 @@
+BitTorrent library,Super-seeding,Tracker,UPnP <ref name="upnp" group="Note">Automatically configure port forwarding (requires Router with UPnP support)</ref>,NAT Port Mapping Protocol,NAT traversal <ref name="udp_nat" group="Note">Many clients claim to support this  but just UPnP calls for opening a TCP port is not effective and disabled by factory default in most new hardware. "UDP NAT Traversal" is the proper working solution  supported by just a few.</ref>,DHT <ref name="dht" group="Note">DHT permits use of trackerless torrents (with supporting clients) to resume normal torrents when their tracker is down. However  some trackers that register their users for keeping tabs on fair usage (such as a ratio of bytes downloaded to uploaded) may not reliably measure and update usage for users employing DHT.</ref>,Peer exchange,Encryption,UDP tracker,LPD,Fast extensions,Magnet URI,µTP
+libtorrent (Rasterbar),,,,,,,,,<ref></ref>,,,<ref></ref>
+MonoTorrent,,,,,,,,,,,,
+rTorrent (libTorrent Rakshasa),,,,,,,,,,,,
+BitTorrent library,Super-seeding,Tracker,UPnP,NAT Port Mapping Protocol,NAT traversal,DHT,Peer exchange,Encryption,UDP tracker,LPD,Fast extensions,Magnet URI,µTP

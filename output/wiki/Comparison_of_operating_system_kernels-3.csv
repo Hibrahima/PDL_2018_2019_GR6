@@ -1,0 +1,6 @@
+Kernel Name,File access control,Disable memory execution support,Kernel ASLR,Mandatory access control,Capability-based security,In-kernel key management,Audit API,Sandbox,SYN flood protection,UDP flood protection,Ping flood protection,Smurf attack protection,Network Behavior Analysis
+Linux,,,,,,,,,,?,?,?,
+FreeBSD Kernel,,,,,,,,,,,,,
+Solaris Kernel,,,,,,,,,,,,,
+Windows NT kernel,,,,,,,,,<ref></ref>,,,,
+XNU,<ref></ref>,,,,,,,,,,,,

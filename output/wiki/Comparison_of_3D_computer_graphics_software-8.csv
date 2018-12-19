@@ -1,0 +1,16 @@
+Application,Alembic Importer,Rendering Engine,Volume Rendering for clouds,Interactive Rendering,Isolating light contribution,Light Lister,IES Light,Physical Sun & Sky,Sun Positioning by location and times,Light Portal,Shadow Catcher,IBL and Environment texture,Light Paint,Light Layers
+Lat Long,sIBL,Light Extraction<ref>Auto HDRI Light Gen for Maya Creates Practical Lighting Setups from HDR Images  Lesterbanks  April 30  2013</ref>
+Maya,rowspan=3,Maya Hardware 2.0,{{?}},,<ref>Viewport 2.0 limitations Autodesk</ref>,rowspan=3,{{?}},{{?}},{{?}},{{?}},{{?}},,{{?}},{{?}},,
+Maya Software,{{?}},{{?}},,,{{?}},{{?}},{{?}},{{?}},,{{?}},{{?}},,
+Arnold,,,,,,{{?}},,,,{{?}},{{?}},,
+3ds Max,rowspan=4,Quicksilver,{{?}},,<ref>Kelly L. Murdock's Autodesk 3ds Max 2016 Complete Reference Guide  P.685  Kelly Murdock  2015</ref>,rowspan=3,{{?}},{{?}},{{?}},{{?}},{{?}},{{?}},{{?}},{{?}},,
+Scanline,{{?}},{{?}},,{{?}},{{?}},{{?}},{{?}},,{{?}},,{{?}},,
+,{{?}},{{?}},{{?}},,{{?}},{{?}},{{?}},{{?}},{{?}},{{?}},{{?}},,
+Arnold,,,<ref>Lights  Solid Angle</ref>,,,,,,,,{{?}},{{?}},,
+Blender,rowspan=3,Viewport,{{?}},,,rowspan=2,,,{{?}},,,,{{?}},{{?}},,
+Blender Internal,{{?}},,,,,{{?}},,,,{{?}},{{?}},,
+Cycles,,,,,,,,,,,,{{?}},,
+MODO,,MODO Renderer,,,,{{?}},,colspan=2,,,,,{{?}},,
+LightWave,,LightWave Renderer,,,{{?}},{{?}},,{{?}},{{?}},{{?}},{{?}},,{{?}},{{?}},,
+Houdini,,Mantra (),,,,{{?}},,{{?}},{{?}},{{?}},,,{{?}},{{?}},{{?}},{{?}}
+Cinema 4D,,CineRender,{{?}},,,{{?}},,{{?}},{{?}},{{?}},,,{{?}},{{?}},{{?}},{{?}}

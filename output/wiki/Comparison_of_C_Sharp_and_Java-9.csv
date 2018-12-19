@@ -1,0 +1,11 @@
+keyword,feature  example usage
+<kbd>checked</kbd>  <kbd>unchecked</kbd>,In C#  <kbd>checked</kbd> statement blocks or expressions can enable run-time checking for arithmetic overflow.<ref></ref>
+<kbd>get</kbd>  <kbd>set</kbd>,C# implements properties as part of the language syntax with their optional corresponding <kbd>get</kbd> and <kbd>set</kbd> accessors  as an alternative for the accessor methods used in Java  which is not a language feature but a coding-pattern based on method name conventions.
+<kbd>goto</kbd>
+<kbd>lock</kbd>,In C#  the <kbd>lock</kbd> keyword is a shorthand for synchronizing access to a block of code across threads (using a <kbd>Monitor</kbd>)  wrapped in a <kbd>try</kbd> … <kbd>finally</kbd> block.
+<kbd>out</kbd>  <kbd>ref</kbd>,C# has support for output and reference parameters. These allow returning multiple output values from a method  or passing values by reference.
+<kbd>strictfp</kbd>,Java uses <kbd>strictfp</kbd> to guarantee the results of floating point operations remain the same across platforms.
+<kbd>switch</kbd>,In C#  the switch statement also operates on strings and longs. Fallthrough is allowed for empty statements and possible via 'goto case' for statements containing code. Java's switch statement operates on strings (since Java 7) but not the <kbd>long</kbd> primitive type  and falls through for all statements (excluding those with '<kbd>break</kbd>').<ref> | author = Dare Obasanjo | year = 2007 | work = | publisher = Dare Obasanjo | archiveurl = https://web.archive.org/web/20120919093308/http://25hoursaday.com/#switch | archivedate = 19 September 2012 | quote = | accessdate = 7 September 2012 | deadurl = yes | df = dmy-all }}</ref>
+<kbd>synchronized</kbd>,In Java  the <kbd>synchronized</kbd> keyword is a shorthand for synchronizing access to a block of code across threads (using a <kbd>Monitor</kbd>)  wrapped in a <kbd>try</kbd> … <kbd>finally</kbd> block.
+<kbd>throws</kbd>
+<kbd>using</kbd>

@@ -1,0 +1,21 @@
+Name,Programming language,Platform,License,Stable version,Portable,Detect conflict,Renames or moves,Propagate deletes,Revision control,Scheduling or service,Other information
+Conduit,Python,Linux  FreeBSD,GPL,0.3.17 (2010-01-21),,,,,,,Synchronizes files  website  network apps
+DirSync Pro,Java,Java SE,GPLv3,1.53 (2018-03-07),,,,,(creates backup files),(native + via OS),sym-links  filter  metadata  contents  auto-sync
+FreeFileSync,C++,Windows  OS X  Linux,GPL,10.3 (2018-08-07),(Donation Edition)<ref name="freefilesync-portable-edition"></ref>,<ref name="freefilesync-features"></ref>,<ref name="freefilesync-features"/>,<ref name="freefilesync-features"/>,(versioning + recycler)<ref name="freefilesync-features"/>,,Older version had OpenCandy Adware/malware  but now funded by donations.<ref name=backup_review></ref> <ref name=FFS-FAQ></ref>
+iFolder,C#  Mono,Windows  OS X  Linux  Solaris,GPL,3.8.0.3 (2010-07-19),,(centralized database),(files  not folders),,,
+InterPlanetaryFileSystem,Go,Windows  OS X  Linux,GPL,0.4.15 / 12 May 2018,,,,,,
+luckyBackup,C++,Windows  OS X  Linux  FreeBSD,GPLv3,0.4.9 (2017-10-17),,,,,,,Uses rsync backend
+Nextcloud,PHP  JavaScript<ref></ref>,Server: Linux Clients: Windows  OS X  Linux  Android  iOS,AGPLv3,14.0.1 (2018-09-25),,,,<ref name="nextcloud-propagate-deletes/android"></ref>,,,Fork of ownCloud and actively maintained
+OneSync,C#,Windows,GPL,4.0 (2012-02-19),,,,,,
+ownCloud,C++  Java  PHP<ref name=":0"></ref>,Server: Linux  FreeBSD Clients: Windows  OS X  Linux  FreeBSD  Android  iOS,AGPLv3 (Server Edition) / proprietary (Enterprise Edition),,,,,<ref name="owncloud-propagate-deletes"></ref>,,,iOS  Android  Blackberry  Win  Mac  Linux Client; external storage support; encryption app; app framework
+Mutagen,Go,Linux,MIT License,??,,,,,no,,used to synchronize source code (working well  but no ready for production)
+Pydio,Server: PHP  Python  C++ Clients: JS  C#  Swift  Java,Windows  OS X  Linux  Android  iOS,AGPLv3,8.0.2 (2017-12-13),,,,,,
+rsync,C in a Unix-Linux shell,Windows  OS X <ref></ref> Linux <ref></ref><ref></ref> BSD,GPL v3,,,,,,,(via OS),client & server operation. Multiple comparison criteria (date  check-sum).
+Seafile community edition,C99  Python<ref></ref>,Server: Linux  Raspbian  Windows Clients: Linux  OS X  Windows<ref></ref>,AGPLv3 (Server) + Apache License 2.0 (Client),,,,,,,(via Seafile Client),Android and iOS mobile clients
+SparkleShare,C#,Windows  OS X  Linux  Android  iOS,GPL v3 and LGPL,2.0.1 (2017-12-22),,,,,,,Uses Git
+SymmetricDS,Java,Java SE,GPL,3.9.4 (2018-02-16),,,,,,,plug-in APIs for customization
+Synchronizer (krusader),Windows  OS X  Linux,GPL v2,2.6.0 (2017-04-12),,,,,,,Synchronizer no longer in active development
+Syncthing,Go,Windows  OS X  Linux  Android  BSD  Solaris,MPL v2,0.14.45 (2018-03-06),,,,,,,Distributed peer-to-peer sync
+Synkron,C++,Windows  OS X  Linux,GPL v2,1.6.2 (2011-01-25){<ref>https://sites.google.com/site/synkrondocumentation/news/synkron162</ref>},,,,,,,no longer in active development
+Unison,OCaml,Windows  OS X  Linux  BSD  Solaris  Android,GPL v3,2.51.2 (2018-01-27),,,,,(creates backup files),
+Name,Programming language,Platform,License,Stable version,Portable,Detect conflict,Renames or moves,Propagate deletes,Revision control,Scheduling or service,Other information

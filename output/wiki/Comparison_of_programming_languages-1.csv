@@ -1,0 +1,134 @@
+Language,Intended use,Imperative,Object-oriented,Functional,Procedural,Generic,Reflective,Event-driven,Other paradigm(s),Standardized?
+ActionScript 3.0,Application  client-side  web,,,,,,,,,, ECMA
+Ada,Application  embedded  realtime  system,,<ref>Ada Reference Manual  ISO/IEC 8652:2005(E) Ed. 3  3.9 Tagged Types and Type Extensions</ref>,,<ref>Ada Reference Manual  ISO/IEC 8652:2005(E) Ed. 3  Section 6: Subprograms</ref>,<ref>Ada Reference Manual  ISO/IEC 8652:2005(E) Ed. 3  Section 12: Generic Units</ref>,,,concurrent <ref>Ada Reference Manual  ISO/IEC 8652:2005(E) Ed. 3  Section 9: Tasks and Synchronization</ref> distributed <ref>Ada Reference Manual  ISO/IEC 8652:2005(E) Ed. 3 Annex E: Distributed Systems</ref>,, 2005  2012  ANSI  ISO  GOST 27831-88<ref>Vak.ru</ref>
+Aldor,Highly domain-specific  symbolic computing,,,,,,,,,
+ALGOL 58,Application,,,,,,,,,
+ALGOL 60,Application,,,,,,,,,, IFIP WG 2.1  ISO<ref>ISO 1538:1984</ref>
+ALGOL 68,Application,,,,,,,,concurrent,, IFIP WG 2.1  GOST 27974-88 <ref>Vak.ru</ref>
+Ateji PX,Parallel application,,,,,,,,pi calculus,
+APL,Application  data processing,,,,,,,,array-oriented  tacit,, ISO
+Assembly language,General,,,,,,,,any  syntax is usually highly specific  related to the target processor,
+AutoHotkey,GUI automation (macros)  highly domain-specific,,<ref>AutoHotkey object protocol and concepts</ref>,,,,,,,
+AutoIt,GUI automation (macros)  highly domain-specific,,,,,,,,,
+Bash,Shell  scripting,,,,,,,,,
+Ballerina,Integration  agile  server-side  general,,,,,,,,concurrent  transactional  statically and strongly typed programming  diagrammatic / visual programming,De facto standard via Ballerina Language Specification<ref></ref>
+BASIC,Application  education,,,,,,,,,, ANSI  ISO  ECMA
+BBj,Application  business  web,,,,,,,,,
+BeanShell,Application  scripting,,,,,,,,,, JCP<ref>JSR 274</ref>
+BitC,System,,,,,,,,,
+BLISS,System,,,,,,,,,
+BlitzMax,Application  game,,,,,,,,,
+Blue,Education,,,,,,,,,
+Boo,Application,,,,,,,,,
+Bro,domain-specific  application,,,,,,,,,
+C,Application  system <ref>bell-labs.com</ref> general purpose  low-level operations,,,,,,,,,, ANSI C89  ISO C90  ISO C99  ISO C11<ref>ANSI C89  ISO/IEC 9899:1990  1999  2011  2018</ref>
+C++,Application  system,,,,,,,,,, ISO/IEC 1998  ISO/IEC 2003  ISO/IEC 2011 ISO/IEC 2014<ref>ISO/IEC 14882:1998  2003  2011</ref>
+C#,Application  RAD  business  client-side  general  server-side  web,,,<ref>Codeproject.com: Functional Programming in C# 3.0 using Lambda Expression</ref>,,,,,structured  concurrent,, ECMA  ISO<ref>ECMA-334; ISO/IEC 23270:2006</ref>
+Clarion,General  business  web,,,<ref>Softvelocity.com</ref>,,,,,,
+Clean,General,,,,,,,,,
+Clojure,General,,,,,,,,concurrent,
+CLU,General,,,,,,,,,
+COBOL,Application  business,,,,,,,,,
+Cobra,Application  business  general  web,,,,,,,,,
+ColdFusion (CFML),Web,,,,,,,,,
+Common Lisp,General,,,,,,,,extensible syntax  Array-oriented  syntactic macros  multiple dispatch  concurrent,, ANSI
+COMAL 80,Education,,,,,,,,,
+Crystal,General purpose,,<ref>https://github.com/crystal-lang/crystal#why</ref>,,,,,,alpha stage<ref>https://github.com/crystal-lang/crystal#status</ref>,
+Cython,Application  general  numerical computing,,,,,,,,aspect-oriented,
+D,Application  system,,,,,,,,generative  concurrent,
+Dart,Application  web  server-side  mobile  IoT,,,,,,,,structured,
+Dylan,Application,,,,,,,,,
+Eiffel,General  application  business  client-side  server-side  web (EWF),,,<ref>Basic Eiffel language mechanisms</ref><ref>Closure (computer programming)</ref>,,,Erl-G,Agents,distributed SCOOP  Void-safe,, ECMA  ISO<ref>ECMA-367; ISO/IEC 25436:2006</ref>
+Elixir,Application  distributed,,,,,,,,concurrent  distributed,
+Erlang,Application  distributed,,,,,,,,concurrent  distributed,
+Euphoria,Application,,,,,,,,,
+Factor,General,,,can be viewed as,,,,,stack-oriented,
+FP,,,,,,,,,,
+F#,Application,,,,,,,,,
+Forth,General,,,can be viewed as,,,,,stack-oriented,, ANSI
+Fortran,Application  numerical computing,,,,,,,,,, ANSI 66  ANSI 77  MIL-STD-1753  ISO 90  ISO 95  ISO 2003  ISO/IEC 1539-1:2010 (2008)
+FreeBASIC,Application  numerical computing,,,,,,,,,
+G2,Application  inference  expert system,,,,,,,,common graphical development and runtime environment,
+Gambas,Application,,,,,,,,,
+Game Maker Language,Application  games,,,,,,,,,
+GLBasic,Application  games,,,,,,,,simple object-oriented,
+Go,Application  web  server-side,,<ref>https://golang.org/doc/faq#Is_Go_an_object-oriented_language</ref>,,,,,,concurrent,via Go Language Specification
+Gosu,Application  general  scripting  web,,,,,,,,,
+GraphTalk,Application,,,,,,,,logic,
+Groovy,Application  general  scripting  web,,,,,,,,aspect-oriented,, JCP<ref>JSR 241</ref>
+Harbour,Application  business  data processing  general  web,,,,,,,,declarative,
+Haskell,Application,,,,,,,,lazy evaluation,, Haskell 2010<ref> Most Haskell implementations extend the Haskell 2010 standard.</ref>
+Haxe,Application  general  web,,,,,,,,,
+HyperNext,Application  education,,,,,,,,weakly typed,
+HyperTalk,Application  RAD  general,,,,,,,,weakly typed,
+Io,Application  host-driven scripting,,,,,,,,,
+IPL,General,,,,,,,,,
+ISLISP,General,,,,,,,,,, ISO
+J,Data processing,,,,,,,,array-oriented  function-level  tacit,
+JADE,Application  distributed,,,,,,,,,
+Java,Application  business  client-side  general  mobile development  server-side  web,,,,,,,,concurrent,via Java Language Specification
+JavaScript,Client-side  server-side  web,,,,,,,,prototype-based,, ECMA
+Joy,Research,,,,,,,,stack-oriented,
+Julia,General  technical computing,,,,,,,,multiple dispatch  meta  scalar and array-oriented  parallel  concurrent  distributed ("cloud"),
+K,Data processing  business,,,,,,,,array-oriented  tacit,
+Kotlin,Application  mobile development  server-side  client-side  web,,,,,,<ref></ref>,,,
+LabVIEW (G),Application  industrial instrumentation-automation,,,,,,,,dataflow  visual,
+Lisp,General,,,,,,,,,
+LiveCode,Application  RAD  general,,,,,,,,weakly typed,
+Logtalk,Artificial intelligence  application,,,,,,,,logic,
+LSL,Virtual worlds content scripting and animation,,,,,,,,Scripts exist in in-world objects,<ref>"De facto" reference is the Second_Life implementation of LSL. Halcyon (Inworldz) and Open Sims propose compatible implementations with additionnal functions </ref>
+Lua,Application  embedded scripting,,<ref>Lua doesn't have explicit "object" type (more general type of "table" is used for object definition)  but does have explicit syntax for object method calling</ref>,,,,,,aspect-oriented,<ref>Version releases are accompanied with a definitive Lua Reference Manual showing full syntax and semantics; a reference implementation  and a test suite. These are used to generate other Lua VM implementations and compilers such as Kahlua and LLVM-Lua.</ref>
+Maple,Symbolic computation  numerical computing,,,,,,,,distributed,
+Mathematica,Symbolic language,,,,,,,,logic  distributed,
+MATLAB,Highly domain-specific  numerical computing,,,,,,,,,
+Modula-2,Application  system,,,,,,,,,, ISO<ref>ISO/IEC 10514-1:1996</ref>
+Modula-3,Application,,,,,,,,,
+MUMPS (M),Application  databases,,,,,,,,concurrent  multi-user  NoSQL  transaction processing,, ANSI
+Nim,Application  general  web  scripting  system,,,,,,,,multiple dispatch  Concurrent  meta,
+Oberon,Application  system,,,,,,,,,
+Object Pascal,Application  general  mobile app  web,,,,,,,,structured,
+Objective-C,Application  general,,,,,,,,concurrent,
+OCaml,Application  general,,,,,,,,,
+Occam,General,,,,,,,,concurrent  process-oriented,
+Opa,Web applications,,,,,,,,distributed,
+OpenLisp,General  Embedded Lisp Engine,,,,,,,,,, ISO
+Oxygene,Application,,,,,,,,,
+Oz-Mozart,Application  distribution  education,,,,,,,,concurrent  logic,
+Pascal,Application  education,,,,,,,,,, ISO<ref>ISO 7185</ref>
+Perl,Application  scripting  text processing  Web,,,,,,,,,
+Perl 6,Scripting  text processing  glue,,,,,,,,aspect-oriented  array  lazy evaluation  multiple dispatch  metaprogramming,
+PHP,Server-side  web application  web,,<ref>PHP Manual  Chapter 19. Classes and Objects (PHP 5) </ref>,<ref>PHP Manual  Chapter 17. Functions</ref>,,,,,,via language specification and Requests for Comments (RFCs)
+PL/I,Application,,,,,,,,,, ECMA-50 (1976)
+Plus,Application  system development,,,,,,,,,
+PowerShell,Administration  application  general  scripting,,,,,,,,pipeline,
+Prolog,Application  artificial intelligence,,,,,,,,logic  declarative,, ISO
+PureBasic,Application,,,,,,,,,
+Python,Application  general  web  scripting  artificial intelligence  scientific computing,,,,,,,,aspect-oriented,via Python Enhancement Proposals (PEPs)
+R,Application  statistics,,,,,,,,,
+Racket,Education  general  scripting,,,,,,,,modular  logic  meta,
+REALbasic,Application,,,,,,,,,
+Rebol,Distributed,,,,,,,,dialected,
+RPG,Application  system,,,,,,,,,
+Ruby,Application  scripting  web,,,,,,,,aspect-oriented,
+Rust,Application  system,,<ref>Is Rust an Object-Oriented Programming Language?</ref>,,,,,,concurrent,
+S,Application  statistics,,,,,,,,,
+S-Lang,Application  numerical  scripting,,,,,,,,,
+Scala,Application  distributed  web,,,,,,,,,via Scala Language Specification (SLS)
+Scheme,Education  general,,,,,,,,extensible syntax,, R6RS
+Seed7,Application  general  scripting  web,,,,,,,,multi-paradigm  extensible  structured,
+Simula,Education  general,,,,,,,,discrete event simulation  multi-threaded (quasi-parallel) program execution,
+Small Basic,Application  education  games,,,,,,,,component-oriented,
+Smalltalk,Application  general  business  artificial intelligence  education  web,,,,,,,,concurrent  declarative,, [ANSI
+SNOBOL,Text processing,,,,,,,,,
+Standard ML,Application,,,,,,,,,, SML '97<ref>SMLNJ.org</ref>
+Swift,Application  general,,,,,,,,concurrent  Multi-paradigm,
+Tcl,Application  scripting  web,,,,,,,,,
+Visual Basic,Application  RAD  education  business  general  (Includes VBA)  office automation,,,,,,,,component-oriented,
+,Application  RAD  education  web  business  general,,,,,,,,structured  concurrent,
+Visual FoxPro,Application,,,,,,,,data-centric  logic,
+Visual Prolog,Application,,,,,,,,declarative  logic,
+Wolfram Language,Symbolic language,,,,,,,,logic  distributed,
+XL,,,,,,,,,concept programming,
+Xojo,Application  RAD  general  web,,,,,,,,,
+XPath/XQuery,Databases  data processing  scripting,,,,,,,,tree-oriented,1999 XPath 1  2010 XQuery 1  2014 XPath/XQuery 3.0
+Caché Object Script,Application Programming,,,,,,,,Concurrent,

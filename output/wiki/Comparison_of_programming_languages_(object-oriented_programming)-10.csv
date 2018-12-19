@@ -1,0 +1,19 @@
+,downcast,upcast
+ABAP Objects,colspan=2
+C++ (STL),,operator returntype'() { 'instructions' }'
+C#,static explicit operator returntype'('type operand') { 'instructions' }',static implicit operator returntype'('type operand') { 'instructions' }'
+D,,T opCast(T')() if (is('T' == 'type')) { 'instructions''' }
+eC,,property T { get { return «conversion code»'''; } }
+Java,rowspan=4 colspan=2
+Objective-C
+Eiffel<ref name="Eiffel operators"/>
+Python
+Visual Basic .NET,Shared Narrowing Operator CType(operand' As 'type') As 'returntype' <br /> 'instructions <br /> End Operator,Shared Widening Operator CType(operand' As 'type') As 'returntype' <br /> 'instructions <br /> End Operator
+Perl 6,,multi method type«'('$self':)'» is export { instructions }
+PHP,rowspan=5 colspan=2
+Perl
+Ruby
+Windows PowerShell
+OCaml
+F#,,
+COBOL,colspan=2

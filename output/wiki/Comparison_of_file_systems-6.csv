@@ -1,0 +1,51 @@
+File system,Tail packing,Transparent compression,Block suballocation,Allocate-on-flush,Extents,Variable file block size,Sparse files,Copy on write,Trim support
+DECtape,,,,,,,,,
+BeeGFS,,,,,,,,,
+Level-D,,,,,,,,,
+APFS,,,,,,,,,<ref></ref><ref></ref>
+Version 6 Unix file system (V6FS),,,,,,,,,
+Version 7 Unix file system (V7FS),,,,,,,,,
+FAT12,,,(only inside of Stacker 3/4 and DriveSpace 3 compressed volumes<ref name="DMSDOS"></ref>),,(only inside of compressed volumes)<ref name="CVF814"/>,,(only inside of compressed volumes)<ref name="CVF808"/>,,(Linux)
+FAT16 / FAT16B / FAT16X,,,(only inside of Stacker 3/4 and DriveSpace 3 compressed volumes<ref name="DMSDOS"/>),,(only inside of compressed volumes)<ref name="CVF814"></ref>,,(only inside of compressed volumes)<ref name="CVF808"></ref>,,(Linux)
+FAT32 / FAT32X,,,,,,,,,(Linux)
+GFS,,,,,,,,,
+HPFS,,,,,,,,,
+NTFS,,,,,,,,,(NT 6.1 + newer)
+HFS Plus,,,,,,,,,(macOS)
+FFS,,,8:1,,,,,,
+UFS1,,,8:1,,,,,,
+UFS2,,,8:1,,,,,,<ref>https://svnweb.freebsd.org/base?view=revision&revision=216796</ref><ref>https://www.freebsd.org/cgi/man.cgi?query=newfs&sektion=8&manpath=FreeBSD+8.4-RELEASE</ref>
+LFS,,,8:1,,,,,,
+ext,,,,,,,,,
+Xiafs,,,,,,,,,
+ext2,,,,,,,,,
+ext3,,,,,,,,,
+ext4,,,,,,,,,
+NOVA,,,,,,,,,
+F2FS,,,,,,,,,<ref></ref>
+Lustre,,,,,,,,,
+NILFS,,,,,,,,,
+ReiserFS,,,,,,,,,
+Reiser4,,,,,,,,,
+OCFS,,,,,,,,,
+OCFS2,,,,,,,,,
+XFS,,,,,,,,, on request<ref></ref>,(Linux)
+JFS,,only in JFS1 on AIX<ref></ref>,,,,,,,(Linux)
+QFS,,,,,,,,,
+BFS,,,,,,,,,(Haiku)
+NSS,,,,,,,,,
+NWFS,,,,,,,,,
+ODS-5,,,,,,,,,
+VxFS,,,,,,,,,
+UDF,,,,,,,,,
+Fossil,,,,,,,,,
+ZFS,,,,,,,,,(FreeBSD  illumos)
+Btrfs,,,,,,,,,
+VMFS2,,,,,,,,,
+VMFS3,,,,,,,,,
+ReFS,,,,,,,,,
+ISO 9660,,,,,,,,,
+Rock Ridge,,,,,,,,,
+Joliet ("CDFS"),,,,,,,,,
+SquashFS,,,,,,,,,
+File system,Tail packing,Transparent compression,Block suballocation,Allocate-on-flush,Extents,Variable file block size,Sparse files,Copy on write,Trim support

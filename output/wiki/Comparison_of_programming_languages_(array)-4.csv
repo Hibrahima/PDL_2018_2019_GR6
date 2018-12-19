@@ -1,0 +1,58 @@
++,Programming language,Default base index,Specifiable index type<ref name="cr16"/>,Specifiable base index,Bound check,Multidimensional,Dynamically-sized,Vectorized operations
+Ada,index type<ref name="cr17"/>,yes,yes,checked,yes,init<ref name="cr1"/>,some  others definable<ref name="cr5"/>
+ALGOL 68,1,no<ref name="cr25"/>,yes,varies,yes,yes,user definable
+APL,1,?,0 or 1<ref name="cr7"/>,checked,yes,yes,yes
+AWK,1,yes  implicitly,no,unchecked,yes  as delimited string,yes  rehashed,no
+BASIC,0,?,no,checked,no,init<ref name="cr1"/>,?
+C,0,no,no<ref name="cr26"/>,unchecked,partially,init <ref name="cr1"/><ref name="cr4"/> heap<ref name="cr3"/>,no
+Ch,0,no,no,checked,yes  also array of array<ref name="cr2"/>,init <ref name="cr1"/><ref name="cr4"/> heap<ref name="cr3"/>,yes
+C++<ref name="cr5"/>,0,no,no<ref name="cr26"/>,unchecked,yes  also array of array<ref name="cr2"/>,heap<ref name="cr3"/>,no
+C#,0,no,partial<ref name="dotnetarray"/>,checked,yes,heap<ref name="cr3"/><ref name="cr9"/>,yes (LINQ select)
+CFML,1,no,no,checked,yes  also array of array<ref name="cr2"/>,yes,no
+COBOL,1,no<ref name="cr27"/>,no,checked,array of array<ref name="cr2"/><ref name="cr28"/>,no<ref name="cr14"/>,some intrinsics
+Cobra,0,no,no,checked,array of array<ref name="cr2"/>,heap,?
+Common Lisp,0,?,no,checked<ref name="cr15"/>,yes,yes,yes (map or map-into)
+D,0,yes<ref>Associative Arrays - D Programming Language</ref>,no,varies<ref name="cr11"/>,yes,yes,?
+F#,0,no,partial<ref name="dotnetarray"/>,checked,yes,heap<ref name="cr3"/><ref name="cr9"/>,yes (map)
+FreeBASIC,0,no,yes,checked,yes,init <ref name="cr1"/> init<ref name="cr21"/>,?
+Fortran,1,yes,yes,varies<ref name="cr12"/>,yes,yes,yes
+FoxPro,1,?,no,checked,yes,yes,?
+Go,0,no,no,checked,array of array<ref name="cr2"/>,no<ref name="cr29"/>,no
+Hack,0,yes,yes,checked,yes,yes,yes
+Haskell,0,yes<ref name="cr24"/>,yes,checked,yes  also array of array<ref name="cr2"/>,init<ref name="cr1"/>,?
+IDL,0,?,no,checked,yes,yes,yes
+ISLISP,0,?,no,checked,yes,init<ref name="cr1"/>,yes (map or map-into)
+J,0,?,no,checked,yes,yes,yes
+Java<ref name="cr5"/>,0,no,no,checked,array of array<ref name="cr2"/>,init<ref name="cr1"/>,?
+JavaScript,0,no,no,checked<ref name="cr22"/>,array of array<ref name="cr2"/>,yes,yes
+Julia,1,yes,no,checked,yes,yes,yes
+Lingo,1,?,?,unchecked,yes,yes,yes
+Lua,1,?,partial<ref name="cr20"/>,checked,array of array<ref name="cr2"/>,yes,?
+Mathematica,1,no,no,checked,yes,yes,yes
+MATLAB,1,?,no,checked,yes<ref name="cr8"/>,yes,yes
+Oberon,0,?,no,checked,yes,no,?
+Oberon-2,0,?,no,checked,yes,yes,?
+Objective-C<ref name="cr5"/>,0,no,no,checked,array of array<ref name="cr2"/>,yes,no
+OCaml,0,no,no,checked by default,array of array<ref name="cr2"/>,init<ref name="cr1"/>,?
+Pascal  Object Pascal,index type<ref name="cr17"/>,yes,yes,varies<ref name="cr13"/>,yes,varies<ref name="cr10"/>,some
+Perl,0,no,yes ($[),checked<ref name="cr22"/>,array of array<ref name="cr2"/>,yes,no<ref name="cr18"/>
+Perl 6,0,no,no,checked<ref name="cr22"/>,yes,yes,yes
+PHP,0,yes<ref name="cr23"/>,yes<ref name="cr23"/>,checked<ref name="cr23"/>,yes,yes,yes
+PL/I,1,?,yes,checked,yes,no,?
+Python,0,no,no,checked,array of array<ref name="cr2"/>,yes,no<ref name="cr19"/>
+RPG,1,no,no,?,no,no,?
+R,1,?,?,?,?,?,?
+Ruby,0,no,no,checked<ref name="cr22"/>,array of array<ref name="cr2"/>,yes,?
+Sass,1,no,no,checked,array of array<ref name="cr2"/>,init<ref name="cr11"/>,?
+S-Lang,0,?,no,checked,yes,yes,yes
+Scala,0,no,no,checked,array of array<ref name="cr2"/>,init<ref name="cr1"/>,yes (map)
+Scheme,0,?,no,checked,array of array<ref name="cr2"/>,init<ref name="cr1"/>,yes (map)
+Smalltalk<ref name="cr5"/>,1,?,no,checked,array of array<ref name="cr2"/>,yes<ref name="cr6"/>,?
+Swift,0,no,no,checked,array of array<ref name="cr2"/>,yes,?
+Visual Basic,0,no,yes,checked,yes,yes,?
+Visual Basic .NET,0,no,partial<ref name="dotnetarray"/>,checked,yes,yes,yes (LINQ select)
+Wolfram Language,1,no,no,checked,yes,yes,yes
+Windows PowerShell,0,no,no,checked,yes,heap,?
+Xojo,0,no,no,checked,yes,yes,no
+XPath/XQuery,1,no,no,checked,array of array<ref name="xpath"/><ref name="cr2"/>,yes,yes
+Programming language,Default base index,Specifiable index type<ref name="cr16"/>,Specifiable base index,Bound check,Multidimensional,Dynamically-sized,Vectorized operations

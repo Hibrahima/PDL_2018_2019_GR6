@@ -1,0 +1,18 @@
+Assembler,Operating system,FLOSS,License,Development active
+A86/A386,Windows  DOS,,,
+ACK,Linux  MINIX  Unix-like,,,1985-?
+IBM ALP,OS/2,,,
+AT&T,Unix System V,,,
+Digital Research ASM86,CP/M-86  DOS  Intel's ISIS and iRMX,,,
+FASM,Windows  DOS  Linux  Unix-like,,,
+GAS,Unix-like  Windows  DOS  OS/2,,,
+HLA,Windows  Linux  FreeBSD  macOS,,,
+Open Watcom Assembler (HJWASM a.k.a. UASM  JWASM  WASM),Windows  DOS  Linux  FreeBSD  OS/2,approved by OSI  but not by FSF,,
+MASM,Windows  DOS  OS/2,,,
+NASM,Windows  Linux  macOS  DOS  OS/2,,,
+Tim Paterson's ASM,86-DOS  DOS DEBUG,,,
+TASM,Windows  DOS,,,{{?}}
+TCCASM,Unix-like  Windows,,,
+vasm,various,,,
+Xenix,Xenix 2.3 and 3.0 (before 1985),,,
+Yasm,Windows  DOS  Linux  Unix-like,,,

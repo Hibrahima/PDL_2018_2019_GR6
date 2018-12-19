@@ -1,0 +1,5 @@
+IDE,License,Windows,Linux,macOS,Other platforms,Debugger,Assemblers,Auto-complete,Macros/templates,Latest stable release
+SASM,,,,,,,NASM  MASM  GAS and FASM,,,3.5.0 / 19 March 2016
+Fresh,,,,,,,FASM,,,2.2.0 / May 1  2014
+RadASM,,,,,,,MASM  FASM  NASM  TASM  GoAsm  High Level Assembly,,,2.2.2.0 / March 17  2010
+SlickEdit,,,,,Solaris  Solaris SPARC  AIX  HP-UX,,MASM  High Level Assembly  Linux Assembly  OS/390 Assembly,,,October 2016

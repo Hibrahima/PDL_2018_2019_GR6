@@ -1,0 +1,14 @@
++Photo and video
+Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
+Camera focus at specified point,<ref></ref>,<ref name="iPhoneTips"/>,<ref></ref>,,?,<ref>Add capability to tap to focus on a certain area of the image </ref>
+Camera exposure metering from specified point,,<ref>Android Issue 68974: Camera exposure metering from specified point does not work </ref> available on some phones.<ref></ref><ref></ref>,<ref></ref>,<ref></ref>,,,?
+On device picture info (including Exif data),<ref></ref>,more with 3rd party software<ref></ref>,<ref></ref>,<ref></ref>,,?
+On device picture categorization,<ref></ref> 3rd party software like TouchWiz<ref></ref>,<ref></ref>,<ref></ref>,,,?
+On device picture description and search,<ref>Android Issue 20661: Add a descriptive text to created videos  photos and audio and search for it . Code.google.com (2011-10-09). Retrieved on 2012-07-03.</ref>,Items/objects in picture;<ref>Photos app on iOS 10: Albums  searching and memories </ref> 7+: Only date and location<ref>iOS 8 will help photo search  but won't fix it </ref>,,Yes,,?
+Turn off shutter sound,<ref></ref>,<ref></ref>,<ref></ref>,- In silent mode<ref></ref>,,<ref>Camera app: setting for turning off shutter sound </ref>
+Picture crop,,<ref name="iOS 5 Features Photos"></ref>,<ref name="https://www.youtube.com/watch?v=Dx-8AaHHErc"></ref>,<ref name="BlackBerry"></ref>,,
+Photo rotation,,<ref name="iOS 5 Features Photos" />,<ref name="https://www.youtube.com/watch?v=Dx-8AaHHErc"/>,<ref name="BlackBerry"/>,,
+Photo red-eye reduction,<ref></ref>,<ref name="iOS 5 Features Photos" />,8.1+<ref>Red Eye Fix . windowsphone.com</ref>,<ref name="BlackBerry"/>,,<ref>Avoid red eye with flash </ref>
+HDR photos option,, some manufacturers earlier<ref></ref>,<ref></ref>,,<ref></ref>,,<ref>Camera: add HDR (High-dynamic-range imaging) support </ref>
+Photo/video import from memory cards,,<ref name="ilounge1"></ref>,,,,
+Video trim,,,<ref></ref>,<ref></ref>,,?

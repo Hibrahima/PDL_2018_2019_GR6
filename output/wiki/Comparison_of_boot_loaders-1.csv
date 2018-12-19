@@ -1,0 +1,38 @@
+Name,License,Can reside in,Can boot from,Can boot
+ESP (UEFI),MBR,VBR,Floppy,Hard disk,Second Hard disk,Logical partitions,CD-ROM,Floppy,USB,Zip,LAN,MS-DOS,Windows 9x/Me,Windows NT series,Windows Vista/7/8/10,Linux,ReactOS,MenuetOS,*BSD,Mac&nbsp;OS&nbsp;X
+Acronis OS Selector,,,,,,,,,,,,,,,,,,,,,,
+AiR-Boot,,,,,,,,,,,,,,,,,,,,,,
+AKernelLoader,,,,,,,,,,,,,,,,,,,,,,
+Barebox,,,,,,,,,,,,,,,,,,,,,,
+BootIt Bare Metal (formerly BootIt Next Generation),,,,,,,,,,,,,,,,,,,,,,
+BootKey,,,,,,,,,,,,,,,,,,,,,,
+BootManager,,,,,,,,,,,,,,,,,,,,,,
+BootX (Apple),,,,,,,,,,,,,,,,,,,,,,
+BootX (Linux),,,,,,,,,,,,,,,,,,,,,,
+Darwin Boot Loader,,,,,,,,,,,,,,,,,,,,,,
+Das U-Boot,,,,,,,,,,,,,,,,,,,,,(FreeBSD),
+GAG,+,,(SafeBoot),,,,,,,,,,,,,,,,,,,
+GRUB Legacy,+,,,,,,,,,,,,,,,,,,,,,
+GNU GRUB,,,,,,,,,,,,,,,,,,,,,,
+GRUB4DOS,+,,,,,,,,,,,,,,,,,,,,,
+Gujin http://gujin.sourceforge.net/,,,,,,,,,,,,,,,,,,,,,,
+systemd-boot / Gummiboot,,,,,,,,,,,,,,,,,<ref name="gummiboot">Rod Smith  "Managing EFI Boot Loaders for Linux: Using gummiboot"  .</ref>,,,,,<ref name="gummiboot" />
+iBoot,,,,,,,,,,,,,,,,,,,,,,
+Libreboot,,,,,,,,,,,,,,,,,,,,,,
+LILO,,,,,,,,,,,,,,,,,,,,,(FreeBSD  PC-BSD  ...),
+loader(8),,,,,,,,,,,,,,,,,,,,,(FreeBSD  TrueOS),
+loadlin,+,,,,,,,,,,,,,,,,,,,,,
+MasterBooter,,,,,,,,,,,,,,,,,,,,,,
+NTLDR,,,,,,,,,,,,,,,,,,,,,,<ref>http://wiki.osx86project.org/wiki/index.php/Chain0</ref>
+OSL2000 Boot Manager,,,,,,,,,,,,,,,,,,,,,,
+PLoP Bootmanager,,,,,,,,,,,,,,,,,,,,,,
+RedBoot,mod +,,,,,,,,,,,,,,,,,,,,,
+rEFInd,/BSD license,,,,,,,,,,,,,,,,,,,,,
+Smart Boot Manager,+,,,,,,,,,,,,,,,,,,,,,
+SPFdisk,+,,,,,,,,,,,,,,,,,,,,,
+SYSLINUX,+,,,,,,,,,,,,,,,,,,,,,
+XOSL,,,,,,,,,,,,,,,,,,,,,,
+Windows Boot Manager,,,,,,,,,,,,,,,,,,,,,,
+FreeLoader (ReactOS Boot Loader),+,,,,,,,,,,,,,,,<ref>http://www.reactos.org/newsletter-37 - Freeloader can load Windows Server 2003 directly  as long as it is on a FAT32 partition</ref>,,,,,,
+Name,Software license,Can reside in,Can boot from,Can boot
+ESP (UEFI),MBR,VBR,Floppy,Hard disk,Second hard disk,Logical partitions,CD-ROM,Floppy,USB,Zip,LAN,MS-DOS,Windows 9x/Me,Windows NT series,Windows Vista/7/8,Linux,ReactOS,MenuetOS,*BSD,Mac&nbsp;OS&nbsp;X

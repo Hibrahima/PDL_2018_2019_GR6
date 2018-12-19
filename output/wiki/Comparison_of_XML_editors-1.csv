@@ -1,0 +1,25 @@
+Name,Version,Software license,Active,Type,Windows,macOS,Linux,Textual editor?,Tree View editor?,Graphical editor?,WYSIWYG editors?,XML Schema Editor?,Syntax highlighting for (XML  XSD  XSL  XSLT...),Tag Folding,Intellisense/ Autocompletion (using schema.xsd for text),XPath search,XML diff/merge,Full- featured free trial period
+Adobe FrameMaker,2015 release,,,Standalone,,,,,,,,,,,,,,
+Altova XMLSpy,2018,,,Standalone<br />Eclipse Plugin  Visual Studio Plugin,,<ref name=po>Plugin version</ref>,,,,,,,,,,,,30
+CAM Editor,3.2.2 (2015),,,Standalone,,,,,,,,,,,,,,
+emacs/<br />nxml-mode,current,,,Emacs mode,,,,,,,,,,,,,,
+FontoXML,7.3.2 (July 2018),,,Web-app,,,,,,,,,,,,,,
+jEdit XML Plugin,3.0.6 (Jun 2017),,,Plugin,,,,,<ref></ref>,<ref></ref>,,,,,<ref></ref>,,,
+Liquid XML Studio,12.0.3 (2014),,,Standalone + Visual Studio Plugin,,,,,,,,,,,,,,
+Oxygen XML Editor,20.0 (2018),,,Standalone + Eclipse Plugin<ref>Older Eclipse plugin versions work in current (Indigo) Eclipse.</ref>Web-App,,,,,,,,,,,,,,30
+Quark Author Web Edition on Quark Publishing Platform,10.5 (2014),,,Web-App,,,,,Sections Only,,,,,,,,,
+Quark XML Author,4.8 (2014),,,Microsoft Word Plugin,,,,,,,,,,,,,,
+QXmlEdit project,0.9.10 (2018),,,Standalone,,,,,,,,,,,,,,
+Stylus Studio,X15 R2 (2014),,,Standalone,,,,,,,,,,,,,,
+Syntext Serna,4.4 (2011),,,Standalone,,,,,,,,,,,,,,
+Xeditor,2.0,,,Web-app,,,,,,,,,,,,,,
+Xerlin,1.3 (2005),,,Standalone,,,,,,,,,,,,,,
+XMetaL,13.0 (2018),,,Standalone,,,,,,,,,,,,,,
+XMLBlueprint XML Editor,14 (2017),,,Standalone,,,,,,,,,,,,,,
+XML Edita for Mac,1.1.13 (2018),,,Standalone,,,,,,,,,,,,,,
+XML Exchanger,3.3.1 (2010),,,,,,,,,,,,,,,,,n/a
+XML ValidatorBuddy,6.4 (2018),,,Standalone,,,,,,,,,,,,,,
+XML Marker,2.2 (2013),,,Standalone,,,,,,,,,,,,,,
+XMLmind,8.2 (August 27  2018),,,Standalone,,,,,,,,,,,,,,
+XML Notepad,2.6 (2014),,,Standalone,,,,,,,,,,,,,,
+Xmplify,1.9.0 (2018),,,Standalone,,,,,,,,,,,,,,

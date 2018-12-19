@@ -1,0 +1,30 @@
+Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN
+Linux,netfilter iptables/nftables,,,,,,,,,,
+FreeBSD,IPFW2  IPFilter  PF,,,,,,,,,,
+OpenBSD,PF,,,,,,,,,,
+NetBSD,IPFilter  NPF  PF,,,,,,,,,,
+DragonFly BSD,IPFW2  PF,,,,,,,,,,
+OpenSolaris  illumos,IPFilter,,,,,,,,,,
+AuroraUX,IPFilter,,,,,,,,,,
+Darwin  OpenDarwin,IPFW,,,,,,,,,,
+MINIX,,,,,,,,,,,
+FreeDOS,,,,,,,,,,,
+Genode,software IP routing,,,,,,,,,,
+Haiku,None,,,,,,,,,,
+KolibriOS,None,,,,,,,,,,
+MenuetOS,None,,,,,,,,,,
+GNU,netfilter iptables/nftables (with Linux-libre and Linux kernel),,,,,,,,,,
+ReactOS,,,,,,,,,,,
+L4  Fiasco  Pistachio,,,,,,,,,,,
+Plan 9,ipmux,,,,,,,,,,
+AROS,,,,,,,,,,,
+Syllable,,,,,,,,,,,
+Inferno,ipmux,,,,,,,,,,
+FreeRTOS,,,,,,,,,,,
+eCos,,,,,,,,,,,
+RTEMS,,,,,,,,,,,
+HelenOS,,,,,,,,,,,
+E/OS,,,,,,,,,,,,V2 OS
+K42
+UnixLite -->
+Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN

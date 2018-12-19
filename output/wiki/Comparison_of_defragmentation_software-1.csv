@@ -1,0 +1,15 @@
+Program,Developer,License,Supported file systems,Supported platforms,GUI,CLI,Script,Scheduler,Boot time,Auto defrag when idle,Stable release
+Auslogics Disk Defrag,Auslogics,,FAT16  FAT32  NTFS,Windows XP and later,,,,,,,
+AVG PC TuneUp,AVG Technologies,,,,,,,,,,2015 (v15.0.1001.238) (November 30  2014)
+Contig,Microsoft,,NTFS,Windows XP and later; Windows Server 2003 and later,<ref name="Russinovich2008"></ref>,,,,,,1.6 (February 1  2011)<ref name="Russinovich2008" />
+Defraggler,Piriform,,FAT32  NTFS  exFAT  ReFS<ref></ref>,Windows XP and later,,,,</ref>}},,,
+Disk Defragmenter,Microsoft,,FAT16  FAT32  NTFS  ReFS,Windows NT 4 and later; Windows 95 and later,,,,,,,Same as Windows
+Diskeeper,Condusiv Technologies,,FAT16  FAT32  NTFS,Windows XP and later,<ref name="Dragan2005"></ref>,<ref name="Condusiv Technologies 1"></ref>,<ref name="Condusiv Technologies 2"></ref>,,<ref name="Condusiv Technologies 3"></ref>,,
+JkDefrag,Jeroen Kessels,,FAT & NTFS,Windows 2000  Windows XP  Windows Vista,,,,,,,3.36.0.2 / August 31  2008
+O&O Defrag,O&O Software,,FAT16  FAT32  NTFS,Windows 2000  XP  Vista  Server 2008  7  and 8,,,,,,,{{Latest stable software release/O&O Defrag}}
+PageDefrag,Microsoft,,,,,,,,,,
+PerfectDisk,Raxco,,,,,,,,,,
+UltimateDefrag,DiskTrix,<ref></ref>,FAT32  NTFS,Windows XP and later,,,,,,,
+UltraDefrag,Dmitri Arkhangelski  Justin Dearing  Sayem Chaklader  Stefan Pendl,,FAT12  FAT16  FAT32  NTFS  exFAT<ref name="sourceforge"></ref>,Windows NT 4.0 and later,,,<ref>UltraDefrag documentation and UltraDefrag 5.0.4 handbook</ref>,,,,
+Vopt,GoldenBow (or DataTuna)<ref>which makes available Howard Barry Emerson's VOPT on their own site  at </ref>,,FAT32  NTFS,Windows 2000 and later,,,,,,,
+Program,Developer,License,Supported file systems,Supported platforms,GUI,CLI,Script,Scheduler,Boot time,Auto defrag when idle,Stable release

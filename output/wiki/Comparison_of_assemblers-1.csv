@@ -1,0 +1,8 @@
+Assembler,License,Instruction set,Host platform
+Atari Assembler Editor,,MOS Technology 6502,Atari 8-bit family
+Atari Macro Assembler,,MOS Technology 6502,Atari 8-bit family
+Lisa,,MOS Technology 6502,Apple II series
+MAC/65,,MOS Technology 6502  WDC 65C02,Atari 8-bit family
+Merlin,,MOS Technology 6502  WDC 65C02,Apple II series
+vasm,,MOS Technology 6502,various
+k2asm,Artistic License,MOS Technology 6502,Linux  Windows  macOS  possibly other Unices
