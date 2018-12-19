@@ -32,7 +32,7 @@ Ce répertoire contient des tableaux émanant  de deux sources différentes :
 
  # WikiText
  #pour exécuter le cas de test de la conversion en wiki
-   mvn -Dtest=WikiConverterTest test
+   [] mvn -Dtest=WikiConverterTest test
  #pour exécuter le cas de test d'extraction en wiki
    mvn -Dtest=WikiExtractorTest test
  #pour exécuter tous les cas de test
