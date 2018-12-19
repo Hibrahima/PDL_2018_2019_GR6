@@ -49,12 +49,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<dependency>
-			<groupId>org.sweble.wikitext</groupId>
-			<artifactId>swc-engine</artifactId>
-			<version>${sweble.version}</version>
-		</dependency>
-
 
 		<dependency>
 			<groupId>org.json</groupId>
@@ -69,6 +63,13 @@
 			<version>4.0</version>
 		</dependency>
 
+
+		<!-- https://mvnrepository.com/artifact/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext.mediawiki -->
+		<dependency>
+			<groupId>org.eclipse.mylyn.docs</groupId>
+			<artifactId>org.eclipse.mylyn.wikitext.mediawiki</artifactId>
+			<version>3.0.28</version>
+		</dependency>
 
 
 	</dependencies>
