@@ -7,20 +7,20 @@ A Java project aiming to extract wikipedia matrices from html and wiki text and 
 # Licence 
   Logiciel open source
 
-Les technologies utilisées 
+# Les technologies utilisées 
  Pour la mise en place de ce projet, nous avons utilisés des librairies et le langage de développement orienté objet Java.
   •Jsoup pour l’extraction du code HTML et la conversion des tableaux,
   •Mylyn pour le parsing du WikiTexte en HTML.
  
-Résultat : On aura en sortie, les différents tableaux dans un répertoire output.
+# Résultat : On aura en sortie, les différents tableaux dans un répertoire output.
 Ce répertoire contient des tableaux émanant  de deux sources différentes :
   •Tableaux extraits à partir du code html et seront enrégistrés dans le dossier output/html  
   •Tableaux extraits à partir du code wikitext et seront enrégistrés dans le dossier output/wiki
 
-L'architecture du projet 
+# L'architecture du projet 
  Dans ce projet, l’architecture mise en place est celle du 2-tiers ou « client-serveur » dans le sens où  l’application demande un service au serveur mis en place par mediawiki, le serveur reçoit cette requête , il effectue un traitement de la page, et renvoie la ressource demandée qui est la dernière révision de la page Wikipédia concernée.
 
-Comment exécuter l’application ? 
+# Comment exécuter l’application ? 
  Pour exécuter les différents cas de test, on se place à la racine du projet, vous avez les commandes maven suivantes: 
  
  # HTML
@@ -43,7 +43,7 @@ La Javadoc du projet se trouve dans le dossier documentation. Pour le parcourir,
 
 Feel free to make suggestions.
 
-Authors:
+# Authors:
 	Ibrahima HAIDARA
 	Mariam COULIBALY
 	Mahamadou SYLLA
