@@ -17,6 +17,15 @@ import helper.FileHandlerImpl;
 import interfaces.Converter;
 import interfaces.FileHandler;
 
+/**
+ * 
+ * @author Ibrahima HAIDARA
+ * @author Mariam Coulibaly
+ * @author Mahamadou Sylla
+ * @author Abdoul Hamide Ba
+ *
+ */
+
 public class HTMLConverter implements Converter {
 	private HTMLExtractor extractor;
 	private FileHandler filehandler;
@@ -28,12 +37,27 @@ public class HTMLConverter implements Converter {
 
 	}
 
+	/**
+	 * Checks whether or not a character is a number
+	 * Used to process td text
+	 * 
+	 * @param character the character to check
+	 * @return true if that charcacter is a number
+	 */
 	private boolean isNumeric(char character) {
 		String numericRegex = "^[0-9]*$";
 		String charString = String.valueOf(character);
 		return Pattern.matches(numericRegex, charString);
 	}
 
+	/**
+	 * Checks whether or not a url exists
+	 * May throw HttpStatusException
+	 * 
+	 * @param url the url to check
+	 * @return true if the url exists
+	 * @throws IOException if is not possible to connect to that url
+	 */
 	private boolean doesUrlExist(String url) throws IOException {
 		try {
 			Jsoup.connect(url).get();
@@ -44,6 +68,9 @@ public class HTMLConverter implements Converter {
 		}
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public void convertAllToCSV() {
 		File file = null;
@@ -64,28 +91,34 @@ public class HTMLConverter implements Converter {
 			}
 			System.out.println("CSV serialization finished, "+number+" urls have been tested");
 		} catch (Exception e) {
-			// System.out.println("-------------------------------------" + e.getMessage());
-			e.printStackTrace();
+		
 		} finally {
 			try {
 				fr.close();
 				br.close();
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
 			}
 		}
 
 	}
 
-	public void convertToCsv(Document doc, String baseUrl, String url, String filePath) throws HttpStatusException {
+	/**
+	 * Converts tables of a given url into a CSV-like file
+	 * 
+	 * @param doc the html representation of that page
+	 * @param baseUrl the base url to use to make api calls
+	 * @param pageTitle the title of the page
+	 * @param filePath the path for the files to be stored in
+	 * @throws HttpStatusException if the page does not exist
+	 */
+	public void convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath) throws HttpStatusException {
 		List<String> data = new ArrayList<>();
 		String line = "";
 		String filename;
 		StringBuilder currentTdText;
 		int filenameCounter = 1;
 		try {
-			Elements tableElements = this.extractor.extractTables(doc, baseUrl + url);
+			Elements tableElements = this.extractor.extractTables(doc, baseUrl + pageTitle);
 			if (tableElements == null)
 				System.out.println("Oups, smething wrong happened");
 			else {
@@ -107,7 +140,7 @@ public class HTMLConverter implements Converter {
 							line = "";
 						}
 					}
-					filename = this.filehandler.extractFilenameFromUrl(url, filenameCounter);
+					filename = this.filehandler.extractFilenameFromUrl(pageTitle, filenameCounter);
 					this.filehandler.write(filePath, filename, data);
 					System.out.println(Constants.CONSOLE_WHITE_COLOR+filename + " has been generated");
 					filenameCounter++;
@@ -121,6 +154,9 @@ public class HTMLConverter implements Converter {
 
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public StringBuilder processCurrentTDText(StringBuilder tdText) {
 		tdText = new StringBuilder(tdText);
@@ -129,12 +165,9 @@ public class HTMLConverter implements Converter {
 				if (k > 0) {
 					if (!isNumeric(tdText.charAt(k - 1))) {
 						tdText.setCharAt(k, ' ');
-						// System.out.println("current td text = " + currentTdText);
 					} else {
 						if ((k + 1) < tdText.length()) {
 							if (isNumeric(tdText.charAt(k + 1))) {
-								// System.out.println("current char "+currentTdText.charAt(k-1)+" td
-								// text "+currentTdText);
 								tdText.setCharAt(k, '.');
 							} else
 								tdText.setCharAt(k, ' ');
