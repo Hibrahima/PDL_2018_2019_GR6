@@ -60,6 +60,7 @@ public class WikiConverterTest {
 	
 	@Test
 	@DisplayName("test Comparison_of_audio_player_software")
+	@Disabled
 	public void testComparison_of_audio_player_software() throws IOException, UrlNotFoundException{
 		Document doc = WikiRunner.getDocument("en", "Comparison_of_audio_player_software");
 		wikiConverter.convertToCsv(doc, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_audio_player_software", Constants.WIKI_TEST_OUTPUT_DIR);
@@ -95,7 +96,6 @@ public class WikiConverterTest {
         //st.setRightAlign(true);//if true then cell text is right aligned
 		printer.setShowVerticalLines(true); //if false (default) then no vertical lines are shown
 		printer.setHeaders("Url", "Igored", "Extracted", "Total");//optional - if not used then there will be no header and horizontal lines
-		System.out.println("taille de la liste = "+WikiExtractor.statisticsList.size());
 		for(Statistics s : WikiExtractor.statisticsList) {
 			int total = s.getExtractedTablesNumber()+s.getIgnoredTablesNumber();
 			printer.addRow(s.getUrl(), ""+s.getIgnoredTablesNumber(), ""+s.getExtractedTablesNumber(),""+total);
