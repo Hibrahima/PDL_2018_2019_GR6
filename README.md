@@ -1,10 +1,10 @@
 # PDL_2018_2019_GR6
 A Java project aiming to extract wikipedia matrices from html and wiki text and producing csv-based file.
 
-Objectif
+# Objectif
   Ce projet a pour but d’extraire des tableaux pertinents sous formes de CSV à partir d’une URL  Wikipédia donnée. Ce qui permettra d'avoir des fichiers cohérents, homogènes et faciles à manipuler.
 
-Licence 
+# Licence 
   Logiciel open source
 
 Les technologies utilisées 
