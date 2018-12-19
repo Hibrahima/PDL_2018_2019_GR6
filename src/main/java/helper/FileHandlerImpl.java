@@ -5,11 +5,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.io.IOException;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.List;
-
 import com.opencsv.CSVParser;
 import com.opencsv.CSVParserBuilder;
 import com.opencsv.CSVReader;
@@ -73,14 +69,6 @@ public class FileHandlerImpl implements FileHandler {
 			CSVReader csvReader = new CSVReaderBuilder(br).withCSVParser(parser).build();
 
 			csvReader.readAll();
-
-			/*
-			 * for (String[] row : rows) {
-			 * 
-			 * for (String e : row) { System.out.format("%s ", e); }
-			 * 
-			 * System.out.println(); }
-			 */
 			return true;
 		} catch (Exception e) {
 			// TODO: handle exception
