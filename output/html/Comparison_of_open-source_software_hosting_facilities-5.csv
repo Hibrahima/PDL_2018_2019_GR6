@@ -1,0 +1,5 @@
+Name,Ad-free,CVS,Git,SVN,Arch,Notes
+Drupal,Yes,No,Yes,No,No,Only for Drupal related projects.
+freedesktop.org,Yes,No,Yes,No,No,Only for interoperability and shared base technology for free software desktop environments on Linux and other Unix-like operating systems  including the X Window System (X11) and cairo (graphics).
+mozdev.org,Yes,Yes,Unknown,No,No,Only for Mozilla-related projects.
+Name,Ad-free,CVS,Git,SVN,Arch,Notes

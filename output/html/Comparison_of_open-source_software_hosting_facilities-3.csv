@@ -1,0 +1,20 @@
+Name,CVS,Git,Hg,SVN,BZR,TFVC,Arch,Perforce,Fossil
+Assembla,No,Yes,No,Yes,No,No,No,Yes,No
+Betavine,Yes,No,No,Yes,No,No,No,Unknown,Unknown
+Bitbucket,No,Yes,Yes[k],No,No,No,No,No,No
+Buddy,No,Yes,No,No,No,No,No,No,No
+CloudForge,No,Yes,No,Yes,No,No,No,No,No
+GitHub,No,Yes,No,Partial[37],No,No,No,No,No
+GitLab,No,Yes,No,No,No,No,No,No,No
+GNU Savannah,Yes,Yes,Yes,Yes,Yes[38],No,Yes,No,No
+Helix TeamHub,No,Yes,Yes,Yes,No,No,No,Yes,No
+java.net,No,Yes[39],Yes[39],Yes[39],No,No,No,No,No
+Kallithea,No,Yes,Yes,No,No,No,No,No,No
+Launchpad,Import only,Yes[11][40],Import only[41],Import only,Yes,No,No,No,Unknown
+OSDN,Yes,Yes,Yes,Yes,Yes,No,No,Unknown,Unknown
+Ourproject.org,Yes,No,No,Yes,No,No,No,Unknown,Unknown
+OW2 Consortium,Yes,No,No,Yes,No,No,No,Unknown,Unknown
+Phabricator,No,Yes,Yes,Yes,No,No,No,No,No
+SEUL.org,Yes,No,No,Yes,No,No,No,Unknown,Unknown
+SourceForge,Dropped[42],Yes,Yes,Yes,Dropped[43],No,No,Unknown,Yes
+Name,CVS,Git,Hg,SVN,BZR,TFVC,Arch,Perforce,Fossil
