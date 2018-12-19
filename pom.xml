@@ -50,13 +50,6 @@
 		</dependency>
 
 		<dependency>
-			<groupId>org.sweble.wikitext</groupId>
-			<artifactId>swc-engine</artifactId>
-			<version>${sweble.version}</version>
-		</dependency>
-
-
-		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
 			<version>20180813</version>
@@ -68,8 +61,6 @@
 			<artifactId>opencsv</artifactId>
 			<version>4.0</version>
 		</dependency>
-
-
 
 	</dependencies>
 
