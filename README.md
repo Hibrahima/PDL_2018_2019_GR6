@@ -25,17 +25,17 @@ Ce répertoire contient des tableaux émanant  de deux sources différentes :
  Pour exécuter les différents cas de test, on se place à la racine du projet, vous avez les commandes maven suivantes: 
  
  # HTML
- #pour exécuter le cas de test de la conversion en html
-   mvn -Dtest=HTMLConverterTest test 
- #pour exécuter le cas de test d'extraction en html
-   mvn -Dtest=HTMLExtractorTest test
+ Pour exécuter le cas de test de la conversion en html </br>
+   mvn -Dtest=HTMLConverterTest test </br>
+ Pour exécuter le cas de test d'extraction en html </br>
+   mvn -Dtest=HTMLExtractorTest test </br>
 
  # WikiText
- #pour exécuter le cas de test de la conversion en wiki </br>
-   mvn -Dtest=WikiConverterTest test
- #pour exécuter le cas de test d'extraction en wiki </br>
+ Pour exécuter le cas de test de la conversion en wiki </br>
+   mvn -Dtest=WikiConverterTest test </br>
+ Pour exécuter le cas de test d'extraction en wiki </br>
    mvn -Dtest=WikiExtractorTest test </br>
- #pour exécuter tous les cas de test
+ Pour exécuter tous les cas de test </br>
    mvn test
 
 Assurez-vous d'avoir au moins maven 3.8.0 installé avant de lancer les tests ou configurez la version du compilateur maven dans le fichier pom.xml
