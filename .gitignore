@@ -2,3 +2,5 @@
 .project
 .settings/
 target/
+output/test-html
+output/test-wiki
