@@ -15,11 +15,20 @@ import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import helper.Constants;
 import helper.FileHandlerImpl;
-import helper.Statistics;
 import helper.TablePrinter;
 import interfaces.FileHandler;
+import interfaces.Statistics;
 import wikipedia.html.HTMLConverter;
 import wikipedia.html.HTMLExtractor;
+
+/**
+ * 
+ * @author Ibrahima HAIDARA
+ * @author Mariam Coulibaly
+ * @author Mahamadou Sylla
+ * @author Abdoul Hamide Ba
+ *
+ */
 
 public class HTMLConverterTest {
 	
