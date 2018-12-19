@@ -54,6 +54,7 @@ public class HTMLConverter implements Converter {
 			fr = new FileReader(file);
 			br = new BufferedReader(fr);
 			String url = null;
+			int number = 0;
 			while ((url = br.readLine()) != null) {
 				if (!doesUrlExist(Constants.EN_BASE_WIKIPEDIA_URL + url))
 					continue;
@@ -61,6 +62,7 @@ public class HTMLConverter implements Converter {
 				Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + url).get();
 				convertToCsv(doc, Constants.EN_BASE_WIKIPEDIA_URL, url, Constants.HTML_OUTPUT_DIR);
 			}
+			System.out.println("CSV serialization finished, "+number+" urls have been tested");
 		} catch (Exception e) {
 			// System.out.println("-------------------------------------" + e.getMessage());
 			e.printStackTrace();
