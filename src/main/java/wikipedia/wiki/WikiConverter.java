@@ -6,8 +6,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import java.util.regex.Pattern;
 import org.jsoup.HttpStatusException;
 import org.jsoup.nodes.Document;
@@ -20,25 +18,48 @@ import helper.WikiRunner;
 import interfaces.Converter;
 import interfaces.FileHandler;
 
+
+/**
+ * 
+ * @author Ibrahima HAIDARA
+ * @author Mariam Coulibaly
+ * @author Mahamadou Sylla
+ * @author Abdoul Hamide Ba
+ *
+ */
+
 public class WikiConverter implements Converter {
 	private WikiExtractor extractor;
 	private FileHandler filehandler;
 	private char separator = ',';
-	private Logger logger;
 
 	public WikiConverter() {
 		this.extractor = new WikiExtractor();
 		this.filehandler = new FileHandlerImpl();
-		logger = Logger.getLogger(WikiConverter.class.getName());
 
 	}
 
+	/**
+	 * Checks whether or not a character is a number
+	 * Used to process td text
+	 * 
+	 * @param character the character to check
+	 * @return true if that charcacter is a number
+	 */
 	private boolean isNumeric(char character) {
 		String numericRegex = "^[0-9]*$";
 		String charString = String.valueOf(character);
 		return Pattern.matches(numericRegex, charString); 
 	}
 
+	/**
+	 * Checks whether or not a url exists
+	 * May throw HttpStatusException
+	 * 
+	 * @param url the url to check
+	 * @return true if the url exists
+	 * @throws IOException if is not possible to connect to that url
+	 */
 	private boolean doesUrlExist(String languageVariant, String pageTitle) throws IOException {
 		try {
 			WikiRunner.getDocument(languageVariant, pageTitle);
@@ -50,6 +71,9 @@ public class WikiConverter implements Converter {
 	}
 	
 	
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public void convertAllToCSV() {
 		File file = null;
@@ -90,6 +114,15 @@ public class WikiConverter implements Converter {
 
 	}
 
+	/**
+	 * Converts tables of a given url into a CSV-like file
+	 * 
+	 * @param doc the html representation of that page
+	 * @param baseUrl the base url to use to make api calls
+	 * @param pageTitle the title of the page
+	 * @param filePath the path for to be stored in
+	 * @throws HttpStatusException if the page does not exist
+	 */
 	public void convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath) throws HttpStatusException {
 		List<String> data = new ArrayList<>();
 		String line = "";
@@ -133,6 +166,9 @@ public class WikiConverter implements Converter {
 
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public StringBuilder processCurrentTDText(StringBuilder tdText) {
 		tdText = new StringBuilder(tdText);

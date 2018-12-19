@@ -11,9 +11,18 @@ import org.jsoup.select.Elements;
 
 import helper.Constants;
 import helper.Constrains;
-import helper.Statistics;
 import helper.StatisticsImpl;
 import interfaces.Extractor;
+import interfaces.Statistics;
+
+/**
+ * 
+ * @author Ibrahima HAIDARA
+ * @author Mariam Coulibaly
+ * @author Mahamadou Sylla
+ * @author Abdoul Hamide Ba
+ *
+ */
 
 public class WikiExtractor implements Extractor {
 	private static final String wiki_regex = "^https:\\//[a-z]{2}\\.wikipedia\\.org\\/wiki/.+";
@@ -30,6 +39,9 @@ public class WikiExtractor implements Extractor {
 	}
 	
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public Elements extractTables(Document doc, String url) throws IOException, HttpStatusException {
 		Elements tableElements = null;
@@ -40,11 +52,11 @@ public class WikiExtractor implements Extractor {
 			tableElements = doc.select("table");
 			int initialSize = tableElements.size();
 			tableElements = convertThsToTds(tableElements);
-			tableElements = ignoredElements(url, "div", tableElements);
-			tableElements = ignoredElements(url, "ul", tableElements);
-			tableElements = ignoredClasses(url, tableElements);
+			tableElements = ignoredElements("div", tableElements);
+			tableElements = ignoredElements("ul", tableElements);
+			tableElements = ignoredClasses(tableElements);
 			//tableElements = ignoredElements("img", tableElements);
-			tableElements = ignoredElements(url, "p", tableElements);
+			tableElements = ignoredElements("p", tableElements);
 			//tableElements = ignoredElements(url, "br", tableElements);
 			//tableElements = ignoreTablesWithLessRows(url, tableElements, 3);
 			int finalSize = tableElements.size();
@@ -57,10 +69,12 @@ public class WikiExtractor implements Extractor {
 		return tableElements;
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
-	public Elements ignoredClasses(String url, Elements tableElements) {
+	public Elements ignoredClasses(Elements tableElements) {
 		String[] currentTableClasses;
-		statistics.setUrl(url);
 		for (Element currentTable : tableElements) {
 			currentTableClasses = currentTable.className().split(" ");
 			for (String cs : currentTableClasses) {
@@ -83,6 +97,12 @@ public class WikiExtractor implements Extractor {
 		return tableElements.not("."+Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 	}
 
+	/**
+	 * Converts ths to tds
+	 * 
+	 * @param tableElements the tables whose ths are transformed to tds
+	 * @return the processed tables
+	 */
 	private Elements convertThsToTds(Elements tableElements) {
 		for (Element currentTable : tableElements) {
 			Elements currentTableRowElements = currentTable.select("tr");
@@ -97,8 +117,11 @@ public class WikiExtractor implements Extractor {
 		return tableElements;
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
-	public Elements ignoredElements(String url, String tag, Elements tableElements) {
+	public Elements ignoredElements(String tag, Elements tableElements) {
 		for (Element currentTable : tableElements) {
 			Elements currentTableRowElements = currentTable.select("tr"); 
 			Elements currentTdTags;
@@ -133,8 +156,11 @@ public class WikiExtractor implements Extractor {
 		return tableElements.not("."+Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
-	public Elements ignoreTablesWithLessRows(String url, Elements tableElements, int numberOfRows) {
+	public Elements ignoreTablesWithLessRows(Elements tableElements, int numberOfRows) {
 		for (Element currentTable : tableElements) {
 			Elements currentTableRowElements = currentTable.select("tr");
 			if (currentTableRowElements.size() < numberOfRows) {
