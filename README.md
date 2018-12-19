@@ -31,10 +31,10 @@ Ce répertoire contient des tableaux émanant  de deux sources différentes :
    mvn -Dtest=HTMLExtractorTest test
 
  # WikiText
- #pour exécuter le cas de test de la conversion en wiki
-   [] mvn -Dtest=WikiConverterTest test
- #pour exécuter le cas de test d'extraction en wiki
-   mvn -Dtest=WikiExtractorTest test
+ #pour exécuter le cas de test de la conversion en wiki </br>
+   mvn -Dtest=WikiConverterTest test
+ #pour exécuter le cas de test d'extraction en wiki </br>
+   mvn -Dtest=WikiExtractorTest test </br>
  #pour exécuter tous les cas de test
    mvn test
 
