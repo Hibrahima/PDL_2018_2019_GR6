@@ -15,8 +15,11 @@ import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 import helper.Constants;
 import helper.FileHandlerImpl;
+import helper.Statistics;
+import helper.TablePrinter;
 import interfaces.FileHandler;
 import wikipedia.html.HTMLConverter;
+import wikipedia.html.HTMLExtractor;
 
 public class HTMLConverterTest {
 	
@@ -57,6 +60,26 @@ public class HTMLConverterTest {
 	{
 		assertTrue(new File(Constants.HTML_OUTPUT_DIR).isDirectory());
 		assertDoesNotThrow(() -> htmlConverter.convertAllToCSV());
+		
+		System.out.println("------------------ Statistics for Html Converter --------------");
+		int totalExtacted = 0;
+		for(Statistics s : HTMLExtractor.statisticsList) {
+			totalExtacted += s.getExtractedTablesNumber();
+		}
+		System.out.println("Number of extracted pertinent tables : "+totalExtacted);
+		displayInfo();
+	}
+	
+	private void displayInfo() {
+		TablePrinter printer = new TablePrinter();
+        //st.setRightAlign(true);//if true then cell text is right aligned
+		printer.setShowVerticalLines(true); //if false (default) then no vertical lines are shown
+		printer.setHeaders("Url", "Igored", "Extracted", "Total");//optional - if not used then there will be no header and horizontal lines
+		for(Statistics s : HTMLExtractor.statisticsList) {
+			int total = s.getExtractedTablesNumber()+s.getIgnoredTablesNumber();
+			printer.addRow(s.getUrl(), ""+s.getIgnoredTablesNumber(), ""+s.getExtractedTablesNumber(),""+total);
+		}
+		printer.print();
 	}
 	
 	
@@ -107,10 +130,10 @@ public class HTMLConverterTest {
 		
 	}
 	
-	//@Test
+	@Test
 	@AfterAll
-	//@DisplayName("test validity of all csv files")
-	//@Tag("robustness")
+	@DisplayName("test validity of all csv files")
+	@Tag("robustness")
 	public static void testAreCsvFilesValid() {
 		File[] files = null;
 		int counter = 0;
@@ -121,7 +144,7 @@ public class HTMLConverterTest {
 			files = htmlDirectory.listFiles();
 			for(File f : files) {
 				counter++;
-				System.out.println("current filename tested : "+f.getName());
+				System.out.println("CSV validity of current file, filename : "+f.getName()+" is valid : "+fileHandler.isCsvFileValid(f, separator));
 				assertTrue(fileHandler.isCsvFileValid(f, separator));
 			}
 		} catch (Exception e) {
@@ -129,7 +152,7 @@ public class HTMLConverterTest {
 			System.out.println(e.getMessage());
 		}
 		
-		System.out.println("counter = "+counter);
+		System.out.println("total number of files tested : "+counter);
 		
 	}
 	
