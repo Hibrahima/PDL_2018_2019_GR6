@@ -2,6 +2,19 @@ package helper;
 
 import java.io.File;
 
+/**
+ * 
+ * @author Ibrahima HAIDARA
+ * @author Mariam Coulibaly
+ * @author Mahamadou Sylla
+ * @author Abdoul Hamide Ba
+ *
+ */
+
+
+/**
+ * Defines general constants for folder names. base urls. ect...
+ */
 public class Constants {
 	
 	public static String EN_WIKIPEDIA_API_BASE_URL = "https://en.wikipedia.org/w/api.php?";

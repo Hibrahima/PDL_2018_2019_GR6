@@ -1,5 +1,17 @@
 package helper;
 
+/**
+ * 
+ * @author Ibrahima HAIDARA
+ * @author Mariam Coulibaly
+ * @author Mahamadou Sylla
+ * @author Abdoul Hamide Ba
+ *
+ */
+
+/**
+ * Defines some constrains that are used in the extractors
+ */
 public enum Constrains {
 	
 	INFOBOX("infobox"),

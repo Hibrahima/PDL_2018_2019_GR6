@@ -2,6 +2,21 @@ package helper;
 
 import java.util.Objects;
 
+import interfaces.Statistics;
+
+
+/**
+ * 
+ * @author Ibrahima HAIDARA
+ * @author Mariam Coulibaly
+ * @author Mahamadou Sylla
+ * @author Abdoul Hamide Ba
+ *
+ */
+
+/**
+ *  Constructs a statistics model, implementation of Statistics interface
+ */
 public class StatisticsImpl implements Statistics {
 
 	private String url;
@@ -20,21 +35,33 @@ public class StatisticsImpl implements Statistics {
 	public StatisticsImpl() {
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public String getUrl() {
 		return this.url;
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public int getIgnoredTablesNumber() {
 		return this.ignoredTablesNumber;
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public int getExtractedTablesNumber() {
 		return this.extractedTablesNumber;
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public void setUrl(String url) {
 		Objects.requireNonNull(url, "url cannot be null");
@@ -47,6 +74,9 @@ public class StatisticsImpl implements Statistics {
 		this.ignoredTablesNumber = ignoredTablesNumber;
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public void setExtractedTablesNumber(int extractedTablesNumber) {
 		Objects.requireNonNull(extractedTablesNumber, "the number of tables that were extracted  cannot be null");

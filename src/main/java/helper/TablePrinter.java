@@ -5,6 +5,18 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * 
+ * @author Ibrahima HAIDARA
+ * @author Mariam Coulibaly
+ * @author Mahamadou Sylla
+ * @author Abdoul Hamide Ba
+ *
+ */
+
+/**
+ * Prints a table made of rows and columns in a simplistic way like a charm
+ */
 public class TablePrinter {
 	
 	private static final String HORIZONTAL_SEP = "-";

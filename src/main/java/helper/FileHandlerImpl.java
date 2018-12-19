@@ -10,11 +10,27 @@ import com.opencsv.CSVParser;
 import com.opencsv.CSVParserBuilder;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
-
 import interfaces.FileHandler;
+
+/**
+ * 
+ * @author Ibrahima HAIDARA
+ * @author Mariam Coulibaly
+ * @author Mahamadou Sylla
+ * @author Abdoul Hamide Ba
+ *
+ */
+
+/**
+ * Handles file-related operations
+ *
+ */
 
 public class FileHandlerImpl implements FileHandler {
 
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public void write(String filePath, String filename, List<String> data) {
 		FileWriter fw = null;
@@ -51,11 +67,18 @@ public class FileHandlerImpl implements FileHandler {
 
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
 	public String extractFilenameFromUrl(String url, int number) {
 		return url + "-" + number + ".csv";
 
 	}
-
+	
+	
+	/**
+	 * {@inheritDoc}
+	 */
 	@Override
 	public boolean isCsvFileValid(File file, char separator) {
 		CSVParser parser = null;
