@@ -12,7 +12,8 @@ A Java project aiming to extract wikipedia matrices from html and wiki text and 
   •Jsoup pour l’extraction du code HTML et la conversion des tableaux,
   •Mylyn pour le parsing du WikiTexte en HTML.
  
-# Résultat : On aura en sortie, les différents tableaux dans un répertoire output.
+# Résultat
+On aura en sortie, les différents tableaux dans un répertoire output.
 Ce répertoire contient des tableaux émanant  de deux sources différentes :
   •Tableaux extraits à partir du code html et seront enrégistrés dans le dossier output/html  
   •Tableaux extraits à partir du code wikitext et seront enrégistrés dans le dossier output/wiki
