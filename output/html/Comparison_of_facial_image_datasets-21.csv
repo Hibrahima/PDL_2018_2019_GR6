@@ -1,4 +1,0 @@
-Dataset Name,Brief description,Preprocessing,Instances,Format,Default Task,Created (updated),Reference,Creator
-Volcanoes on Venus – JARtool experiment Dataset,Venus images returned by the Magellan spacecraft.,Images are labeled by humans.,not given,Images,Classification,1991,[329][330],M. Burl
-MAGIC Gamma Telescope Dataset,Monte Carlo generated high-energy gamma particle events.,Numerous features extracted from the simulations.,19.020,Text,Classification,2007,[330][331],R. Bock
-Solar Flare Dataset,Measurements of the number of certain types of solar flare events occurring in a 24-hour period.,Many solar flare-specific features are given.,1389,Text,Regression  classification,1989,[332],G. Bradshaw
