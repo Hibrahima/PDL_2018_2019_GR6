@@ -1,7 +1,6 @@
 package interfaces;
 
 import java.io.IOException;
-
 import org.jsoup.HttpStatusException;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
