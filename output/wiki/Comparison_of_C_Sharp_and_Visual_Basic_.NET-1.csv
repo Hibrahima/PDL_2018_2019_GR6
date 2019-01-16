@@ -1,1 +1,2 @@
 C#,Visual Basic .NET
+<source lang="csharp"> // Single line comment /* Multi-line comment   line 2   line 3 */  /// XML single line comment /** XML multi-line comment    line 2    line 3 */  if COMMENT   multi-line comment via pre-processing    line 2   line 3  endif </source>,<source lang="vbnet"> ' Single line comment ''' XML 1st line comment ''' XML 2nd line comment ''' XML 3rd line comment If COMMENT Then   multi-line comment via pre-processing    line 2   line 3  End If </source> Intra-line comments not available

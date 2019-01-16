@@ -1,24 +1,24 @@
 Client,Microsoft Windows,macOS,Linux,BSDs,Solaris,Other
-Cain and Abel,,,,,,
-Capsa Free Edition,,,,,,
-Carnivore,,,,,,
-Charles Web Debugging Proxy,,,,,,
-Clusterpoint Network Traffic Surveillance System,,,,,,Any virtual-machine compatible OS
-CommView,,,,,,
-dSniff,,,,,,
-EtherApe,,,,,,
-Ettercap,,,,,,
-justniffer,,,,,,
-Kismet,,,,,,
-LANMeter,,,,,,Fluke proprietary hardware
-netsniff-ng,,,,,,
-ngrep,,,,,,AIX  BeOS  HP-UX  IRIX  Tru64 UNIX
-Microsoft Network Monitor,,,,,,
-Observer,,,,,,
-OmniPeek (formerly AiroPeek  EtherPeek),,,,,,
-SteelCentral Transaction Analyzer,,Version 3.5 capture agents on PowerPC only,GUI  plus version 3.5 capture agents,,Version 3.5 capture agents on SPARC only,Version 3.5 capture agents on AIX and PA-RISC HP-UX only
-snoop,,,,,,
-tcpdump,(WinDump),,,,,AIX  HP-UX  IRIX  Tru64 UNIX
-Tranalyzer,,,,,,
-Wireshark (formerly Ethereal),,,,,,AIX  HP-UX  IRIX  Tru64 UNIX
-Xplico,,,,,,
+Cain and Abel,[empty],[empty],[empty],[empty],[empty],[empty]
+Capsa Free Edition,[empty],[empty],[empty],[empty],[empty],[empty]
+Carnivore,[empty],[empty],[empty],[empty],[empty],[empty]
+Charles Web Debugging Proxy,[empty],[empty],[empty],[empty],[empty],[empty]
+Clusterpoint Network Traffic Surveillance System,[empty],[empty],[empty],[empty],[empty],Any virtual-machine compatible OS
+CommView,[empty],[empty],[empty],[empty],[empty],[empty]
+dSniff,[empty],[empty],[empty],[empty],[empty],[empty]
+EtherApe,[empty],[empty],[empty],[empty],[empty],[empty]
+Ettercap,[empty],[empty],[empty],[empty],[empty],[empty]
+justniffer,[empty],[empty],[empty],[empty],[empty],[empty]
+Kismet,[empty],[empty],[empty],[empty],[empty],[empty]
+LANMeter,[empty],[empty],[empty],[empty],[empty],Fluke proprietary hardware
+netsniff-ng,[empty],[empty],[empty],[empty],[empty],[empty]
+ngrep,[empty],[empty],[empty],[empty],[empty],AIX  BeOS  HP-UX  IRIX  Tru64 UNIX
+Microsoft Network Monitor,[empty],[empty],[empty],[empty],[empty],[empty]
+Observer,[empty],[empty],[empty],[empty],[empty],[empty]
+OmniPeek (formerly AiroPeek  EtherPeek),[empty],[empty],[empty],[empty],[empty],[empty]
+SteelCentral Transaction Analyzer,[empty],Version 3.5 capture agents on PowerPC only,GUI  plus version 3.5 capture agents,[empty],Version 3.5 capture agents on SPARC only,Version 3.5 capture agents on AIX and PA-RISC HP-UX only
+snoop,[empty],[empty],[empty],[empty],[empty],[empty]
+tcpdump,(WinDump),[empty],[empty],[empty],[empty],AIX  HP-UX  IRIX  Tru64 UNIX
+Tranalyzer,[empty],[empty],[empty],[empty],[empty],[empty]
+Wireshark (formerly Ethereal),[empty],[empty],[empty],[empty],[empty],AIX  HP-UX  IRIX  Tru64 UNIX
+Xplico,[empty],[empty],[empty],[empty],[empty],[empty]

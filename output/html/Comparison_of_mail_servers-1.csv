@@ -8,7 +8,7 @@ Cyrus IMAP,No,Yes,Yes,Yes,Yes,Yes,Supports X.509 PKI auth via STARTTLS and EXTER
 Dovecot,No,Yes,Yes,Yes,Yes,Yes,Not an SMTP server  but offers SASL to MTAs.[23][24] POP-before-SMTP via DRAC plugin. PAM  MySQL  PostgreSQL  SQLite  LDAP  Active Directory(LDAP)  Kerberos 5  proxied IMAP auth  getpwent  shadow  SIA  BSDauth  Vpopmail. APOP and SASL mechanisms: ANONYMOUS  PLAIN  LOGIN  CRAM-MD5  DIGEST-MD5  SCRAM-SHA1  EXTERNAL  GSSAPI  NTLM  OTP  SKEY  RPA.
 Eudora Internet Mail Server,Yes,No,Yes,Yes,No,No,CRAM-MD5  DIGEST-MD5  PLAIN  LOGIN
 Exim,Yes,Yes,Yes,Yes,Yes,Yes,Cyrus SASL  Dovecot SASL  GNU SASL  CRAM-MD5  Heimdal GSSAPI  PLAIN  LOGIN  SPA
-FirstClass,Yes,?,?,Yes,Yes,Yes,
+FirstClass,Yes,?,?,Yes,Yes,Yes,[empty]
 Gordano Messaging Suite,Yes,Yes,Yes,No,Yes,Yes,PLAIN  LOGIN  CRAM-MD5  DIGEST-MD5  APOP  ODBC  Active Directory  NT Domain
 GroupWise,Yes,Yes,Yes,Yes,Yes,Yes,eDirectory  Any LDAPv3-compliant source
 Halon,Yes,No,No,Yes,Yes,Yes,Many mechanism (SMTP callout  Dovecot SASL  REST  etc.) via script.[25]

@@ -1,23 +1,23 @@
 IDE,Developer,Latest stable release version,Latest stable release date,Platform,Written in,Widget toolkit,License,Python2x support,Python3x support,Debugger,GUI builder,Integrated toolchain,Profiler,Code coverage,Autocomplete,Static program analysis,GUI based design,Class browser,Code refactoring,Version control system support,Web framework support
-Anjuta,Naba Kumar,3.22,2016-09-18,Unix-like,C,GTK+,,,,,,,,,,,,,,,
-eric,Detlev Offenbach,18.11,2018-11-01,Linux  Microsoft Windows  macOS,,PyQt,,</ref>}},</ref>}},,: Qt Creator,,,,,,,,,,
-Geany,Team,1.30,2017-03-05,Windows  Linux  macOS  FreeBSD  AIX  OpenBSD  Solaris  other Unix,C,GTK+,,,,,,,,,,,,,,,
-IDLE,Guido van Rossum et al.,3.6,2016-12-23,Cross-platform,,Tkinter,,,,,,,,,,,,,,,
-Komodo IDE,ActiveState,10.2,2017-02-21,Cross-platform,,Mozilla platform,,,,,,,,,,,,,,,
-KDevelop,KDE KDevelop Team,5.0.4,2017-03-04,Cross-platform,C  C++,Qt,,,,,,,,,,,,,,,
-MonoDevelop,Novell and the Mono community,6.1.2.44,2016-11-11,Windows  Linux  macOS  FreeBSD  OpenBSD  Solaris,C#,Gtk#,,,,,,,,,,,,,,,
-Ninja-IDE,Team,2.3,2013-07-07,Cross-platform,,PyQt,,(Python 2.7),,(with wdebugger plugin),,,,,,,,,,,
-PIDA,Team,0.6.2,2010-08-04,Cross-platform,,PyGTK,,,,(integrates with external debuggers),,,,,,,,,,,
-PyCharm,JetBrains,2017.1,2017-03-24<ref></ref>,Windows  Linux  macOS,Java,Swing,,,,,,,(full version only),(full version only),,PEP 8 and others,,,,,
-PyDev / LiClipse (plug-in for Eclipse and Aptana),Appcelerator,5.5.0,2017-01-19,Windows  Linux  macOS  FreeBSD  JVM  Solaris,,SWT,,,,,,,,,,,,,,,
-PyScripter,Kiriakos Vlahos,3.0.1,2017-10-24,Windows,Object Pascal,JVCL,,,up to v3.4,,,,,,,,,,,,
-Python Tools for Visual Studio,Microsoft,2.2.6<ref></ref>,2017-01-13,Windows,,Windows Forms,,,,,,,,,,,,,,,
-PythonAnywhere,PythonAnywhere LLP,,,Web-based,,HTML,,,,,,,,,,,,,,,
-SlickEdit,SlickEdit,21,October 2016,Windows  Linux  macOS  Solaris  AIX  HP-UX,C++,Qt,,,,,,,,,,,,,,,
-SourceLair,SourceLair  Limited.,,,Web-based,,HTML,,,,,,,,,,,,,,,
-Spyder,Carlos Cordoba and Contributors,3.3.2,2018-11-24,Cross-platform,,PyQt  PySide,,2.7,3.4 - 3.7,,,,,,,,,,,,
-Stani's Python Editor,Stani Michiels,0.8.4h,2008-02-14,Cross-platform,,wxPython,,,,(with winpdb),,,,,,,,,,,
-Thonny,Aivar Annamaa and contributors,3.0.8,2018-11-16,Windows  Linux  macOS,,Tkinter,,,,,,,,,,,,,,,
-Understand,SciTools,4.0,2015-04-01,Windows  Linux  macOS  Solaris  other Unix,,HTML,,,,,,,,,,,,,,,
-Visual Studio Code,Microsoft,1.26.1,2018-08-16,Linux  Microsoft Windows  macOS,JavaScript,HTML,,,,,,,,,,,,,,,
-Wing,Wingware,6.1.2,2018-11-08,Windows  Linux  macOS,,Qt5 with PyQt,,,,(also remote  multi-threaded  and multi-process debugging),,,,,,,,,,,
+Anjuta,Naba Kumar,3.22,2016-09-18,Unix-like,C,GTK+,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eric,Detlev Offenbach,18.11,2018-11-01,Linux  Microsoft Windows  macOS,[empty],PyQt,[empty],</ref>}},</ref>}},[empty],: Qt Creator,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Geany,Team,1.30,2017-03-05,Windows  Linux  macOS  FreeBSD  AIX  OpenBSD  Solaris  other Unix,C,GTK+,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IDLE,Guido van Rossum et al.,3.6,2016-12-23,Cross-platform,[empty],Tkinter,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Komodo IDE,ActiveState,10.2,2017-02-21,Cross-platform,[empty],Mozilla platform,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KDevelop,KDE KDevelop Team,5.0.4,2017-03-04,Cross-platform,C  C++,Qt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MonoDevelop,Novell and the Mono community,6.1.2.44,2016-11-11,Windows  Linux  macOS  FreeBSD  OpenBSD  Solaris,C#,Gtk#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ninja-IDE,Team,2.3,2013-07-07,Cross-platform,[empty],PyQt,[empty],(Python 2.7),[empty],(with wdebugger plugin),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PIDA,Team,0.6.2,2010-08-04,Cross-platform,[empty],PyGTK,[empty],[empty],[empty],(integrates with external debuggers),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PyCharm,JetBrains,2018.3,2018-11-21,Windows  Linux  macOS,Java,Swing,[empty],[empty],[empty],[empty],[empty],[empty],(full version only),(full version only),[empty],PEP 8 and others,[empty],[empty],[empty],[empty],[empty]
+PyDev / LiClipse (plug-in for Eclipse and Aptana),Appcelerator,5.5.0,2017-01-19,Windows  Linux  macOS  FreeBSD  JVM  Solaris,[empty],SWT,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PyScripter,Kiriakos Vlahos,3.0.1,2017-10-24,Windows,Object Pascal,JVCL,[empty],[empty],up to v3.4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Python Tools for Visual Studio,Microsoft,2.2.6<ref></ref>,2017-01-13,Windows,[empty],Windows Forms,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PythonAnywhere,PythonAnywhere LLP,[empty],[empty],Web-based,[empty],HTML,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SlickEdit,SlickEdit,21,October 2016,Windows  Linux  macOS  Solaris  AIX  HP-UX,C++,Qt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SourceLair,SourceLair  Limited.,[empty],[empty],Web-based,[empty],HTML,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spyder,Carlos Cordoba and Contributors,3.3.2,2018-11-24,Cross-platform,[empty],PyQt  PySide,[empty],2.7,3.4 - 3.7,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Stani's Python Editor,Stani Michiels,0.8.4h,2008-02-14,Cross-platform,[empty],wxPython,[empty],[empty],[empty],(with winpdb),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Thonny,Aivar Annamaa and contributors,3.0.8,2018-11-16,Windows  Linux  macOS,[empty],Tkinter,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Understand,SciTools,4.0,2015-04-01,Windows  Linux  macOS  Solaris  other Unix,[empty],HTML,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Visual Studio Code,Microsoft,1.26.1,2018-08-16,Linux  Microsoft Windows  macOS,JavaScript,HTML,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Wing,Wingware,6.1.3,2019-01-11,Windows  Linux  macOS,[empty],Qt5 with PyQt,[empty],[empty],[empty],(also remote  multi-threaded  and multi-process debugging),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

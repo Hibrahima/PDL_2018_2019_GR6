@@ -1,23 +1,24 @@
-,C  C++,Java,C#,VB  VBScript,Delphi  Pascal,Ada,D,IDL,Access,Fortran
-Ddoc,,,,,,,,,,
-Document! X,C++/CLI only,,,,,,,,,
-Doxygen,,,,with Plugin</ref>}},with Plugin,,Partial,,,
-Epydoc,,,,,,,,,,
-Haddock,,,,,,,,,,
-HeaderDoc,,,,,,,,,,
-Imagix 4D,,,,,,,,,,
-Javadoc,,,,,,,,,,
-JSDoc,,,,,,,,,,
-JsDoc Toolkit,,,,,,,,,,
-Natural Docs,Partial,Partial,,Partial,Partial,Partial,,,,Partial
-NDoc,,,,,,,,,,
-perldoc,,,,,,,,,,
-phpDocumentor,,,,,,,,,,
-pydoc,,,,,,,,,,
-RDoc,Partial,,,,,,,,,
-ROBODoc,,,,,,,,,,
-Sphinx,,with Plugin,,,,with Plugin,,,,with Plugin
-Visual Expert,,,,,,,,,,
-VSdocman,,,,,,,,,,
-YARD,,,,,,,,,,
-,C  C++,Java,C#,VB  VBScript,Delphi  Pascal,Ada,D,IDL,Access,Fortran
+[empty],C  C++,Java,C#,VB  VBScript,Delphi  Pascal,Ada,D,IDL,Access,Fortran
+Ddoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Document! X,C++/CLI only,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Doxygen,[empty],[empty],[empty],with Plugin</ref>}},with Plugin,[empty],Partial,[empty],[empty],[empty]
+Epydoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Haddock,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HeaderDoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Imagix 4D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Javadoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JSDoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JsDoc Toolkit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Natural Docs,Partial,Partial,[empty],Partial,Partial,Partial,[empty],[empty],[empty],Partial
+NDoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+pdoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+perldoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+phpDocumentor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+pydoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RDoc,Partial,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ROBODoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sphinx,[empty],with Plugin,[empty],[empty],[empty],with Plugin,[empty],[empty],[empty],with Plugin
+Visual Expert,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VSdocman,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+YARD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[empty],C  C++,Java,C#,VB  VBScript,Delphi  Pascal,Ada,D,IDL,Access,Fortran

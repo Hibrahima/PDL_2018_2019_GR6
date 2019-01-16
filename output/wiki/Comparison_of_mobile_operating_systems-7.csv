@@ -1,25 +1,26 @@
 +Browser
-Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
-Default web browser/engine,Blink,WebKit,Trident (EdgeHTML after 10),WebKit,WebKit,Gecko<ref name="jolla-browser-engine"></ref>,QtWebEngine (based on Blink)
-Major web browser available,Chrome for Android  Opera  Firefox  Microsoft Edge,Safari  Chrome for iOS  Opera Mini  Firefox  Microsoft Edge,Internet Explorer  Opera Mini  UC Browser  Microsoft Edge,BlackBerry 10 Browser  Opera Mini,Tizen Browser (Based on UC Browser),Sailfish Browser (Firefox)  Webcat (WebKit)  Web Pirate (WebKit)  others via Android (Firefox  Chrome  Opera),Morph Browser
-Browser extensions,No<ref>FAQ - Google Chrome </ref> 3rd party software<ref>Find and install Add-ons on Firefox for Android | Firefox for Android Help </ref>,<ref>Ten Best iOS 8 Safari Extensions For iPhone And iPad To Enhance Your Web Browsing Experience </ref>,No  3rd party software<ref>Windows 10 Mobile finally gets a browser with extensions - MSPoweruser </ref>,,,
-Browser direct Internet connection (increased resilience to outages),,,,,<ref></ref> 7.1 and older route through BlackBerry Internet Service  direct browsing supported over WiFi,,?,?
-Browser undo close tab,<ref>How to reopen a closed tab in Chrome for Android - CNET </ref>,<ref>The Quick & Easy Secret to Reopen Accidentally Closed Tabs in iOS 8's Safari </ref>,,,,
-Browser keeps windows open on shutdown or crash,Google Chrome<ref></ref> but not on the deprecated AOSP browser<ref></ref>,,,Opens dialog for choosing which websites to restore after crash  option to restore all sites after restart,,
-Browser keeps windows open when cleaning cookies,,<ref></ref>,,,?,
-Browser search engine options,Many<ref></ref>,Bing  Google  Yahoo! Search  DuckDuckGo,Bing  Google support removed on some markets on 8.1 GDR1+<ref>Windows Phone 8.1 GDR1 update removes Google search in some markets | Digit.in </ref><br /> W10M: Many,Bing  Google  Yahoo  User Defined,Bing  Google  Yahoo! Search,Bing  Google  Yahoo  Yandex. Baidu  DuckDuckGo  StartPage  Searx  ixquick  Swisscows  Qwant  Seznam  Hulbee via openrepos<ref>[]</ref>
-Browser find on page,<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,,<ref>Search in browser </ref>
-Browser/email save images,,<ref></ref>,<ref></ref>,,?,
-Browser/email save PDFs,,<ref name="iPhoneTips">Apple – iPhone – Tips and Tricks . Apple.com. Retrieved on 2012-07-03.</ref>,<ref></ref>,,,
-Browser save audio/video,,<ref></ref>,<ref name="windowappreviews.com"></ref>,,,
-Browser save page,, Google Chrome 55+<ref>Chrome for Android now lets you download webpages and read them offline </ref>,: Offline Reading List;<ref name="iOS 6: All the New Features Coming Soon to Your iPhone and iPad">iOS 6: All the New Features Coming Soon to Your iPhone and iPad . Gizmodo.com (2012-06-11). Retrieved on 2012-07-03.</ref> 3rd party software<ref>App Store – Instapaper . Itunes.apple.com (2012-06-02). Retrieved on 2012-07-03.</ref>,<ref>Microsoft's new browser includes Cortana and offline reading </ref>,<ref></ref>,,?
-Browser save any file,, Chrome for Android.,. Iphone Active (2011-12-02). Retrieved on 2012-07-03.</ref>)}};<ref>Downloading and uploading files through Safari iOS . Ask Different (2011-09-22). Retrieved on 2015-09-13.</ref>,<ref name="windowappreviews.com"/>,,?,
-Browser force enable zoom,, not working anymore on Android 4.4<ref>Android Issue 62801: KitKat WebView no longer allows force enable zoom </ref>,<ref>How to Re-Enable Zoom for Websites That Block It in Safari for Your iPhone </ref>,, via accessibility settings,,via accessibility settings,?,?,?
-Browser text reflow<ref>Browser Text Reflow – WP7 Internet Explorer vs Android . Youtube.com (2011-12-07). Retrieved on 2012-07-03.</ref>,, removed on Android 4.4<ref></ref><ref>Text Reflow Removed From WebViews In KitKat  Probably Not Coming Back </ref>,<ref name="iOS5Safari"></ref><ref name="InsideiOS5Safari">Inside Apple's iOS 5: Safari Reader  private browsing  tabs on iPad . Appleinsider.com (2011-06-07). Retrieved on 2012-07-03.</ref> 3rd party browsers on prior versions<ref>iOS browsers that allow font scaling and text reflow . 456 Berea Street (2011-01-05). Retrieved on 2012-07-03.</ref>,,<ref></ref> 10+ Only in reader mode,,
-Browser Reader Mode,No <ref></ref> 3rd party software<ref></ref><ref></ref>,<ref name="iOS5Safari"/><ref name="InsideiOS5Safari"/>,<ref></ref>,<ref></ref>,,<ref>Browser reader mode - together.jolla.com </ref>
-Browser file upload,<ref></ref>,<br />6-8: Limited,,<ref name="http://docs.blackberry.com/en/developers/deliverables/11844/Feature_forms_513051_11.jsp"></ref>,,<ref>Add file upload functionality to web browser </ref>
-Browser form navigation,<ref></ref>,<ref></ref>,,<ref name="http://docs.blackberry.com/en/developers/deliverables/11844/Feature_forms_513051_11.jsp"/>,?,?,?
-Browser private browsing mode,<ref>Android updates guide: All the features of every version . Reviews.cnet.co.uk. Retrieved on 2012-07-03.</ref> or with Chrome for Android,<ref></ref>,<ref name="blogs.windows.com"/>,<ref></ref>,,<ref>Private mode in web browser </ref>
-Offline web apps,<ref>iphone – Android Offline Webapp Resources – Stack Overflow . Stackoverflow.com. Retrieved on 2012-07-03.</ref>,<ref>How to create offline webapps on the iPhone | The CSS Ninja – All things CSS  JavaScript & HTML . Thecssninja.com. Retrieved on 2012-07-03.</ref><ref>Safari Web Content Guide: Configuring Web Applications . Developer.apple.com. Retrieved on 2012-07-03.</ref><ref>Apple – Web apps . Apple.com. Retrieved on 2012-07-03.</ref>,?,?,,?
-HTTP Live Streaming,<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,,{{?}}<ref>HLS in sailfish </ref>
-WebRTC,<ref>Chrome 29 for Android is out: WebRTC and Web Audio support  improved scrolling  and new color picker for Web forms </ref>,<ref></ref>,,Yes (beta),,
+Feature
+Default web browser/engine
+Major web browser available
+Browser extensions
+Browser direct Internet connection (increased resilience to outages)
+Browser undo close tab
+Browser keeps windows open on shutdown or crash
+Browser keeps windows open when cleaning cookies
+Browser search engine options
+Browser find on page
+Browser/email save images
+Browser/email save PDFs
+Browser save audio/video
+Browser save page
+Browser save any file
+Browser force enable zoom
+Browser text reflow<ref>Browser Text Reflow – WP7 Internet Explorer vs Android . Youtube.com (2011-12-07). Retrieved on 2012-07-03.</ref>
+Browser Reader Mode
+Browser file upload
+Browser form navigation
+Browser private browsing mode
+Offline web apps
+HTTP Live Streaming
+WebRTC
+[added]

@@ -1,8 +1,7 @@
-Preprocessing  Compilation and Packaging,Java,C#
-Namespaces,
-File contents,
-Packaging,
-Classes/assembly search path,,<ref></ref><ref></ref>
-Conditional compilation,; but see Apache Ant<ref></ref>
-Custom errors/warnings,; AnnotationProcessor
-Explicit regions,
+Threading and Synchronization,Java,C#
+Threads,[empty],[added]
+Thread pool,[empty],[added]
+Task-based parallelism,<ref>Fork-join framework included with Java version 7. </ref>,<ref></ref>
+Semaphores,[empty],[added]
+Monitors,[empty],[added]
+Thread-local variables,[empty],; ThreadStaticAttribute and ThreadLocal<T> class

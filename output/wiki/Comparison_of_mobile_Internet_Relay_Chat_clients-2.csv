@@ -1,13 +1,13 @@
 Client,CTCP,DCC,IPv6,SSL,TLS,OCSP,CRL
-AndroidChat,,,,,,,
-Mobile Colloquy,,,,,,,
-fIRC,,,,,,,
-jmIrc,,,,,,,
-k-IRC,,,,,,,
-Virca,,,,,,,
-wIRC,,,,,,,
-WLIrc,,,,,,,
-Yaaic,<ref>Does not reply to any CTCP message as of version 1.1.</ref>,,,,,,
-Simple IRC,,,,,,,
-zsIRC,,,,,,,
+AndroidChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mobile Colloquy,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+fIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+jmIrc,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+k-IRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Virca,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+wIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WLIrc,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Yaaic,<ref>Does not reply to any CTCP message as of version 1.1.</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Simple IRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+zsIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Client,CTCP,DCC,IPv6,SSL,TLS,OCSP,CRL

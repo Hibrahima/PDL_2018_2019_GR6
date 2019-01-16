@@ -1,10 +1,10 @@
 Other software,GUI,CLI,Other,Programming language,Based on
-jDCbot,No,No,No,Java,
-Net::DirectConnect,No,No,No,Perl,
-FlowLib,No,No,No,C#,
-DC-hublink,Yes,No,No,Visual Basic,
-Hub-Link,Yes,No,No,Visual Basic,
-MyIrcDcLinks,Yes,No,No,Delphi,
-NetChatLink,Yes,No,No,Delphi,
-Kitty,Unknown,Unknown,Unknown,C#,
+jDCbot,No,No,No,Java,[empty]
+Net::DirectConnect,No,No,No,Perl,[empty]
+FlowLib,No,No,No,C#,[empty]
+DC-hublink,Yes,No,No,Visual Basic,[empty]
+Hub-Link,Yes,No,No,Visual Basic,[empty]
+MyIrcDcLinks,Yes,No,No,Delphi,[empty]
+NetChatLink,Yes,No,No,Delphi,[empty]
+Kitty,Unknown,Unknown,Unknown,C#,[empty]
 Other software,GUI,CLI,Other,Programming language,Based on

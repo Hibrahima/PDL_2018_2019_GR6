@@ -1,23 +1,23 @@
 Name,macOS,Windows,Cygwin,BSD,Linux,Solaris,Java,OpenVMS,z/OS,AIX,HP-UX,iOS,Android,Maemo,Windows Phone
-AbsoluteTelnet,,,,,,,,,,,,,,,
-Bitvise,,,,,,,,,,,,,,,
-Cisco CLI Analyzer,,,,,,,,,,,,,,,
-ConnectBot,,,,,,,,,,,,,,,
-CRAX Commander,,,,,,,,,,,,,,,
-Dropbear,,,,,,,{{?}},{{?}},{{?}},,,,,,
-eSSH Client,,,{{?}},,,,{{?}},{{?}},{{?}},,,,,,
-GSW ConnectBot,,,,,,,,,,,,,,,
-lsh,,,,,,,{{?}},{{?}},{{?}},,,,,,
-OpenSSH,,,,,,,{{?}},,,,,,,,
-PACManager,,,,,,,,,,,,,,,
-PuTTY,,,{{?}},,,,,{{?}},{{?}},,,,,,
-SecureCRT,,,,,,,,,,,,,,,
-SmartFTP,,,,,,,,,,,,,,,
-SSH Tectia Client/ConnectSecure,,,,,,,,,,,,,,,
-Tera Term,,,,,,,,,,,,,,,
-TN3270 Plus,,,,,,,,,,,,,,,
-TtyEmulator,,,,,,,,,,,,,,,
-WinSCP,,,,,,,,,,,,,,,
-Xshell,,,,,,,,,,,,,,,
-ZOC,,,,,,,,,,,,,,,
+AbsoluteTelnet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bitvise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cisco CLI Analyzer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ConnectBot,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CRAX Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dropbear,[empty],[empty],[empty],[empty],[empty],[empty],{{?}},{{?}},{{?}},[empty],[empty],[empty],[empty],[empty],[empty]
+eSSH Client,[empty],[empty],{{?}},[empty],[empty],[empty],{{?}},{{?}},{{?}},[empty],[empty],[empty],[empty],[empty],[empty]
+GSW ConnectBot,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+lsh,[empty],[empty],[empty],[empty],[empty],[empty],{{?}},{{?}},{{?}},[empty],[empty],[empty],[empty],[empty],[empty]
+OpenSSH,[empty],[empty],[empty],[empty],[empty],[empty],{{?}},[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PACManager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PuTTY,[empty],[empty],{{?}},[empty],[empty],[empty],[empty],{{?}},{{?}},[empty],[empty],[empty],[empty],[empty],[empty]
+SecureCRT,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SmartFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SSH Tectia Client/ConnectSecure,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tera Term,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TN3270 Plus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TtyEmulator,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinSCP,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xshell,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZOC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Name,OS X,Windows,Cygwin,BSD,Linux,Solaris,Java,OpenVMS,z/OS,AIX,HP-UX,iOS,Android,Maemo,Windows Phone

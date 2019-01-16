@@ -1,14 +1,14 @@
 ADC client,GUI,CLI,WebUI,Programming language,Based on
-AirDC++,,,,C++,StrongDC++
-AirDC++ Web Client,,,,C++  JavaScript,AirDC++
-ApexDC++,,,,C++  Lua,StrongDC++
-DC++,,,,C++,
-Jucy,,,,Java,
-LinuxDC++,,,,C++,DC++
-EiskaltDC++,,,,C++  Lua,DC++
-FlylinkDC++,,,,C++,StrongDC++  DC++  ApexDC speed mode
-RSX++,,,,C++  Lua,StrongDC++
-TKDC++,,,,C++  Lua,StrongDC++  DC++
-StrongDC++,,,,C++,DC++
-ncdc,,,,C,
+AirDC++,[empty],[empty],[empty],C++,StrongDC++
+AirDC++ Web Client,[empty],[empty],[empty],C++  JavaScript,AirDC++
+ApexDC++,[empty],[empty],[empty],C++  Lua,StrongDC++
+DC++,[empty],[empty],[empty],C++,[empty]
+Jucy,[empty],[empty],[empty],Java,[empty]
+LinuxDC++,[empty],[empty],[empty],C++,DC++
+EiskaltDC++,[empty],[empty],[empty],C++  Lua,DC++
+FlylinkDC++,[empty],[empty],[empty],C++,StrongDC++  DC++  ApexDC speed mode
+RSX++,[empty],[empty],[empty],C++  Lua,StrongDC++
+TKDC++,[empty],[empty],[empty],C++  Lua,StrongDC++  DC++
+StrongDC++,[empty],[empty],[empty],C++,DC++
+ncdc,[empty],[empty],[empty],C,[empty]
 ADC client,GUI,CLI,WebUI,Programming language,Based on

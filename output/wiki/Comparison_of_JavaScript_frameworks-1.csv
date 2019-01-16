@@ -1,22 +1,23 @@
 Framework,Version compared,Size,License,Source language
-AngularJS,1.5.0,(minified & compressed),,JavaScript
-Backbone.js,1.2.1,(Packed and gzipped),,JavaScript
-Dojo,1.10.4,Variable. Base size: (minified & gzipped)  (minified)  (uncompressed)<ref>Dojo Base </ref>,,JavaScript + HTML
-Ember.js,1.7.0,(minified & gzipped)  (minified)  (uncompressed),,JavaScript
+Angular,7,(minified & compressed),[empty],TypeScript
+AngularJS,1.5.0,(minified & compressed),[empty],JavaScript
+Backbone.js,1.2.1,(Packed and gzipped),[empty],JavaScript
+Dojo,1.10.4,Variable. Base size: (minified & gzipped)  (minified)  (uncompressed)<ref>Dojo Base </ref>,[empty],JavaScript + HTML
+Ember.js,1.7.0,(minified & gzipped)  (minified)  (uncompressed),[empty],JavaScript
 Enyo,2.0.1,(core gzipped),</ref>}},JavaScript
-Ext JS,4.2,,GPL & Commercial <ref></ref>,JavaScript
-Google Web Toolkit,2.7.0,Variable,,Java
-jQuery (library),1.9.1,(minified & gzipped)  (minified)  (uncompressed),,JavaScript
+Ext JS,4.2,[empty],GPL & Commercial <ref></ref>,JavaScript
+Google Web Toolkit,2.7.0,Variable,[empty],Java
+jQuery (library),1.9.1,(minified & gzipped)  (minified)  (uncompressed),[empty],JavaScript
 jQWidgets,3.9.1,(minified)  (uncompressed),Creative Commons Attribution-NonCommercial 3.0 and Commercial<ref></ref>,JavaScript  HTML  CSS
-Knockout,3.4.0,58 KB minified / 280 KB (development mode),,JavaScript
-MooTools,1.6.0,,JavaScript
-React (JavaScript library),16.1.1 November 28  2017,,JavaScript
+Knockout,3.4.0,58 KB minified / 280 KB (development mode),[empty],JavaScript
+MooTools,1.6.0,Variable;  <ref></ref> Variable;  <ref></ref> (uncompressed)<ref></ref>,[empty],JavaScript
+React (JavaScript library),16.1.1 November 28  2017,react.production.min.js 6.41KB react-dom.production.min.js 92.4KB redux v3.7.2 2KB Total: 100.81KB,[empty],JavaScript
 SAP OpenUI5,1.44.9,20.8MB (1.34.7 runtime  minified  zipped) 6.8MB(1.34.7 runtime mobile  minified  zipped) 52.1MB (1.34.7 SDK  zipped),<ref>https://github.com/SAP/openui5/ OpenUI5 on GitHub</ref>,JavaScript
-Prototype & script. aculo.us<ref name="addon">script.aculo.us is an add-on to Prototype.</ref>,Prototype: 1.7.3 script.aculo.us: 1.9.0,,,JavaScript
-qooxdoo,5.0.1,Variable  starting at (gzipped),,JavaScript
+Prototype & script. aculo.us<ref name="addon">script.aculo.us is an add-on to Prototype.</ref>,Prototype: 1.7.3 script.aculo.us: 1.9.0,[empty],[empty],JavaScript
+qooxdoo,5.0.1,Variable  starting at (gzipped),[empty],JavaScript
 SmartClient & SmartGWT,SmartClient: 11.1 SmartGWT: 6.1,(gzipped).,LGPL & Commercial,Server: Java Client: Java (Smart GWT) or Javascript (SmartClient) or XML (both)
-SproutCore,1.11.2,(gzipped).,,JavaScript
-Vue.js,2.1.10,,JavaScript
+SproutCore,1.11.2,(gzipped).,[empty],JavaScript
+Vue.js,2.1.10,26 kB (minified & gzipped) 71 kB (minified) <ref></ref> 219 kB (uncompressed) <ref></ref>,[empty],JavaScript
 Wakanda,9,Variable,GPL3 (framework)  AGPL (server) & Commercial,JavaScript + HTML + CSS
 Webix,4.1,188 kB (gzipped),GPL & Commercial,JavaScript
 ZK,8.0.1,Variable,LGPL & GPL & ZOL,XML + Java (JavaScript optional)

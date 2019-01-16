@@ -1,7 +1,8 @@
-,Trident,Gecko,WebKit,KHTML,Presto,Prince XML,Antenna House
-XML namespace<ref group="spec"></ref>,,,,,,rowspan="2",
-xml:id<ref group="spec"></ref>,,<ref group="g"></ref>,,,,
-XML Events<ref group="spec"></ref>,,,,,,,
-XInclude<ref group="spec"></ref>,,<ref group="g"></ref>,,,,,
-XML Fragment Interchange<ref group="spec"></ref>,,,,,,,
-Associating CSS,,,,,,,
+[empty],Trident,Gecko,WebKit,KHTML,Presto,Prince XML,Antenna House
+XML namespace<ref group="spec"></ref>,[empty],[empty],[empty],[empty],[empty],rowspan="2",[empty]
+xml:id<ref group="spec"></ref>,[empty],<ref group="g"></ref>,[empty],[empty],[empty],[empty],[added]
+XML Events<ref group="spec"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XInclude<ref group="spec"></ref>,[empty],<ref group="g"></ref>,[empty],[empty],[empty],[empty],[empty]
+XML Fragment Interchange<ref group="spec"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Associating CSS,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added]

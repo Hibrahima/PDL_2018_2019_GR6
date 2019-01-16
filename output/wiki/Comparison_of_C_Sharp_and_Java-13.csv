@@ -1,10 +1,2 @@
 Java,C#
-<source lang=Java>    public int addOne(final int x) {
-       x++;            // ERROR: a final variable cannot be reassigned
-       return x;
-   }
-    public ArrayList addOne(final ArrayList list) {
-       list.add(1);    // OK: it is still possible to modify a
-                       // final (reference type) variable
-       return list;
-   }</source> || style="text-align: center;" | no C# language equivalent
+<source lang=Java>    public int addOne(final int x) {        x++;            // ERROR: a final variable cannot be reassigned        return x;    }     public ArrayList addOne(final ArrayList list) {        list.add(1);    // OK: it is still possible to modify a                        // final (reference type) variable        return list;    }</source> || style="text-align: center;" | no C# language equivalent,[added]

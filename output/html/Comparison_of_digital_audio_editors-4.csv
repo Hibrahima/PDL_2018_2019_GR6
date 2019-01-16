@@ -1,4 +1,4 @@
-,OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
+[empty],OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
 Acoustica,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,W64
 Ardour,No[2],No[3],Unknown,Yes,Unknown,Unknown,Yes,Unknown,No,Yes,W64
 Audacity,No,No,No,Yes,Yes,Yes,Yes,No,Yes,Yes,AMR
@@ -11,21 +11,21 @@ Diamond Cut ART,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,
 Digital Performer,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,SDII (native)
 Ecasound,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
 FL Studio,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Import,Yes,XI  REX  REX2
-GarageBand,No,No,Yes[4],Unknown,Yes,Yes,Unknown,Unknown,No,No,
+GarageBand,No,No,Yes[4],Unknown,Yes,Yes,Unknown,Unknown,No,No,[empty]
 Goldwave,Unknown,Unknown,Unknown,Yes,Yes,Unknown,Yes,Unknown,Yes,Yes,Windows Media Audio  AU  Monkey's Audio  VOX  mat  snd  voc
 Harrison Mixbus,No,No,Yes,Yes,Unknown,Unknown,Yes,Unknown,No,Yes,AIFC  NeXT AU/SND  Headerless RAW  PAF  IFF/SVX  Sphere Nist WAV  IRCAM SF  VOC  W64  MAT4  MAT5  PVF  Fasttracker 2 XI  HMM Tool Kit HTK  CAF  SD2
-,OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
-Jokosher,No,No,No,Yes,Yes,Unknown,Yes,Unknown,Unknown,Unknown,
+[empty],OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
+Jokosher,No,No,No,Yes,Yes,Unknown,Yes,Unknown,Unknown,Unknown,[empty]
 Kristal,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
 Live,No,No,Yes,Yes,Import,Yes,Yes,Yes,Yes,Yes,SDII (Mac OS X Only)
 LMMS,Unknown,Unknown,Yes,Yes,Yes,Unknown,Yes,Unknown,Yes,Yes,AU  DS  RAW  SPX  VOC. Can also open .flp files
-Logic Express/Studio,Partial,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,Yes,Yes,
-Mixcraft,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,
-mp3DirectCut,No,No,No,No,Yes,No,No,No,No,No,
-MuLab,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,
+Logic Express/Studio,Partial,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,Yes,Yes,[empty]
+Mixcraft,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,[empty]
+mp3DirectCut,No,No,No,No,Yes,No,No,No,No,No,[empty]
+MuLab,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,[empty]
 MusE,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
 N-Track,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,WMA  EDL  WAV64
-Nuendo,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,
+Nuendo,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,[empty]
 NU-Tech,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
 Podium,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
 Pro Tools,Yes[5],Yes[5],Yes,Yes,Yes,Import,Import,Yes (7.4),Yes,No,SDII (Mac OS X Only)
@@ -33,9 +33,9 @@ Qtractor,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,CAF  HTK  IFF/8SVX  MAT4/5  PAF  PV
 REAPER,Partial,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,APE  BWF  MOOG  W64  WavPack
 Reason,No,No,Yes,Yes,Import,Import,No,Yes,Yes,No,SF2  ReFill
 Record,No,No,Yes,Yes,No,No,No,Yes,Yes,No,SF2  ReFill
-,OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
+[empty],OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
 Renoise,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,MP4  MP4A  CAF  SFZ
-RiffWorks,No,No,No,Export,No,No,Export,Yes,No,No,
+RiffWorks,No,No,No,Export,No,No,Export,Yes,No,No,[empty]
 Rosegarden,No,No,Yes[6],Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Csound  Mup  MuxicXML  h2song[7]
 Samplitude,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,WMA  RealAudio
 SONAR,Yes,No,Yes,Yes,Yes,Yes,Import,Yes,No,Yes,W64  CAF  SDII  AU
@@ -47,9 +47,9 @@ SpectraLayers,Unknown,Unknown,Unknown,Yes,Yes,Yes,Yes,Unknown,Yes,Yes,.caf  .ala
 Studio One,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,OpenTL  BWF  RF64  PreSonus Capture Session  Steinberg Cubase Track Archive  Steinberg Sequel Project  Kristal Audio Engine Project[8]
 Sweep,No,No,No,Yes,Yes,No,Yes,No,Yes,Yes,Various versions of WAV (integer  floating point  GSM  and compressed formats); Microsoft PCM  A-law and u-law formats; AIFC and RIFX; various AU/SND formats (Sun/NeXT  Dec AU  G721 and G723 ADPCM); RAW header-less PCM files; Amiga IFF/8SVX/16SV PCM files; Ensoniq PARIS (.PAF); Apple's Core Audio Format (CAF) and others.
 Total Recorder,No,No,No,No,Yes,No,Yes,No,No,Yes,PCM (uncompressed)  WMA  Monkey's Audio (APE).
-Tracktion,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,
+Tracktion,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,[empty]
 Traverso,No,No,Unknown,Yes,Yes,Unknown,Yes,Unknown,No,Yes,WavPack
 WaveLab,No,No,Controllers,Yes,Yes,Yes,Yes,No,Yes,Yes,AU  MP2  RAW
 WavePad,No,No,Import,Yes,Yes,Yes,Yes,No,Yes,Yes,import midi  Sun AU  MPEG4 audio  GSM  RAW  Dialogic VOX  AMR Narrowband  Musepack  Monkey's Audio Codec  others
 WaveSurfer,No,No,No,Yes,Import,No,With plugin,No,Yes,No,Import: AU  CSL  SD Export: AU
-,OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
+[empty],OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others

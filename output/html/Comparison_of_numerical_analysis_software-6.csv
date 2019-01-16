@@ -1,4 +1,4 @@
-,Windows,macOS,Linux,BSD,Unix,DOS,Android
+[empty],Windows,macOS,Linux,BSD,Unix,DOS,Android
 ALGLIB,Yes,Yes,Yes,Yes,Yes,No,Yes
 GNU Scientific Library,Yes,Yes,Yes,Yes,Yes,No,Yes
 ILNumerics,Yes,Yes,Yes,Yes,Yes,No,No

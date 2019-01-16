@@ -1,8 +1,8 @@
 Feature,Windows XP,Windows Vista,Windows 7,Windows 8,Windows 10
-Windows Defender,,,,,
-Windows Firewall,,,,,
-Windows Security Center,,,,,
-BitLocker Drive Encryption,,,,,
-Parental controls,,,,,
-User Account Control,,,,,
-Data Execution Prevention,,,,,
+Windows Defender,[empty],[empty],[empty],[empty],[empty]
+Windows Firewall,[empty],[empty],[empty],[empty],[empty]
+Windows Security Center,[empty],[empty],[empty],[empty],[empty]
+BitLocker Drive Encryption,[empty],[empty],[empty],[empty],[empty]
+Parental controls,[empty],[empty],[empty],[empty],[empty]
+User Account Control,[empty],[empty],[empty],[empty],[empty]
+Data Execution Prevention,[empty],[empty],[empty],[empty],[empty]

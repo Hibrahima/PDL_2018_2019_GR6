@@ -1,8 +1,9 @@
 DDC,LCC,Description
+[added],[added],[added]
 000,QA71-90,Computer science  knowledge and general works
 001,A,knowledge
 002,Z4-659,The book
-003,,Systems
+003,[empty],Systems
 004,QA(subrange),Data processing & computer science
 005,QA(subrange),Computer programming  programs & data
 006,QA(subrange),Special computer methods
@@ -246,16 +247,16 @@ DDC,LCC,Description
 623,UG1–620,Military engineering
 623,VM,Nautical engineering
 624,TA,Civil engineering
-,TG,Bridge Engineering
+[empty],TG,Bridge Engineering
 625,TF,Engineering of railways
 625,TE,Engineering of highways
 627,TC1–978,Hydraulic engineering
 628,TD,Sanitary & engineering
 628,TD159–168,Municipal engineering
 629,T,Other branches of Engineering
-,TK,Electrical Engineering  electronics  nuclear engineering
-,TL,Motor vehicles  Aeronautics  Astronautix
-,TP,Chemical Technology
+[empty],TK,Electrical Engineering  electronics  nuclear engineering
+[empty],TL,Motor vehicles  Aeronautics  Astronautix
+[empty],TP,Chemical Technology
 630,S,Agriculture
 631,S1–972,Techniques  equipment  materials
 632,SB599–990.5,Plant injuries  diseases  pests
@@ -408,7 +409,7 @@ DDC,LCC,Description
 230,BT,Doctrinal Theology
 240–260,BV,Practical Theology
 280,BX,Christian Denominations
-,C,Auxiliary Sciences of History (General)
+[empty],C,Auxiliary Sciences of History (General)
 909,CB,History of Civilization
 930.1,CC,Archaeology
 929.1 – 929.3,CD,Diplomatics. Archives. Seals
@@ -425,33 +426,33 @@ DDC,LCC,Description
 330.9,HC,Economic history and conditions
 331–338,HD,Industries. Land use. Labor
 649.1–641.7,HQ,The family. Marriage. Women
-,HT,Communities. Classes. Races
+[empty],HT,Communities. Classes. Races
 364,HV,Social pathology. Social and public welfare. Criminology
 335,HX,Socialism. Communism. Anarchism
-,J,General legislative and executive papers
+[empty],J,General legislative and executive papers
 320,JA,Political science (General)
 320.5,JC,Political theory
-,JJ,Political institutions and public administration (North America)
+[empty],JJ,Political institutions and public administration (North America)
 320.973,JK,Political institutions and public administration (United States)
 320.971,JL,Political institutions and public administration (Canada  Latin America  etc.)
 320.94,JN,Political institutions and public administration (Europe)
 320.95–320.969,JQ,Political institutions and public administration (Asia  Africa  Australia  Pacific Area  etc.)
-,JV,Colonies and colonization. Emigration and immigration. International migration
-,KB,Religious law in general. Comparative religious law. Jurisprudence
-,KD,Law of the United Kingdom  Ireland  America. North America
+[empty],JV,Colonies and colonization. Emigration and immigration. International migration
+[empty],KB,Religious law in general. Comparative religious law. Jurisprudence
+[empty],KD,Law of the United Kingdom  Ireland  America. North America
 340.971,KE,Law of Canada
 340.973,KF,Law of United States
-,KG,Law of Latin America – Mexico and Central America/West Indies. Caribbean area
-,KH,Law of South America
+[empty],KG,Law of Latin America – Mexico and Central America/West Indies. Caribbean area
+[empty],KH,Law of South America
 340.94,KJ–KK,Law of Europe
 340.95–340.969,KL–KW,Law of Asia and Eurasia  Africa  Pacific Area  and Antarctica
 370.9,LA,History of education
 370.1,LB,Theory and practice of education
-,LC,Special aspects of education
+[empty],LC,Special aspects of education
 378.73–378.79,LD,Individual educational institutions – United States
 378.8,LE,Individual educational institutions – America (except United States)
 378.4,LF,Individual educational institutions – Europe
 378.5–378.6,LG,Individual educational institutions – Asia  Africa  Indian Ocean islands  Australia  New Zealand  Pacific islands
 378,LH,College and school magazines and papers
-,LJ,Student fraternities and societies  United States
-,LT,Textbooks
+[empty],LJ,Student fraternities and societies  United States
+[empty],LT,Textbooks

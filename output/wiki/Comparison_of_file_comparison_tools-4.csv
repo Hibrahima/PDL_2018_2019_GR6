@@ -1,27 +1,27 @@
 Name,ZIP support,FTP support,SFTP support,Version Control browsing,Patch creation,Patch application,Patch preview,Unicode support,XML-aware
-Beyond Compare,,,,,,,,,
-Compare++,,,,,,,,,
-diff,,,,,,with patch,with patch,,
-diff3,,,,,,,,,
-Eclipse (compare),,,,CVS  Subversion  Git  Mercurial  Baazar,,,,,
-Ediff,,,,<ref>gnu.org Support-for-Version-Control</ref>,,,,,
-ExamDiff Pro,<ref>through a plug-in</ref>,<ref>through a plug-in</ref>,,,,,,,
-Far Manager (compare),,,,,,,,,
-fc,,,,,,,,,
-FileMerge (aka opendiff),,,,,,,,,
-Guiffy SureMerge,,,,,,,,<ref>UTF8  UTF16  MBCS  SJIS  over 150 file encoding and character set formats</ref>,
-IntelliJ IDEA (compare),,,,,,,,,
-jEdit JDiff plugin,,,,,,,,,
-Kompare,,,,,,,,,
-Lazarus Diff,,,,,,,,,
-Meld,,,,,,,,,
-Notepad++ (compare),,,,,,,,,
-Perforce P4Merge,,,,,,,,,
-Pretty Diff,,,,,,,,,
-Tkdiff,,,,,,,,,
-Total Commander (compare),,,,,,,,,
-vimdiff,,,,,,,,,
-WinDiff,,,,,,,,,
-WinMerge,,,,</ref> Subversion <ref></ref> Visual Source Safe  Rational ClearCase<ref></ref>}},,,,,
-UCC,,,,,,,,,
+Beyond Compare,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Compare++,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+diff,[empty],[empty],[empty],[empty],[empty],with patch,with patch,[empty],[empty]
+diff3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Eclipse (compare),[empty],[empty],[empty],CVS  Subversion  Git  Mercurial  Baazar,[empty],[empty],[empty],[empty],[empty]
+Ediff,[empty],[empty],[empty],<ref>gnu.org Support-for-Version-Control</ref>,[empty],[empty],[empty],[empty],[empty]
+ExamDiff Pro,<ref>through a plug-in</ref>,<ref>through a plug-in</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Far Manager (compare),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+fc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FileMerge (aka opendiff),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Guiffy SureMerge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>UTF8  UTF16  MBCS  SJIS  over 150 file encoding and character set formats</ref>,[empty]
+IntelliJ IDEA (compare),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+jEdit JDiff plugin,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Kompare,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Lazarus Diff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Meld,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Notepad++ (compare),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Perforce P4Merge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pretty Diff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tkdiff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Total Commander (compare),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+vimdiff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinDiff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinMerge,[empty],[empty],[empty],</ref> Subversion <ref></ref> Visual Source Safe  Rational ClearCase<ref></ref>}},[empty],[empty],[empty],[empty],[empty]
+UCC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Name,ZIP support,FTP support,SFTP support,Version Control browsing,Patch creation,Patch application,Patch preview,Unicode support,XML-aware

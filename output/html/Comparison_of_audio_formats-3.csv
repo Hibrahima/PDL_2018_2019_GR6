@@ -21,8 +21,8 @@ HVXC,Speech,8 kHz,2  4 kbit/s,36 ms,Yes,Yes,No,No
 iLBC,Block Independent LPC,8 kHz,13.33  15.20 kbit/s,25  40 ms,Yes,No,No,No
 iSAC,Transform coding,16  32 kHz,10–52 kbit/s,33  63 ms,Yes,Yes,No,No
 MP3 (MPEG-1  2  2.5 Audio Layer III),MDCT  Hybrid Subband,8  11.025  12  16  22.05  24  32  44.1  48 kHz,8  16  24  32  40  48  56  64  80  96  112  128  144  160  192  224  256  288  320 kbit/s,>100 ms,Yes,Yes,Yes: Dual  Mid/Side  Intensity,No
-MPEG-1 Audio Layer II (MP2),Subband,32  44.1  48 kHz,32  48  56  64  80  96  112  128  160  192  224  256  320  384 kbit/s,,Yes,Yes: but decoders are not required to support it,Yes: Dual  Intensity,No
-MPEG-2 Audio Layer II (MP2),Subband,16  22.05  24 kHz[53][54],8  16  24  32  40  48  56  64  80  96  112  128  144  160 kbit/s[53],,Yes,Yes: but decoders are not required to support it,Yes,Yes: up to 5 full range audio channels and an LFE-channel with MPEG Multichannel
+MPEG-1 Audio Layer II (MP2),Subband,32  44.1  48 kHz,32  48  56  64  80  96  112  128  160  192  224  256  320  384 kbit/s,[empty],Yes,Yes: but decoders are not required to support it,Yes: Dual  Intensity,No
+MPEG-2 Audio Layer II (MP2),Subband,16  22.05  24 kHz[53][54],8  16  24  32  40  48  56  64  80  96  112  128  144  160 kbit/s[53],[empty],Yes,Yes: but decoders are not required to support it,Yes,Yes: up to 5 full range audio channels and an LFE-channel with MPEG Multichannel
 Musepack,Subband,32  37.8  44.1  48 kHz,20–350 kbit/s,?,No,Yes,Yes,Yes: Up to 8 channels
 Opus,LP  MDCT,8–48 kHz,6–510 kbit/s,5–66.5 ms,Yes,Yes,Yes,Yes: Up to 255 channels[55]
 RealAudio,MDCT,Varies (see article),Varies (see article),Varies,Yes,Yes,Yes,Yes: Up to 6 channels

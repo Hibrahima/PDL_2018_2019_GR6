@@ -54,7 +54,7 @@ public class WikiExtractorTest {
 	public void testComparison_of_PythonLangage() throws IOException, UrlNotFoundException {
 		Document doc = WikiRunner.getDocument("fr", "Python_(langage)");
 		Elements tables = extractor.extractTables(doc, Constants.FR_BASE_WIKIPEDIA_URL + "Python_(langage)");
-		assertEquals(4, tables.size());
+		assertEquals(3, tables.size());
 	}
 	
 	

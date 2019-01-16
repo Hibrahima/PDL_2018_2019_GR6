@@ -1,26 +1,51 @@
-File system,Host OS,Online grow,Offline grow,Online shrink,Offline shrink
-Btrfs<ref> SUSE|url=https://www.suse.com/products/server/technical-information/|website=www.suse.com|accessdate=28 April 2018|language=en}}</ref>,Linux,,,,
-ext2<ref name="unix.com"></ref>,Linux,,,,
-ext3<ref name="unix.com"/>,Linux,,,,
-ext4<ref name="unix.com"/>,Linux,,,,
-NOVA,Linux,,,,
-FAT16 / FAT16B / FAT16X,misc.,,<ref name="libparted">With software based on GNU Parted</ref>,,<ref name="libparted" />
-FAT32 / FAT32X,misc.,,<ref name="libparted" />,,<ref name="libparted" />
-F2FS<ref>https://git.kernel.org/cgit/linux/kernel/git/jaegeuk/f2fs-tools.git/</ref>,Linux,,,,
-HFS+,Linux,,,,
-HFS+,macOS,,,,
-JFS<ref></ref>,Linux,,,,
-JFS2,AIX,,,,
-Lustre<ref name="wiki-faq-old"></ref>,Linux,,,,
-NILFS<ref></ref>,Linux,,,,
-NTFS<ref></ref>,Linux,,,,
-NTFS,Windows,,,,
-APFS,macOS,,,,
-ZFS,misc.,,,,
-Reiser4<ref></ref>,Linux,,,,
-ReiserFS<ref></ref>,Linux,,,,
-XFS<ref></ref>,Linux,,,,
-ReFS,Windows,,,,
-UFS2<ref></ref>,FreeBSD,(FreeBSD 10.0-RELEASE or later),,,
-HAMMER,DragonflyBSD,,,,
-SquashFS,Linux,,,,
+File system,Tail packing,Transparent compression,Block suballocation,Allocate-on-flush,Extents,Variable file block size,Sparse files,Copy on write,Trim support
+DECtape,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BeeGFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Level-D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+APFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref><ref></ref>
+Version 6 Unix file system (V6FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 7 Unix file system (V7FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FAT12,[empty],[empty],(only inside of Stacker 3/4 and DriveSpace 3 compressed volumes<ref name="DMSDOS"></ref>),[empty],(only inside of compressed volumes)<ref name="CVF814"/>,[empty],(only inside of compressed volumes)<ref name="CVF808"/>,[empty],(Linux)
+FAT16 / FAT16B / FAT16X,[empty],[empty],(only inside of Stacker 3/4 and DriveSpace 3 compressed volumes<ref name="DMSDOS"/>),[empty],(only inside of compressed volumes)<ref name="CVF814"></ref>,[empty],(only inside of compressed volumes)<ref name="CVF808"></ref>,[empty],(Linux)
+FAT32 / FAT32X,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(Linux)
+GFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HPFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NTFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(NT 6.1 + newer)
+HFS Plus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(macOS)
+FFS,[empty],[empty],8:1,[empty],[empty],[empty],[empty],[empty],[empty]
+UFS1,[empty],[empty],8:1,[empty],[empty],[empty],[empty],[empty],[empty]
+UFS2,[empty],[empty],8:1,[empty],[empty],[empty],[empty],[empty],<ref>https://svnweb.freebsd.org/base?view=revision&revision=216796</ref><ref>https://www.freebsd.org/cgi/man.cgi?query=newfs&sektion=8&manpath=FreeBSD+8.4-RELEASE</ref>
+LFS,[empty],[empty],8:1,[empty],[empty],[empty],[empty],[empty],[empty]
+ext,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xiafs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NOVA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+F2FS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>
+Lustre,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NILFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReiserFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Reiser4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],, on request<ref></ref>,(Linux)
+JFS,[empty],only in JFS1 on AIX<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],(Linux)
+QFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(Haiku)
+NSS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NWFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ODS-5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VxFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UDF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fossil,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(FreeBSD  illumos)
+Btrfs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ISO 9660,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rock Ridge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Joliet ("CDFS"),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SquashFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+File system,Tail packing,Transparent compression,Block suballocation,Allocate-on-flush,Extents,Variable file block size,Sparse files,Copy on write,Trim support

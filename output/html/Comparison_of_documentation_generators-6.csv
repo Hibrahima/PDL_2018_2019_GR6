@@ -1,4 +1,4 @@
-,Text,Binary
+[empty],Text,Binary
 Ddoc,Yes,No
 Document! X,Yes,Yes
 Doxygen,Yes,No
@@ -12,6 +12,7 @@ JsDoc Toolkit,Yes,No
 mkd,Yes,No
 Natural Docs,Yes,No
 NDoc,No,Yes
+pdoc,Yes,No
 perldoc,Yes,No
 phpDocumentor,Yes,No
 pydoc,Yes,No
@@ -21,4 +22,4 @@ Sphinx,Yes,No
 Visual Expert,Yes,Yes
 VSdocman,Yes,No
 YARD,Yes,No
-,Text,Binary
+[empty],Text,Binary

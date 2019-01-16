@@ -1,9 +1,9 @@
 Kernel name,Linux,Darwin,Windows NT,FreeBSD,NetBSD,Solaris,OSF/1,Amiga Unix,SunOS,BSD/OS,IBCS2 systems,IRIX,Ultrix,NDIS,SVR4
-FreeBSD kernel,<ref name="freebsd-compat">Linux emulation in FreeBSD - 2 A look inside...</ref>,,,,,,,,,,,,,<ref name="freebsd-compat"/>,<ref name="freebsd-compat"/>
-Linux kernel,,,,,,,,,,,,,,,
-NetBSD kernel,<ref name="netbsd-compat">NetBSD Binary Emulation</ref>,? http://hcpnet.free.fr/applebsd.html?,? http://pkgsrc.se/emulators/peace?,<ref name="netbsd-compat"/>,,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,http://netbsd-soc.sourceforge.net/projects/ndis/,
-OpenBSD kernel,,,,,,,,,,,,,,,
-Windows NT kernel,,,,,,,,,,,,,,,
-ReactOS kernel,,,,,,,,,,,,,,,
-XNU,,,,,,,,,,,,,,,
+FreeBSD kernel,<ref name="freebsd-compat">Linux emulation in FreeBSD - 2 A look inside...</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="freebsd-compat"/>,<ref name="freebsd-compat"/>
+Linux kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NetBSD kernel,<ref name="netbsd-compat">NetBSD Binary Emulation</ref>,? http://hcpnet.free.fr/applebsd.html?,? http://pkgsrc.se/emulators/peace?,<ref name="netbsd-compat"/>,[empty],<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,<ref name="netbsd-compat"/>,http://netbsd-soc.sourceforge.net/projects/ndis/,[empty]
+OpenBSD kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Windows NT kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReactOS kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XNU,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Kernel name,Linux,Darwin,Windows NT,FreeBSD,NetBSD,Solaris,OSF/1,Amiga Unix,SunOS,BSD/OS,IBCS2 systems,IRIX,Ultrix,NDIS,SVR4

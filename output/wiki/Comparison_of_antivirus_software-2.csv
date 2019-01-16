@@ -1,22 +1,23 @@
 Company,Software,On-demand scan,On-access scan,Heuristics,CloudAV,Firewall,IDS,IPS,Email Security,AntiSpam,Web protection,Live-Update,Support,License,Price,First release,Country of origin,Notes
-Avast,Avast Mac Security,,,,,,,,,,,,,,,2012,Czech Republic
-Avira Operations,Avira Free Mac Security,,,,,,,,,,,,,,,2011,Germany
-Bitdefender,Bitdefender Antivirus for Mac,,,,,,,,,,,,,,,2011,Romania
-Cisco,Clam AntiVirus,,,,,,,,,,,,,,,2000,United States
-Comodo Group,Comodo Mac Security,,,,,,,,,,,,,,,2012,United States
-Dr. Web,Dr. Web Anti-virus for Mac OS X,,,,,,,,,,,,,,,2012,Russia
-ESET,ESET Cyber Security,,,,,,,,,,,,,,,2011,Slovakia
-ESET,ESET Cyber Security Pro,,,,,<ref> How do I create a firewall rule to allow/disallow use of a certain application in ESET Cyber Security Pro?  ESET Knowledgebase</ref>,,,,,,,,,,2013,Slovakia
-F-Secure,F-Secure Anti-Virus for Mac,,,,,,,,,,,,,,,2008,Finland,Third-party antivirus engine (Bitdefender + F-PROT)
-Intego,VirusBarrier,,,,,,,,,,,,,,,1997,United States
-Intego,Mac Internet Security,,,,,,,,,,,,,,,2000,United States
-Kaspersky Lab,Kaspersky Internet Security,,,,,,,,,,,,,,,2010,Russia,Banned by USG
-Panda Security,Panda Antivirus for Mac,,,,,,,,,,,,,,,2008,Spain
-Quick Heal,Quick Heal Total Security for Mac,,,,,,,,,,,,,,,2012,India
-Sophos,Sophos Anti-Virus for Mac,,,,,,,,,,,,,,,2010,United Kingdom
-Symantec,Symantec Endpoint Protection,,,,,,,,,,,,,,,2012,United States
-Symantec,Norton Security Standard for Mac,,,,,,,,,,,,,,,2012,United States
-Trend Micro,Titanium Internet Security for Mac,,,,,,,,,,,,,,,2011,Japan
-Webroot,SecureAnywhere AntiVirus,,,,,,,,,,(only in Apple Safari),,,,,2012,United States
-Webroot,SecureAnywhere Internet Security Plus and Complete,,,,,,,,,,(only in Apple Safari),,,,,2012,United States
+Avast,Avast Mac Security,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2012,Czech Republic,[added]
+Avira Operations,Avira Free Mac Security,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2011,Germany,[added]
+Bitdefender,Bitdefender Antivirus for Mac,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2011,Romania,[added]
+Cisco,Clam AntiVirus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2000,United States,[added]
+Comodo Group,Comodo Mac Security,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2012,United States,[added]
+Dr. Web,Dr. Web Anti-virus for Mac OS X,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2012,Russia,[added]
+ESET,ESET Cyber Security,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2011,Slovakia,[added]
+ESET,ESET Cyber Security Pro,[empty],[empty],[empty],[empty],<ref> How do I create a firewall rule to allow/disallow use of a certain application in ESET Cyber Security Pro?  ESET Knowledgebase</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2013,Slovakia,[added]
+F-Secure,F-Secure Anti-Virus for Mac,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2008,Finland,Third-party antivirus engine (Bitdefender + F-PROT)
+Intego,VirusBarrier,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],1997,United States,[added]
+Intego,Mac Internet Security,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2000,United States,[added]
+Kaspersky Lab,Kaspersky Internet Security,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2010,Russia,Banned by USG
+Malwarebytes,Malwarebytes for Mac,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Free,2006,United States,4 vulnerabilities found by Project Zero in 2016
+Panda Security,Panda Antivirus for Mac,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2008,Spain,[added]
+Quick Heal,Quick Heal Total Security for Mac,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2012,India,[added]
+Sophos,Sophos Anti-Virus for Mac,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2010,United Kingdom,[added]
+Symantec,Symantec Endpoint Protection,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2012,United States,[added]
+Symantec,Norton Security Standard for Mac,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2012,United States,[added]
+Trend Micro,Titanium Internet Security for Mac,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],2011,Japan,[added]
+Webroot,SecureAnywhere AntiVirus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(only in Apple Safari),[empty],[empty],[empty],[empty],2012,United States,[added]
+Webroot,SecureAnywhere Internet Security Plus and Complete,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(only in Apple Safari),[empty],[empty],[empty],[empty],2012,United States,[added]
 Company,Software,On-demand scan,On-access scan,Heuristics,CloudAV,Firewall,IDS,IPS,Email Security,AntiSpam,Web protection,Live-Update,Support,License,Price,First release,Country of origin,Notes

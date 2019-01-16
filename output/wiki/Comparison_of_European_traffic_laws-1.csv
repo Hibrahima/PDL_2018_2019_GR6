@@ -1,47 +1,47 @@
 Country code,Country,Speed limit on motorway (km/h),Speed limit on dual carriageway (km/h),Speed limit on single carriageway (km/h),Speed limit in urban area,Permitted alcohol level (%),Toll roads,Seatbelt required,Minimum child age (front seat),Triangle required,First aid required,Fire extinguisher required,Spare bulb required,Minimum driver's age,Tow rope required
-A,,130,100,100,50,0.05,,,,,,,,17
-AL,,110,,90,40,0,,<ref></ref>,,,,,,18
-AND,,,,90,50,0.05,,,10,,,,,18
-B,,120,90,90 (70 in Flanders),50,0.05,<ref></ref>,,12,,,,,18 (17 with supervision of parents)
-BG,,140,,90,50,0.05,,,10,,,,,18
-BIH,,130,100,80,50,0.03,,<ref></ref>,12,,,,,18
-BY,,110,,90,60,<0.03,,<ref></ref>,12,,,,,18
-CH,,120,,80 (100 on limited-access roads),50,0.05,,,,,,,,18
-CY,,100,,80,50,0.05,,,12,,,,,18
-CZ,,130 (urban 80),110 (urban 80),90,50,0 (tolerated 0.02),,,,,,,,18 (17 for B1 cars)
-D,<ref></ref>,no (130 recommended),no (130 recommended),100 (no / 130 recommended with two or more lanes per direction),50,0.05,<ref name="Germany EUroadlegal"></ref>,,,,,,,18 (17 with supervision of >30 years old driver)
-DK,,130,,80,50,0.05,,,,,,,,18
-E,,120,120,100,50,0.05,,,,,,,,18
-EST,,120,110,90,50,0,,,,,,,,18 (16 with supervision of a person with 2+ years of driving experience)
-F,,130 (rain/wet 110),110 (rain/wet 100),90 (rain/wet 80),50,0.05,,,10,,,,,18 (15 with supervision of a person with 5+ years of driving experience)
-FIN,,120<ref name="nb">The general speed limit on Finnish motorways is the same as the general speed limit outside built-up areas (80 km/h). The maximum speed that can be allowed is 120 km/h.</ref>,,80,50,0.05,,,3,,,,,18
-FL,,,,80,50,0.08,,,,,,,,18
-GB,,112,112,97,48,,,,,,,,17
-GR,,130,,90,50,0.05,,,12,,,,,18
-H,,130,110,90,50,0,,,12,,,,,18 (17 with supervision of someone with 10+ years drive-experience)
-HR,,130,110,80,50,0.05,,,12,,,,,18
-I,,130,110,90,50,0.05,,,12,,,,,18
-IRL,,120,,100,50,0.05,<ref></ref>,,,,,,,17
-IS,,,,90,50,0.05,,,14,,,,,17
-L,,130,,90,50,0.05,,,11,,,,,18
-LT,,130,110,90,50,0.04,,,12,,,,,18
-LV,,,90,90,50,0.05,,,,,,,,18
-M,,,,80,50,0.08,,<ref></ref>,11,,,,,18
-MC,,,,,50,0.05,,,10,,,,,18
-MD,,,,90,60,0,,,12,,,,,18
-MK,,130,,80,60,0.05,,,12,,,,,18
-MNE,,120,,80,50,0.05,,,12,,,,,
-N,,110,,80,50,0.02,,,,,,,,18
-NL,,130,100,80,50,0.05,<ref> (There are two tunnels  in which you have to pay toll)</ref>,,12,,,,,18 (17 with supervision of someone with 5+ years drive-experience)
-PT,,120,100,90,50,0.05,,,12,,,,,18
-PL,,140,100 (120 on expressways),90 (100 on expressways),50 (5–23)  60 (23–5),0.02,,,,,,,,18 (16 for B1 cars)
-RO,,130,100 (110 on expressways),90,50,0,,,12,,,,,18 (16 for B1 cars)
-RSM,,,,70,50,0.08,,,12,,,,,18
-RUS,<ref></ref>,110,,90,60,0,,,12,,,,,18
-S,,110,,70,50,0.02,,,,,,,,18
-SK,,130,130,90,50,0,,,12,,,,,18
-SLO,,130,100,90,50,0.05,,,12,,,,,18
-SRB,,120,100,80,50,0.03,,,12,,,,,18
-TR,,120,110 (cars) / 90 (rest),90,50,0.05,,,10,,,,,18
-UA,,130,110,90,50,0,,,12,,,,,18
+A,[empty],130,100,100,50,0.05,[empty],[empty],[empty],[empty],[empty],[empty],[empty],17,[added]
+AL,[empty],110,[empty],90,40,0,[empty],<ref></ref>,[empty],[empty],[empty],[empty],[empty],18,[added]
+AND,[empty],[empty],[empty],90,50,0.05,[empty],[empty],10,[empty],[empty],[empty],[empty],18,[added]
+B,[empty],120,90,90 (70 in Flanders),50,0.05,<ref></ref>,[empty],12,[empty],[empty],[empty],[empty],18 (17 with supervision of parents),[added]
+BG,[empty],140,[empty],90,50,0.05,[empty],[empty],10,[empty],[empty],[empty],[empty],18,[added]
+BIH,[empty],130,100,80,50,0.03,[empty],<ref></ref>,12,[empty],[empty],[empty],[empty],18,[added]
+BY,[empty],110,[empty],90,60,<0.03,[empty],<ref></ref>,12,[empty],[empty],[empty],[empty],18,[added]
+CH,[empty],120,[empty],80 (100 on limited-access roads),50,0.05,[empty],[empty],[empty],[empty],[empty],[empty],[empty],18,[added]
+CY,[empty],100,[empty],80,50,0.05,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+CZ,[empty],130 (urban 80),110 (urban 80),90,50,0 (tolerated 0.02),[empty],[empty],[empty],[empty],[empty],[empty],[empty],18 (17 for B1 cars),[added]
+D,<ref></ref>,no (130 recommended),no (130 recommended),100 (no / 130 recommended with two or more lanes per direction),50,0.05,<ref name="Germany EUroadlegal"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],18 (17 with supervision of >30 years old driver),[added]
+DK,[empty],130,[empty],80,50,0.05,[empty],[empty],[empty],[empty],[empty],[empty],[empty],18,[added]
+E,[empty],120,120,100,50,0.05,[empty],[empty],[empty],[empty],[empty],[empty],[empty],18,[added]
+EST,[empty],120,110,90,50,0,[empty],[empty],[empty],[empty],[empty],[empty],[empty],18 (16 with supervision of a person with 2+ years of driving experience),[added]
+F,[empty],130 (rain/wet 110),110 (rain/wet 100),90 (rain/wet 80),50,0.05,[empty],[empty],10,[empty],[empty],[empty],[empty],18 (15 with supervision of a person with 5+ years of driving experience),[added]
+FIN,[empty],120<ref name="nb">The general speed limit on Finnish motorways is the same as the general speed limit outside built-up areas (80 km/h). The maximum speed that can be allowed is 120 km/h.</ref>,[empty],80,50,0.05,[empty],[empty],3,[empty],[empty],[empty],[empty],18,[added]
+FL,[empty],[empty],[empty],80,50,0.08,[empty],[empty],[empty],[empty],[empty],[empty],[empty],18,[added]
+GB,[empty],112,112,97,48,0.08 (0.05 Scotland),[empty],[empty],[empty],[empty],[empty],[empty],[empty],17,[added]
+GR,[empty],130,[empty],90,50,0.05,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+H,[empty],130,110,90,50,0,[empty],[empty],12,[empty],[empty],[empty],[empty],18 (17 with supervision of someone with 10+ years drive-experience),[added]
+HR,[empty],130,110,80,50,0.05,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+I,[empty],130,110,90,50,0.05,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+IRL,[empty],120,[empty],100,50,0.05,<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],17,[added]
+IS,[empty],[empty],[empty],90,50,0.05,[empty],[empty],14,[empty],[empty],[empty],[empty],17,[added]
+L,[empty],130,[empty],90,50,0.05,[empty],[empty],11,[empty],[empty],[empty],[empty],18,[added]
+LT,[empty],130,110,90,50,0.04,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+LV,[empty],[empty],90,90,50,0.05,[empty],[empty],[empty],[empty],[empty],[empty],[empty],18,[added]
+M,[empty],[empty],[empty],80,50,0.08,[empty],<ref></ref>,11,[empty],[empty],[empty],[empty],18,[added]
+MC,[empty],[empty],[empty],[empty],50,0.05,[empty],[empty],10,[empty],[empty],[empty],[empty],18,[added]
+MD,[empty],[empty],[empty],90,60,0,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+MK,[empty],130,[empty],80,60,0.05,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+MNE,[empty],120,[empty],80,50,0.05,[empty],[empty],12,[empty],[empty],[empty],[empty],[empty],[added]
+N,[empty],110,[empty],80,50,0.02,[empty],[empty],[empty],[empty],[empty],[empty],[empty],18,[added]
+NL,[empty],130,100,80,50,0.05,<ref> (There are two tunnels  in which you have to pay toll)</ref>,[empty],12,[empty],[empty],[empty],[empty],18 (17 with supervision of someone with 5+ years drive-experience),[added]
+PT,[empty],120,100,90,50,0.05,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+PL,[empty],140,100 (120 on expressways),90 (100 on expressways),50 (5–23)  60 (23–5),0.02,[empty],[empty],[empty],[empty],[empty],[empty],[empty],18 (16 for B1 cars),[added]
+RO,[empty],130,100 (110 on expressways),90,50,0,[empty],[empty],12,[empty],[empty],[empty],[empty],18 (16 for B1 cars),[added]
+RSM,[empty],[empty],[empty],70,50,0.08,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+RUS,<ref></ref>,110,[empty],90,60,0,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+S,[empty],110,[empty],70,50,0.02,[empty],[empty],[empty],[empty],[empty],[empty],[empty],18,[added]
+SK,[empty],130,130,90,50,0,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+SLO,[empty],130,100,90,50,0.05,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+SRB,[empty],120,100,80,50,0.03,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
+TR,[empty],120,110 (cars) / 90 (rest),90,50,0.05,[empty],[empty],10,[empty],[empty],[empty],[empty],18,[added]
+UA,[empty],130,110,90,50,0,[empty],[empty],12,[empty],[empty],[empty],[empty],18,[added]
 Country code,Country,Speed limit on motorway (km/h),Speed limit on dual carriageway (km/h),Speed limit on single carriageway (km/h),Speed limit in urban area,Permitted alcohol level (%),Toll roads,Seatbelt required,Minimum child age (front seat),Triangle required,First aid required,Fire extinguisher required,Spare bulb required,Minimum driver's age,Tow rope required

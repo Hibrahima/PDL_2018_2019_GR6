@@ -1,37 +1,37 @@
 BitTorrent client,GUI,Remote,CLI,Other,Programming language,Based on,IPv6,µTP
-ABC,,,,,Python,BitTornado,<ref name="ipv6announcebug" group=Note>Announcements to the tracker are made via IPv6 if possible  but the client doesn't listen on the respective port.</ref>,
-Acquisition,,,,,Objective-C  Cocoa,Limewire,,
-BitComet,,,<ref>BitComet command line interface see BitComet Command Line – BitComet Wiki</ref>,,C++,-,,
-BitLet,,,,,Java Applet,-,,
-BitLord,,,,,Python  C++,libtorrent (Rasterbar),,
-BitTornado,,,,,Python,BitTorrent,,
-BitTorrent 5  Mainline,,,,,Python,-,,
-BitTorrent 6,,,,,C++,µTorrent,,
-BitTyrant,,,,,Java  SWT,Azureus,,
-Blog Torrent,,,,,,,,
-Deluge,,,,,Python  C++,libtorrent (Rasterbar),,<ref></ref>
-FlashGet,,,,,,,,
-Free Download Manager,,,,,C++,libtorrent (Rasterbar),,
-Frostwire,,,,,Java,libtorrent (Rasterbar),,<ref></ref>
-KGet,,,<ref group=Note>Qdbus interface</ref>,,C++,-,,
-KTorrent,,,,,C++,-,,<ref></ref>
-LimeWire,,,,,Java,libtorrent (Rasterbar),,
-Meerkat Bittorrent Client,,,,,C++,-,,
-Miro,,,,,C++,libtorrent (Rasterbar),,
-MLDonkey,,<ref>http://mldonkey.sourceforge.net/Gui</ref>,,,OCaml,-,,
-µTorrent,,,<ref></ref>,<ref></ref>,C++<ref></ref>,-,<ref></ref>,<ref></ref>
-OneSwarm,,,,,Java,Azureus,,
-Opera 12,,,,,C++,-,,
-qBittorrent,,,,,Python  C++,libtorrent (Rasterbar),,<ref></ref>
-rTorrent,,,,,C++,libTorrent (Rakshasa),<ref></ref>,
-Shareaza,,,,,C++,-,,
-SymTorrent,,,,,,,,
-Tixati,,,,,C++,-,,<ref></ref>
-Tomato Torrent,,,,,Cocoa,BitTorrent,,
-Tonido,,,,,C++,libtorrent (Rasterbar),,
-TorrentFlux,,,,,PHP,BitTornado,,
-Transmission,,,,,C  Objective-C,-,,<ref></ref>
-Tribler,,,,,Python  C++,libtorrent (Rasterbar),,
-Vuze (formerly Azureus),,,,,Java  SWT,-,,<ref></ref>
-Xunlei,,,,</ref>}},C++,-,,
+ABC,[empty],[empty],[empty],[empty],Python,BitTornado,<ref name="ipv6announcebug" group=Note>Announcements to the tracker are made via IPv6 if possible  but the client doesn't listen on the respective port.</ref>,[empty]
+Acquisition,[empty],[empty],[empty],[empty],Objective-C  Cocoa,Limewire,[empty],[empty]
+BitComet,[empty],[empty],<ref>BitComet command line interface see BitComet Command Line – BitComet Wiki</ref>,[empty],C++,-,[empty],[empty]
+BitLet,[empty],[empty],[empty],[empty],Java Applet,-,[empty],[empty]
+BitLord,[empty],[empty],[empty],[empty],Python  C++,libtorrent (Rasterbar),[empty],[empty]
+BitTornado,[empty],[empty],[empty],[empty],Python,BitTorrent,[empty],[empty]
+BitTorrent 5  Mainline,[empty],[empty],[empty],[empty],Python,-,[empty],[empty]
+BitTorrent 6,[empty],[empty],[empty],[empty],C++,µTorrent,[empty],[empty]
+BitTyrant,[empty],[empty],[empty],[empty],Java  SWT,Azureus,[empty],[empty]
+Blog Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Deluge,[empty],[empty],[empty],[empty],Python  C++,libtorrent (Rasterbar),[empty],<ref></ref>
+FlashGet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Free Download Manager,[empty],[empty],[empty],[empty],C++,libtorrent (Rasterbar),[empty],[empty]
+Frostwire,[empty],[empty],[empty],[empty],Java,libtorrent (Rasterbar),[empty],<ref></ref>
+KGet,[empty],[empty],<ref group=Note>Qdbus interface</ref>,[empty],C++,-,[empty],[empty]
+KTorrent,[empty],[empty],[empty],[empty],C++,-,[empty],<ref></ref>
+LimeWire,[empty],[empty],[empty],[empty],Java,libtorrent (Rasterbar),[empty],[empty]
+Meerkat Bittorrent Client,[empty],[empty],[empty],[empty],C++,-,[empty],[empty]
+Miro,[empty],[empty],[empty],[empty],C++,libtorrent (Rasterbar),[empty],[empty]
+MLDonkey,[empty],<ref>http://mldonkey.sourceforge.net/Gui</ref>,[empty],[empty],OCaml,-,[empty],[empty]
+µTorrent,[empty],[empty],<ref></ref>,<ref></ref>,C++<ref></ref>,-,<ref></ref>,<ref></ref>
+OneSwarm,[empty],[empty],[empty],[empty],Java,Azureus,[empty],[empty]
+Opera 12,[empty],[empty],[empty],[empty],C++,-,[empty],[empty]
+qBittorrent,[empty],[empty],[empty],[empty],Python  C++,libtorrent (Rasterbar),[empty],<ref></ref>
+rTorrent,[empty],[empty],[empty],[empty],C++,libTorrent (Rakshasa),<ref></ref>,[empty]
+Shareaza,[empty],[empty],[empty],[empty],C++,-,[empty],[empty]
+SymTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tixati,[empty],[empty],[empty],[empty],C++,-,[empty],<ref></ref>
+Tomato Torrent,[empty],[empty],[empty],[empty],Cocoa,BitTorrent,[empty],[empty]
+Tonido,[empty],[empty],[empty],[empty],C++,libtorrent (Rasterbar),[empty],[empty]
+TorrentFlux,[empty],[empty],[empty],[empty],PHP,BitTornado,[empty],[empty]
+Transmission,[empty],[empty],[empty],[empty],C  Objective-C,-,[empty],<ref></ref>
+Tribler,[empty],[empty],[empty],[empty],Python  C++,libtorrent (Rasterbar),[empty],[empty]
+Vuze (formerly Azureus),[empty],[empty],[empty],[empty],Java  SWT,-,[empty],<ref></ref>
+Xunlei,[empty],[empty],[empty],</ref>}},C++,-,[empty],[empty]
 BitTorrent client,GUI,Web,CLI,Other,Programming language,Based on,IPv6,µTP

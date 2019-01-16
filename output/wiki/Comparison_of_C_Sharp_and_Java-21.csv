@@ -1,7 +1,10 @@
-Threading and Synchronization,Java,C#
-Threads,
-Thread pool,
-Task-based parallelism,<ref>Fork-join framework included with Java version 7. </ref>,<ref></ref>
-Semaphores,
-Monitors,
-Thread-local variables,,; ThreadStaticAttribute and ThreadLocal<T> class
+Native interoperability,Java,C#
+Cross-language interoperability,(with GraalVM  Nashorn  CORBA  JNI or JNA)<ref name="cross-plattform" />,; C# was designed for it<ref name="cross-plattform"></ref>
+External/native methods,[empty],[added]
+Marshalling,[empty],; metadata controlled
+Pointers and arithmetics,<ref></ref>,[added]
+Native types,<ref></ref>,[added]
+Fixed-size buffers,[empty],[added]
+Explicit stack allocation,[empty],[added]
+Address-of,[empty],[added]
+Object pinning (fix variable to address),[empty],[added]

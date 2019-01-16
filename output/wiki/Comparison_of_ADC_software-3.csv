@@ -1,15 +1,15 @@
 ADC hub,GUI,CLI,Other,Programming language,Based on
-ADCH++,,,,C++  Lua  Python  Ruby,
-ADCH++ GUI,,,,C++  Python,ADCH++
-DSHub,,,,Java  Python,
-FlexHub,Planned,,,Lua,
-Luadch,,,,C++  Lua,
-Luadch GUI,,,,wxLua,
-Nexthub,,,,C-Sharp,
-uhub,,,,C,
-Erlhub,,,,Erlang,
-Qhub,,,,,
-Starlet ADC Hub,,,,C,
-StarHub,,,,Java,
-RusHub,,,,C++,
+ADCH++,[empty],[empty],[empty],C++  Lua  Python  Ruby,[empty]
+ADCH++ GUI,[empty],[empty],[empty],C++  Python,ADCH++
+DSHub,[empty],[empty],[empty],Java  Python,[empty]
+FlexHub,Planned,[empty],[empty],Lua,[empty]
+Luadch,[empty],[empty],[empty],C++  Lua,[empty]
+Luadch GUI,[empty],[empty],[empty],wxLua,[empty]
+Nexthub,[empty],[empty],[empty],C-Sharp,[empty]
+uhub,[empty],[empty],[empty],C,[empty]
+Erlhub,[empty],[empty],[empty],Erlang,[empty]
+Qhub,[empty],[empty],[empty],[empty],[empty]
+Starlet ADC Hub,[empty],[empty],[empty],C,[empty]
+StarHub,[empty],[empty],[empty],Java,[empty]
+RusHub,[empty],[empty],[empty],C++,[empty]
 ADC hub,GUI,CLI,Other,Programming language,Based on

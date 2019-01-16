@@ -1,56 +1,19 @@
-Distribution,Size of media (MB),RAM use (MB),Boots from CD,Boots from DVD,Installable live CD/DVD,Installable from USB
-Arch Linux,,,,,,
-AUSTRUMI,,,,,,
-BLAG Linux and GNU,,,,,,
-Bodhi Linux,,,,,,
-CentOS,(Minimal) (DVD),,,,,
-Chakra,,,,,,
-Debian,,,,,,
-Devuan,,,,,,
-Dragora GNU/Linux-Libre,,,,,,
-dyne:bolic,,,,,,
-Fedora,,to,,,,
-Gentoo,(Minimal) (Live DVD),up to,,,,
-gNewSense<ref></ref>,,,,,,
-Grml,,to,,,,
-Guix System Distribution<ref></ref>,,,,,,
-Hyperbola GNU/Linux-libre,and,,,,,
-Knoppix CD,,to,,,,
-Knoppix DVD,,to,,,,
-LibreCMC,,,,,,
-Mandriva Linux One,,to,,,,
-Manjaro Linux,to <ref></ref>,to,,,,
-MEPIS,to,to,,,,
-Musix GNU+Linux,,,,,,
-Nanolinux,,,,,,
-openGEU,,to,,,,
-openSUSE (Not 42.1),,to,,,,
-OpenWrt,,,,,,
-Parabola GNU/Linux-libre,to,,,,,
-Pardus,to,to,,,,
-PCLinuxOS,to,to,,,,
-Pentoo,and,to,,,<ref>Pentoo Development Website </ref>,
-Porteus,,,,,,
-Puppy Linux (Slacko),,to,,,,
-Puredyne,,,,,,
-Sabayon Linux Live CD,,,,,,
-Sabayon Linux Live DVD,,,,,,
-Scientific Linux,to <ref></ref>,,,,,
-Slax,,to,,,,
-Solus,,,,,,
-SystemRescueCD,,,,,,
-SliTaz GNU/Linux,,to,,,,
-Tails,,,,,,(when run from DVD)
-Tiny Core Linux,,,,,,
-Tiny SliTaz,,,,,,
-Tor-ramdisk,,or ><ref></ref>,,,,
-Trisquel,<ref name="trisquel_download"></ref>,,,,,
-TurnKey GNU/Linux Core (base) appliance ISO,,,,,,
-Ubuntu,<ref name="ubuntu_download"></ref>,,,,,
-Ututo,,,,,,
-Edubuntu,<ref name="edubuntu_download"></ref>,,,,,
-Kubuntu,<ref name="kubuntu_download"></ref>,,,,,
-XBMC Live,,to,,,,
-Zentyal,,,,,,
-Xubuntu,<ref name="xubuntu_download"></ref>,,,,,
-Distribution,Size of media (MB),RAM use (MB),Boots from CD,Boots from DVD,Installable live CD/DVD,Installable from USB
+Distribution,Compile time buffer checks,Mandatory access control,Software executable space protection,grsecurity,RSBAC
+Alpine Linux,<ref></ref>,[empty],[empty],[empty],[empty]
+BLAG,[empty],[empty],[empty],[empty],[empty]
+Debian/Ubuntu,[empty],[empty],optional,[empty],[empty]
+Dragora GNU/Linux-Libre,[empty],[empty],[empty],[empty],[empty]
+dyne:bolic,[empty],[empty],[empty],[empty],[empty]
+Fedora,[empty],<ref></ref>,<ref></ref>,[empty],[empty]
+Gentoo,[empty],[empty],optional,[empty],[empty]
+gNewSense,[empty],[empty],[empty],[empty],[empty]
+Guix System Distribution,[empty],[empty],[empty],[empty],[empty]
+LibreCMC,[empty],[empty],[empty],[empty],[empty]
+Mandriva,[empty],[empty],[empty],[empty],[empty]
+Musix GNU+Linux,[empty],[empty],[empty],[empty],[empty]
+Parabola GNU/Linux-libre,[empty],</ref>}},[empty],[empty],[empty]
+SUSE Linux,[empty],<ref></ref>,<ref></ref>,[empty],[empty]
+Solus,[empty],[empty],[empty],[empty],[empty]
+Tor-ramdisk,[empty],[empty],[empty],[empty],[empty]
+Trisquel,[empty],[empty],[empty],[empty],[empty]
+Ututo,[empty],[empty],[empty],[empty],[empty]

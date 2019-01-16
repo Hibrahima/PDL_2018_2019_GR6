@@ -1,16 +1,16 @@
 Arrays and Collections,Java,C#
-Abstract data types,
-One-dimensional  zero-based index arrays,
-Multidimensional arrays  rectangular (single array),
-Multidimensional arrays  jagged (arrays of arrays),
-Non-zero based arrays,
-Unified arrays and collections,
-Maps/dictionaries,
-Sorted dictionaries,,<ref></ref>
-Sets,
-Sorted sets,,<ref></ref>
-Lists/vectors,
-Queues/stacks,
-Priority queue,,<ref></ref><ref></ref>
-Bags/multisets,
-Concurrency optimized collections,,<ref></ref>
+Abstract data types,[empty],[added]
+One-dimensional  zero-based index arrays,[empty],[added]
+Multidimensional arrays  rectangular (single array),[empty],[added]
+Multidimensional arrays  jagged (arrays of arrays),[empty],[added]
+Non-zero based arrays,[empty],[added]
+Unified arrays and collections,[empty],[added]
+Maps/dictionaries,[empty],[added]
+Sorted dictionaries,[empty],<ref></ref>
+Sets,[empty],[added]
+Sorted sets,[empty],<ref></ref>
+Lists/vectors,[empty],[added]
+Queues/stacks,[empty],[added]
+Priority queue,[empty],<ref></ref><ref></ref>
+Bags/multisets,[empty],[added]
+Concurrency optimized collections,[empty],<ref></ref>

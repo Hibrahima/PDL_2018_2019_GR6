@@ -1,38 +1,38 @@
 Name,HDR input (EXR  HDR  Logluv  etc.),Merging to HDR from LDR images,HDR output (EXR  HDR  Logluv  etc.),Tonemapping,Exposure fusion,Notes
-Panoweaver Standard / Professional<ref>Panoweaver features page</ref>,,,,,,
-i2Align Quickage Express / Pro<ref>i2Align online help</ref>,,*,*,,,*) Pro version only.
-Pixtra PanoStitcher,,,,,,
-Pixtra OmniStitcher,,,,,,
-QuickPHOTO<ref>HDR module for QuickPHOTO microscope software</ref>,,,,,,
-PhotoFit Harmony / Premium,,,,,,
-PanoramaPlus X4,,,,,,
-PanoramaBuilder 7.0 / PanoramaBuilder 7.0 Pro,,,,,,
-360 Panorama Professional,,,,,,
-VRstitcher Fisheye Pro,,,,,,
-COOL 360,,,,,,
-The Panorama Factory v5,,,,,
-PixMaker Lite / Home / Business,,,,,,
-PTAssembler,,,,,,Exposure fusion with TuFuse or enfuse. Automatic detection of image stacks.
+Panoweaver Standard / Professional<ref>Panoweaver features page</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+i2Align Quickage Express / Pro<ref>i2Align online help</ref>,[empty],*,*,[empty],[empty],*) Pro version only.
+Pixtra PanoStitcher,[empty],[empty],[empty],[empty],[empty],[empty]
+Pixtra OmniStitcher,[empty],[empty],[empty],[empty],[empty],[empty]
+QuickPHOTO<ref>HDR module for QuickPHOTO microscope software</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+PhotoFit Harmony / Premium,[empty],[empty],[empty],[empty],[empty],[empty]
+PanoramaPlus X4,[empty],[empty],[empty],[empty],[empty],[empty]
+PanoramaBuilder 7.0 / PanoramaBuilder 7.0 Pro,[empty],[empty],[empty],[empty],[empty],[empty]
+360 Panorama Professional,[empty],[empty],[empty],[empty],[empty],[empty]
+VRstitcher Fisheye Pro,[empty],[empty],[empty],[empty],[empty],[empty]
+COOL 360,[empty],[empty],[empty],[empty],[empty],[empty]
+The Panorama Factory v5,[empty],[empty],[empty],[empty],[empty],[added]
+PixMaker Lite / Home / Business,[empty],[empty],[empty],[empty],[empty],[empty]
+PTAssembler,[empty],[empty],[empty],[empty],[empty],Exposure fusion with TuFuse or enfuse. Automatic detection of image stacks.
 PTgui / PTgui Pro,*,*,*,*,*,Exposure fusion with enfuse or TuFuse. *) Pro version only.
-Autopano Pro / Giga / Server,,,,,,Ceased trading September 2018
-Autostitch,,,,,,
-Calico Panorama,,,,,,
-Hugin,,,,,,Exposure fusion with enfuse  automatic detection of image stacks.
-3DVista Stitcher 3.0,,,,,,
-D Joiner,,,,,,
-Panorama Maker 6,,,,,,
-Photovista Panorama,,,,,,
-PanoramaStudio,,,,,,
-Stitcher Unlimited 2009<ref>Stitcher Unlimited 2009 FAQ </ref>,,,,,,
-ADG Panorama Tools / Pro,,,,,,
-Panorama Composer 3,,,,,,
-Image Composite Editor,,,,,,Supports 16-bit camera raw input via WIC plugins
-Panorama Perfect,,,,,,
-Photoshop,,,,,,
-AIPR Lite 1,,,,*,,(*) color mapping around the seams allows to preserve the original photometric properties of the images
-Gigapan Stitch 1.0,,,,,,
-PanoramaMaker,,,,,,
-Panorama Stitcher,,,,,,
-SharpStitch,,,,,,
-Pano2VR / Pano2VR pro,,,,,,
+Autopano Pro / Giga / Server,[empty],[empty],[empty],[empty],[empty],Ceased trading September 2018
+Autostitch,[empty],[empty],[empty],[empty],[empty],[empty]
+Calico Panorama,[empty],[empty],[empty],[empty],[empty],[empty]
+Hugin,[empty],[empty],[empty],[empty],[empty],Exposure fusion with enfuse  automatic detection of image stacks.
+3DVista Stitcher 3.0,[empty],[empty],[empty],[empty],[empty],[empty]
+D Joiner,[empty],[empty],[empty],[empty],[empty],[empty]
+Panorama Maker 6,[empty],[empty],[empty],[empty],[empty],[empty]
+Photovista Panorama,[empty],[empty],[empty],[empty],[empty],[empty]
+PanoramaStudio,[empty],[empty],[empty],[empty],[empty],[empty]
+Stitcher Unlimited 2009<ref>Stitcher Unlimited 2009 FAQ </ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+ADG Panorama Tools / Pro,[empty],[empty],[empty],[empty],[empty],[empty]
+Panorama Composer 3,[empty],[empty],[empty],[empty],[empty],[empty]
+Image Composite Editor,[empty],[empty],[empty],[empty],[empty],Supports 16-bit camera raw input via WIC plugins
+Panorama Perfect,[empty],[empty],[empty],[empty],[empty],[empty]
+Photoshop,[empty],[empty],[empty],[empty],[empty],[empty]
+AIPR Lite 1,[empty],[empty],[empty],*,[empty],(*) color mapping around the seams allows to preserve the original photometric properties of the images
+Gigapan Stitch 1.0,[empty],[empty],[empty],[empty],[empty],[empty]
+PanoramaMaker,[empty],[empty],[empty],[empty],[empty],[empty]
+Panorama Stitcher,[empty],[empty],[empty],[empty],[empty],[empty]
+SharpStitch,[empty],[empty],[empty],[empty],[empty],[empty]
+Pano2VR / Pano2VR pro,[empty],[empty],[empty],[empty],[empty],[empty]
 Name,HDR input (EXR  HDR  Logluv  etc.),Merging to HDR from LDR images,HDR output (EXR  HDR  Logluv  etc.),Tonemapping,Exposure fusion,Notes

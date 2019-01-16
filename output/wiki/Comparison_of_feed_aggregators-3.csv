@@ -1,55 +1,55 @@
 Client,Pop-up,Tray notification,Browser plugin,E-mail,"newspaper"-like,Media aggregator,Notes,Downloadable attachments
-Akregator,,,(integration with konqueror),,,,KDE,
-Amarok,,,,,,,KDE,
-AOL Explorer,,,,,,,Discontinued; Feed support is available in Internet Explorer 7,
-Avant,,,,,,,Feed support is available in Internet Explorer 7,
-Awasu,,,,,,,Supports user-written plugins.,
-BlogBridge,,,,,,,,
-Canto,,,,,,,Ncurses/console based reader,
-Claws Mail,,,,,,,RSSyl plugin needed,
-CommaFeed,,,,,,,Web browser,
-Cooliris,,,,,,,Web browser plugin,
-Feed Viewer,,,,,,,,
-FeedDemon,,,,,,,Discontinued,
-Feedreader,,,,,,,,
-Flock,,,,,,,Discontinued,
-Gnus,,,,,,,Emacs-based mail and news client,
-IBM Lotus Notes,,,,,,,Studio Blog Reader is one RSS reader application for IBM Lotus Notes; Notes version 8.x introduced a native RSS reader,
-Internet Explorer,,,,,,,Feed support is available in Internet Explorer 7,
-iTunes,,,,,,,,
-Juice,,,,,,,Designed as Podcast aggregator,
-K-Meleon,,,,,,,Web browser,
-Kazehakase,,,,,,,Web browser,
-Liferea,,,,,,,,
-Mail (OS X),,,,,,,,
-Maxthon,,,,,,,Web browser,
-MediaMonkey,,,,,,,Media Player,
-Microsoft Office Outlook,,,,,,,Feed support is available in Microsoft Office Outlook 2007,
-Miro,,,,,,,Media Player,
-Mozilla Firefox,,,,,,,Web Browser,
-Mozilla Thunderbird,,,,,,,Mail Client,
-NetNewsWire,,,,,,,,
-Netscape Browser,,,,,,,Discontinued; Web browser,
-Netscape Navigator 9,,,,,,,Discontinued,
-NewsAccess,,,,,,,,
-NewsBlur,,,,,,,,
-NewsFire,,,,,,,,
-OmniWeb,,,,,,,Part of the OmniWeb browser,
-Opera Mail,,,,,,,,
-Pegasus Mail,,,,,,,Pegasus Mail can convert RSS feeds to e-mails via free add-ons,
-Rhythmbox,,,,,,,Media Player,
-RSS Bandit,,,,,,,.NET Framework based,
-RSSOwl,,,,,,,no longer support for Google Reader synchronization since version 2.2.0,
-Safari,,,,,,,Web Browser,
-Sage,,,,,,,a Firefox extension,
-SeaMonkey Mail & Newsgroups,,,,,,,Part of the SeaMonkey Internet suite,
-Songbird,,,,,,,Media Player,
-Shiira,,,,,,,Web browser,
-Sleipnir,,,,,,,Feed support is available in Internet Explorer 7,
-The Bat!,,,,,,,Mail client; rss2mail or rss2pop3 plugin needed for versions prior to 6.4; newer versions support RSS natively,
-The Old Reader,,,,,,,,
-Winamp,,,,,,,Media Player,
-Windows Live Mail,,,,,,,,
-Zimbra,,,,,,,Groupware suite,
-Zune,,,,,,,Media player,
+Akregator,[empty],[empty],(integration with konqueror),[empty],[empty],[empty],KDE,[empty]
+Amarok,[empty],[empty],[empty],[empty],[empty],[empty],KDE,[empty]
+AOL Explorer,[empty],[empty],[empty],[empty],[empty],[empty],Discontinued; Feed support is available in Internet Explorer 7,[empty]
+Avant,[empty],[empty],[empty],[empty],[empty],[empty],Feed support is available in Internet Explorer 7,[empty]
+Awasu,[empty],[empty],[empty],[empty],[empty],[empty],Supports user-written plugins.,[empty]
+BlogBridge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Canto,[empty],[empty],[empty],[empty],[empty],[empty],Ncurses/console based reader,[empty]
+Claws Mail,[empty],[empty],[empty],[empty],[empty],[empty],RSSyl plugin needed,[empty]
+CommaFeed,[empty],[empty],[empty],[empty],[empty],[empty],Web browser,[empty]
+Cooliris,[empty],[empty],[empty],[empty],[empty],[empty],Web browser plugin,[empty]
+Feed Viewer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FeedDemon,[empty],[empty],[empty],[empty],[empty],[empty],Discontinued,[empty]
+Feedreader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Flock,[empty],[empty],[empty],[empty],[empty],[empty],Discontinued,[empty]
+Gnus,[empty],[empty],[empty],[empty],[empty],[empty],Emacs-based mail and news client,[empty]
+IBM Lotus Notes,[empty],[empty],[empty],[empty],[empty],[empty],Studio Blog Reader is one RSS reader application for IBM Lotus Notes; Notes version 8.x introduced a native RSS reader,[empty]
+Internet Explorer,[empty],[empty],[empty],[empty],[empty],[empty],Feed support is available in Internet Explorer 7,[empty]
+iTunes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Juice,[empty],[empty],[empty],[empty],[empty],[empty],Designed as Podcast aggregator,[empty]
+K-Meleon,[empty],[empty],[empty],[empty],[empty],[empty],Web browser,[empty]
+Kazehakase,[empty],[empty],[empty],[empty],[empty],[empty],Web browser,[empty]
+Liferea,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mail (OS X),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Maxthon,[empty],[empty],[empty],[empty],[empty],[empty],Web browser,[empty]
+MediaMonkey,[empty],[empty],[empty],[empty],[empty],[empty],Media Player,[empty]
+Microsoft Office Outlook,[empty],[empty],[empty],[empty],[empty],[empty],Feed support is available in Microsoft Office Outlook 2007,[empty]
+Miro,[empty],[empty],[empty],[empty],[empty],[empty],Media Player,[empty]
+Mozilla Firefox,[empty],[empty],[empty],[empty],[empty],[empty],Web Browser,[empty]
+Mozilla Thunderbird,[empty],[empty],[empty],[empty],[empty],[empty],Mail Client,[empty]
+NetNewsWire,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Netscape Browser,[empty],[empty],[empty],[empty],[empty],[empty],Discontinued; Web browser,[empty]
+Netscape Navigator 9,[empty],[empty],[empty],[empty],[empty],[empty],Discontinued,[empty]
+NewsAccess,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NewsBlur,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NewsFire,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OmniWeb,[empty],[empty],[empty],[empty],[empty],[empty],Part of the OmniWeb browser,[empty]
+Opera Mail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pegasus Mail,[empty],[empty],[empty],[empty],[empty],[empty],Pegasus Mail can convert RSS feeds to e-mails via free add-ons,[empty]
+Rhythmbox,[empty],[empty],[empty],[empty],[empty],[empty],Media Player,[empty]
+RSS Bandit,[empty],[empty],[empty],[empty],[empty],[empty],.NET Framework based,[empty]
+RSSOwl,[empty],[empty],[empty],[empty],[empty],[empty],no longer support for Google Reader synchronization since version 2.2.0,[empty]
+Safari,[empty],[empty],[empty],[empty],[empty],[empty],Web Browser,[empty]
+Sage,[empty],[empty],[empty],[empty],[empty],[empty],a Firefox extension,[empty]
+SeaMonkey Mail & Newsgroups,[empty],[empty],[empty],[empty],[empty],[empty],Part of the SeaMonkey Internet suite,[empty]
+Songbird,[empty],[empty],[empty],[empty],[empty],[empty],Media Player,[empty]
+Shiira,[empty],[empty],[empty],[empty],[empty],[empty],Web browser,[empty]
+Sleipnir,[empty],[empty],[empty],[empty],[empty],[empty],Feed support is available in Internet Explorer 7,[empty]
+The Bat!,[empty],[empty],[empty],[empty],[empty],[empty],Mail client; rss2mail or rss2pop3 plugin needed for versions prior to 6.4; newer versions support RSS natively,[empty]
+The Old Reader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Winamp,[empty],[empty],[empty],[empty],[empty],[empty],Media Player,[empty]
+Windows Live Mail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zimbra,[empty],[empty],[empty],[empty],[empty],[empty],Groupware suite,[empty]
+Zune,[empty],[empty],[empty],[empty],[empty],[empty],Media player,[empty]
 Client,Pop-up,Tray notification,Browser plugin,E-mail,"newspaper"-like,Media aggregator,Notes,Downloadable attachments

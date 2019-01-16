@@ -1,23 +1,23 @@
 Store,Tracks (M),Geographic<br />restrictions,Purchase<br />Platform,FLAC,ALAC,WAV,AIFF,AAC,MP3,WMA,Vorbis,DRM,Purchase identifier,Preview (s),Trial
-7digital,<br /><ref></ref>,<br /><ref></ref>,Web  Android,,,,,kbps}},kbps}},,,,,30-60,
-Amazon Music,<ref></ref>,,Web <br />Android<ref name="amazon.co.uk"></ref>,,,,,No}},kbps}},No}},,,,,
-Bandcamp,,,Web,,,,,Yes}},Yes}},No}},,,,Full,
-Beatport,,<br /><ref></ref>,Web,,,,,,kbps}},No}},,,,,
-Bleep.com,?}},,Web,,,,,No}},kbps}},No}},,,,Full,
-CD Baby,<br /><ref></ref>,,Web,,,,,No}},kbps}},No}},,,,,
-Classical Archives,,,Web,,,,,No}},kbps}},No}},,,,,
-eMusic,<br /><ref></ref>,<br /><ref></ref>,Web<ref name="Emusic Help"></ref>,,,,,No}},kbps}},No}},,,,<br /><ref name="Emusic Help" />,
-Google Play Music,<br /><ref></ref>,<br /><ref></ref>,Web Android iOS,,,,,No}},kbps}},No}},,,,<br /><ref></ref>,
-HDtracks,?}},<ref></ref>,Web,,,,,No}},No}},No}},,,,,
-iTunes Store,<br /><ref name="appl_Appl"></ref>,<br /><ref name="iTunes Store Terms and Conditions"></ref>,Windows<br />OS X<br />iOS,,,,,kbps}},No}},No}},,,<ref></ref>,<br /><ref name="itunes music"></ref>,
-Jamendo,,,Web,,,,,No}},Yes}},No}},,,,Full,
-Juno Download,?}},<ref></ref>,Web,,,,,No}},kbps}},No}},,,,,
-Magnatune,,,Web,,,,,,,No}},,,,Full,
-MAQAM,,,Web,,,,,No}},kbps}},No}},,,,,
-mora,,,Web,,,,,kbps}},No}},No}},,,,,
-Nimbit,,,Web,,,,,No}},kbps}},No}},,,,Full + Custom,
-NoiseTrade,?}},,Web,,,,,No}},kbps}},No}},,,,Full,
-Qobuz,<ref name="Qobuz Subscriptions"></ref>,,Web  Android  iOS  Kindle  Windows 8<ref name="Qobuz About Us"></ref>,,,,,kbps}},kbps}},kbps}},,,,30-60,<ref name="Qobuz Subscriptions" />
-Supraphononline,?}},,Web,,,,,No}},kbps}},No}},,,,,
-Tidal,<br /><ref></ref>,,Web,,,,,No}},kbps}},No}},,,,,
+7digital,<br /><ref></ref>,<br /><ref></ref>,Web  Android,[empty],[empty],[empty],[empty],kbps}},kbps}},[empty],[empty],[empty],[empty],30-60,[empty]
+Amazon Music,<ref></ref>,[empty],Web <br />Android<ref name="amazon.co.uk"></ref>,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],[empty],[empty]
+Bandcamp,[empty],[empty],Web,[empty],[empty],[empty],[empty],Yes}},Yes}},No}},[empty],[empty],[empty],Full,[empty]
+Beatport,[empty],<br /><ref></ref>,Web,[empty],[empty],[empty],[empty],[empty],kbps}},No}},[empty],[empty],[empty],[empty],[empty]
+Bleep.com,?}},[empty],Web,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],Full,[empty]
+CD Baby,<br /><ref></ref>,[empty],Web,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],[empty],[empty]
+Classical Archives,[empty],[empty],Web,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],[empty],[empty]
+eMusic,<br /><ref></ref>,<br /><ref></ref>,Web<ref name="Emusic Help"></ref>,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],<br /><ref name="Emusic Help" />,[empty]
+Google Play Music,<br /><ref></ref>,<br /><ref></ref>,Web Android iOS,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],<br /><ref></ref>,[empty]
+HDtracks,?}},<ref></ref>,Web,[empty],[empty],[empty],[empty],No}},No}},No}},[empty],[empty],[empty],[empty],[empty]
+iTunes Store,<br /><ref name="appl_Appl"></ref>,<br /><ref name="iTunes Store Terms and Conditions"></ref>,Windows<br />OS X<br />iOS,[empty],[empty],[empty],[empty],kbps}},No}},No}},[empty],[empty],<ref></ref>,<br /><ref name="itunes music"></ref>,[empty]
+Jamendo,[empty],[empty],Web,[empty],[empty],[empty],[empty],No}},Yes}},No}},[empty],[empty],[empty],Full,[empty]
+Juno Download,?}},<ref></ref>,Web,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],[empty],[empty]
+Magnatune,[empty],[empty],Web,[empty],[empty],[empty],[empty],[empty],[empty],No}},[empty],[empty],[empty],Full,[empty]
+MAQAM,[empty],[empty],Web,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],[empty],[empty]
+mora,[empty],[empty],Web,[empty],[empty],[empty],[empty],kbps}},No}},No}},[empty],[empty],[empty],[empty],[empty]
+Nimbit,[empty],[empty],Web,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],Full + Custom,[empty]
+NoiseTrade,?}},[empty],Web,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],Full,[empty]
+Qobuz,<ref name="Qobuz Subscriptions"></ref>,[empty],Web  Android  iOS  Kindle  Windows 8<ref name="Qobuz About Us"></ref>,[empty],[empty],[empty],[empty],kbps}},kbps}},kbps}},[empty],[empty],[empty],30-60,<ref name="Qobuz Subscriptions" />
+Supraphononline,?}},[empty],Web,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],[empty],[empty]
+Tidal,<br /><ref></ref>,[empty],Web,[empty],[empty],[empty],[empty],No}},kbps}},No}},[empty],[empty],[empty],[empty],[empty]
 Store,Tracks (M),Geographic<br />restrictions,Purchase<br />Platform,FLAC,ALAC,WAV,AIFF,AAC,MP3,WMA,Vorbis,DRM,Purchase Identifier,Preview (s),Trial

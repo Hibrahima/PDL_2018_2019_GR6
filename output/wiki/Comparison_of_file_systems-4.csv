@@ -1,57 +1,26 @@
-File system,Hard links,Symbolic links,Block journaling,Metadata-only journaling,Case-sensitive,Case-preserving,File Change Log,Internal snapshotting / branching,XIP,Filesystem-level encryption,Data deduplication,Data checksums
-DECtape,,,,,,,,,,,,
-BeeGFS,,,,,,,,,,,,
-Level-D,,,,,,,,,,,,
-RT-11,,,,,,,,,,,,
-APFS,,,,,,,,,,,,
-Version 6 Unix file system (V6FS),,,,,,,,,,,,
-Version 7 Unix file system (V7FS),,,,,,,,,,,,
-FAT12,,,,(with TFAT12 only),,(with VFAT LFNs only),,,,(DR-DOS with SECURITY only),,
-FAT16 / FAT16B / FAT16X,,,,(with TFAT16 only),,(with VFAT LFNs only),,,,(DR-DOS with SECURITY only),,
-FAT32 / FAT32X,,,?,(with TFAT32 only),,(with VFAT LFNs only),,,,,,
-GFS,,,,,,,,,,,,
-HPFS,,,,,,,,,,,,
-NTFS,,</ref> NTFS 3.0 (Windows 2000) and higher can create junctions  which allow entire directories (but not individual files) to be mapped to elsewhere in the directory tree of the same partition (file system). These are implemented through reparse points  which allow the normal process of filename resolution to be extended in a flexible manner.}},,(2000),,,,,,,<ref></ref>,
-HFS Plus,<ref></ref>,,,,</ref> HFS Plus version 5 optionally supports case-sensitivity. However  since case-sensitivity is fundamentally different from case-insensitivity  a new signature was required so existing HFS Plus utilities would not see case-sensitivity as a file system error that needed to be corrected. Since the new signature is 'HX'  it is often believed this is a new filesystem instead of a simply an upgraded version of HFS Plus.<ref> (hasn't been updated to discuss HFSX)</ref><ref> (Very technical overview of HFS Plus and HFSX.)</ref>}},,,,,,,
-FFS,,,,,,,,,,,,
-UFS1,,,,,,,,,,,,
-UFS2,,,,<ref>https://www.mckusick.com/softdep/suj.pdf</ref>,,,,,,,,
-HAMMER,,,,,,,,,,,,
-LFS,,,,,,,,,,,,
-ext,,,,,,,,,,,,
-Xiafs,,,,,,,,,,,,
-ext2,,,,,,,,,,,,
-ext3,,,(2001),(2001),,,,,,,,
-ext4,,,,,,,,,,, experimental <ref name="note-67"></ref>,,
-NOVA,,,,,,,,,,,,
-F2FS,,,,,,,,,,, experimental <ref name="note-68"></ref>,,
-Lustre,,,,,,,,,,,,
-NILFS,,,,,,,,,,,,
-ReiserFS,,,,,,,,,,,,
-Reiser4,,,,,,,,,,,,
-OCFS,,,,,,,,,,,,
-OCFS2,,,,,,,,,,,,
-XFS,,,,,,,,,,,, experimental <ref></ref>,
-JFS,,,,(1990),,,,,,,,
-QFS,,,,,,,,,,,,
-BFS,,,,,,,,,,,,
-NSS,,,,,,,,,,,,
-NWFS,,,,,,,,,,,,
-ODS-2,,,,,,,,,,,,
-ODS-5,,,,,,,,,,,,
-UDF,,,,,,,,,,,,
-VxFS,,,,,,,,,,,,
-Fossil,,,,,,,,,,,,
-ZFS,,,,,,,,,,</ref><ref>https://github.com/zfsonlinux/zfs/pull/5769</ref>}},,
-Btrfs,,,,,,,,,,, planned  not being developed (Nov  2015)<ref></ref>,,
-Minix V1,,,,,,,,,,,,
-Minix V2,,,,,,,,,,,,
-Minix V3,,,,,,,,,,,,
-VMFS2,,,,,,,,,,,,
-VMFS3,,,,,,,,,,,,
-ReFS,,,,,,,,,,,,
-ISO 9660,,,,,,,,,,,,
-Rock Ridge,,,,,,,,,,,,
-Joliet ("CDFS"),,,,,,,,,,,,
-SquashFS,,,,,,,,,,,,
-File system,Hard links,Symbolic links,Block journaling,Metadata-only journaling,Case-sensitive,Case-preserving,File Change Log,Internal snapshotting / branching,XIP,Filesystem-level encryption,Data deduplication,Data checksums
+File system,Host OS,Online grow,Offline grow,Online shrink,Offline shrink
+Btrfs<ref> SUSE|url=https://www.suse.com/products/server/technical-information/|website=www.suse.com|accessdate=28 April 2018|language=en}}</ref>,Linux,[empty],[empty],[empty],[empty]
+ext2<ref name="unix.com"></ref>,Linux,[empty],[empty],[empty],[empty]
+ext3<ref name="unix.com"/>,Linux,[empty],[empty],[empty],[empty]
+ext4<ref name="unix.com"/>,Linux,[empty],[empty],[empty],[empty]
+NOVA,Linux,[empty],[empty],[empty],[empty]
+FAT16 / FAT16B / FAT16X,misc.,[empty],<ref name="libparted">With software based on GNU Parted</ref>,[empty],<ref name="libparted" />
+FAT32 / FAT32X,misc.,[empty],<ref name="libparted" />,[empty],<ref name="libparted" />
+F2FS<ref>https://git.kernel.org/cgit/linux/kernel/git/jaegeuk/f2fs-tools.git/</ref>,Linux,[empty],[empty],[empty],[empty]
+HFS+,Linux,[empty],[empty],[empty],[empty]
+HFS+,macOS,[empty],[empty],[empty],[empty]
+JFS<ref></ref>,Linux,[empty],[empty],[empty],[empty]
+JFS2,AIX,[empty],[empty],[empty],[empty]
+Lustre<ref name="wiki-faq-old"></ref>,Linux,[empty],[empty],[empty],[empty]
+NILFS<ref></ref>,Linux,[empty],[empty],[empty],[empty]
+NTFS<ref></ref>,Linux,[empty],[empty],[empty],[empty]
+NTFS,Windows,[empty],[empty],[empty],[empty]
+APFS,macOS,[empty],[empty],[empty],[empty]
+ZFS,misc.,[empty],[empty],[empty],[empty]
+Reiser4<ref></ref>,Linux,[empty],[empty],[empty],[empty]
+ReiserFS<ref></ref>,Linux,[empty],[empty],[empty],[empty]
+XFS<ref></ref>,Linux,[empty],[empty],[empty],[empty]
+ReFS,Windows,[empty],[empty],[empty],[empty]
+UFS2<ref></ref>,FreeBSD,(FreeBSD 10.0-RELEASE or later),[empty],[empty],[empty]
+HAMMER,DragonflyBSD,[empty],[empty],[empty],[empty]
+SquashFS,Linux,[empty],[empty],[empty],[empty]

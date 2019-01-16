@@ -1,246 +1,246 @@
 Format,Full name,Owner,Based Format,File extension,MIME type,Application,Patented
-Abc,Advanced Bitonal Compression,LEAD Technologies,,.abc,,Bitonal document and check images.<ref>Advanced Bitonal Compression</ref>,
-ADRG,ARC Digitized Raster Graphics,,,.adrg,,,
-AdobeResource,,Adobe Systems,TIFF?,,,,
-ADRI,ARC Digitized Raster Images,,,.adri,,,
-AF Design,Affinity Designer,Serif Europe,,.afdesign,,Vector graphics document for Affinity Designer. Can also be opened by Affinity Photo.,
-AF Photo,Affinity Photo,Serif Europe,,.afphoto,,Raster graphics document for Affinity Photo. Can also be opened by Affinity Designer.,
-AI,Adobe Illustrator Document,Adobe Systems,,.ai,application/illustrator  application/postscript,Adobe Illustrator files are editable using programs that support the format  such as Adobe Illustrator  Inkscape  CorelDRAW  etc.,
-Alias Pix image,,,,.pix  .matte  .mask <br />.alpha  .als,,Supported by GIMP,
-AMI,,,,.ami,,Supported by Amica Paint,
-ANI,ANI file format,Microsoft,RIFF,.ani,,Used by Microsoft Windows,
-ANIM,,Electronic Arts and Commodore Amiga,IFF,.iff  .anim,video/x-anim,,
-APNG,Animated Portable Network Graphics,Mozilla,PNG,.png,image/png,1.9 and Opera,
-Apple Icon Image,,Apple Inc.,,.icns,,Used by macOS,
-APX,,,,.apx,,Supported by Ebuyer Photo Paint,
-ART,,AOL,,.art,,,
-ART,PFS: 1st Publisher clip art,,,.art,,,
-ARTB,Artboard file format,Mapdiva  LLC,,.artb,,Vector image format; Artboard drawing files are editable using programs that support the format  such as Artboard and Ortelius,
-ASCII art,,,,.txt  .ansi  .text,text/vnd.ascii-art,Supported by GIMP,
-Authorware map,,Adobe Systems,,.aam,application/x-authorware-map,,
-Authorware seg,,Adobe Systems,,.aas,application/x-authorware-seg,,
-Authorware bin,,Adobe Systems,,.aab  .x32  .u32 <br />.vox,application/x-authorware-bin,,
-AutoCAD DXF,Drawing Interchange Format,Autodesk,,.dxf,image/vnd.dxf,,
-AWD,,,,.awd,image/awd,Used by PhotoPhilia,
-ARW,Sony Alpha RAW,Sony,TIFF,.arw,,,
-BAY,Casio RAW,Casio,,.bay,,,
-BigTIFF,,,TIFF,.btf  .tiff  .tif,image/tiff,,
-BMP,raw-data unencoded or encoded bitmap,simple colour image format  far older than Microsoft; some .bmp encoding formats developed/owned by Microsoft,,.bmp  .dib  .rle <br />.2bp (2bpp),image/x-bmp,Used by many 2D applications.,
-bmp compressor,Bit Map Compressor,,,.hpc,,,
-BLEND,resource archive (3D meshes  textures  auxiliary data),,,.blend,,native data package format of Blender,
-BPG,Better Portable Graphics,Fabrice Bellard,HEVC,.bpg,,Suggestion to replace JPEG  JavaScript decoder available<ref>http://bellard.org/bpg/</ref>,
-BRK,Brooktrout Fax,,,.brk,,,
-BSAVE,BSAVE Image,,,.BSV,,Used by IBM PC.,
-CAM,Casio CAM,Casio,JPEG,.cam,,,
-CADRG,Compressed ARC Digitized Raster Graphics,,,.cadrg,,,
-CAL,CALS raster file format,,,.cal  .cals  .ras  .dcl,,,
-Capture One RAW,,Phase One,,.cap,,,
-CIFF,Camera Image File Format,Canon,,.crw  .ciff,,,
-CR2,Canon RAW 2,Canon,TIFF,.cr2,,,
-CDR,CorelDRAW Document,Corel Corporation,,.cdr  .ccx  .cdt  .cmx,application/coreldraw,CorelDRAW files are editable using programs that support the format  such as CorelDRAW  Adobe Illustrator  Inkscape  etc.,
-CGM,Computer Graphics Metafile,,,.cgm,image/cgm,CGM files are editable using programs that support the format  such as IBM Lotus Freelance Graphics  Inkscape  etc.,
-CIN,Cineon,,,.cin,image/cineon,,
-Corel Paint Shop Pro Pattern,,,,.pat,,Supported by Corel Paint Shop Pro,
-CPC,Cartesian Perceptual Compression,Cartesian Products  Inc.,,.cpc  .cpi,image/cpi,Highly compressed raster imaging format.,
-CPKT,APP5-CPKT Format,,JPEG,.jpg  .jpe  .jpeg,image/jpeg,Used by PROSERPINE.,
-CPT,Corel Photo-Paint Image,,,.cpt,,Variant of TIFF up to and including version 6.0; proprietary as of 7.0 (1997),
-Crack Art,,Detlef Röttger & Jan Borchers,,.ca1  .ca2  .ca3,,An application on Atari ST,
-CUT,,,,.cut,,Used by DSHELL.,
-CMYK,,,,.cmyk,,,
-CMYKA,,,,.cmyka,,,
-DCS,Kodak DCS Pro RAW,Kodak,,.dcs,,,
-DCR,Digital Camera Raw,Kodak,TIFF,.dcr,,,
-DDS,DirectDraw Surface,Microsoft,,.dds,,,
-Degas,Design & Entertainment Graphic Arts System,Integral Solutions,,.pi1  .pi2  .pi3 <br />.pc1  .pc2  .pc3,,An application on Atari ST,
-DNG,Digital Negative,Adobe Systems,Compatible with ISO 12234-2  TIFF/EP<ref name="DNGspecification">Adobe: DNG Specification</ref>,.dng,,A raw image format suitable as an archival format and as the native raw format of digital cameras<ref name="DNGintromanufacturers">Adobe: Introducing the Digital Negative Specification: Information for manufacturers</ref>,No: no known intellectual property encumbrances or license requirements<ref name="CinemaDNGnoencumbrance">Adobe Labs: CinemaDNG (last bullet point)</ref>
-DIA,Dia Drawing,,XML,.dia,,Used by Dia,
-DICOM,Digital Imaging and Communications in Medicine,National Electrical Manufacturers Association,,.dcm  .dicom,application/dicom<ref name="rfc3240">RFC 3240</ref>,Numerous biomedical imaging applications<ref name="rfc3240" /> (e.g. OsiriX  XMedCon)  some general bitmap graphics applications (e.g. GIMP  Photoshop),
-DjVu,DjVu,AT&T Research,,.djvu  .djv,image/vnd.djvu,,
-Doodle,,,,.doo,,An application on Atari ST,
-DPX,Digital Picture eXchange file format,,,.dpx,image/dpx,,
-DRF,Kodak Pro Back RAW,Kodak,,.drf,,,
-Dr. Halo,,,,.cut,,,
-Encapsulated PostScript,page description/scripting language (see PostScript),Adobe,,.epi  .eps  .eps2 <br />.eps3  .epsf  .epsi <br />.ept,application/postscript,printing/publishing industry standard format,
-ECW,Enhanced Compressed Wavelet,ERDAS,,.ecw,,Wavelet image format used primarily with geo-referenced aerial and satellite imagery,
-EDG,EDGE2 Original Format,TAKABO,,.edg,,Used by EDGE2,
-EMF,Enhanced Metafile Format,Microsoft,,.emf  .emz,,Microsoft Office,
-EMF+,Enhanced Metafile Format Plus Extensions,Microsoft,,.emf  .emz,,,
-ERF,EPSON RAW,EPSON,TIFF,.erf,,,
-ERI,Entis Rasterized Image format,,,.eri,,,
-Exif,Exchangeable Image File Format,,,.exif,,,
-EVA,Extended Vector Animation,Sharp Corporation,,.eva,application/x-eva,,
-EXR,OpenEXR,ILM,,.exr,image/exr,Used in film effects for 3d rendering and hdr images.,
-Farbfeld,,Laslo Hunhold,,.ff,,Very simple lossless bitmap format used for image processing.,
-FIF,Fractal Image Format,,,.fif,,,
-FIG,FIG format,,,.fig,application/x-xfig,Supported by Xfig,
-FITS,Flexible Image Transport System,,,.fit  .fits,,Scientific (esp. astronomical) data acquisition,
-FLA,Flash Source File,,,.fla,,,
-FLIC,,Autodesk,,.fli  .flc  .flx  .flh  .flt,,Supported by GIMP,
-FLIF,Free Lossless Image Format,,,.flif  .flf,,General-purpose lossless image compression  superior compression.,
-Kivio Document,,,.flw,,Supported by Kivio,
-FPX,FlashPix (1.0.2),,,.fpx,image/vnd.fpx,,
-FreeHand,,Adobe Systems,,.fh4  .fh5  .fh7 <br />.fh8  .fhc  .fh,image/x-freehand,,
-FutureSplash,,Adobe Systems,,.spl,application/futuresplash,,
-FXT,,3DFX,,.fxt,,,
-GEGL composition,,,XML,.xml,application/xml,Used by GEGL,
-Gerber Format,The Gerber Format Specification<ref>The Gerber Format Specification  downloadable at http://www.ucamco.com</ref>,Ucamco,Printable ASCII,.gbr,application/vnd.gerber,Printed Circuit Board or PCB software,
-GIF,Graphics Interchange Format,CompuServe <br />Unisys (compression algorithm),,.gif  .gfa  .giff,image/gif,Supported by most web browsers. Supports transparency and animation.,Expired
-GIMP brush,,The GIMP Team,,.gbr,,Supported by GIMP,
-GIMP compressed XJT image,,The GIMP Team,JPEG  tar,.xjt <br />.xjtgz (compressed) <br />.xjtbz2 (compressed),None. Lossy format  not suitable for editing,Supported by GIMP,
-GIH,Gimp image hose,The GIMP Team,,.gih,,Supported by GIMP,
-GIMP patterns,,The GIMP Team,,.pat,,Supported by GIMP,
-GRA,,,,.gra,,Used by QSV and QLD.,
-G3 Fax,,,,.g3,,Supported by GIMP,
-Hasselblad 3FR RAW,,,TIFF,.3fr,,,
-Hasselblad/Imacon FFF,,,,.fff,,,
-HEIF,High Efficiency Image Format,Motion Pictures Expert Group (MPEG),,.heif  .heic,image/heif  image/heic  image/heic-sequence  image/heif-sequence,,
-HDRi,,,TIFF,.tif  .tiff,image/tiff,,
-HG,Hyper Graphic Press,,,.hg,,Supported by some old Japanese applications.,
-ICER,,NASA Mars Rovers,,,,,
-IIQ RAW,Intelligent Image Quality RAW,Phase One,,.iiq,,,
-IMA,.ima,.ima team,,.ima,,Format for photographic images with HDR encoding.,
-IMG (GEM Paint),,,,.img,,Supported by GEM Paint,
-IMG (ERDAS IMAGINE),ERDAS IMAGINE,ERDAS,Hierarchical File Architecture (HFA),.img,,Image format used primarily with geo-referenced imagery  thematic grid data  and elevation grid data.,
-im4,,Masahide Hirabayashi,,.im4,,,
-Inkscape SVG,,The Inkscape Team,SVG,.svg  .svgz,image/svg+xml,Used by Inkscape,
-ICO,ICO file format,Microsoft,,.ico  .cur,image/vnd.Microsoft.icon  image/x-icon,Used by Microsoft Windows and web browsers as favicon,
-ICS,Image Cytometry Standard,,,.ics  .ids,,,
-IGES,Initial Graphics Exchange Specification,,,.igs,image/iges,CAD/CAM interoperability,
-ILBM,InterLeaved BitMap,Electronic Arts and Commodore Amiga,IFF,.iff  .ilbm  .lbm,image/x-ilbm,Planar graphics format designed for Amiga graphics hardware.,
-IPTC/NAA,IPTC/NAA,,TIFF,,,,
-JBIG,,Joint Bi-level Image Experts Group,,.jbig  .bie  .jbg,,,
-JBIG2,,Joint Bi-level Image Experts Group,,,,,
-JNG,JPEG Network Graphics,,,.jng,image/x-jng,,
-JPEG,Joint Photographic Experts Group,Joint Photographic Experts Group,,.jpg  .jpeg  .jpe<br />(containers:<br />.jif  .jfif  .jfi),image/jpeg,Photographic images. Supported by most web browsers.,Expired (see also Forgent#JPEG)
-JPEG 2000,Joint Photographic Experts Group 2000,Joint Photographic Experts Group,,.jp2  .j2c  .jpc <br />.j2k  .jpx,image/jp2,Photographic images  eventual replacement for JPEG.,Yes (no licence costs for part 1)
-JPEG-LS,,Joint Photographic Experts Group,,.jls,,,
-JPEG-HDR,,Dolby Laboratories/BrightSide Technologies,JPEG,,,HDR format based on RGBE floating-point encoding and backward-compatible extensions to JFIF format; included in JPEG XT Part 2.,
-JPEG XT,,Joint Photographic Experts Group,,,,Backwards-compatible extension of the JPEG format for high bit depth and floating point HDR encoding of lossy and lossless images,
-JPEG XR / HD Photo,JPEG XR / HD Photo,Microsoft,,.wdp  .hdp  .jxr,image/vnd.ms-photo,TIFF-like container format with HDR encoding for photographic images,Yes (royalty-free)
-J6I,,RICOH,JPEG,.j6i,,Used by RICOH DC-1/2,
-KDC,Kodak DC40/DC50 RAW,Kodak,TIFF,.kdc,,,
-KOA,,,,.koa <br />.gg (compressed),,Supported by Koala Paint,
-KIFF,Kt Interchange File Format,,,.kif  .kiff,,,
-KISS CEL,,,,.cel,,Supported by GIMP,
-Kodak TIFF extensions,,Kodak,TIFF,.tif,,,
-Kodak YCC,,Kodak,,.pcd,,,
-KQP,,Minolta,JPEG,.kqp,,,
-K25,Kodak DC25 RAW,Kodak,TIFF,.k25,,,
-Leaf Mosaic RAW,,,TIFF,.mos,,,
-LightStream Picture,,,,.lsp,,,
-Logluv TIFF,,Greg Ward,TIFF,,,Supported by Libtiff,
-Mac Paint,,,,.pnt  .mac,,,
-MDC,Minolta RD175 Format,Minolta,,.mdc,,,
-MET,OS/2 Metafile Format,,,.met,,Supported by SAS/GRAPH,
-MNG,Multiple-image Network Graphics,,PNG,.mng,video/x-mng,,
-MO:DCA,MO:DCA,IBM,,.mda  .ica  .mmr <br />.afp,image,IBM's Content Manager and Image Plus,
-MSP,Microsoft Paint,Microsoft,,.msp,,,
-MYD,Myd format,,,.myd,,,
-MYV,Myv vector format,,,.myv,,,
-NEF,Nikon RAW,Nikon,TIFF,.nef,,,
-MEF,Mamiya RAW,Mamiya,TIFF,.mef,,,
-Neochrome,,Dave Staugas,,.neo,,An application on Atari ST,
-MAG,MAKIchan Graphic loader,Woody-Rinn,,.mag,,Used by many old Japanese applications.,
-MAKI,MAKIchan net format,Woody-Rinn,,.mki,,,
-MIFF,Magick image file format,ImageMagick Studio,,.miff,,Supported by ImageMagick,
-MSA,Misachan File,Hirohumi Iguchi,,.msa,,Supported by old Japanese applications,
-MSL,Magick Scripting Language,ImageMagick Studio,,.msl,,Supported by ImageMagick,
-MVG,Magick Vector Graphics,ImageMagick Studio,,.mvg,,Supported by ImageMagick,
-MPC,Magick Persistent Cache image file format,ImageMagick Studio,,.mpc,,Supported by ImageMagick,
-MRW,Minolta RAW,Minolta,,.mrw,,,
-NSK-TIFF,NSK-TIFF,Nihon Shinbun Kyokai (日本新聞協会),TIFF,,,,
-OAZ,OAZ Fax,Oaz Communications,,.oaz,,Used by NetFax Manager,
-ODG,OpenDocument drawing,,,.odg,,,
-ORA,OpenRaster,freedesktop.org,OpenDocument/XML,.ora,,DrawPile  GIMP  Krita  MyPaint  Nathive  Pinta,
-ORF,Olympus RAW,Olympus,TIFF,.orf,,,
-ORTL,Ortelius file format,Mapdiva  LLC,,.ortl,,Vector image/map format; used by Ortelius,
-PAM,portable arbitrary map file format,,,.pam,image/x-portable-arbitrarymap,,
-Panasonic RAW,,Panasonic,TIFF,.raw  .rw2,,,
-PCIF,Polyomino Compressed Image Format,,,.pcf,,,
-PhaseOne P25/P30/P45 RAW,,Phase One,,.tif  .tiff,,,
-PictureGear Pocket Image,,,,.prc,,,
-PBM,Portable Bitmap File Format,,,.pbm,image/x-portable-bitmap,,
-PCD,Kodak ImagePac Photo CD,Kodak,,.pcd,image/jpcd,,
-PCF,Pixel Coordination Format,,,.pcf,image/pcf,,
-PCX,ZSoft PC Paintbrush File,ZSoft Corporation,,.pcx  .pcc  .dcx,image/x-pcx,Dated rle packed indexed image format  used in some early 3d shooting games like Unreal Tournament as it takes up very little space and is easy to decode.,
-PDF,Portable Document Format,Adobe Systems,,.pdf  .epdf,application/pdf,,
-PDN,Paint.NET Image,dotPDN LLC,,.pdn,,Preferred and supported by Paint.NET,
-PEF,PENTAX RAW,PENTAX,TIFF,.pef,,,
-PGF,Progressive Graphics File,xeraina GmbH,,.pgf,,Photographic images  eventual replacement for JPEG.,
-PGM,Portable Graymap File Format,,,.pgm,image/x-portable-graymap,,
-PGML,Precision Graphics Markup Language,Adobe Systems  IBM  Netscape  Sun Microsystems,,,,,
-Photochrome,,,,.pcs,,,
-PNM,Portable Anymap File Format,,,.pnm,image/x-portable-anymap,,
-PTX,Pentax RAW Bitmap Graphic,Pentax,,.ptx,,,
-Pi,,Yanagisawa,,.pi,,Used by some old Japanese applications.,
-PIC,Yanagisawa PIC,Yanagisawa,,.pic,,Used by many old Japanese applications.,
-PIC,DoGA PIC,Project Team DoGA,,.pic,,Used by DoGA CGA System.,
-PICT,Macintosh PICT Format,Apple Inc.,,.pict  .pic  .pct <br />.pct1  .pct2,image/pict,Metafile for Classic Mac OS  not meant for print publishing.,Likely expired
-PICtor,,John Bridges  Doug Wolfgram,,.pic,,Supported by PCPaint,
-PIC2,,Yanagisawa,,.p2,,Supported by some old Japanese applications.,
-PLD,PhotoLine Document,Computerinsel GmbH,,.pld,application/pld,Native format of the PhotoLine image editing program.,
-PMP,,Sony,JPEG,.pmp,,Used by Sony Cyber-Shot,
-PNG,Portable Network Graphics,World Wide Web Consortium,,.png,image/png,W3C endorsed replacement for GIF. Supported by most web browsers.,
-PostScript,page description/scripting language  levels 1–3,Adobe,,.ps  .ps2  .ps3,,printing/publishing industry standard format,
-PPM,Portable Pixmap File Format,,,.ppm,image/x-portable-pixmap,Very easy to understand. Programs to analyze and write to this format are easily written.,
-PSD,Photoshop Document,Adobe Systems,,.psd  .psb  .pdb <br />.pdd,image/vnd.adobe.photoshop<ref>http://www.iana.org/assignments/media-types/image/vnd.adobe.photoshop</ref>,Used mainly for storing image manipulation & editing data.,
-PSP,Paint Shop Pro Document,Corel Corporation,,.psp  .tub <br />.pspimage,image/x-psp,Supported by Paint Shop Pro  GIMP,
-PSX TIM,,,,.tim,,,
-PSX TIM2,Sony PlayStation Tim2,Sony,,.tm2  .str,,Used by PlayStation 2,
-PXA,,,,.pxa,,Used by Pixia,
-QuickTime Image,,Apple Inc.,,.qtif  .qti  .qif,,,
-Q0,,,,.q0,,,
-Q4,XLD4,MAJYO,,.q4,,,
-RAD,,Gregory Ward Larson,,.rad,,Radiance,
-RAF,Fujifilm RAW,Fujifilm,,.raf,,,
-RGB,image/colourmap data in RGB format,,,.rgb,,,
-RGBA,image/colourmap data in RGB format  with Alpha channel,,,.rgba,,,
-RGBE,,Gregory Ward Larson,,.hdr,image/vnd.radiance,Radiance  most HDR imaging software,
-RHIF,Rhapsoft Image Format,Romain Piveteau,SQLite,.rhif,,LiveQuarz file format,
-R3D,RED REDCODE RAW,Red,,.r3d,,,
-SAI,,SYSTEMAX,,.sai,,Supported by PaintTool SAI,
-SCT,Scitex Continuous Tone Picture,,,.sct,,,
-SDA,,Sun Microsystems,,.sda,,Supported by StarOffice Draw 3–5,
-SDD,,Sun Microsystems,,.sdd,,Supported by StarOffice Draw 3–5,
-SFW,Seattle File Works image,Seattle File Works,JPEG (JFIF),.sfw  .pwp,,JPEG-converters sfwjpg and pwpjpg for Unix/Linux and Windows,
-SGB,,Sun Microsystems,,.sgb,,Supported by StarOffice Graphics 2,
-SGI,Silicon Graphics Image,,,.sgi  .rgb  .rgba <br />.bw  .int  .inta <br />.icon,,,
-Shockwave Director,,Adobe Systems,,.dir  .dcr  .dxr  .fgd,application/x-director,Used by Adobe Shockwave.,
-SHAPE,Dia Stencil,,SVG,.shape,,Used by Dia.,
-SK,,,,.sk,,Supported by Skencil,
-SketchUp Format,,,,.skp  .skb,,Supported by SketchUp,
-SML,Kivio stencil,,,.sml,,Supported by Kivio,
-SRF,Sony RAW File,Sony,TIFF,.srf  .sr2,,,
-SUN,Sun rasterfile,Sun Microsystems,,.sun  .ras  .rs  .im1 <br />.im8  .im24  .im32,,Supported by GIMP,
-STX,SBIG CCD camera ST-x,,,.stx  .st4  .st5 <br />.st6  .st7  .st8 <br />.st9,,,
-SView5 Graphics,,Andreas Kleinert,,.svg/.sgx,,Used by SView5-Library/SDK,
-SVG,Scalable Vector Graphics,World Wide Web Consortium,XML,.svg <br />.svgz (compressed),image/svg+xml,Scriptable vector image format; supported by major web browsers  occasionally via plug-in.,
-SWF,Shockwave Flash,Adobe Systems,,.swf,application/x-shockwave-flash,Supported by many web browsers via plug-in.,
-SXD,OpenOffice.org 1.0 drawing format,,,.sxd,,,
-TGA,Truevision Targa,Truevision Inc.,,.tga  .tpic,image/tga,Used by many 3D rendering applications and 3d games.,Yes?
-TIFF,Tagged Image File Format,Adobe Systems,,.tiff  .tif,image/tiff,Document scanning and imaging format  also functions as a container.,
-TIFF/EP,Tag Image File Format / Electronic Photography,International Organization for Standardization,TIFF,.tiff  .tif,,,
-TIFF-FX,Tag Image File Format Fax eXtended,,TIFF,.tiff  .tif,image/tiff-fx,,
-Tiny Stuff,,David Mumper,,.tny  .tn1  .tn2  .tn3 <br />.tn4  .tn5  tn6,,An application on Atari ST,
-TLG5,,,,.tlg,,Used by KiriKiri,
-TLG6,,,,.tlg,,Used by KiriKiri,
-UFO,Ulead File for Objects,,,.ufo,,,
-VML,Vector Markup Language,Microsoft,XML,.htm  .html,application/vnd. openxmlformats-officedocument. vmlDrawing,Internet Explorer  Microsoft Office,
-WBMP,Wireless Application Protocol Bitmap Format,Open Mobile Alliance (formerly WAP Forum),,.wbmp  .wbm  .wbp,image/vnd.wap.wbmp,Used in WAP-pages,
-WebP,WebP image format,Google,,.webp,image/webp,Provides an alternative to JPEG  PNG and GIF with superior compression,Yes (royalty-free)
-WinFax,,Symantec,,.wfx  fxs  fxo,,,
-WMF,Windows Metafile Format,Microsoft,,.wmf  .wmz,,,
-WordPerfect Graphics File,,,,.wpg,,,
-XAML,Extensible Application Markup Language,Microsoft,XML,.xaml,application/xaml+xml,Used by Windows Presentation Foundation and Microsoft Silverlight.,
-XAR,Xar,Xara,Xar (graphics),.xar,application/vnd.xara,Used by Xara Photo & Graphic Designer,
-XBM,X BitMap  colour variant of original black-and-white bitmap (bmp) format,,,.xbm  .bm <br />.icon  .bitmap,image/x-xbitmap,Used by many legacy Unix applications.,
-XCF,XCF  name derived from eXperimental Computing Facility,The GIMP Team,,.xcf <br />.xcfbz2 (compressed) <br />.xcfgz (compressed),application/x-gimp-image,Used by GIMP,
-XPM,X-Pixmap,,,.xpm  .pm,image/x-xpm,Used by many legacy Unix applications.,
-X3F,SIGMA RAW,SIGMA,,.x3f,,,
-XWD,xwud X11 window dumper/undumper screenshot image,,,.xwd  .x11,,Used by X Window System,
-XYZ,RPG Maker image file,ASCII,,.xyz,,RPG Maker,
-YCbCr,,,,.ycbcr,,,
-YCbCrA,,,,.ycbcra,,,
-YUV,,,,.yuv,,,
-ZDT,,,,.zdt,,Used by TECH Win,
+Abc,Advanced Bitonal Compression,LEAD Technologies,[empty],.abc,[empty],Bitonal document and check images.<ref>Advanced Bitonal Compression</ref>,[empty]
+ADRG,ARC Digitized Raster Graphics,[empty],[empty],.adrg,[empty],[empty],[empty]
+AdobeResource,[empty],Adobe Systems,TIFF?,[empty],[empty],[empty],[empty]
+ADRI,ARC Digitized Raster Images,[empty],[empty],.adri,[empty],[empty],[empty]
+AF Design,Affinity Designer,Serif Europe,[empty],.afdesign,[empty],Vector graphics document for Affinity Designer. Can also be opened by Affinity Photo.,[empty]
+AF Photo,Affinity Photo,Serif Europe,[empty],.afphoto,[empty],Raster graphics document for Affinity Photo. Can also be opened by Affinity Designer.,[empty]
+AI,Adobe Illustrator Document,Adobe Systems,[empty],.ai,application/illustrator  application/postscript,Adobe Illustrator files are editable using programs that support the format  such as Adobe Illustrator  Inkscape  CorelDRAW  etc.,[empty]
+Alias Pix image,[empty],[empty],[empty],.pix  .matte  .mask <br />.alpha  .als,[empty],Supported by GIMP,[empty]
+AMI,[empty],[empty],[empty],.ami,[empty],Supported by Amica Paint,[empty]
+ANI,ANI file format,Microsoft,RIFF,.ani,[empty],Used by Microsoft Windows,[empty]
+ANIM,[empty],Electronic Arts and Commodore Amiga,IFF,.iff  .anim,video/x-anim,[empty],[empty]
+APNG,Animated Portable Network Graphics,Mozilla,PNG,.png,image/png,1.9 and Opera,[empty]
+Apple Icon Image,[empty],Apple Inc.,[empty],.icns,[empty],Used by macOS,[empty]
+APX,[empty],[empty],[empty],.apx,[empty],Supported by Ebuyer Photo Paint,[empty]
+ART,[empty],AOL,[empty],.art,[empty],[empty],[empty]
+ART,PFS: 1st Publisher clip art,[empty],[empty],.art,[empty],[empty],[empty]
+ARTB,Artboard file format,Mapdiva  LLC,[empty],.artb,[empty],Vector image format; Artboard drawing files are editable using programs that support the format  such as Artboard and Ortelius,[empty]
+ASCII art,[empty],[empty],[empty],.txt  .ansi  .text,text/vnd.ascii-art,Supported by GIMP,[empty]
+Authorware map,[empty],Adobe Systems,[empty],.aam,application/x-authorware-map,[empty],[empty]
+Authorware seg,[empty],Adobe Systems,[empty],.aas,application/x-authorware-seg,[empty],[empty]
+Authorware bin,[empty],Adobe Systems,[empty],.aab  .x32  .u32 <br />.vox,application/x-authorware-bin,[empty],[empty]
+AutoCAD DXF,Drawing Interchange Format,Autodesk,[empty],.dxf,image/vnd.dxf,[empty],[empty]
+AWD,[empty],[empty],[empty],.awd,image/awd,Used by PhotoPhilia,[empty]
+ARW,Sony Alpha RAW,Sony,TIFF,.arw,[empty],[empty],[empty]
+BAY,Casio RAW,Casio,[empty],.bay,[empty],[empty],[empty]
+BigTIFF,[empty],[empty],TIFF,.btf  .tiff  .tif,image/tiff,[empty],[empty]
+BMP,raw-data unencoded or encoded bitmap,simple colour image format  far older than Microsoft; some .bmp encoding formats developed/owned by Microsoft,[empty],.bmp  .dib  .rle <br />.2bp (2bpp),image/x-bmp,Used by many 2D applications.,[empty]
+bmp compressor,Bit Map Compressor,[empty],[empty],.hpc,[empty],[empty],[empty]
+BLEND,resource archive (3D meshes  textures  auxiliary data),[empty],[empty],.blend,[empty],native data package format of Blender,[empty]
+BPG,Better Portable Graphics,Fabrice Bellard,HEVC,.bpg,[empty],Suggestion to replace JPEG  JavaScript decoder available<ref>http://bellard.org/bpg/</ref>,[empty]
+BRK,Brooktrout Fax,[empty],[empty],.brk,[empty],[empty],[empty]
+BSAVE,BSAVE Image,[empty],[empty],.BSV,[empty],Used by IBM PC.,[empty]
+CAM,Casio CAM,Casio,JPEG,.cam,[empty],[empty],[empty]
+CADRG,Compressed ARC Digitized Raster Graphics,[empty],[empty],.cadrg,[empty],[empty],[empty]
+CAL,CALS raster file format,[empty],[empty],.cal  .cals  .ras  .dcl,[empty],[empty],[empty]
+Capture One RAW,[empty],Phase One,[empty],.cap,[empty],[empty],[empty]
+CIFF,Camera Image File Format,Canon,[empty],.crw  .ciff,[empty],[empty],[empty]
+CR2,Canon RAW 2,Canon,TIFF,.cr2,[empty],[empty],[empty]
+CDR,CorelDRAW Document,Corel Corporation,[empty],.cdr  .ccx  .cdt  .cmx,application/coreldraw,CorelDRAW files are editable using programs that support the format  such as CorelDRAW  Adobe Illustrator  Inkscape  etc.,[empty]
+CGM,Computer Graphics Metafile,[empty],[empty],.cgm,image/cgm,CGM files are editable using programs that support the format  such as IBM Lotus Freelance Graphics  Inkscape  etc.,[empty]
+CIN,Cineon,[empty],[empty],.cin,image/cineon,[empty],[empty]
+Corel Paint Shop Pro Pattern,[empty],[empty],[empty],.pat,[empty],Supported by Corel Paint Shop Pro,[empty]
+CPC,Cartesian Perceptual Compression,Cartesian Products  Inc.,[empty],.cpc  .cpi,image/cpi,Highly compressed raster imaging format.,[empty]
+CPKT,APP5-CPKT Format,[empty],JPEG,.jpg  .jpe  .jpeg,image/jpeg,Used by PROSERPINE.,[empty]
+CPT,Corel Photo-Paint Image,[empty],[empty],.cpt,[empty],Variant of TIFF up to and including version 6.0; proprietary as of 7.0 (1997),[empty]
+Crack Art,[empty],Detlef Röttger & Jan Borchers,[empty],.ca1  .ca2  .ca3,[empty],An application on Atari ST,[empty]
+CUT,[empty],[empty],[empty],.cut,[empty],Used by DSHELL.,[empty]
+CMYK,[empty],[empty],[empty],.cmyk,[empty],[empty],[empty]
+CMYKA,[empty],[empty],[empty],.cmyka,[empty],[empty],[empty]
+DCS,Kodak DCS Pro RAW,Kodak,[empty],.dcs,[empty],[empty],[empty]
+DCR,Digital Camera Raw,Kodak,TIFF,.dcr,[empty],[empty],[empty]
+DDS,DirectDraw Surface,Microsoft,[empty],.dds,[empty],[empty],[empty]
+Degas,Design & Entertainment Graphic Arts System,Integral Solutions,[empty],.pi1  .pi2  .pi3 <br />.pc1  .pc2  .pc3,[empty],An application on Atari ST,[empty]
+DNG,Digital Negative,Adobe Systems,Compatible with ISO 12234-2  TIFF/EP<ref name="DNGspecification">Adobe: DNG Specification</ref>,.dng,[empty],A raw image format suitable as an archival format and as the native raw format of digital cameras<ref name="DNGintromanufacturers">Adobe: Introducing the Digital Negative Specification: Information for manufacturers</ref>,No: no known intellectual property encumbrances or license requirements<ref name="CinemaDNGnoencumbrance">Adobe Labs: CinemaDNG (last bullet point)</ref>
+DIA,Dia Drawing,[empty],XML,.dia,[empty],Used by Dia,[empty]
+DICOM,Digital Imaging and Communications in Medicine,National Electrical Manufacturers Association,[empty],.dcm  .dicom,application/dicom<ref name="rfc3240">RFC 3240</ref>,Numerous biomedical imaging applications<ref name="rfc3240" /> (e.g. OsiriX  XMedCon)  some general bitmap graphics applications (e.g. GIMP  Photoshop),[empty]
+DjVu,DjVu,AT&T Research,[empty],.djvu  .djv,image/vnd.djvu,[empty],[empty]
+Doodle,[empty],[empty],[empty],.doo,[empty],An application on Atari ST,[empty]
+DPX,Digital Picture eXchange file format,[empty],[empty],.dpx,image/dpx,[empty],[empty]
+DRF,Kodak Pro Back RAW,Kodak,[empty],.drf,[empty],[empty],[empty]
+Dr. Halo,[empty],[empty],[empty],.cut,[empty],[empty],[empty]
+Encapsulated PostScript,page description/scripting language (see PostScript),Adobe,[empty],.epi  .eps  .eps2 <br />.eps3  .epsf  .epsi <br />.ept,application/postscript,printing/publishing industry standard format,[empty]
+ECW,Enhanced Compressed Wavelet,ERDAS,[empty],.ecw,[empty],Wavelet image format used primarily with geo-referenced aerial and satellite imagery,[empty]
+EDG,EDGE2 Original Format,TAKABO,[empty],.edg,[empty],Used by EDGE2,[empty]
+EMF,Enhanced Metafile Format,Microsoft,[empty],.emf  .emz,[empty],Microsoft Office,[empty]
+EMF+,Enhanced Metafile Format Plus Extensions,Microsoft,[empty],.emf  .emz,[empty],[empty],[empty]
+ERF,EPSON RAW,EPSON,TIFF,.erf,[empty],[empty],[empty]
+ERI,Entis Rasterized Image format,[empty],[empty],.eri,[empty],[empty],[empty]
+Exif,Exchangeable Image File Format,[empty],[empty],.exif,[empty],[empty],[empty]
+EVA,Extended Vector Animation,Sharp Corporation,[empty],.eva,application/x-eva,[empty],[empty]
+EXR,OpenEXR,ILM,[empty],.exr,image/exr,Used in film effects for 3d rendering and hdr images.,[empty]
+Farbfeld,[empty],Laslo Hunhold,[empty],.ff,[empty],Very simple lossless bitmap format used for image processing.,[empty]
+FIF,Fractal Image Format,[empty],[empty],.fif,[empty],[empty],[empty]
+FIG,FIG format,[empty],[empty],.fig,application/x-xfig,Supported by Xfig,[empty]
+FITS,Flexible Image Transport System,[empty],[empty],.fit  .fits,[empty],Scientific (esp. astronomical) data acquisition,[empty]
+FLA,Flash Source File,[empty],[empty],.fla,[empty],[empty],[empty]
+FLIC,[empty],Autodesk,[empty],.fli  .flc  .flx  .flh  .flt,[empty],Supported by GIMP,[empty]
+FLIF,Free Lossless Image Format,[empty],[empty],.flif  .flf,[empty],General-purpose lossless image compression  superior compression.,[empty]
+Kivio Document,[empty],[empty],.flw,[empty],Supported by Kivio,[empty],[added]
+FPX,FlashPix (1.0.2),[empty],[empty],.fpx,image/vnd.fpx,[empty],[empty]
+FreeHand,[empty],Adobe Systems,[empty],.fh4  .fh5  .fh7 <br />.fh8  .fhc  .fh,image/x-freehand,[empty],[empty]
+FutureSplash,[empty],Adobe Systems,[empty],.spl,application/futuresplash,[empty],[empty]
+FXT,[empty],3DFX,[empty],.fxt,[empty],[empty],[empty]
+GEGL composition,[empty],[empty],XML,.xml,application/xml,Used by GEGL,[empty]
+Gerber Format,The Gerber Format Specification<ref>The Gerber Format Specification  downloadable at http://www.ucamco.com</ref>,Ucamco,Printable ASCII,.gbr,application/vnd.gerber,Printed Circuit Board or PCB software,[empty]
+GIF,Graphics Interchange Format,CompuServe <br />Unisys (compression algorithm),[empty],.gif  .gfa  .giff,image/gif,Supported by most web browsers. Supports transparency and animation.,Expired
+GIMP brush,[empty],The GIMP Team,[empty],.gbr,[empty],Supported by GIMP,[empty]
+GIMP compressed XJT image,[empty],The GIMP Team,JPEG  tar,.xjt <br />.xjtgz (compressed) <br />.xjtbz2 (compressed),None. Lossy format  not suitable for editing,Supported by GIMP,[empty]
+GIH,Gimp image hose,The GIMP Team,[empty],.gih,[empty],Supported by GIMP,[empty]
+GIMP patterns,[empty],The GIMP Team,[empty],.pat,[empty],Supported by GIMP,[empty]
+GRA,[empty],[empty],[empty],.gra,[empty],Used by QSV and QLD.,[empty]
+G3 Fax,[empty],[empty],[empty],.g3,[empty],Supported by GIMP,[empty]
+Hasselblad 3FR RAW,[empty],[empty],TIFF,.3fr,[empty],[empty],[empty]
+Hasselblad/Imacon FFF,[empty],[empty],[empty],.fff,[empty],[empty],[empty]
+HEIF,High Efficiency Image Format,Motion Pictures Expert Group (MPEG),[empty],.heif  .heic,image/heif  image/heic  image/heic-sequence  image/heif-sequence,[empty],[empty]
+HDRi,[empty],[empty],TIFF,.tif  .tiff,image/tiff,[empty],[empty]
+HG,Hyper Graphic Press,[empty],[empty],.hg,[empty],Supported by some old Japanese applications.,[empty]
+ICER,[empty],NASA Mars Rovers,[empty],[empty],[empty],[empty],[empty]
+IIQ RAW,Intelligent Image Quality RAW,Phase One,[empty],.iiq,[empty],[empty],[empty]
+IMA,.ima,.ima team,[empty],.ima,[empty],Format for photographic images with HDR encoding.,[empty]
+IMG (GEM Paint),[empty],[empty],[empty],.img,[empty],Supported by GEM Paint,[empty]
+IMG (ERDAS IMAGINE),ERDAS IMAGINE,ERDAS,Hierarchical File Architecture (HFA),.img,[empty],Image format used primarily with geo-referenced imagery  thematic grid data  and elevation grid data.,[empty]
+im4,[empty],Masahide Hirabayashi,[empty],.im4,[empty],[empty],[empty]
+Inkscape SVG,[empty],The Inkscape Team,SVG,.svg  .svgz,image/svg+xml,Used by Inkscape,[empty]
+ICO,ICO file format,Microsoft,[empty],.ico  .cur,image/vnd.Microsoft.icon  image/x-icon,Used by Microsoft Windows and web browsers as favicon,[empty]
+ICS,Image Cytometry Standard,[empty],[empty],.ics  .ids,[empty],[empty],[empty]
+IGES,Initial Graphics Exchange Specification,[empty],[empty],.igs,image/iges,CAD/CAM interoperability,[empty]
+ILBM,InterLeaved BitMap,Electronic Arts and Commodore Amiga,IFF,.iff  .ilbm  .lbm,image/x-ilbm,Planar graphics format designed for Amiga graphics hardware.,[empty]
+IPTC/NAA,IPTC/NAA,[empty],TIFF,[empty],[empty],[empty],[empty]
+JBIG,[empty],Joint Bi-level Image Experts Group,[empty],.jbig  .bie  .jbg,[empty],[empty],[empty]
+JBIG2,[empty],Joint Bi-level Image Experts Group,[empty],[empty],[empty],[empty],[empty]
+JNG,JPEG Network Graphics,[empty],[empty],.jng,image/x-jng,[empty],[empty]
+JPEG,Joint Photographic Experts Group,Joint Photographic Experts Group,[empty],.jpg  .jpeg  .jpe<br />(containers:<br />.jif  .jfif  .jfi),image/jpeg,Photographic images. Supported by most web browsers.,Expired (see also Forgent#JPEG)
+JPEG 2000,Joint Photographic Experts Group 2000,Joint Photographic Experts Group,[empty],.jp2  .j2c  .jpc <br />.j2k  .jpx,image/jp2,Photographic images  eventual replacement for JPEG.,Yes (no licence costs for part 1)
+JPEG-LS,[empty],Joint Photographic Experts Group,[empty],.jls,[empty],[empty],[empty]
+JPEG-HDR,[empty],Dolby Laboratories/BrightSide Technologies,JPEG,[empty],[empty],HDR format based on RGBE floating-point encoding and backward-compatible extensions to JFIF format; included in JPEG XT Part 2.,[empty]
+JPEG XT,[empty],Joint Photographic Experts Group,[empty],[empty],[empty],Backwards-compatible extension of the JPEG format for high bit depth and floating point HDR encoding of lossy and lossless images,[empty]
+JPEG XR / HD Photo,JPEG XR / HD Photo,Microsoft,[empty],.wdp  .hdp  .jxr,image/vnd.ms-photo,TIFF-like container format with HDR encoding for photographic images,Yes (royalty-free)
+J6I,[empty],RICOH,JPEG,.j6i,[empty],Used by RICOH DC-1/2,[empty]
+KDC,Kodak DC40/DC50 RAW,Kodak,TIFF,.kdc,[empty],[empty],[empty]
+KOA,[empty],[empty],[empty],.koa <br />.gg (compressed),[empty],Supported by Koala Paint,[empty]
+KIFF,Kt Interchange File Format,[empty],[empty],.kif  .kiff,[empty],[empty],[empty]
+KISS CEL,[empty],[empty],[empty],.cel,[empty],Supported by GIMP,[empty]
+Kodak TIFF extensions,[empty],Kodak,TIFF,.tif,[empty],[empty],[empty]
+Kodak YCC,[empty],Kodak,[empty],.pcd,[empty],[empty],[empty]
+KQP,[empty],Minolta,JPEG,.kqp,[empty],[empty],[empty]
+K25,Kodak DC25 RAW,Kodak,TIFF,.k25,[empty],[empty],[empty]
+Leaf Mosaic RAW,[empty],[empty],TIFF,.mos,[empty],[empty],[empty]
+LightStream Picture,[empty],[empty],[empty],.lsp,[empty],[empty],[empty]
+Logluv TIFF,[empty],Greg Ward,TIFF,[empty],[empty],Supported by Libtiff,[empty]
+Mac Paint,[empty],[empty],[empty],.pnt  .mac,[empty],[empty],[empty]
+MDC,Minolta RD175 Format,Minolta,[empty],.mdc,[empty],[empty],[empty]
+MET,OS/2 Metafile Format,[empty],[empty],.met,[empty],Supported by SAS/GRAPH,[empty]
+MNG,Multiple-image Network Graphics,[empty],PNG,.mng,video/x-mng,[empty],[empty]
+MO:DCA,MO:DCA,IBM,[empty],.mda  .ica  .mmr <br />.afp,image,IBM's Content Manager and Image Plus,[empty]
+MSP,Microsoft Paint,Microsoft,[empty],.msp,[empty],[empty],[empty]
+MYD,Myd format,[empty],[empty],.myd,[empty],[empty],[empty]
+MYV,Myv vector format,[empty],[empty],.myv,[empty],[empty],[empty]
+NEF,Nikon RAW,Nikon,TIFF,.nef,[empty],[empty],[empty]
+MEF,Mamiya RAW,Mamiya,TIFF,.mef,[empty],[empty],[empty]
+Neochrome,[empty],Dave Staugas,[empty],.neo,[empty],An application on Atari ST,[empty]
+MAG,MAKIchan Graphic loader,Woody-Rinn,[empty],.mag,[empty],Used by many old Japanese applications.,[empty]
+MAKI,MAKIchan net format,Woody-Rinn,[empty],.mki,[empty],[empty],[empty]
+MIFF,Magick image file format,ImageMagick Studio,[empty],.miff,[empty],Supported by ImageMagick,[empty]
+MSA,Misachan File,Hirohumi Iguchi,[empty],.msa,[empty],Supported by old Japanese applications,[empty]
+MSL,Magick Scripting Language,ImageMagick Studio,[empty],.msl,[empty],Supported by ImageMagick,[empty]
+MVG,Magick Vector Graphics,ImageMagick Studio,[empty],.mvg,[empty],Supported by ImageMagick,[empty]
+MPC,Magick Persistent Cache image file format,ImageMagick Studio,[empty],.mpc,[empty],Supported by ImageMagick,[empty]
+MRW,Minolta RAW,Minolta,[empty],.mrw,[empty],[empty],[empty]
+NSK-TIFF,NSK-TIFF,Nihon Shinbun Kyokai (日本新聞協会),TIFF,[empty],[empty],[empty],[empty]
+OAZ,OAZ Fax,Oaz Communications,[empty],.oaz,[empty],Used by NetFax Manager,[empty]
+ODG,OpenDocument drawing,[empty],[empty],.odg,[empty],[empty],[empty]
+ORA,OpenRaster,freedesktop.org,OpenDocument/XML,.ora,[empty],DrawPile  GIMP  Krita  MyPaint  Nathive  Pinta,[empty]
+ORF,Olympus RAW,Olympus,TIFF,.orf,[empty],[empty],[empty]
+ORTL,Ortelius file format,Mapdiva  LLC,[empty],.ortl,[empty],Vector image/map format; used by Ortelius,[empty]
+PAM,portable arbitrary map file format,[empty],[empty],.pam,image/x-portable-arbitrarymap,[empty],[empty]
+Panasonic RAW,[empty],Panasonic,TIFF,.raw  .rw2,[empty],[empty],[empty]
+PCIF,Polyomino Compressed Image Format,[empty],[empty],.pcf,[empty],[empty],[empty]
+PhaseOne P25/P30/P45 RAW,[empty],Phase One,[empty],.tif  .tiff,[empty],[empty],[empty]
+PictureGear Pocket Image,[empty],[empty],[empty],.prc,[empty],[empty],[empty]
+PBM,Portable Bitmap File Format,[empty],[empty],.pbm,image/x-portable-bitmap,[empty],[empty]
+PCD,Kodak ImagePac Photo CD,Kodak,[empty],.pcd,image/jpcd,[empty],[empty]
+PCF,Pixel Coordination Format,[empty],[empty],.pcf,image/pcf,[empty],[empty]
+PCX,ZSoft PC Paintbrush File,ZSoft Corporation,[empty],.pcx  .pcc  .dcx,image/x-pcx,Dated rle packed indexed image format  used in some early 3d shooting games like Unreal Tournament as it takes up very little space and is easy to decode.,[empty]
+PDF,Portable Document Format,Adobe Systems,[empty],.pdf  .epdf,application/pdf,[empty],[empty]
+PDN,Paint.NET Image,dotPDN LLC,[empty],.pdn,[empty],Preferred and supported by Paint.NET,[empty]
+PEF,PENTAX RAW,PENTAX,TIFF,.pef,[empty],[empty],[empty]
+PGF,Progressive Graphics File,xeraina GmbH,[empty],.pgf,[empty],Photographic images  eventual replacement for JPEG.,[empty]
+PGM,Portable Graymap File Format,[empty],[empty],.pgm,image/x-portable-graymap,[empty],[empty]
+PGML,Precision Graphics Markup Language,Adobe Systems  IBM  Netscape  Sun Microsystems,[empty],[empty],[empty],[empty],[empty]
+Photochrome,[empty],[empty],[empty],.pcs,[empty],[empty],[empty]
+PNM,Portable Anymap File Format,[empty],[empty],.pnm,image/x-portable-anymap,[empty],[empty]
+PTX,Pentax RAW Bitmap Graphic,Pentax,[empty],.ptx,[empty],[empty],[empty]
+Pi,[empty],Yanagisawa,[empty],.pi,[empty],Used by some old Japanese applications.,[empty]
+PIC,Yanagisawa PIC,Yanagisawa,[empty],.pic,[empty],Used by many old Japanese applications.,[empty]
+PIC,DoGA PIC,Project Team DoGA,[empty],.pic,[empty],Used by DoGA CGA System.,[empty]
+PICT,Macintosh PICT Format,Apple Inc.,[empty],.pict  .pic  .pct <br />.pct1  .pct2,image/pict,Metafile for Classic Mac OS  not meant for print publishing.,Likely expired
+PICtor,[empty],John Bridges  Doug Wolfgram,[empty],.pic,[empty],Supported by PCPaint,[empty]
+PIC2,[empty],Yanagisawa,[empty],.p2,[empty],Supported by some old Japanese applications.,[empty]
+PLD,PhotoLine Document,Computerinsel GmbH,[empty],.pld,application/pld,Native format of the PhotoLine image editing program.,[empty]
+PMP,[empty],Sony,JPEG,.pmp,[empty],Used by Sony Cyber-Shot,[empty]
+PNG,Portable Network Graphics,World Wide Web Consortium,[empty],.png,image/png,W3C endorsed replacement for GIF. Supported by most web browsers.,[empty]
+PostScript,page description/scripting language  levels 1–3,Adobe,[empty],.ps  .ps2  .ps3,[empty],printing/publishing industry standard format,[empty]
+PPM,Portable Pixmap File Format,[empty],[empty],.ppm,image/x-portable-pixmap,Very easy to understand. Programs to analyze and write to this format are easily written.,[empty]
+PSD,Photoshop Document,Adobe Systems,[empty],.psd  .psb  .pdb <br />.pdd,image/vnd.adobe.photoshop<ref>http://www.iana.org/assignments/media-types/image/vnd.adobe.photoshop</ref>,Used mainly for storing image manipulation & editing data.,[empty]
+PSP,Paint Shop Pro Document,Corel Corporation,[empty],.psp  .tub <br />.pspimage,image/x-psp,Supported by Paint Shop Pro  GIMP,[empty]
+PSX TIM,[empty],[empty],[empty],.tim,[empty],[empty],[empty]
+PSX TIM2,Sony PlayStation Tim2,Sony,[empty],.tm2  .str,[empty],Used by PlayStation 2,[empty]
+PXA,[empty],[empty],[empty],.pxa,[empty],Used by Pixia,[empty]
+QuickTime Image,[empty],Apple Inc.,[empty],.qtif  .qti  .qif,[empty],[empty],[empty]
+Q0,[empty],[empty],[empty],.q0,[empty],[empty],[empty]
+Q4,XLD4,MAJYO,[empty],.q4,[empty],[empty],[empty]
+RAD,[empty],Gregory Ward Larson,[empty],.rad,[empty],Radiance,[empty]
+RAF,Fujifilm RAW,Fujifilm,[empty],.raf,[empty],[empty],[empty]
+RGB,image/colourmap data in RGB format,[empty],[empty],.rgb,[empty],[empty],[empty]
+RGBA,image/colourmap data in RGB format  with Alpha channel,[empty],[empty],.rgba,[empty],[empty],[empty]
+RGBE,[empty],Gregory Ward Larson,[empty],.hdr,image/vnd.radiance,Radiance  most HDR imaging software,[empty]
+RHIF,Rhapsoft Image Format,Romain Piveteau,SQLite,.rhif,[empty],LiveQuarz file format,[empty]
+R3D,RED REDCODE RAW,Red,[empty],.r3d,[empty],[empty],[empty]
+SAI,[empty],SYSTEMAX,[empty],.sai,[empty],Supported by PaintTool SAI,[empty]
+SCT,Scitex Continuous Tone Picture,[empty],[empty],.sct,[empty],[empty],[empty]
+SDA,[empty],Sun Microsystems,[empty],.sda,[empty],Supported by StarOffice Draw 3–5,[empty]
+SDD,[empty],Sun Microsystems,[empty],.sdd,[empty],Supported by StarOffice Draw 3–5,[empty]
+SFW,Seattle File Works image,Seattle File Works,JPEG (JFIF),.sfw  .pwp,[empty],JPEG-converters sfwjpg and pwpjpg for Unix/Linux and Windows,[empty]
+SGB,[empty],Sun Microsystems,[empty],.sgb,[empty],Supported by StarOffice Graphics 2,[empty]
+SGI,Silicon Graphics Image,[empty],[empty],.sgi  .rgb  .rgba <br />.bw  .int  .inta <br />.icon,[empty],[empty],[empty]
+Shockwave Director,[empty],Adobe Systems,[empty],.dir  .dcr  .dxr  .fgd,application/x-director,Used by Adobe Shockwave.,[empty]
+SHAPE,Dia Stencil,[empty],SVG,.shape,[empty],Used by Dia.,[empty]
+SK,[empty],[empty],[empty],.sk,[empty],Supported by Skencil,[empty]
+SketchUp Format,[empty],[empty],[empty],.skp  .skb,[empty],Supported by SketchUp,[empty]
+SML,Kivio stencil,[empty],[empty],.sml,[empty],Supported by Kivio,[empty]
+SRF,Sony RAW File,Sony,TIFF,.srf  .sr2,[empty],[empty],[empty]
+SUN,Sun rasterfile,Sun Microsystems,[empty],.sun  .ras  .rs  .im1 <br />.im8  .im24  .im32,[empty],Supported by GIMP,[empty]
+STX,SBIG CCD camera ST-x,[empty],[empty],.stx  .st4  .st5 <br />.st6  .st7  .st8 <br />.st9,[empty],[empty],[empty]
+SView5 Graphics,[empty],Andreas Kleinert,[empty],.svg/.sgx,[empty],Used by SView5-Library/SDK,[empty]
+SVG,Scalable Vector Graphics,World Wide Web Consortium,XML,.svg <br />.svgz (compressed),image/svg+xml,Scriptable vector image format; supported by major web browsers  occasionally via plug-in.,[empty]
+SWF,Shockwave Flash,Adobe Systems,[empty],.swf,application/x-shockwave-flash,Supported by many web browsers via plug-in.,[empty]
+SXD,OpenOffice.org 1.0 drawing format,[empty],[empty],.sxd,[empty],[empty],[empty]
+TGA,Truevision Targa,Truevision Inc.,[empty],.tga  .tpic,image/tga,Used by many 3D rendering applications and 3d games.,Yes?
+TIFF,Tagged Image File Format,Adobe Systems,[empty],.tiff  .tif,image/tiff,Document scanning and imaging format  also functions as a container.,[empty]
+TIFF/EP,Tag Image File Format / Electronic Photography,International Organization for Standardization,TIFF,.tiff  .tif,[empty],[empty],[empty]
+TIFF-FX,Tag Image File Format Fax eXtended,[empty],TIFF,.tiff  .tif,image/tiff-fx,[empty],[empty]
+Tiny Stuff,[empty],David Mumper,[empty],.tny  .tn1  .tn2  .tn3 <br />.tn4  .tn5  tn6,[empty],An application on Atari ST,[empty]
+TLG5,[empty],[empty],[empty],.tlg,[empty],Used by KiriKiri,[empty]
+TLG6,[empty],[empty],[empty],.tlg,[empty],Used by KiriKiri,[empty]
+UFO,Ulead File for Objects,[empty],[empty],.ufo,[empty],[empty],[empty]
+VML,Vector Markup Language,Microsoft,XML,.htm  .html,application/vnd. openxmlformats-officedocument. vmlDrawing,Internet Explorer  Microsoft Office,[empty]
+WBMP,Wireless Application Protocol Bitmap Format,Open Mobile Alliance (formerly WAP Forum),[empty],.wbmp  .wbm  .wbp,image/vnd.wap.wbmp,Used in WAP-pages,[empty]
+WebP,WebP image format,Google,[empty],.webp,image/webp,Provides an alternative to JPEG  PNG and GIF with superior compression,Yes (royalty-free)
+WinFax,[empty],Symantec,[empty],.wfx  fxs  fxo,[empty],[empty],[empty]
+WMF,Windows Metafile Format,Microsoft,[empty],.wmf  .wmz,[empty],[empty],[empty]
+WordPerfect Graphics File,[empty],[empty],[empty],.wpg,[empty],[empty],[empty]
+XAML,Extensible Application Markup Language,Microsoft,XML,.xaml,application/xaml+xml,Used by Windows Presentation Foundation and Microsoft Silverlight.,[empty]
+XAR,Xar,Xara,Xar (graphics),.xar,application/vnd.xara,Used by Xara Photo & Graphic Designer,[empty]
+XBM,X BitMap  colour variant of original black-and-white bitmap (bmp) format,[empty],[empty],.xbm  .bm <br />.icon  .bitmap,image/x-xbitmap,Used by many legacy Unix applications.,[empty]
+XCF,XCF  name derived from eXperimental Computing Facility,The GIMP Team,[empty],.xcf <br />.xcfbz2 (compressed) <br />.xcfgz (compressed),application/x-gimp-image,Used by GIMP,[empty]
+XPM,X-Pixmap,[empty],[empty],.xpm  .pm,image/x-xpm,Used by many legacy Unix applications.,[empty]
+X3F,SIGMA RAW,SIGMA,[empty],.x3f,[empty],[empty],[empty]
+XWD,xwud X11 window dumper/undumper screenshot image,[empty],[empty],.xwd  .x11,[empty],Used by X Window System,[empty]
+XYZ,RPG Maker image file,ASCII,[empty],.xyz,[empty],RPG Maker,[empty]
+YCbCr,[empty],[empty],[empty],.ycbcr,[empty],[empty],[empty]
+YCbCrA,[empty],[empty],[empty],.ycbcra,[empty],[empty],[empty]
+YUV,[empty],[empty],[empty],.yuv,[empty],[empty],[empty]
+ZDT,[empty],[empty],[empty],.zdt,[empty],Used by TECH Win,[empty]
 Format,Full name,Owner,Based Format,File extension,MIME type,Application,Patented

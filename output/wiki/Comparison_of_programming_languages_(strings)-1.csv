@@ -6,10 +6,10 @@ $+,mIRC Scripting Language
 nconc,Common Lisp
 .,Perl (before version 6)  PHP  and Maple (up to version 5)  Autohotkey
 ~,Perl 6 and D
-<nowiki>,</nowiki>,Icon  Standard SQL  PL/I  Rexx  and Maple (from version 6)
+<nowiki>,</nowiki>
 <>,Mathematica  Wolfram Language
 ..,Lua
 :,Pick Basic
-,,J programming language  Smalltalk  APL
+ ,J programming language  Smalltalk  APL
 ^,OCaml  Standard ML  F#  rc
 //,Fortran

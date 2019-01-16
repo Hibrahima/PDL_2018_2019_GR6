@@ -1,25 +1,26 @@
 Client,Play While Downloading,PowerShare<ref>http://wiki.emule-web.de/index.php/Powershare</ref>,Dynamic Upload,SUQWT<ref>http://wiki.emule-web.de/index.php/Save_Upload_Queue_Waiting_Time</ref>,SubChunk Transfer,Drop Sources,Push small files,ZZ ratio<ref>http://wiki.emule-web.de/index.php/ZZratio</ref>,AntiLeech,IPFilter,Slot Control
-aMule,,<ref name=amulerelease></ref>,,,,,,,<ref group="N">There's no AntiLeech for official aMule. Some users released an unofficial aMule with DLP (ref.).</ref>,,
-eMule,Official,,,,,,,,,,,
-Osp,,,,,,,,,,,
-AnalyZZUL,,,,,,,,,,,
-beba,,,,,,,,,,,
-Magic Angel,,,,,,,,,,,
-Mephisto,,,,,,,,,,,
-MorphXT,,,,,,,,,,,
-NeoMule,,,,,,(including IpBlock),,,,,
-ScarAngel,,,,,,,,,,,
-SharkX,,,,,,,,,,,
-Sivka,,,,,,,,,,,
-Spike2,,,,,,,,,,,
-StulleMule,,,,,,,,,,,
-Xtreme,,,,,,,,,,,
-X-Ray,,,,,,,,,,,
-ZZUL,,,,,,,,,,,
-ZZUL BastarD,,,,,,,,,,,
-eMule Plus,,,,,,,,,,,
-Lphant,,,,,,,,,,,
-MLDonkey,,,,(No queue),,,,,,,(user selects number of slots)
-Shareaza,,,,,,,,,,,
-xMule,,,,,,,,,,,
+aMule,[empty],<ref name=amulerelease></ref>,[empty],[empty],[empty],[empty],[empty],[empty],<ref group="N">There's no AntiLeech for official aMule. Some users released an unofficial aMule with DLP (ref.).</ref>,[empty],[empty]
+eMule,Official,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Osp,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AnalyZZUL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+beba,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Magic Angel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mephisto,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MorphXT,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NeoMule,[empty],[empty],[empty],[empty],[empty],(including IpBlock),[empty],[empty],[empty],[empty],[empty]
+ScarAngel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SharkX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sivka,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spike2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+StulleMule,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xtreme,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+X-Ray,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZZUL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZZUL BastarD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eMule Plus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Lphant,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MLDonkey,[empty],[empty],[empty],(No queue),[empty],[empty],[empty],[empty],[empty],[empty],(user selects number of slots)
+Shareaza,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+xMule,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Client,Play While Downloading,PowerShare,Dynamic Upload,SUQWT,SubChunk Transfer,Drop Sources,Push Small files,ZZ Ratio,AntiLeech,IPFilter,Slot Control
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]

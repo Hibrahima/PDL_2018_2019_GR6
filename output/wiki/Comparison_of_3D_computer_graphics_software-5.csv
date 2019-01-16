@@ -1,8 +1,9 @@
 Application,Polygon,Curves,Spline/Bézier Surface,Metaball,Point Clouds,Particles,Voxel,Bone,Text,Camera,Light,Speaker
-tris,quads,N-gon,donut,Linear,Quadratic Bézier,Cubic Bézier,B-Spline,Cardinal spline,Hermite Spline,TCB spline,Smooth-step,Akima Spline,NURBS,NURBS regular patch,NURBS trimmed surface,Bicubic Bézier patch
-Blender,,,,<ref>"Blender For Dummies 3rd edition"  p.87  Jason van Gumster  April 27  2015  </ref>,,,,,,,,,,,,,,,,,,,,,,
-Maya,,,,,,{{?}},{{?}},{{?}},{{?}},{{?}},,,,,,,,,,,,,,,,
-3ds Max,,,,{{?}},,{{?}},,,,,,,,,,,,,,,,,,,,
-Cinema 4D,,,,{{?}},,,,,,{{?}},,,,{{?}},{{?}},{{?}},{{?}},,{{?}},,{{?}},,,,,
-LightWave,,,,,{{?}},{{?}},{{?}},,{{?}},,,{{?}},,{{?}},,{{?}},,,,,{{?}},,,,,{{?}}
-Shade 3D,,,,{{?}},{{?}},{{?}},,{{?}},,,,,,,{{?}},{{?}},,,,,{{?}},,,,,
+tris,quads,N-gon,donut,Linear,Quadratic Bézier,Cubic Bézier,B-Spline,Cardinal spline,Hermite Spline,TCB spline,Smooth-step,Akima Spline
+Blender,[empty],[empty],[empty],<ref>"Blender For Dummies 3rd edition"  p.87  Jason van Gumster  April 27  2015  </ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Maya,[empty],[empty],[empty],[empty],[empty],{{?}},{{?}},{{?}},{{?}},{{?}},[empty],[empty]
+3ds Max,[empty],[empty],[empty],{{?}},[empty],{{?}},[empty],[empty],[empty],[empty],[empty],[empty]
+Cinema 4D,[empty],[empty],[empty],{{?}},[empty],[empty],[empty],[empty],[empty],{{?}},[empty],[empty]
+LightWave,[empty],[empty],[empty],[empty],{{?}},{{?}},{{?}},[empty],{{?}},[empty],[empty],{{?}}
+Shade 3D,[empty],[empty],[empty],{{?}},{{?}},{{?}},[empty],{{?}},[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]

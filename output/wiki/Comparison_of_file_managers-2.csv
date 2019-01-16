@@ -1,28 +1,29 @@
 File manager,DOS,OS/2 & eCS,Windows,Mac OS X,Linux,BSD,Unix,AmigaOS,OpenVMS
-Directory Opus,,,,,,,,<ref name="AmigaOS" />,
-Dired,<ref></ref>,<ref></ref>,<ref></ref>,<ref>http://homepage.mac.com/zenitani/emacs-e.html</ref>,,,,<ref>http://de5.aminet.net/util/gnu/em1934src.readme</ref>,<ref></ref>
-Dolphin,,,<ref name="KDE_on_Windows" />,<ref name="kde4@macports"></ref>,,,,,
-Double Commander,,,,,,,,,
-DOS Navigator,,,,,,,,,
-emelFM2,,,,,,,,,
-File Commander,,,,,,,,,
-fman,,,,,,,,,
-GNOME Commander,,,,,,,,,
-Konqueror,,,<ref name="KDE_on_Windows"/>,<ref name="kde4@macports"/>,,,,,
-Krusader,,,,,,,,,
-Midnight Commander,,,<ref name="Cygwin" />,<ref name="Text" />,,,,,
-muCommander,,,,,,,,,
-GNOME Files (Nautilus),,,,,,,,,
-Nemo,,,,,,,,,
-PathMinder,,,,,,,,,
-PCManFM,,,,,,,,,
-Ranger,,,,,,,,,
-ROX-Filer,,,,,,,,,
-Thunar,,,,,,,,,
-Total Commander,,,,,,,,,
-Volkov Commander,,,,,,,,,
-Xandros File Manager,,,,,,,,,
-Xfe,,,,,,,,,
-Xfm,,,,,,,,,
-ZTreeWin,,,,,,,,,
+Directory Opus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="AmigaOS" />,[empty]
+Dired,<ref></ref>,<ref></ref>,<ref></ref>,<ref>http://homepage.mac.com/zenitani/emacs-e.html</ref>,[empty],[empty],[empty],<ref>http://de5.aminet.net/util/gnu/em1934src.readme</ref>,<ref></ref>
+Dolphin,[empty],[empty],<ref name="KDE_on_Windows" />,<ref name="kde4@macports"></ref>,[empty],[empty],[empty],[empty],[empty]
+Double Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DOS Navigator,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+emelFM2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+File Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+fman,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNOME Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Konqueror,[empty],[empty],<ref name="KDE_on_Windows"/>,<ref name="kde4@macports"/>,[empty],[empty],[empty],[empty],[empty]
+Krusader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Midnight Commander,[empty],[empty],<ref name="Cygwin" />,<ref name="Text" />,[empty],[empty],[empty],[empty],[empty]
+muCommander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNOME Files (Nautilus),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nemo,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PathMinder,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PCManFM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ranger,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ROX-Filer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Thunar,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Total Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Volkov Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xandros File Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xfe,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xfm,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZTreeWin,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 File manager,DOS,OS/2 & eCS,Windows,Mac OS X,Linux,BSD,Unix,AmigaOS,OpenVMS

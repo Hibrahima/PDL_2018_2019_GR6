@@ -23,14 +23,14 @@ NPEG,Recursive descent,C#,mixed,all,MIT
 OMeta,Packrat (modified  partial memoization),JavaScript  Squeak  Python,mixed,all,MIT
 PackCC,Packrat (modified),C,mixed,all,MIT
 Packrat,Packrat,Scheme,mixed,all,MIT
-Pappy,Packrat,Haskell,mixed,all,Proprietary
+Pappy,Packrat,Haskell,mixed,all,BSD
 parboiled,Recursive descent,Java  Scala,mixed,Java Virtual Machine,Apache License 2.0
 Lambda PEG,Recursive descent,Java,mixed,Java Virtual Machine,Apache License 2.0
 parsepp,Recursive descent,C++,mixed,all,Public domain
 Parsnip,Packrat,C++,mixed,Microsoft Windows,GNU GPL
 peg,Recursive descent,C,mixed,all,MIT
 PEG.js,Packrat (partial memoization),JavaScript,mixed,all,MIT
-peg-parser,PEG parser interpreter,Dylan,separate,all,
+peg-parser,PEG parser interpreter,Dylan,separate,all,[empty]
 Pegasus,Recursive descent / Packrat (selectively),C#,mixed,Microsoft Windows,MIT
 pegc,Recursive descent,C,mixed,all,Public domain
 pest,Recursive descent,Rust,separate,all,MPL

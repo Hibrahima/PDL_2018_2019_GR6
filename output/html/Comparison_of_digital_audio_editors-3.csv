@@ -1,4 +1,4 @@
-,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
+[empty],ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
 ACID Pro,Yes,No,Yes,Yes,No,No,No,No,No,Yes,No
 Acoustica,No,No,Yes,Yes,No,No,No,No,Yes,No,No
 Ardour,No,Yes,Yes,Unknown,Yes,Yes,No,No,Yes,No,No
@@ -14,7 +14,7 @@ Ecasound,No,Yes,No,No,Yes,No,No,No,No,No,No
 FL Studio,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No
 GarageBand,Yes,No,No,No,No,No,No,No,Yes,No,No
 Goldwave,No,No,Beta,Unknown,No,No,No,No,No,Yes,No
-,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
+[empty],ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
 Harrison Mixbus,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No
 Jokosher,No,No,No,Unknown,Yes,No,No,No,No,No,No
 Kristal,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
@@ -31,7 +31,7 @@ NU-Tech,No,No,Yes,Unknown,No,No,No,No,No,No,No
 Podium,Yes,No,Yes,No,No,No,No,No,No,No,No
 Pro Tools,Yes,No,No,No,No,No,No,Before version 11,No,No,No
 Qtractor,No,Yes,Yes,Unknown,Yes,Yes,Yes,No,Yes,No,No
-,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
+[empty],ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
 REAPER,Yes,No,Yes,Yes,No,No,No,No,Yes,Yes,No
 Reason,Yes,No,Yes,No,No,No,No,No,No,No,No
 Record,Yes,No,No,No,No,No,No,No,No,No,No
@@ -53,4 +53,4 @@ Traverso,No,Yes,No,Unknown,No,Yes,No,No,No,No,No
 WaveLab,No,No,Yes,Yes,No,No,No,No,No,No,No
 WavePad,No,No,Yes,No,No,No,No,No,No,Yes,No
 WaveSurfer,No,No,No,No,No,No,No,No,No,No,No
-,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
+[empty],ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS

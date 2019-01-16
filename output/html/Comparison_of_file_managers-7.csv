@@ -6,19 +6,19 @@ Directory Opus,Yes,Yes,Yes,Partial,Yes,Yes
 Dired,Yes,Yes,Yes,No,Yes,Yes
 Dolphin,Yes,No,Yes,Yes,Yes,?
 Double Commander,Yes,Yes,Yes,No,Yes[e 1],Partial[e 2]
-emelFM2,?,?,?,?,,?
+emelFM2,?,?,?,?,[empty],?
 Far Manager,Yes,Yes,Yes,Partial,Yes[e 3],No
 Finder,Yes,No,Yes,Yes,Yes[e 4],Partial[e 5]
 ForkLift,Yes,Yes,Yes,No,Yes,Yes
 Konqueror,Yes,No,Yes,Yes,Yes,Yes
-Krusader,Yes,No,Yes,Partial,,?
+Krusader,Yes,No,Yes,Partial,[empty],?
 Midnight Commander,Yes,No,No,No,Yes,No
 GNOME Files (Nautilus),Yes,?,Yes,?,Yes,?
 Nemo,?,?,?,?,?,?
 Nomad.NET,Yes,Yes,Yes,?,Yes,Yes
-Path Finder,?,?,?,?,,?
+Path Finder,?,?,?,?,[empty],?
 PCManFM,Yes,Yes,Yes,No,Yes,No
-ROX-Filer,,No,Yes,No,,?
+ROX-Filer,[empty],No,Yes,No,[empty],?
 Total Commander,Yes,Yes,Yes,Yes In search tool,Yes[e 1],Partial[e 2]
 Windows Explorer,Yes,Yes,Yes,Yes[92],Yes,Partial[e 5]
 Xandros File Manager,?,?,?,?,?,?

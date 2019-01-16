@@ -1,13 +1,14 @@
 Tool,Supported data models (conceptual  logical  physical),Supported notations,Forward engineering,Reverse engineering,Model/database comparison and synchronization,Teamwork/repository
-Database Workbench,Conceptual  logical  physical,IE (Crows feet),,,Update database and/or update model,
-Enterprise Architect,Conceptual  Logical & Physical + MDA Transform of Logical to Physical,IDEF1X  UML DDL  Information Engineering & ERD,,,Update database and/or update model,Multi-user collaboration using File  DBMS or Cloud Repository (or transfer via XMI  CVS/TFS or Difference Merge).
-ER/Builder data Modeler,physical,Relational,,,Update database,
-ER/Studio,Conceptual  logical  physical  ETL,IDEF1X  IE (Crows feet),,,Update database and/or update model,ER/Studio Repository and Team Server (formerly Portal/CONNECT) for collaboration
-MagicDraw,Conceptual  Logical & Physical + MDA Transform of Logical to Physical,IDEF1X  UML DDL  Information Engineering & ERD,,,Update database and/or update model,Multi-user collaboration using File  DBMS or (transfer via XMI  CVS/TFS or Difference Merge).
-MySQL Workbench,Physical,IDEF1X  IE (Crows feet)  UML  and more,,,Update database and/or update model,
-Navicat Data Modeler,Conceptual  physical,IE (Crows feet),,,Update database and/or update model,
-NORMA Object-Role modeling,Conceptual (ORM)  Logical  Physical,ORM  Relational(Crows feet option)  Barker,,,Update database and/or update model,
-Open ModelSphere,Conceptual  Logical  physical,IDEF1X  IE (Crows feet)  and more,,,Update database and/or update model,
-Oracle SQL Developer Data Modeler,Logical  physical,IDEF1X  IE (Crows feet)  and more,,,Update database and/or update model,
-PowerDesigner,Conceptual  logical  physical,IDEF1X  IE (Crows feet)  and more,,,Update database and/or update model,
-Toad Data Modeler,Logical  physical,IDEF1X  IE (Crows feet)  and more,,,Update database and/or update model,
+Database Workbench,Conceptual  logical  physical,IE (Crows feet),[empty],[empty],Update database and/or update model,[empty]
+Enterprise Architect,Conceptual  Logical & Physical + MDA Transform of Logical to Physical,IDEF1X  UML DDL  Information Engineering & ERD,[empty],[empty],Update database and/or update model,Multi-user collaboration using File  DBMS or Cloud Repository (or transfer via XMI  CVS/TFS or Difference Merge).
+ER/Builder data Modeler,Physical,Relational,[empty],[empty],Update database,[empty]
+ER/Studio,Conceptual  logical  physical  ETL,IDEF1X  IE (Crows feet),[empty],[empty],Update database and/or update model,ER/Studio Repository and Team Server (formerly Portal/CONNECT) for collaboration
+MagicDraw,Conceptual  Logical & Physical + MDA Transform of Logical to Physical,IDEF1X  UML DDL  Information Engineering & ERD,[empty],[empty],Update database and/or update model,Multi-user collaboration using File  DBMS or (transfer via XMI  CVS/TFS or Difference Merge).
+[added],[added],[added],[added],[added],[added],[added]
+MySQL Workbench,Physical,IDEF1X  IE (Crows feet)  UML  and more,[empty],[empty],Update database and/or update model,[empty]
+Navicat Data Modeler,Conceptual  physical,IE (Crows feet),[empty],[empty],Update database and/or update model,[empty]
+NORMA Object-Role modeling,Conceptual (ORM)  Logical  Physical,ORM  Relational(Crows feet option)  Barker,[empty],[empty],Update database and/or update model,[empty]
+Open ModelSphere,Conceptual  Logical  physical,IDEF1X  IE (Crows feet)  and more,[empty],[empty],Update database and/or update model,[empty]
+Oracle SQL Developer Data Modeler,Logical  physical,IDEF1X  IE (Crows feet)  and more,[empty],[empty],Update database and/or update model,[empty]
+PowerDesigner,Conceptual  logical  physical,IDEF1X  IE (Crows feet)  and more,[empty],[empty],Update database and/or update model,[empty]
+Toad Data Modeler,Logical  physical,IDEF1X  IE (Crows feet)  and more,[empty],[empty],Update database and/or update model,[empty]

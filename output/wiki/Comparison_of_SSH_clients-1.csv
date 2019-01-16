@@ -1,24 +1,25 @@
 Name,Developer,Status,First release,Latest release,Current version,Based on,License,Source available
-AbsoluteTelnet,Celestial Software (Brian Pence),,1996,2016-10-12,10.16<ref>https://www.celestialsoftware.net/absolutetelnet-ssh-client/absolutetelnet/ssh-version-history-9.53.html</ref>,,,
-Bitvise,Bitvise Limited,,2001,2018-11-07,8.18<ref>https://www.bitvise.com/ssh-client-version-history</ref>,,,
-Cisco CLI Analyzer,Cisco Systems Inc,,2015,2018-09-06,3.6.1 <ref>https://cway.cisco.com/cli</ref>,,,
-ConnectBot,Kenny Root / Jeffrey Sharkey,,2007-11,2018-11-09,1.9.2 <ref>https://connectbot.org/</ref>,Trilead SSH-2 for Java,,
-CRAX Commander,Soft4U2 Marcin Słowik,,2013-09,2015-12-01,1.10.6,libSSH2,,
-Dropbear,Matt Johnston,,2003-04-06,2017-05-18,2017.75,,,
-eSSH Client,Ecode Software,,2002-07,,,,,
-GSW ConnectBot,Georgia SoftWorks,,2018,2018-11-09,2.5.003 <ref>http://www.georgiasoftworks.com/products/connectbot/connectbot.php</ref>,Trilead SSH-2 for Java,,
-lsh,Niels Möller,,1999-05-23,2013-06-26,2.1,,,
-OpenSSH,The OpenBSD project,,1999-12-01,2018-10-19,7.9,ossh,,
-PACManager,David Torrejón Vaquerizas,,2010-01-01,2016-07-21,4.5.5.7,OpenSSH  Telnet  FTP  vncviewer  rdesktop  cu  remote-tty  mosh  cadaver,,
-PuTTY,Simon Tatham,,1999-01-22,2017-07-08,0.70<ref></ref>,,,
-Reflection for Secure IT,Attachmate,,,2012-11-12,,F-Secure SSH,,
-SecureCRT,VanDyke Software,,1998-06,2018-11-15,8.5.2<ref></ref>,,,
-SSH Tectia Client/ConnectSecure,SSH Communications Security (former Tectia),,1995-07,2017-06-22,6.4.15,Own implementation in C,,
-SSH Secure Shell Client,SSH Communications Security Corp.,,2000,2003,3.2.9<ref>https://sils.unc.edu/it-services/servers/using-ssh</ref>,,,
-SunSSH,Open Solaris,,2001,,,OpenSSH 2.3,,
-Tera Term,TeraTerm Project,,2004,2018-08-31,4.100<ref></ref>,Tera Term Pro 2.3 (1994–1998),,
-Termius,Crystalnix Limited,,2012,2017-01-08,,,,
-TN3270 Plus,SDI USA  Inc.,,2006,,,,,
-TtyEmulator,FCS Software,,2002-05,,,,,
-Xshell,NetSarang Computer  Inc.,,2002-11-02,2018-12-11,6.0.0109<ref></ref>,,,
-ZOC Terminal,EmTec  Innovative Software,,1995-07-01,2018-10-17,7.21.1<ref></ref>,,,
+AbsoluteTelnet,Celestial Software (Brian Pence),[empty],1996,2016-10-12,10.16<ref>https://www.celestialsoftware.net/absolutetelnet-ssh-client/absolutetelnet/ssh-version-history-9.53.html</ref>,[empty],[empty],[empty]
+Bitvise,Bitvise Limited,[empty],2001,2018-11-07,8.18<ref>https://www.bitvise.com/ssh-client-version-history</ref>,[empty],[empty],[empty]
+Cisco CLI Analyzer,Cisco Systems Inc,[empty],2015,2018-09-06,3.6.1 <ref>https://cway.cisco.com/cli</ref>,[empty],[empty],[empty]
+ConnectBot,Kenny Root / Jeffrey Sharkey,[empty],2007-11,2018-11-09,1.9.2 <ref>https://connectbot.org/</ref>,Trilead SSH-2 for Java,[empty],[empty]
+CRAX Commander,Soft4U2 Marcin Słowik,[empty],2013-09,2015-12-01,1.10.6,libSSH2,[empty],[empty]
+Dropbear,Matt Johnston,[empty],2003-04-06,2017-05-18,2017.75,[empty],[empty],[empty]
+eSSH Client,Ecode Software,[empty],2002-07,[empty],[empty],[empty],[empty],[empty]
+GSW ConnectBot,Georgia SoftWorks,[empty],2018,2018-11-09,2.5.003 <ref>http://www.georgiasoftworks.com/products/connectbot/connectbot.php</ref>,Trilead SSH-2 for Java,[empty],[empty]
+lsh,Niels Möller,[empty],1999-05-23,2013-06-26,2.1,[empty],[empty],[empty]
+OpenSSH,The OpenBSD project,[empty],1999-12-01,2018-10-19,7.9,ossh,[empty],[empty]
+PACManager,David Torrejón Vaquerizas,[empty],2010-01-01,2016-07-21,4.5.5.7,OpenSSH  Telnet  FTP  vncviewer  rdesktop  cu  remote-tty  mosh  cadaver,[empty],[empty]
+PuTTY,Simon Tatham,[empty],1999-01-22,2017-07-08,0.70<ref></ref>,[empty],[empty],[empty]
+Reflection for Secure IT,Attachmate,[empty],[empty],2012-11-12,[empty],F-Secure SSH,[empty],[empty]
+SecureCRT,VanDyke Software,[empty],1998-06,2018-11-15,8.5.2<ref></ref>,[empty],[empty],[empty]
+SSH Tectia Client/ConnectSecure,SSH Communications Security (former Tectia),[empty],1995-07,2017-06-22,6.4.15,Own implementation in C,[empty],[empty]
+SSH Secure Shell Client,SSH Communications Security Corp.,[empty],2000,2003,3.2.9<ref>https://sils.unc.edu/it-services/servers/using-ssh</ref>,[empty],[empty],[empty]
+SunSSH,Open Solaris,[empty],2001,[empty],[empty],OpenSSH 2.3,[empty],[empty]
+Tera Term,TeraTerm Project,[empty],2004,2018-08-31,4.100<ref></ref>,Tera Term Pro 2.3 (1994–1998),[empty],[empty]
+Termius,Crystalnix Limited,[empty],2012,2017-01-08,[empty],[empty],[empty],[empty]
+Termux,[empty],[empty],2012,2018-09-08,0.65,[empty],[empty],[empty]
+TN3270 Plus,SDI USA  Inc.,[empty],2006,[empty],[empty],[empty],[empty],[empty]
+TtyEmulator,FCS Software,[empty],2002-05,[empty],[empty],[empty],[empty],[empty]
+Xshell,NetSarang Computer  Inc.,[empty],2002-11-02,2018-12-27,6.0.0111<ref></ref>,[empty],[empty],[empty]
+ZOC Terminal,EmTec  Innovative Software,[empty],1995-07-01,2018-10-17,7.21.1<ref></ref>,[empty],[empty],[empty]

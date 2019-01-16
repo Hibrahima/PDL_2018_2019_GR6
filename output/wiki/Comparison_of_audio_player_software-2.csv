@@ -1,36 +1,37 @@
 Audio player,Windows,OS X,Linux,iOS,Android,BSD Unix,Solaris,Other Unix,DOS
-AIMP,,,,,,,,,
-Amarok,,,,,,,,,
-aTunes,,,,,,,,,
-Audacious,,,,,,,,,
-Audion,,,,,,,,,
-Banshee,,,,,,,,,
-cmus,,,,,,,,,
-Cog,,,,,,,,,
-Clementine,,,,,,,,,
-Ecoute,,,,,,,,,
-Exaile,,,,,,,,,
-foobar2000,,<ref group="osnotes" name="Foobar2000 - Mac">foobar2000 - Mac</ref>,<ref group="osnotes" name="WineHQ - foobar2000">WineHQ - foobar2000</ref>,,,,,,
-Guayadeque Music Player,,,,,,,,,
-Groove Music,,,,,,,,,
-iTunes,,,,,,,,,
-JRiver Media Center,,,,,,,,,
-MediaMonkey,,,,,,,,,
-MPXPLAY,,,,,,,,,
-Music Player Daemon,,,,,,,,,
-MusicBee,,,<ref>https://getmusicbee.com/help/faq/</ref>,,,,,,
-Musicmatch Jukebox,,,,,,,,,
-musikCube,,,,,,,,,
-Quod Libet,,,,,,,,,
-Rdio,,,,,,,,,
-Rhapsody,,,,,,,,,
-Rhythmbox,,,,,,,,,
-Songbird,,,,,,,,,
-Sonique,,,,,,,,,
-Spotify,,,,,,,,,
-Style Jukebox,,,,,,,,,
-Winamp,,,,,,,,,
-XMMS,,,,,,,,,
-XMPlay,,,,,,,,,
-Zinf,,,,,,,,,
+AIMP,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Amarok,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+aTunes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Audacious,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Audion,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Banshee,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+cmus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cog,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Clementine,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ecoute,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Exaile,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+foobar2000,[empty],<ref group="osnotes" name="Foobar2000 - Mac">foobar2000 - Mac</ref>,<ref group="osnotes" name="WineHQ - foobar2000">WineHQ - foobar2000</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Guayadeque Music Player,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Groove Music,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+iTunes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JRiver Media Center,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+MediaMonkey,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MPXPLAY,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Music Player Daemon,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MusicBee,[empty],[empty],<ref>https://getmusicbee.com/help/faq/</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Musicmatch Jukebox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+musikCube,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quod Libet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rdio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rhapsody,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rhythmbox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Songbird,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sonique,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spotify,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Style Jukebox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Winamp,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XMMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XMPlay,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zinf,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Audio player,Windows,OS X,Linux,iOS,Android,BSD Unix,Solaris,Other Unix,DOS

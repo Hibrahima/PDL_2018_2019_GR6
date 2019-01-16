@@ -1,4 +1,4 @@
-,FAT12,FAT16,FAT32,HPFS,ISO 9660,NTFS,UDF (More Info),ReFS
-Windows Phone 8,,,,,,v5,,
-Windows Phone 8.1,,,,,,v5,,
-Windows 10 Mobile,,,,,,v5,,
+[empty],FAT12,FAT16,FAT32,HPFS,ISO 9660,NTFS,UDF (More Info),ReFS
+Windows Phone 8,[empty],[empty],[empty],[empty],[empty],v5,[empty],[empty]
+Windows Phone 8.1,[empty],[empty],[empty],[empty],[empty],v5,[empty],[empty]
+Windows 10 Mobile,[empty],[empty],[empty],[empty],[empty],v5,[empty],[empty]

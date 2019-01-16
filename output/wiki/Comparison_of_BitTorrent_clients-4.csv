@@ -1,34 +1,34 @@
 BitTorrent client,Magnet URI,Preload Magnet metadata <ref name="preload_magnet_metadata" group=Note>For a torrent added from a Magnet link  obtain the list of files (and other metadata) before prompting the user for a download location.</ref>,Super-seeding,Embedded tracker,UPnP <ref name="upnp" group="Note">Automatically configure port forwarding (requires Router with UPnP support)</ref>,NAT Port Mapping Protocol,NAT traversal <ref name="udp_nat" group="Note">Many clients claim to support this  but just UPnP calls for opening a TCP port is not effective and disabled by factory default in most new hardware. "UDP NAT Traversal" is the proper working solution  supported by just a few.</ref>,DHT <ref name="dht" group="Note">DHT permits use of trackerless torrents (with supporting clients) to resume normal torrents when their tracker is down. However  some trackers that register their users for keeping tabs on fair usage (such as a ratio of bytes downloaded to uploaded) may not reliably measure and update usage for users employing DHT.</ref>,Peer exchange,Encryption,UDP tracker,LPD,Proxy server
-ABC,,,,,,,,,,,,,
-Acquisition,,,,,,,,,,,,,
-BitComet,,,,Separate download,,,,,,,,,
-BitLet,,,,,,,,,,,,,
-BitLord,,,,,,,,,,,,,
-BitTornado,,,,<ref name="linuxtracker" group=Note>Tracker included with Linux binaries and with source  but not with Windows binary.</ref>,,,,,,,,,
-BitTorrent 5  Mainline,,,,<ref name="linuxtracker" group=Note />,,,,,,,,,
-BitTorrent 6,,,,,,,,,<ref name="exchange" group=Note>Exchanging with BT 6 and µTorrent clients (and now MooPolice).</ref>,,,,
-BitTyrant,,,,,,,<ref group=Note>It's UDP based  an experimental feature and only supported by other Azureus based clients.</ref>,<ref name="dht_not_compatible" group=Note>Has its own DHT  a mainline-DHT compatible implementation is available as plugin.</ref>,,,,,
-Blog Torrent,,,,,,,,,,,,,
-Deluge,,,,,,,,,,,,,
-FlashGet,,,,,,,,,,,,,
-Free Download Manager,,,,,,,,,,,,,
-KTorrent,,,,,,,,,,,,,
-LimeWire,,,,,,,,,,,,,
-Meerkat Bittorrent Client,,,,,,,,,,,,,
-MLDonkey,<ref></ref>,,,,,,,,,,,,
-µTorrent,,<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,,<ref name="µTorrent 2.0 beta"></ref>,<ref group=Note>µTorrent's DHT implementation is the same as Mainline and BitComet's  but unfortunately this is incompatible with Azureus's implementation.</ref>,<ref name="exchange" group=Note />,<ref></ref>,,<ref></ref>,
-OneSwarm,,,,,,,,,,,,,
-Opera 12,,,,<ref name=opera1></ref>,,,,,<ref name=opera2></ref>,,,,
-qBittorrent,,,,,,,,,,,,,
-rTorrent,<ref>Aided with a shell script documented in </ref>,,,,,,,,,,,<ref name=ticket></ref>,
-Shareaza,,,,,,,,<ref group=Note>Since Shareaza v2.6.0.0  Shareaza includes Mainline DHT support. Also  Shareaza can use the Gnutella2 network to find other Gnutella2 clients sharing the same torrent. This also includes clients who do not actively seed the torrent in question anymore  as long as file hashes (such as sha1 for example) are known.</ref>,,,<ref group=Note>Since Shareaza v2.5.5.1 r9064.</ref>,,
-SymTorrent,,,,,,,,,,,,,
-Tixati,,,,,,,,,,,,,
-Tomato Torrent,,,,,,,,,,,,,
-Tonido,,,,,,,,,,,,,
-TorrentFlux,,,,,,,,,,,,,
-Transmission,,<ref>unofficial build transmission daemon cygwin </ref><ref>unofficial build Transmission-Qt </ref><ref>unofficial build cfpp2p GitHub transmission </ref>,,,,,,,<ref group=Note>Exchanges with µTorrent and Azureus peers.</ref>,,,,<ref>Proxy support was removed in version 2.12: </ref>
-Tribler,,,,,,,,,,,,,
-Vuze (formerly Azureus),,,,,,,<ref group=Note>Since version 2.5.0.2. It's UDP based  an experimental feature and only supported by other Azureus clients.</ref>,<ref name="dht_not_compatible" group=Note />,,,,,
-Xunlei,,,,,,,,,,,,,
+ABC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Acquisition,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitComet,[empty],[empty],[empty],Separate download,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitLet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitLord,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTornado,[empty],[empty],[empty],<ref name="linuxtracker" group=Note>Tracker included with Linux binaries and with source  but not with Windows binary.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTorrent 5  Mainline,[empty],[empty],[empty],<ref name="linuxtracker" group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTorrent 6,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="exchange" group=Note>Exchanging with BT 6 and µTorrent clients (and now MooPolice).</ref>,[empty],[empty],[empty],[empty]
+BitTyrant,[empty],[empty],[empty],[empty],[empty],[empty],<ref group=Note>It's UDP based  an experimental feature and only supported by other Azureus based clients.</ref>,<ref name="dht_not_compatible" group=Note>Has its own DHT  a mainline-DHT compatible implementation is available as plugin.</ref>,[empty],[empty],[empty],[empty],[empty]
+Blog Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Deluge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FlashGet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Free Download Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LimeWire,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Meerkat Bittorrent Client,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MLDonkey,<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+µTorrent,[empty],<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,[empty],<ref name="µTorrent 2.0 beta"></ref>,<ref group=Note>µTorrent's DHT implementation is the same as Mainline and BitComet's  but unfortunately this is incompatible with Azureus's implementation.</ref>,<ref name="exchange" group=Note />,<ref></ref>,[empty],<ref></ref>,[empty]
+OneSwarm,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Opera 12,[empty],[empty],[empty],<ref name=opera1></ref>,[empty],[empty],[empty],[empty],<ref name=opera2></ref>,[empty],[empty],[empty],[empty]
+qBittorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rTorrent,<ref>Aided with a shell script documented in </ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=ticket></ref>,[empty]
+Shareaza,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group=Note>Since Shareaza v2.6.0.0  Shareaza includes Mainline DHT support. Also  Shareaza can use the Gnutella2 network to find other Gnutella2 clients sharing the same torrent. This also includes clients who do not actively seed the torrent in question anymore  as long as file hashes (such as sha1 for example) are known.</ref>,[empty],[empty],<ref group=Note>Since Shareaza v2.5.5.1 r9064.</ref>,[empty],[empty]
+SymTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tixati,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tomato Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tonido,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TorrentFlux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Transmission,[empty],<ref>unofficial build transmission daemon cygwin </ref><ref>unofficial build Transmission-Qt </ref><ref>unofficial build cfpp2p GitHub transmission </ref>,[empty],[empty],[empty],[empty],[empty],[empty],<ref group=Note>Exchanges with µTorrent and Azureus peers.</ref>,[empty],[empty],[empty],<ref>Proxy support was removed in version 2.12: </ref>
+Tribler,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Vuze (formerly Azureus),[empty],[empty],[empty],[empty],[empty],[empty],<ref group=Note>Since version 2.5.0.2. It's UDP based  an experimental feature and only supported by other Azureus clients.</ref>,<ref name="dht_not_compatible" group=Note />,[empty],[empty],[empty],[empty],[empty]
+Xunlei,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 BitTorrent client,Magnet URI,Preload Magnet metadata,Super-seeding,Embedded tracker,UPnP,NAT Port Mapping Protocol,NAT traversal,DHT,Peer exchange,Encryption,UDP tracker,LPD,Proxy server

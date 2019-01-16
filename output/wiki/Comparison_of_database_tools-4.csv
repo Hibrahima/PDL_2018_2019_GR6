@@ -1,23 +1,23 @@
-,Visual query builder,Visual schema/model/E-R diagram design,Reverse engineering,Forward engineering,ER diagram groupboxes
-Adminer,,,,,
-Altova DatabaseSpy,,,,,
-DaDaBIK,,,,,
-Database Deployment Manager,,,,,
-Database Workbench,,,,,
-DBeaver,,,,,
-DBEdit,,,,,
-ER/Builder Data Modeler,,,,,
-ModelRight,,,,,
-Navicat,,,,,
-Navicat Data Modeler,,,,,
-MySQL Workbench,,,,,
-Oracle SQL Developer,,,,,
-Orbada,,,,,
-pgAdmin III,,,,,
-phpMyAdmin,,,,,
-SQL Database Studio,,,,,
-SQL Server Management Studio,,,,,
-SQLyog,<ref>SQLYog query builder</ref>,<ref>SQLYog schema designer</ref>,,,
-SQuirreL SQL,,,,,
-Toad,,,,,
-Toad Data Modeler,,,,,
+[empty],Visual query builder,Visual schema/model/E-R diagram design,Reverse engineering,Forward engineering,ER diagram groupboxes
+Adminer,[empty],[empty],[empty],[empty],[empty]
+Altova DatabaseSpy,[empty],[empty],[empty],[empty],[empty]
+DaDaBIK,[empty],[empty],[empty],[empty],[empty]
+Database Deployment Manager,[empty],[empty],[empty],[empty],[empty]
+Database Workbench,[empty],[empty],[empty],[empty],[empty]
+DBeaver,[empty],[empty],[empty],[empty],[empty]
+DBEdit,[empty],[empty],[empty],[empty],[empty]
+ER/Builder Data Modeler,[empty],[empty],[empty],[empty],[empty]
+ModelRight,[empty],[empty],[empty],[empty],[empty]
+Navicat,[empty],[empty],[empty],[empty],[empty]
+Navicat Data Modeler,[empty],[empty],[empty],[empty],[empty]
+MySQL Workbench,[empty],[empty],[empty],[empty],[empty]
+Oracle SQL Developer,[empty],[empty],[empty],[empty],[empty]
+Orbada,[empty],[empty],[empty],[empty],[empty]
+pgAdmin III,[empty],[empty],[empty],[empty],[empty]
+phpMyAdmin,[empty],[empty],[empty],[empty],[empty]
+SQL Database Studio,[empty],[empty],[empty],[empty],[empty]
+SQL Server Management Studio,[empty],[empty],[empty],[empty],[empty]
+SQLyog,<ref>SQLYog query builder</ref>,<ref>SQLYog schema designer</ref>,[empty],[empty],[empty]
+SQuirreL SQL,[empty],[empty],[empty],[empty],[empty]
+Toad,[empty],[empty],[empty],[empty],[empty]
+Toad Data Modeler,[empty],[empty],[empty],[empty],[empty]

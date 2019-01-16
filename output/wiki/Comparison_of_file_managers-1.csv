@@ -1,52 +1,52 @@
 File manager,Creator,First public version (date),Latest stable version (date  number),Cost,Software license
-Altap Salamander,Altap,,(3.08),,
-Commander One,Eltima Software,,(1.1),,
-CRAX Commander,Soft4U2,,(1.11.1),,
-Directory Opus,Jonathan Potter  GPSoftware,Amiga: v1 (1990-01-03) Windows: v6 (2001-06-18),(12.10),,
-Dired,integral part of Emacs  part of the GNU project,1974?,(7.17),,
-Dolphin,KDE,(0.5),(17.04.2),,
-DOS Navigator,Ritlabs,1991 (0.90),1999 (1.51),,
-DOS Shell,Microsoft / IBM,1988,1998,Part of MS-DOS / PC DOS,
-Double Commander,alexx2000,2007,(0.8.3),,
-emelFM2,tooar,,(0.9.1),,
-Explorer++,David Ercig,,(1.3.5),,
-Far Manager,Eugene Roshal (original); Far Group,1996,,,
-File Commander,Brian Havard,1993,(2.40),,
-File Manager,Microsoft (Ian Ellison-Taylor),1990,(4.0.1381.318),Part of Windows,
-GeoManager,Berkeley Softworks / GeoWorks Corporation / Breadbox Computer Company,1990,2009,Part of PC/GEOS,
-Finder,Apple Inc.,,(10.10.5),Part of macOS,
-fman,Michael Herrmann,,(1.1.7),,
-ForkLift,BinaryNights,,(3.2.2),,
-Gentoo (file manager),Emil Brink,,(0.19.13),,
-GNOME Commander,GNOME Commander,,(1.6.4),,
-Konqueror,KDE,,,,
-Krusader,Krusader Krew,,,,
-Midnight Commander (mc),GNU Midnight Commander,< May 1994<ref>The exact history is unknown. This date comes from changelog entries in the src/TODO file in the Git repository (SHA1: eb6b3842a). But it is probably earlier than that. Dec 1997 was release v4.1 already.</ref>,(4.8.16),,
-muCommander,Maxence Bernard,,(0.9.1),,
-GNOME Files (Nautilus),Eazel,,,,
-Nemo,Linux Mint  part of Cinnamon desktop environment,(1.0.0),,
-Nomad.NET,Eugene Sichkar,<br /> (2.2.0.537 beta),(3.2.0.2890),,
-Norton Commander,Peter Norton Computing  later Symantec corporation,1986,(2.01 Windows DOS: 1998-07-01 (5.51)),,
-Path Finder (originally named SNAX),Cocoatech,,(7),,
-PathMinder,Albert Nurick and Brittain Fraley,1984,1988 (4.11),,
-PCManFM,Hong Jen Yee,,(1.2.4),,
-PC Shell,Central Point Software,1986,,Part of PC Tools for DOS,
-ROX-Filer,Thomas Leonard et al.,Before,(2.11),,
-SpaceFM,IgnorantGuru,(0.5.0),(1.0.5),,
-STDU Explorer,STDUtility,,(1.0.465),,
-Tabbles,Yellow blue soft UAB,,(3.1.29),,
-Thunar,Xfce,,(1.8.0)<ref></ref>,,
-Total Commander (originally named 'Windows Commander'),Christian Ghisler,(1.00d),(9.21a),Nagware<ref></ref>,
-ViewMAX,Digital Research / Novell,1990 (1.0),1993 (3.0),Part of DR-DOS,
-Volkov Commander,Vsevolod Volkov,circa 1992,,,
-Windows Explorer (now 'File Explorer'),Microsoft,,,Part of Windows,
-WinSCP,WinSCP,,,,
-Xandros File Manager,Xandros Corporation,,(4.2),,
-Xfe,Roland Baudin,2002,(1.42),,
-Xfile,Rixstep,,(1.8.0),,
-Xfm,Simon Marlow  Albert Gräf  Robert Vogelgesang  Juan D. Martin  Till Straumann,1992,(1.4.3),,
-xplorer²,Nikos Bozinis,,(3.5.0.2),,
-XTree,Jeffery C. Johnson,,(Xtree for Windows),,
-XYplorer,Donald Lessau,1997,(19.30.0000),,
-ZTreeWin,Kim Henkel,1996,(2.1.19) (2.4.121 beta) (2.4.172 zeta),,
+Altap Salamander,Altap,[empty],(3.08),[empty],[empty]
+Commander One,Eltima Software,[empty],(1.1),[empty],[empty]
+CRAX Commander,Soft4U2,[empty],(1.11.1),[empty],[empty]
+Directory Opus,Jonathan Potter  GPSoftware,Amiga: v1 (1990-01-03) Windows: v6 (2001-06-18),(12.11),[empty],[empty]
+Dired,integral part of Emacs  part of the GNU project,1974?,(7.17),[empty],[empty]
+Dolphin,KDE,(0.5),(17.04.2),[empty],[empty]
+DOS Navigator,Ritlabs,1991 (0.90),1999 (1.51),[empty],[empty]
+DOS Shell,Microsoft / IBM,1988,1998,Part of MS-DOS / PC DOS,[empty]
+Double Commander,alexx2000,2007,(0.8.3),[empty],[empty]
+emelFM2,tooar,[empty],(0.9.1),[empty],[empty]
+Explorer++,David Ercig,[empty],(1.3.5),[empty],[empty]
+Far Manager,Eugene Roshal (original); Far Group,1996,[empty],[empty],[empty]
+File Commander,Brian Havard,1993,(2.40),[empty],[empty]
+File Manager,Microsoft (Ian Ellison-Taylor),1990,(4.0.1381.318),Part of Windows,[empty]
+GeoManager,Berkeley Softworks / GeoWorks Corporation / Breadbox Computer Company,1990,2009,Part of PC/GEOS,[empty]
+Finder,Apple Inc.,[empty],(10.10.5),Part of macOS,[empty]
+fman,Michael Herrmann,[empty],(1.1.7),[empty],[empty]
+ForkLift,BinaryNights,[empty],(3.2.2),[empty],[empty]
+Gentoo (file manager),Emil Brink,[empty],(0.19.13),[empty],[empty]
+GNOME Commander,GNOME Commander,[empty],(1.6.4),[empty],[empty]
+Konqueror,KDE,[empty],[empty],[empty],[empty]
+Krusader,Krusader Krew,[empty],[empty],[empty],[empty]
+Midnight Commander (mc),GNU Midnight Commander,< May 1994<ref>The exact history is unknown. This date comes from changelog entries in the src/TODO file in the Git repository (SHA1: eb6b3842a). But it is probably earlier than that. Dec 1997 was release v4.1 already.</ref>,(4.8.16),[empty],[empty]
+muCommander,Maxence Bernard,[empty],(0.9.1),[empty],[empty]
+GNOME Files (Nautilus),Eazel,[empty],[empty],[empty],[empty]
+Nemo,Linux Mint  part of Cinnamon desktop environment,(1.0.0),December 11  2018 (4.0.5)<ref></ref>,[empty],[empty]
+Nomad.NET,Eugene Sichkar,<br /> (2.2.0.537 beta),(3.2.0.2890),[empty],[empty]
+Norton Commander,Peter Norton Computing  later Symantec corporation,1986,(2.01 Windows DOS: 1998-07-01 (5.51)),[empty],[empty]
+Path Finder (originally named SNAX),Cocoatech,[empty],(7),[empty],[empty]
+PathMinder,Albert Nurick and Brittain Fraley,1984,1988 (4.11),[empty],[empty]
+PCManFM,Hong Jen Yee,[empty],(1.2.4),[empty],[empty]
+PC Shell,Central Point Software,1986,[empty],Part of PC Tools for DOS,[empty]
+ROX-Filer,Thomas Leonard et al.,Before,(2.11),[empty],[empty]
+SpaceFM,IgnorantGuru,(0.5.0),(1.0.5),[empty],[empty]
+STDU Explorer,STDUtility,[empty],(1.0.465),[empty],[empty]
+Tabbles,Yellow blue soft UAB,[empty],(3.1.29),[empty],[empty]
+Thunar,Xfce,[empty],(1.8.0)<ref></ref>,[empty],[empty]
+Total Commander (originally named 'Windows Commander'),Christian Ghisler,(1.00d),(9.21a),Nagware<ref></ref>,[empty]
+ViewMAX,Digital Research / Novell,1990 (1.0),1993 (3.0),Part of DR-DOS,[empty]
+Volkov Commander,Vsevolod Volkov,circa 1992,[empty],[empty],[empty]
+Windows Explorer (now 'File Explorer'),Microsoft,[empty],[empty],Part of Windows,[empty]
+WinSCP,WinSCP,[empty],[empty],[empty],[empty]
+Xandros File Manager,Xandros Corporation,[empty],(4.2),[empty],[empty]
+Xfe,Roland Baudin,2002,(1.42),[empty],[empty]
+Xfile,Rixstep,[empty],(1.8.0),[empty],[empty]
+Xfm,Simon Marlow  Albert Gräf  Robert Vogelgesang  Juan D. Martin  Till Straumann,1992,(1.4.3),[empty],[empty]
+xplorer²,Nikos Bozinis,[empty],(3.5.0.2),[empty],[empty]
+XTree,Jeffery C. Johnson,[empty],(Xtree for Windows),[empty],[empty]
+XYplorer,Donald Lessau,1997,(19.30.0000),[empty],[empty]
+ZTreeWin,Kim Henkel,1996,(2.1.19) (2.4.121 beta) (2.4.172 zeta),[empty],[empty]
 File manager,Creator,First public version (date),Latest stable version (date  number),Cost,Software license

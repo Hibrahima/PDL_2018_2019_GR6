@@ -1,27 +1,27 @@
 Name,RAID,quota,Resource access control,encryption,other special file system features
 Linux,Yes,Yes,Unix  ACL  MAC,Yes,LVM  EVMS
 FreeBSD,Yes,Yes,Unix  ACL  MAC,Yes,GEOM  snapshots  background fsck  user-mountable file systems
-OpenBSD,Yes,Yes,Unix,Yes,
+OpenBSD,Yes,Yes,Unix,Yes,[empty]
 NetBSD,Yes,Yes,Unix  Veriexec,Yes,Snapshots  Journaling
 DragonFly BSD,Yes,Yes,Unix,Yes,HAMMER  Snapshots  Checksumming  Deduplication
 OpenSolaris  illumos,Yes,Yes,Unix  ACL  MAC,Yes,Solaris Volume Manager  ZFS  snapshots  transparent data repair
-AuroraUX,Yes,Yes,Unix  ACL  MAC,,Solaris Volume Manager  ZFS  snapshots  transparent data repair
-Darwin  OpenDarwin,,Yes,Unix  ACL,Yes,
-MINIX,,,Unix,,
-FreeDOS,,,No,,
+AuroraUX,Yes,Yes,Unix  ACL  MAC,[empty],Solaris Volume Manager  ZFS  snapshots  transparent data repair
+Darwin  OpenDarwin,[empty],Yes,Unix  ACL,Yes,[empty]
+MINIX,[empty],[empty],Unix,[empty],[empty]
+FreeDOS,[empty],[empty],No,[empty],[empty]
 Genode,No,No,No,No,Per-process virtual file-system layer
-KolibriOS,,,No,,
-MenuetOS,,,No,,
-GNU,,,Unix,,
-ReactOS,,,No,,
-L4  Fiasco  Pistachio,,,,,
+KolibriOS,[empty],[empty],No,[empty],[empty]
+MenuetOS,[empty],[empty],No,[empty],[empty]
+GNU,[empty],[empty],Unix,[empty],[empty]
+ReactOS,[empty],[empty],No,[empty],[empty]
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty]
 Plan 9,No,No,Unix-like  no root,No,snapshots  venti archival storage  per-process namespace  user-mountable file systems
-AROS,,,,,
-Syllable,,,Unix,,64-bit  journaling  extended file attributes
+AROS,[empty],[empty],[empty],[empty],[empty]
+Syllable,[empty],[empty],Unix,[empty],64-bit  journaling  extended file attributes
 Inferno,No,No,Unix-like  no root,No,per-process namespace  user-mountable file systems
-FreeRTOS,,,,,
-eCos,,,,,
-RTEMS,,,,,
+FreeRTOS,[empty],[empty],[empty],[empty],[empty]
+eCos,[empty],[empty],[empty],[empty],[empty]
+RTEMS,[empty],[empty],[empty],[empty],[empty]
 HelenOS,No,No,No,No,No
 E/OS,Yes,Yes,Unix,Yes,No
 Name,RAID,quota,Resource access control,encryption,other special file system features

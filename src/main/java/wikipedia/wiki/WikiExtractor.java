@@ -8,12 +8,12 @@ import org.jsoup.HttpStatusException;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
 import helper.Constants;
 import helper.Constrains;
 import helper.StatisticsImpl;
 import interfaces.Extractor;
 import interfaces.Statistics;
+
 
 /**
  * 
@@ -52,7 +52,10 @@ public class WikiExtractor implements Extractor {
 			tableElements = doc.select("table");
 			int initialSize = tableElements.size();
 			tableElements = convertThsToTds(tableElements);
+			tableElements = formatTables(tableElements);
+			tableElements = fillEmptyTds(tableElements);
 			tableElements = ignoredElements("div", tableElements);
+			tableElements = ignoredElements("code", tableElements);
 			tableElements = ignoredElements("ul", tableElements);
 			tableElements = ignoredClasses(tableElements);
 			//tableElements = ignoredElements("img", tableElements);
@@ -64,7 +67,6 @@ public class WikiExtractor implements Extractor {
 			statistics.setIgnoredTablesNumber(initialSize - finalSize );
 			statistics.setExtractedTablesNumber(finalSize);
 			WikiExtractor.statisticsList.add(statistics);
-
 		}
 		return tableElements;
 	}
@@ -141,12 +143,16 @@ public class WikiExtractor implements Extractor {
 							|| currentRowItems.get(j).hasClass(Constants.MBOX_IMAGE_CLASS)) {
 						currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE); 
 					}
+					
+					if(currentRowItems.get(j).hasClass("extra_td_to_remove"))
+						currentRowItems.get(j).remove();
+					
 
-					if (currentTdTags.size() > 0) {
+					if (!currentTdTags.isEmpty()) {
 						if (tag.equals("p") || tag.equals("br")) {
-							currentRowItems.get(j).remove();
+							//currentRowItems.get(j).remove();
 						}
-						if(tag.equals("div"))
+						if(tag.equals("div") || tag.equals("code"))
 							currentTable.addClass(Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 					}
 				}
@@ -171,5 +177,50 @@ public class WikiExtractor implements Extractor {
 		return tableElements.not("."+Constants.GENERIC_CLASS_NAME_TO_REMOVE);
 	}
 	
+	private Elements fillEmptyTds(Elements tableElements) {
+		for (Element currentTable : tableElements) {
+			Elements currentTableRowElements = currentTable.select("tr");
+			for (Element currentRow : currentTableRowElements) {
+				for (Element currentTd : currentRow.select("td")) {
+					if (currentTd.text().equals("") || currentTd.text().length() == 0)
+						currentTd.text("[empty]");
+					if(currentTd.text().equalsIgnoreCase("Ubuntu/Kubuntu/Xubuntu/Lubuntu"))
+						System.out.println(" tr with pnm = "+currentRow);
+				}
+			}
+		}
+		return tableElements;
+	}
 	
+	private void addClassToRemoveExtraTds(int firstRowTdsCount, Element tr) {
+		int trTdsCount = tr.select("td").size();
+		for(int i=firstRowTdsCount; i<trTdsCount; i++) {
+			tr.select("td").get(i).addClass("extra_td_to_remove");
+		}
+	}
+	
+	private void addTdsTofitFirstRow(Element tr, int firstRowTdsCount) {
+		int trTdsCount = tr.select("td").size();
+		int diffCount = firstRowTdsCount - trTdsCount;
+		for(int i=0; i<diffCount; i++)
+			tr.appendChild(new Element("td").text("[added]"));
+	}
+	
+	
+	private Elements formatTables(Elements tableElements) {
+		Element firstRow;
+		int firstRowTdsCount;
+		for (Element currentTable : tableElements) {
+			firstRow = currentTable.select("tr").get(0);
+			firstRowTdsCount = firstRow.select("td").size();
+			Elements currentTableRowElements = currentTable.select("tr");
+			for (int i=1; i<currentTableRowElements.size(); i++) {
+				if(currentTableRowElements.get(i).select("td").size() < firstRowTdsCount)
+					addTdsTofitFirstRow(currentTableRowElements.get(i), firstRowTdsCount);
+				else if(currentTableRowElements.get(i).select("td").size() > firstRowTdsCount)
+					addClassToRemoveExtraTds(firstRowTdsCount, currentTableRowElements.get(i));
+			}
+		}
+		return tableElements;
+	}
 }

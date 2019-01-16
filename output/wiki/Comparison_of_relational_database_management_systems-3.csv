@@ -1,49 +1,49 @@
 Database Name,ACID,Referential integrity,Transactions,Fine-grained locking,Multiversion concurrency control,Unicode,Interface,Type inference
-4th Dimension,,,,,,,GUI & SQL,
-ADABAS,,,,,,,proprietary direct call & SQL (via 3rd party),
-Adaptive Server Enterprise,,,,,,,SQL,
-Advantage Database Server,,,,(Row-level locking),,4,API & SQL,
-Altibase,,,,(Row-level locking),,,API & GUI & SQL,
-Apache Derby,,,,(Row-level locking) <ref>Derby Developer's Guide (10.14)>Lock granularity</ref>,,,SQL,
-ClustrixDB,,,,,,,SQL,
-CUBRID,,,,(Row-level locking),,,GUI & SQL,
-DB2,,,,(Row-level locking)<ref>DB2 for Linux UNIX and Windows 9.7.0>Fundamentos de DB2>Performance tuning>Factors affecting performance>Application design>Concurrency issues>Isolation levels</ref>,,,GUI & SQL,
-Empress Embedded Database,,,,,,,API & SQL,
-EXASolution,,,,,,,API & GUI & SQL,
-Firebird,,,,,,,API & SQL,
-HSQLDB,,,,,,,SQL,
-H2,,,,,<ref>http://www.h2database.com/html/advanced.html#mvcc</ref>,,SQL,
-Informix Dynamic Server,,,,(Row-level locking),,,SQL  REST  and JSON,
-Ingres,,,,,,,SQL & QUEL,
-InterBase,,,,,,,SQL,
-Linter SQL RDBMS,,,(Except for DDL),(Row-level locking),,,API & GUI & SQL,
-LucidDB,,,,,,,SQL,
-MariaDB,2,6,2 except for DDL<ref name="Transactional DDL in PostgreSQL">Transactional DDL in PostgreSQL: A Competitive Analysis</ref><ref name="Transactional DDL in MariaDB">Transactional DDL in MariaDB</ref>,(Row-level locking),,,SQL,
-MaxDB,,,,,,,SQL,
-Microsoft Access (JET),,,,,,,GUI & SQL,
-Microsoft Visual FoxPro,,,,,,,GUI & SQL,
-Microsoft SQL Server,,,,(Row-level locking)<ref>SQL Server Transaction Locking and Row Versioning Guide</ref>,,,GUI & SQL,
-Microsoft SQL Server Compact (Embedded Database),,,,,,,GUI & SQL,
-Mimer SQL,,,,(Optimistic locking),,,API & GUI & SQL,
-MonetDB,,,,,,,SQL,
-MySQL,2,3,2 except for DDL<ref name="Transactional DDL in PostgreSQL"/>,(Row-level locking)<ref>MySQL :: MySQL 5.6 Reference Manual :: 8.10.1 Internal Locking Methods</ref>,,,GUI 5 & SQL,
-OpenBase SQL,,,,,,,GUI & SQL,
-OpenEdge,,7,,(Row-level locking),,,GUI & SQL,
-OpenLink Virtuoso,,,,,,,API & GUI & SQL,
-Oracle,,,except for DDL<ref name="Transactional DDL in PostgreSQL" />,(Row-level locking)<ref>Oracle Row Lock and Row Level Locking</ref>,,,API & GUI & SQL,
-Oracle Rdb,,,,,,,SQL,
-Pervasive PSQL,,,,,,6,API & GUI & SQL,
-Polyhedra DBMS,,,,(optimistic and pessimistic cell-level locking)<ref>[developer.polyhedra.com/history/polyhedra-8-7 Polyhedra 8.7 new headline feature: locking]</ref>,,,API & SQL,
-PostgreSQL,,,,(Row-level locking)<ref>PostgreSQL: Documentation: devel: Explicit Locking</ref>,,,API & GUI & SQL,<ref>BUG #5974: UNION construct type cast gives poor error message</ref>
-Raima Database Manager,,,,,,,SQL & API,
-RDM Server,,,,,,,SQL & API,
-SAP HANA,,,,(Row-level locking),,,API & GUI & SQL,
-solidDB,,,,(Row-level locking),,,API & SQL,
-SQL Anywhere,,,,,,,SQL,
-SQLBase,,,,,,,API & GUI & SQL,
-SQLite,,,,(Database-level locking)<ref>File Locking And Concurrency In SQLite Version 3</ref>,,<ref>SQLite Full Unicode support is optional and not installed by default in most systems (like Android  Debian…)</ref>,API & SQL,
-Teradata,,,,(Hash and Partition),,,SQL,
-Tibero,,,,(Row-level locking),,,API & GUI & SQL,
-UniData,,,,,,,Multiple,
-UniVerse,,,,,,,Multiple,
+4th Dimension,[empty],[empty],[empty],[empty],[empty],[empty],GUI & SQL,[empty]
+ADABAS,[empty],[empty],[empty],[empty],[empty],[empty],proprietary direct call & SQL (via 3rd party),[empty]
+Adaptive Server Enterprise,[empty],[empty],[empty],(Row-level locking),Yes,[empty],GUI & SQL,[empty]
+Advantage Database Server,[empty],[empty],[empty],(Row-level locking),[empty],4,API & SQL,[empty]
+Altibase,[empty],[empty],[empty],(Row-level locking),[empty],[empty],API & GUI & SQL,[empty]
+Apache Derby,[empty],[empty],[empty],(Row-level locking) <ref>Derby Developer's Guide (10.14)>Lock granularity</ref>,[empty],[empty],SQL,[empty]
+ClustrixDB,[empty],[empty],[empty],[empty],[empty],[empty],SQL,[empty]
+CUBRID,[empty],[empty],[empty],(Row-level locking),[empty],[empty],GUI & SQL,[empty]
+DB2,[empty],[empty],[empty],(Row-level locking)<ref>DB2 for Linux UNIX and Windows 9.7.0>Fundamentos de DB2>Performance tuning>Factors affecting performance>Application design>Concurrency issues>Isolation levels</ref>,[empty],[empty],GUI & SQL,[empty]
+Empress Embedded Database,[empty],[empty],[empty],[empty],[empty],[empty],API & SQL,[empty]
+EXASolution,[empty],[empty],[empty],[empty],[empty],[empty],API & GUI & SQL,[empty]
+Firebird,[empty],[empty],[empty],[empty],[empty],[empty],API & SQL,[empty]
+HSQLDB,[empty],[empty],[empty],[empty],[empty],[empty],SQL,[empty]
+H2,[empty],[empty],[empty],[empty],<ref>http://www.h2database.com/html/advanced.html#mvcc</ref>,[empty],SQL,[empty]
+Informix Dynamic Server,[empty],[empty],[empty],(Row-level locking),[empty],[empty],SQL  REST  and JSON,[empty]
+Ingres,[empty],[empty],[empty],[empty],[empty],[empty],SQL & QUEL,[empty]
+InterBase,[empty],[empty],[empty],[empty],[empty],[empty],SQL,[empty]
+Linter SQL RDBMS,[empty],[empty],(Except for DDL),(Row-level locking),[empty],[empty],API & GUI & SQL,[empty]
+LucidDB,[empty],[empty],[empty],[empty],[empty],[empty],SQL,[empty]
+MariaDB,2,6,2 except for DDL<ref name="Transactional DDL in PostgreSQL">Transactional DDL in PostgreSQL: A Competitive Analysis</ref><ref name="Transactional DDL in MariaDB">Transactional DDL in MariaDB</ref>,(Row-level locking),[empty],[empty],SQL,[empty]
+MaxDB,[empty],[empty],[empty],[empty],[empty],[empty],SQL,[empty]
+Microsoft Access (JET),[empty],[empty],[empty],[empty],[empty],[empty],GUI & SQL,[empty]
+Microsoft Visual FoxPro,[empty],[empty],[empty],[empty],[empty],[empty],GUI & SQL,[empty]
+Microsoft SQL Server,[empty],[empty],[empty],(Row-level locking)<ref>SQL Server Transaction Locking and Row Versioning Guide</ref>,[empty],[empty],GUI & SQL,[empty]
+Microsoft SQL Server Compact (Embedded Database),[empty],[empty],[empty],[empty],[empty],[empty],GUI & SQL,[empty]
+Mimer SQL,[empty],[empty],[empty],(Optimistic locking),[empty],[empty],API & GUI & SQL,[empty]
+MonetDB,[empty],[empty],[empty],[empty],[empty],[empty],SQL,[empty]
+MySQL,2,3,2 except for DDL<ref name="Transactional DDL in PostgreSQL"/>,(Row-level locking)<ref>MySQL :: MySQL 5.6 Reference Manual :: 8.10.1 Internal Locking Methods</ref>,[empty],[empty],GUI 5 & SQL,[empty]
+OpenBase SQL,[empty],[empty],[empty],[empty],[empty],[empty],GUI & SQL,[empty]
+OpenEdge,[empty],7,[empty],(Row-level locking),[empty],[empty],GUI & SQL,[empty]
+OpenLink Virtuoso,[empty],[empty],[empty],[empty],[empty],[empty],API & GUI & SQL,[empty]
+Oracle,[empty],[empty],except for DDL<ref name="Transactional DDL in PostgreSQL" />,(Row-level locking)<ref>Oracle Row Lock and Row Level Locking</ref>,[empty],[empty],API & GUI & SQL,[empty]
+Oracle Rdb,[empty],[empty],[empty],[empty],[empty],[empty],SQL,[empty]
+Pervasive PSQL,[empty],[empty],[empty],[empty],[empty],6,API & GUI & SQL,[empty]
+Polyhedra DBMS,[empty],[empty],[empty],(optimistic and pessimistic cell-level locking)<ref>[developer.polyhedra.com/history/polyhedra-8-7 Polyhedra 8.7 new headline feature: locking]</ref>,[empty],[empty],API & SQL,[empty]
+PostgreSQL,[empty],[empty],[empty],(Row-level locking)<ref>PostgreSQL: Documentation: devel: Explicit Locking</ref>,[empty],[empty],API & GUI & SQL,<ref>BUG #5974: UNION construct type cast gives poor error message</ref>
+Raima Database Manager,[empty],[empty],[empty],[empty],[empty],[empty],SQL & API,[empty]
+RDM Server,[empty],[empty],[empty],[empty],[empty],[empty],SQL & API,[empty]
+SAP HANA,[empty],[empty],[empty],(Row-level locking),[empty],[empty],API & GUI & SQL,[empty]
+solidDB,[empty],[empty],[empty],(Row-level locking),[empty],[empty],API & SQL,[empty]
+SQL Anywhere,[empty],[empty],[empty],[empty],[empty],[empty],SQL,[empty]
+SQLBase,[empty],[empty],[empty],[empty],[empty],[empty],API & GUI & SQL,[empty]
+SQLite,[empty],[empty],[empty],(Database-level locking)<ref>File Locking And Concurrency In SQLite Version 3</ref>,[empty],<ref>SQLite Full Unicode support is optional and not installed by default in most systems (like Android  Debian…)</ref>,API & SQL,[empty]
+Teradata,[empty],[empty],[empty],(Hash and Partition),[empty],[empty],SQL,[empty]
+Tibero,[empty],[empty],[empty],(Row-level locking),[empty],[empty],API & GUI & SQL,[empty]
+UniData,[empty],[empty],[empty],[empty],[empty],[empty],Multiple,[empty]
+UniVerse,[empty],[empty],[empty],[empty],[empty],[empty],Multiple,[empty]
 Database Name,ACID,Referential integrity,Transactions,Fine-grained locking,Multiversion concurrency control,Unicode,Interface,Type inference

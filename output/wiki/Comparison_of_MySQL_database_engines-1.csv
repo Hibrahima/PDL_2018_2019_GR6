@@ -1,24 +1,24 @@
 Name,Vendor,License,Transactional,Under active development
-Archive,Oracle,GPL,
-Aria,MariaDB,GPL,
-Berkeley DB,Oracle,AGPLv3,
-BlitzDB,,GPL,
-CONNECT,MariaDB,GPL,
-CSV,Oracle,GPL,
-DeepSQL,Deep Information Sciences,Custom Proprietary,
-Falcon,Oracle,GPL,
-InfiniDB,Calpont,GPL,
-InnoDB,Oracle,GPL,
-MyISAM,Oracle,GPL,
-NDB,Oracle,GPLv2,
-TokuDB,TokuTek,Modified GPL,
-WiredTiger,WiredTiger,GPL,
-XtraDB,Percona,GPL,
-Federated,Oracle,GPL,
-FederatedX,MariaDB,GPL,
-CassandraSE,MariaDB,GPL,
-sequence,MariaDB,GPL,
-mroonga,MariaDB,GPL,
-SphinxSE,Sphinx Technologies,GPL,
-MyRocks,Facebook,GPLv2,
-MyMax,CEICOM Solutions,Custom Proprietary,
+Archive,Oracle,GPL,[empty],[added]
+Aria,MariaDB,GPL,[empty],[added]
+Berkeley DB,Oracle,AGPLv3,[empty],[added]
+BlitzDB,[empty],GPL,[empty],[added]
+CONNECT,MariaDB,GPL,[empty],[added]
+CSV,Oracle,GPL,[empty],[added]
+DeepSQL,Deep Information Sciences,Custom Proprietary,[empty],[added]
+Falcon,Oracle,GPL,[empty],[added]
+InfiniDB,Calpont,GPL,[empty],[added]
+InnoDB,Oracle,GPL,[empty],[added]
+MyISAM,Oracle,GPL,[empty],[added]
+NDB,Oracle,GPLv2,[empty],[added]
+TokuDB,TokuTek,Modified GPL,[empty],[added]
+WiredTiger,WiredTiger,GPL,[empty],[added]
+XtraDB,Percona,GPL,[empty],[added]
+Federated,Oracle,GPL,[empty],[added]
+FederatedX,MariaDB,GPL,[empty],[added]
+CassandraSE,MariaDB,GPL,[empty],[added]
+sequence,MariaDB,GPL,[empty],[added]
+mroonga,MariaDB,GPL,[empty],[added]
+SphinxSE,Sphinx Technologies,GPL,[empty],[added]
+MyRocks,Facebook,GPLv2,[empty],[added]
+MyMax,CEICOM Solutions,Custom Proprietary,[empty],[added]

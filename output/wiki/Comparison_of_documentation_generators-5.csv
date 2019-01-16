@@ -1,23 +1,24 @@
-,AppleScript,PowerBuilder,MIG,Bourne shell,C shell,Any with comments
-Ddoc,,,,,,
-Document! X,,,,,,
-Doxygen,,,,,,
-Epydoc,,,,,,
-Haddock,,,,,,
-HeaderDoc,,,,,,
-Imagix 4D,,,,,,
-Javadoc,,,,,,
-JSDoc,,,,,,
-JsDoc Toolkit,,,,,,
-Natural Docs,,,,,,
-NDoc,,,,,,
-perldoc,,,,,,
-phpDocumentor,,,,,,
-pydoc,,,,,,
-RDoc,,,,,,
-ROBODoc,,,,,,
-Sphinx,,,,,,
-Visual Expert,,,,,,
-VSdocman,,,,,,
-YARD,,,,,,
-,AppleScript,PowerBuilder,MIG,Bourne shell,C shell,Any with comments
+[empty],AppleScript,PowerBuilder,MIG,Bourne shell,C shell,Any with comments
+Ddoc,[empty],[empty],[empty],[empty],[empty],[empty]
+Document! X,[empty],[empty],[empty],[empty],[empty],[empty]
+Doxygen,[empty],[empty],[empty],[empty],[empty],[empty]
+Epydoc,[empty],[empty],[empty],[empty],[empty],[empty]
+Haddock,[empty],[empty],[empty],[empty],[empty],[empty]
+HeaderDoc,[empty],[empty],[empty],[empty],[empty],[empty]
+Imagix 4D,[empty],[empty],[empty],[empty],[empty],[empty]
+Javadoc,[empty],[empty],[empty],[empty],[empty],[empty]
+JSDoc,[empty],[empty],[empty],[empty],[empty],[empty]
+JsDoc Toolkit,[empty],[empty],[empty],[empty],[empty],[empty]
+Natural Docs,[empty],[empty],[empty],[empty],[empty],[empty]
+NDoc,[empty],[empty],[empty],[empty],[empty],[empty]
+pdoc,[empty],[empty],[empty],[empty],[empty],[empty]
+perldoc,[empty],[empty],[empty],[empty],[empty],[empty]
+phpDocumentor,[empty],[empty],[empty],[empty],[empty],[empty]
+pydoc,[empty],[empty],[empty],[empty],[empty],[empty]
+RDoc,[empty],[empty],[empty],[empty],[empty],[empty]
+ROBODoc,[empty],[empty],[empty],[empty],[empty],[empty]
+Sphinx,[empty],[empty],[empty],[empty],[empty],[empty]
+Visual Expert,[empty],[empty],[empty],[empty],[empty],[empty]
+VSdocman,[empty],[empty],[empty],[empty],[empty],[empty]
+YARD,[empty],[empty],[empty],[empty],[empty],[empty]
+[empty],AppleScript,PowerBuilder,MIG,Bourne shell,C shell,Any with comments

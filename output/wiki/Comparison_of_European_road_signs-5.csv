@@ -1,16 +1,16 @@
-,Austria,Belgium,Czech Republic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia & Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland & Liechtenstein,Turkey,Ukraine,United Kingdom
-Proceed straight (no turns),,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Turn right,,,,,,,,,,,,,,,NOT USED,,,,,NOT USED,,,,,,,NOT USED,
-Turn right ahead,,,,,,,,,,,,,,,,,,,,,NOT USED,,,,,,,
-Proceed straight or turn right,,,,,,,,,,,,NOT USED,,,,,,,,,,,,,,,,NOT USED
-Pass on this side,,,,,,,or,,,or,,,,,,,,,,,,,,,,,,
-Pass on either side,,,,,,,,,,,,,,,,,,NOT USED,,,,,,,,,,
-Roundabout,NOT USED,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Mandatory direction for vehicles carrying dangerous goods,,,NOT USED,NOT USED,,NOT USED,,NOT USED,NOT USED,,NOT USED,NOT USED,,,NOT USED,NOT USED,,NOT USED,,,,,,,,,,NOT USED
-Minimum speed limit,,NOT USED,,,,NOT USED,,,,,NOT USED,NOT USED,,,NOT USED,,,,,,,,,NOT USED,,,,
-Minimum speed limit ends,,NOT USED,,,,NOT USED,,,,,NOT USED,NOT USED,,,NOT USED,,,,,,,,,NOT USED,,,,
-Bicycles only,,,,,,,,,,,,,,,,,,,,,,,,,<ref name=CHMopedImplied group=note/>,,,
-Pedestrians only,,,,,,,,,,,,,,,,,,,,,,,,,,,,NOT USED
-Shared use path,,,,,,,,,,,,,,,,,,,,,,,,,<ref name=CHMopedImplied group=note/>,,,
-Equestrian path,,,,,,,,,,NOT USED,,NOT USED,,,,NOT USED,NOT USED,,,(Belarus),,,,,,,,NOT USED
-,Austria,Belgium,Czech Republic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia & Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland & Liechtenstein,Turkey,Ukraine,United Kingdom
+[empty],Austria,Belgium,Czech Republic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia & Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland & Liechtenstein,Turkey,Ukraine,United Kingdom
+Proceed straight (no turns),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Turn right,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NOT USED,[empty],[empty],[empty],[empty],NOT USED,[empty],[empty],[empty],[empty],[empty],[empty],NOT USED,[empty]
+Turn right ahead,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NOT USED,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Proceed straight or turn right,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NOT USED,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NOT USED
+Pass on this side,[empty],[empty],[empty],[empty],[empty],[empty],or,[empty],[empty],or,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pass on either side,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NOT USED,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Roundabout,NOT USED,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mandatory direction for vehicles carrying dangerous goods,[empty],[empty],NOT USED,NOT USED,[empty],NOT USED,[empty],NOT USED,NOT USED,[empty],NOT USED,NOT USED,[empty],[empty],NOT USED,NOT USED,[empty],NOT USED,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NOT USED
+Minimum speed limit,[empty],NOT USED,[empty],[empty],[empty],NOT USED,[empty],[empty],[empty],[empty],NOT USED,NOT USED,[empty],[empty],NOT USED,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NOT USED,[empty],[empty],[empty],[empty]
+Minimum speed limit ends,[empty],NOT USED,[empty],[empty],[empty],NOT USED,[empty],[empty],[empty],[empty],NOT USED,NOT USED,[empty],[empty],NOT USED,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NOT USED,[empty],[empty],[empty],[empty]
+Bicycles only,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=CHMopedImplied group=note/>,[empty],[empty],[empty]
+Pedestrians only,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NOT USED
+Shared use path,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=CHMopedImplied group=note/>,[empty],[empty],[empty]
+Equestrian path,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NOT USED,[empty],NOT USED,[empty],[empty],[empty],NOT USED,NOT USED,[empty],[empty],(Belarus),[empty],[empty],[empty],[empty],[empty],[empty],[empty],NOT USED
+[empty],Austria,Belgium,Czech Republic,Denmark,Estonia,Finland,France,Germany,Greece,Hungary,Iceland,Ireland,Italy,Luxembourg,Netherlands,Norway,Poland,Portugal,Romania,Russia & Belarus,Slovakia,Slovenia,Spain,Sweden,Switzerland & Liechtenstein,Turkey,Ukraine,United Kingdom

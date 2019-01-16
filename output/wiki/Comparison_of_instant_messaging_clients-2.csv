@@ -1,79 +1,79 @@
 Client,Desktop,Mobile,Other
-Windows,macOS,Unix-like,Haiku,Amiga,Windows Phone,Android,BlackBerry OS,iOS,Symbian,MeeGo,Java ME,WebOS,Web,VGCs
-Adium,,,,,,,,,,,,,,
-BBM,,,,,,,,,,,,,,
-AIM,,,,,,,,,,,,,,
-aMSN,,,,,,,,,,,,,,
-AstraChat,,,,,,,,,,,,,,
-Ayttm,,,,,,,,,,,,,,
-BitlBee,,,,,,,,,,,,,,
-Bombus,,,,,,,,,,,,,,
-Centericq,,,,,,,,,,,,,,
-climm,,,,,,,,,,,,,,
-Coccinella,,,,,,,,,,,,,,
-Discord,,,<ref group=lower-alpha name="linux-only" />,,,,,,,,,,,
-eBuddy,,,,,,,,,,,,,,
-emesene,,,,,,,,,,,,,,
-Empathy,,,,,,,,,,,,,,
-Facebook Messenger,,,,,,,,,,,,,,
-FaceTime,,,,,,,,,,,,,,
-Flock,,,,,,,,,,,,,,
-Fire,,,,,,,,,,,,,,
-Gadu-Gadu,,,,,,,,,,,,,,
-Gajim,,,,,,,,,,,,,,
-Google Hangouts,<ref group=lower-alpha name="google-hangouts-desktop" />,<ref group=lower-alpha name="google-hangouts-desktop" />,<ref group=lower-alpha name="google-hangouts-desktop" /><ref group=lower-alpha name="linux-only" />,,,,,,,,,,,
-Hookt,,,,,,,,,,,,,,
-Hike,,,,,,,,,,,,,,
-IBM Lotus Sametime,,,,,,,,,,,,,,
-ICQ,,,,,,,,,,,,,,
-IMVU,,,,,,,,,,,,,,
-Instantbird,,,,,,,,,,,,,,
-Jitsi,,,,,,,,,,,,,,
-KakaoTalk,,,,,,,,,,,,,,
-Kadu,,,,,,,,,,,,,,
-Kik,,,,,,,,,,,,,,
-Kopete,<ref group=lower-alpha name="may-not-be-stable-version" /><ref></ref>,,,,,,,,,,,,,
-Line,,,,,,,,,,,,,,
-Messages,,,,,,,,,,,,,,
-MCabber,,,,,,,,,,,,,,
-Skype for Business,,,,,,,,,,,,,,
-Miranda IM,,,,,,,,,,,,,,
-MySpaceIM,,,,,,,,,,,,,,
-naim,,,,,,,,,,,,,,
-Nimbuzz,,,,,,,,,,,,,,
-Palringo,,,,,,,,,,,,,,
-Paltalk,,,,,,,,,,,,,,
-Pidgin,,,,,,,,,,,,,,
-Psi,,,,,,,,,,,,,,
-QIP,,,,,,,,,,,,,,
-QuteCom,,,,,,,,,,,,,,
-Ring,,,,,,,,,,,,,,
-RingID,<ref>Spotlight: ringID messenger promises quality HD video calls over slow connections. phonearena.com Retrieved on 2016-02-16.</ref>,,,,,,,,,,,,,
-Riot.im,,,,,,,,,,,,,,
-Signal,<ref name="Coldewey-2017-10-31"/>,<ref name="Coldewey-2017-10-31"></ref>,<ref group=lower-alpha>The only supported desktop Unix-like platforms are Debian-based Linux distributions.</ref><ref name="standalone-signal-desktop"/>,,,,,,,,,,,<ref name="standalone-signal-desktop"></ref>
-Snapchat,,,,,,,,,,,,,,
-Surespot,,,,,,,,,,,,,,
-Skype,,,<ref group=lower-alpha name="linux-only" />,,,,,,,,,,,
-SOMA,,,,,,,,,,,,,,
-Spark (XMPP client),,<ref group=lower-alpha name="no-native-installer-java" />,,,,,,,,,,,,
-Telegram (standard messages),,,,,,,,<ref>Blackberry 10 Dev Contest. Telegram.org. Retrieved on 2014-11-20.</ref>,,,,,,
-Telegram (secret chats),,<ref group=lower-alpha name="telegram-secret-chats-osx" />,<ref group=lower-alpha name="telegram-secret-chats-unix-like" />,,,,,,,,,,,
-Tencent QQ,,,,,,,,,,,,,,
-Threema,,,,,,,,,,,,,,
-Tkabber,,,,,,,,,,,,,,
-Tox,,,,,,,,,,,,,,
-Trillian,,,<ref group=lower-alpha name="beta-testing" /><ref group=lower-alpha name="linux-only" />,,,,,,,,,,,
-Tuenti,,,,,,,,,,,,,,
-Viber,,,,,,,,,,,,,,
-WeChat,,<ref>WeChat announces native Mac client; Windows version may follow soonTechie News. Techienews.co.uk. Retrieved on 2014-05-22.</ref>,,,,,,,,,,,,
-WhatsApp,<ref name="Swanner-11-May-2016"></ref>,<ref name="Swanner-11-May-2016"/>,,,,<ref name="whatsapp-faq-wp8"></ref>,,<ref name="WhatsApp-support-for-mobile-devices"></ref>,,<ref name="WhatsApp-support-for-mobile-devices"/>,,,,
-Wickr,,,,,,,,,,,,,,
-Windows Live Messenger,,,,,,,,,,,,,,
-Wire,,,,,,,,,,,,,,
-Xabber,,,,,,,,,,,,,,
-Xfire,,,,,,,,,,,,,,
-Yahoo! Messenger,,,,,,,,,,,,,,
-Yuilop,,,,,,,,,,,,,,
-Zephyr,,,,,,,,,,,,,,
-Client,Windows,OS X,Unix-like,Haiku,Amiga,Windows Phone,Android,BlackBerry OS,iOS,Symbian,MeeGo,Java ME,WebOS,Web,VGCs
-Desktop,Mobile,Other
+Windows,macOS,Unix-like,Haiku
+Adium,[empty],[empty],[empty]
+BBM,[empty],[empty],[empty]
+AIM,[empty],[empty],[empty]
+aMSN,[empty],[empty],[empty]
+AstraChat,[empty],[empty],[empty]
+Ayttm,[empty],[empty],[empty]
+BitlBee,[empty],[empty],[empty]
+Bombus,[empty],[empty],[empty]
+Centericq,[empty],[empty],[empty]
+climm,[empty],[empty],[empty]
+Coccinella,[empty],[empty],[empty]
+Discord,[empty],[empty],<ref group=lower-alpha name="linux-only" />
+eBuddy,[empty],[empty],[empty]
+emesene,[empty],[empty],[empty]
+Empathy,[empty],[empty],[empty]
+Facebook Messenger,[empty],[empty],[empty]
+FaceTime,[empty],[empty],[empty]
+Flock,[empty],[empty],[empty]
+Fire,[empty],[empty],[empty]
+Gadu-Gadu,[empty],[empty],[empty]
+Gajim,[empty],[empty],[empty]
+Google Hangouts,<ref group=lower-alpha name="google-hangouts-desktop" />,<ref group=lower-alpha name="google-hangouts-desktop" />,<ref group=lower-alpha name="google-hangouts-desktop" /><ref group=lower-alpha name="linux-only" />
+Hookt,[empty],[empty],[empty]
+Hike,[empty],[empty],[empty]
+IBM Lotus Sametime,[empty],[empty],[empty]
+ICQ,[empty],[empty],[empty]
+IMVU,[empty],[empty],[empty]
+Instantbird,[empty],[empty],[empty]
+Jitsi,[empty],[empty],[empty]
+KakaoTalk,[empty],[empty],[empty]
+Kadu,[empty],[empty],[empty]
+Kik,[empty],[empty],[empty]
+Kopete,<ref group=lower-alpha name="may-not-be-stable-version" /><ref></ref>,[empty],[empty]
+Line,[empty],[empty],[empty]
+Messages,[empty],[empty],[empty]
+MCabber,[empty],[empty],[empty]
+Skype for Business,[empty],[empty],[empty]
+Miranda IM,[empty],[empty],[empty]
+MySpaceIM,[empty],[empty],[empty]
+naim,[empty],[empty],[empty]
+Nimbuzz,[empty],[empty],[empty]
+Palringo,[empty],[empty],[empty]
+Paltalk,[empty],[empty],[empty]
+Pidgin,[empty],[empty],[empty]
+Psi,[empty],[empty],[empty]
+QIP,[empty],[empty],[empty]
+QuteCom,[empty],[empty],[empty]
+Ring,[empty],[empty],[empty]
+RingID,<ref>Spotlight: ringID messenger promises quality HD video calls over slow connections. phonearena.com Retrieved on 2016-02-16.</ref>,[empty],[empty]
+Riot.im,[empty],[empty],[empty]
+Signal,<ref name="Coldewey-2017-10-31"/>,<ref name="Coldewey-2017-10-31"></ref>,<ref group=lower-alpha>The only supported desktop Unix-like platforms are Debian-based Linux distributions.</ref><ref name="standalone-signal-desktop"/>
+Snapchat,[empty],[empty],[empty]
+Surespot,[empty],[empty],[empty]
+Skype,[empty],[empty],<ref group=lower-alpha name="linux-only" />
+SOMA,[empty],[empty],[empty]
+Spark (XMPP client),[empty],<ref group=lower-alpha name="no-native-installer-java" />,[empty]
+Telegram (standard messages),[empty],[empty],[empty]
+Telegram (secret chats),[empty],<ref group=lower-alpha name="telegram-secret-chats-osx" />,<ref group=lower-alpha name="telegram-secret-chats-unix-like" />
+Tencent QQ,[empty],[empty],[empty]
+Threema,[empty],[empty],[empty]
+Tkabber,[empty],[empty],[empty]
+Tox,[empty],[empty],[empty]
+Trillian,[empty],[empty],<ref group=lower-alpha name="beta-testing" /><ref group=lower-alpha name="linux-only" />
+Tuenti,[empty],[empty],[empty]
+Viber,[empty],[empty],[empty]
+WeChat,[empty],<ref>WeChat announces native Mac client; Windows version may follow soonTechie News. Techienews.co.uk. Retrieved on 2014-05-22.</ref>,[empty]
+WhatsApp,<ref name="Swanner-11-May-2016"></ref>,<ref name="Swanner-11-May-2016"/>,[empty]
+Wickr,[empty],[empty],[empty]
+Windows Live Messenger,[empty],[empty],[empty]
+Wire,[empty],[empty],[empty]
+Xabber,[empty],[empty],[empty]
+Xfire,[empty],[empty],[empty]
+Yahoo! Messenger,[empty],[empty],[empty]
+Yuilop,[empty],[empty],[empty]
+Zephyr,[empty],[empty],[empty]
+Client,Windows,OS X,Unix-like
+Desktop,Mobile,Other,[added]

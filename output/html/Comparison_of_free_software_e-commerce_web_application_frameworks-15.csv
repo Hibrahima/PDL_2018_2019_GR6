@@ -1,4 +1,4 @@
-,Australia Post,Canada Post,DHL,FedEx,OnTrac,United States Postal Service,UPS
+[empty],Australia Post,Canada Post,DHL,FedEx,OnTrac,United States Postal Service,UPS
 Apache OFBiz,No,No,No,No,No,No,No
 Batavi,No,No,No,No,No,No,No
 Bigcommerce,Yes,Yes,No,Yes,No,Yes,Yes
@@ -11,4 +11,4 @@ Sana Commerce,No,No,No,No,No,No,No
 Shopify,No,No,No,No,No,No,No
 WooCommerce,Yes,Yes,No,No,No,Yes,No
 Zen Cart,No,No,No,Yes,Yes,yes with Stamps,Yes
-,Australia Post,Canada Post,DHL,FedEx,OnTrac,United States Postal Service,UPS
+[empty],Australia Post,Canada Post,DHL,FedEx,OnTrac,United States Postal Service,UPS

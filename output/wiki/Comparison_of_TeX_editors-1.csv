@@ -1,24 +1,24 @@
-+ Properties of TeX editors 1,,Editing style<ref name="editStyle" group=Note>"Source" means you see and edit the TeX source files. "WYSIWYM" = What You See Is What You Mean  i.e. you see and edit formatted text. WYSIWYG means that see the output file automatically updated during the edit. Note that some PDF viewers (e.g. evince) automatically reload the PDF document when it is updated on the disk. So  any "source" TeX editor can be turned into partial WYSIWYG editor by opening such a reader in an adjacent window.</ref>,Native operating systems,Latest stable version,Costs,License,Configurable,Integrated viewer,
-AUCTeX,Source,Linux  macOS  Windows,12.1 (2017-12-10),,,,,AUCTeX
-Authorea,Source / partial-WYSIWYG,Online,,,,,,Authorea
-Auto-Latex Equations for Google Docs,Source,Online,8.04 (2016-1-6),,,,,Auto-Latex Equations for Google Docs
-CoCalc,Source,Online,,,,,,CoCalc
-Gummi,Source,Linux,0.6.6 (2016-01-27),,,,(Live update),Gummi
-Kile,Source,Linux (macOS  Windows)<ref group=Note>Support for non-linux systems considered experimental.</ref>,2.1.3 (2012-09-23),,,,(Quick preview),Kile
-GNOME-LaTeX,source,Linux,3.30 (2018-07-16),,,,,GNOME-LaTeX
-LEd,Source,Windows,0.53 (2009-10-09),,,?,(dvi),LEd
-LyX,WYSIWYM,Linux  macOS  Windows,2.3.0 (2018-03-16),,,,(InstantPreview),LyX
-MeWa,Source,Windows,1.4.0 (2007-06-06),,,,,MeWa
-Notepad++,Source,Windows,7.5.7 (2018-06-30),,,,, but can be integrated <ref group=Note>Notepad++ can execute Tex viewers; See [http://www.tlhiv.org/ma497/software/ GNU Octave  LaTex and Notepad++] for more details.</ref>,Notepad++
-Scientific WorkPlace,WYSIWYM,Windows,6.0.12 (2016-02-23),,,,([http://www.truetex.com/truetex.htm TrueTex®]),Scientific WorkPlace
-ShareLaTeX,Source,Online,,,,,,ShareLaTeX
-TeXmacs,WYSIWYG,Linux  macOS  Windows,1.99.6 (2017-12-21),,,,,TeXmacs
-Texmaker,Source,Linux  macOS  Windows,5.0.3 (2018-11-01),,,,,Texmaker
-TeXnicCenter,Source,Windows,,,,,,TeXnicCenter
-TeXShop,Source,macOS,4.14 (2018-11-02),,,,(InstantPreview with Flashmode),TeXShop
-TeXstudio,Source,Linux  Windows  macOS,2.12.10 (2018-07-06),,,,(pdf  selection with dvi2png),TeXstudio
-TeXworks,Source,Linux  macOS  Windows,0.6.2 (2016-04-30),,,,(pdf),TeXworks
-Verbosus,Source,Online  Android <ref></ref> iOS<ref></ref>,4.1.3 (2016-05-06),<ref></ref>,,,(pdf),Verbosus
-WinEdt,Source,Windows,10.2 (2017-04-13),,,,,WinEdt
-WinShell,Source,Windows,3.3.2.6 (2013-02-10),,,,,WinShell
-,Editing Style,Native Operating Systems,Latest stable version,Costs,License,Configurable,Integrated viewer,
++ Properties of TeX editors 1,[empty],Editing style<ref name="editStyle" group=Note>"Source" means you see and edit the TeX source files. "WYSIWYM" = What You See Is What You Mean  i.e. you see and edit formatted text. WYSIWYG means that see the output file automatically updated during the edit. Note that some PDF viewers (e.g. evince) automatically reload the PDF document when it is updated on the disk. So  any "source" TeX editor can be turned into partial WYSIWYG editor by opening such a reader in an adjacent window.</ref>,Native operating systems,Latest stable version,Costs,License,Configurable,Integrated viewer,[empty]
+AUCTeX,Source,Linux  macOS  Windows,12.1 (2017-12-10),[empty],[empty],[empty],[empty],AUCTeX,[added]
+Authorea,Source / partial-WYSIWYG,Online,[empty],[empty],[empty],[empty],[empty],Authorea,[added]
+Auto-Latex Equations for Google Docs,Source,Online,8.04 (2016-1-6),[empty],[empty],[empty],[empty],Auto-Latex Equations for Google Docs,[added]
+CoCalc,Source,Online,[empty],[empty],[empty],[empty],[empty],CoCalc,[added]
+Gummi,Source,Linux,0.6.6 (2016-01-27),[empty],[empty],[empty],(Live update),Gummi,[added]
+Kile,Source,Linux (macOS  Windows)<ref group=Note>Support for non-linux systems considered experimental.</ref>,2.1.3 (2012-09-23),[empty],[empty],[empty],(Quick preview),Kile,[added]
+GNOME-LaTeX,source,Linux,3.30 (2018-07-16),[empty],[empty],[empty],[empty],GNOME-LaTeX,[added]
+LEd,Source,Windows,0.53 (2009-10-09),[empty],[empty],?,(dvi),LEd,[added]
+LyX,WYSIWYM,Linux  macOS  Windows,2.3.0 (2018-03-16),[empty],[empty],[empty],(InstantPreview),LyX,[added]
+MeWa,Source,Windows,1.4.0 (2007-06-06),[empty],[empty],[empty],[empty],MeWa,[added]
+Notepad++,Source,Windows,7.5.7 (2018-06-30),[empty],[empty],[empty],, but can be integrated <ref group=Note>Notepad++ can execute Tex viewers; See [http://www.tlhiv.org/ma497/software/ GNU Octave  LaTex and Notepad++] for more details.</ref>,Notepad++,[added]
+Scientific WorkPlace,WYSIWYM,Windows,6.0.12 (2016-02-23),[empty],[empty],[empty],([http://www.truetex.com/truetex.htm TrueTex®]),Scientific WorkPlace,[added]
+ShareLaTeX,Source,Online,[empty],[empty],[empty],[empty],[empty],ShareLaTeX,[added]
+TeXmacs,WYSIWYG,Linux  macOS  Windows,1.99.6 (2017-12-21),[empty],[empty],[empty],[empty],TeXmacs,[added]
+Texmaker,Source,Linux  macOS  Windows,5.0.3 (2018-11-01),[empty],[empty],[empty],[empty],Texmaker,[added]
+TeXnicCenter,Source,Windows,[empty],[empty],[empty],[empty],[empty],TeXnicCenter,[added]
+TeXShop,Source,macOS,4.14 (2018-11-02),[empty],[empty],[empty],(InstantPreview with Flashmode),TeXShop,[added]
+TeXstudio,Source,Linux  Windows  macOS,2.12.14 (2018-11-30),[empty],[empty],[empty],(pdf  selection with dvi2png),TeXstudio,[added]
+TeXworks,Source,Linux  macOS  Windows,0.6.2 (2016-04-30),[empty],[empty],[empty],(pdf),TeXworks,[added]
+Verbosus,Source,Online  Android <ref></ref> iOS<ref></ref>,4.1.3 (2016-05-06),<ref></ref>,[empty],[empty],(pdf),Verbosus,[added]
+WinEdt,Source,Windows,10.2 (2017-04-13),[empty],[empty],[empty],[empty],WinEdt,[added]
+WinShell,Source,Windows,3.3.2.6 (2013-02-10),[empty],[empty],[empty],[empty],WinShell,[added]
+[empty],Editing Style,Native Operating Systems,Latest stable version,Costs,License,Configurable,Integrated viewer,[empty],[added]

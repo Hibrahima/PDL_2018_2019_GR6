@@ -1,25 +1,27 @@
-,user manager,Plugin,Compare,Import,Export,Debugger,Source control,Spatial Visualization
-Adminer,,,,SQL script  CSV  <abbr title="Tab Separated Values">TSV</abbr> or the above in zip (as a plugin); imports of server-site file in SQL or SQL in zip  gzip or bzip2,SQL script  CSV  <abbr title="Tab Separated Values">TSV</abbr> or the above in zip  gzip  bzip2; XML (as a plugin),,Git
-Altova DatabaseSpy,,,,CSV  XML,XML  XML Structure  CSV  HTML  MS Excel,,
-DaDaBIK,<ref>can manage its own users  which override the DBMS users</ref>,,,,CSV,,
-Database Workbench,,,,,,,
-DataGrip,,,,,TXT  CSV  HTML  XML  DBF  SQL script  RTF  MS Word  MS Excel  MS Access  MS Windows Clipboard  Paradox file  WK1  WQ1  SLK  DIF  LDIF,,
-DBeaver,,,,,,,With Eclipse plugins
-DBEdit,,,,,MS Excel  PDF  Text  SQL script,,
-Epictetus,,,,,Excel,,
-ER/Builder Data Modeler,,,,- from MySQL  MariaDB  FireBird  Interbase and Postgres databases,- Export DDL SQL and databases (MySQL  MariaDB  FireBird  Interbase and Postgres),,
-ModelRight,,,,- from supported databases using native interfaces  or from any ODBC source,SQL; XML; DTD; Diagram as BMP  JPEG,,
-Navicat,,,,- TXT  CSV  DBF  HTML  MS Excel  MS Access  Paradox file  WK1  WQ1  XML  or from any ODBC source (See link for limitations<ref name="Navicat features">title= Navicat feature matrix</ref>),- TXT  CSV  HTML  XML  DBF  SQL script  RTF  MS Word  MS Excel  MS Access  MS Windows Clipboard  Paradox file  WK1  WQ1  SLK  DIF  LDIF (See link for limitations<ref name="Navicat features"/>),,
-Navicat Data Modeler,,,,- Import Database from server/ODBC,- Export SQL,,
-MySQL Workbench,,,,- CSV  HTML  JSON  MS Excel  SQL INSERTS  Tab-separated  XML,- CSV  HTML  JSON  MS Excel  SQL INSERTS  Tab-separated  XML,,
-Oracle SQL Developer,,,,,,,
-Orbada,,,,SQL script,SQL script  CSV  XML  HTML  PDF  Excel  DBF  DataText,,,
-pgAdmin III,,,,CSV  Text  or binary,CSV  text  HTML  XML,,
-phpMyAdmin,,,,- CSV  SQL  XML  Excel  ODS,- CSV  LaTeX  Excel  Word  ODS  ODT  XML  SQL  YAML  Texy!  JSON  NHibernate  PHP  PDF  MediaWiki,,Git
-SQL Database Studio,,,,CSV  XML  MS Excel,CSV  HTML  MS Excel  SQL INSERTS  Tab-separated  XML,,
-SQLyog,,,,,,,
-SQL Server Management Studio,,,,,,,<ref>https://blogs.technet.microsoft.com/dataplatforminsider/2016/11/21/source-control-in-sql-server-management-studio-ssms/</ref>,
-SQuirreL SQL,,,,,,,
-Toad,,,,,,,SVN  CVS  TFS  VSS
-Toad Data Modeler,,,,Toad for Oracle ERD  ERWin 7.1(XML) via plugin,SQL; meta data in XML; report in HTML/RTF/CSV; diagram as BMP  JPEG  PNG,,
-TOra,,,,,,,
+[empty],user manager,Plugin,Compare,Import,Export,Debugger,Source control,Spatial Visualization
+Adminer,[empty],[empty],[empty],SQL script  CSV  <abbr title="Tab Separated Values">TSV</abbr> or the above in zip (as a plugin); imports of server-site file in SQL or SQL in zip  gzip or bzip2,SQL script  CSV  <abbr title="Tab Separated Values">TSV</abbr> or the above in zip  gzip  bzip2; XML (as a plugin),[empty],Git,[added]
+Altova DatabaseSpy,[empty],[empty],[empty],CSV  XML,XML  XML Structure  CSV  HTML  MS Excel,[empty],[empty],[added]
+DaDaBIK,<ref>can manage its own users  which override the DBMS users</ref>,[empty],[empty],[empty],CSV,[empty],[empty],[added]
+Database Workbench,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+DataGrip,[empty],[empty],[empty],[empty],TXT  CSV  HTML  XML  DBF  SQL script  RTF  MS Word  MS Excel  MS Access  MS Windows Clipboard  Paradox file  WK1  WQ1  SLK  DIF  LDIF,[empty],[empty],[added]
+[added],[added],[added],[added],[added],[added],[added],[added],[added]
+DBeaver,[empty],[empty],[empty],[empty],[empty],[empty],With Eclipse plugins,[added]
+[added],[added],[added],[added],[added],[added],[added],[added],[added]
+DBEdit,[empty],[empty],[empty],[empty],MS Excel  PDF  Text  SQL script,[empty],[empty],[added]
+Epictetus,[empty],[empty],[empty],[empty],Excel,[empty],[empty],[added]
+ER/Builder Data Modeler,[empty],[empty],[empty],- from MySQL  MariaDB  FireBird and PostgreSQL databases,- Export DDL SQL and databases (MySQL  MariaDB  FireBird  SQLite and PostgreSQL),[empty],[empty],[added]
+ModelRight,[empty],[empty],[empty],- from supported databases using native interfaces  or from any ODBC source,SQL; XML; DTD; Diagram as BMP  JPEG,[empty],[empty],[added]
+Navicat,[empty],[empty],[empty],- TXT  CSV  DBF  HTML  MS Excel  MS Access  Paradox file  WK1  WQ1  XML  or from any ODBC source (See link for limitations<ref name="Navicat features">title= Navicat feature matrix</ref>),- TXT  CSV  HTML  XML  DBF  SQL script  RTF  MS Word  MS Excel  MS Access  MS Windows Clipboard  Paradox file  WK1  WQ1  SLK  DIF  LDIF (See link for limitations<ref name="Navicat features"/>),[empty],[empty],[added]
+Navicat Data Modeler,[empty],[empty],[empty],- Import Database from server/ODBC,- Export SQL,[empty],[empty],[added]
+MySQL Workbench,[empty],[empty],[empty],- CSV  HTML  JSON  MS Excel  SQL INSERTS  Tab-separated  XML,- CSV  HTML  JSON  MS Excel  SQL INSERTS  Tab-separated  XML,[empty],[empty],[added]
+Oracle SQL Developer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Orbada,[empty],[empty],[empty],SQL script,SQL script  CSV  XML  HTML  PDF  Excel  DBF  DataText,[empty],[empty],[empty]
+pgAdmin III,[empty],[empty],[empty],CSV  Text  or binary,CSV  text  HTML  XML,[empty],[empty],[added]
+phpMyAdmin,[empty],[empty],[empty],- CSV  SQL  XML  Excel  ODS,- CSV  LaTeX  Excel  Word  ODS  ODT  XML  SQL  YAML  Texy!  JSON  NHibernate  PHP  PDF  MediaWiki,[empty],Git,[added]
+SQL Database Studio,[empty],[empty],[empty],CSV  XML  MS Excel,CSV  HTML  MS Excel  SQL INSERTS  Tab-separated  XML,[empty],[empty],[added]
+SQLyog,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+SQL Server Management Studio,[empty],[empty],[empty],[empty],[empty],[empty],<ref>https://blogs.technet.microsoft.com/dataplatforminsider/2016/11/21/source-control-in-sql-server-management-studio-ssms/</ref>,[empty]
+SQuirreL SQL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Toad,[empty],[empty],[empty],[empty],[empty],[empty],SVN  CVS  TFS  VSS,[added]
+Toad Data Modeler,[empty],[empty],[empty],Toad for Oracle ERD  ERWin 7.1(XML) via plugin,SQL; meta data in XML; report in HTML/RTF/CSV; diagram as BMP  JPEG  PNG,[empty],[empty],[added]
+TOra,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]

@@ -1,27 +1,27 @@
 Name,GUI,CLI,Scripting,Horizontal / Vertical,Syntax Highlighting,Reports
-Beyond Compare,,,,,,
-Compare++,,,,,,
-diff,,,,,pipe to diff-highlight<ref>https://github.com/git/git/tree/master/contrib/diff-highlight</ref>,
-diff3,,,,,,
-Eclipse (compare),,,,,,
-Ediff,,,,,,
-ExamDiff Pro,,,,optional,,
-Far Manager (compare),,,,,,
-fc,,,,,,
-FileMerge (aka opendiff),,,,,,
-Guiffy SureMerge,,,,,,
-IntelliJ IDEA (compare),,,,,,
-jEdit JDiff plugin,,,,,,
-Kompare,,,,,,
-Lazarus Diff,,,,,,
-Meld,,,,,,
-Notepad++ (compare),,,,,,
-Perforce P4Merge,,,,,,
-Pretty Diff,,,,,,
-Tkdiff,,,,,,
-Total Commander (compare),,,,,,
-vimdiff,,,,,,
-WinDiff,,,,,,
-WinMerge,,,,,,
-UCC,,,,,,
+Beyond Compare,[empty],[empty],[empty],[empty],[empty],[empty]
+Compare++,[empty],[empty],[empty],[empty],[empty],[empty]
+diff,[empty],[empty],[empty],[empty],pipe to diff-highlight<ref>https://github.com/git/git/tree/master/contrib/diff-highlight</ref>,[empty]
+diff3,[empty],[empty],[empty],[empty],[empty],[empty]
+Eclipse (compare),[empty],[empty],[empty],[empty],[empty],[empty]
+Ediff,[empty],[empty],[empty],[empty],[empty],[empty]
+ExamDiff Pro,[empty],[empty],[empty],optional,[empty],[empty]
+Far Manager (compare),[empty],[empty],[empty],[empty],[empty],[empty]
+fc,[empty],[empty],[empty],[empty],[empty],[empty]
+FileMerge (aka opendiff),[empty],[empty],[empty],[empty],[empty],[empty]
+Guiffy SureMerge,[empty],[empty],[empty],[empty],[empty],[empty]
+IntelliJ IDEA (compare),[empty],[empty],[empty],[empty],[empty],[empty]
+jEdit JDiff plugin,[empty],[empty],[empty],[empty],[empty],[empty]
+Kompare,[empty],[empty],[empty],[empty],[empty],[empty]
+Lazarus Diff,[empty],[empty],[empty],[empty],[empty],[empty]
+Meld,[empty],[empty],[empty],[empty],[empty],[empty]
+Notepad++ (compare),[empty],[empty],[empty],[empty],[empty],[empty]
+Perforce P4Merge,[empty],[empty],[empty],[empty],[empty],[empty]
+Pretty Diff,[empty],[empty],[empty],[empty],[empty],[empty]
+Tkdiff,[empty],[empty],[empty],[empty],[empty],[empty]
+Total Commander (compare),[empty],[empty],[empty],[empty],[empty],[empty]
+vimdiff,[empty],[empty],[empty],[empty],[empty],[empty]
+WinDiff,[empty],[empty],[empty],[empty],[empty],[empty]
+WinMerge,[empty],[empty],[empty],[empty],[empty],[empty]
+UCC,[empty],[empty],[empty],[empty],[empty],[empty]
 Name,GUI,CLI,Scripting,Horizontal / Vertical,Syntax Highlighting,Reports

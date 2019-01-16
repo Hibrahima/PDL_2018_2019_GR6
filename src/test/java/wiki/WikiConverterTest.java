@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.io.File;
 import java.io.IOException;
+
 import org.jsoup.nodes.Document;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeEach;
@@ -13,12 +14,10 @@ import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
-
-
 import helper.Constants;
 import helper.FileHandlerImpl;
-import helper.TablePrinter;
 import helper.UrlNotFoundException;
+import helper.Utils;
 import helper.WikiRunner;
 import interfaces.FileHandler;
 import interfaces.Statistics;
@@ -47,6 +46,7 @@ public class WikiConverterTest {
 		 separator = ',';
 	}
 	
+	/* DISBALED AS WELL [ JUST FOR LOCAL TESTS ]
 	@Test
 	@DisplayName("converts a single url' tables into csv files into our test folders")
 	@Disabled
@@ -58,15 +58,15 @@ public class WikiConverterTest {
 		
 	}
 	
+	
 	@Test
 	@DisplayName("test Comparison_of_audio_player_software")
 	@Disabled
-	public void testComparison_of_audio_player_software() throws IOException, UrlNotFoundException{
-		Document doc = WikiRunner.getDocument("en", "Comparison_of_audio_player_software");
-		wikiConverter.convertToCsv(doc, Constants.EN_BASE_WIKIPEDIA_URL, "Comparison_of_audio_player_software", Constants.WIKI_TEST_OUTPUT_DIR);
+	public void testComparison_of_Linux_distributions() throws IOException, UrlNotFoundException{
+		Document doc = WikiRunner.getDocument("en", " Comparison_of_Linux_distributions");
+		wikiConverter.convertToCsv(doc, Constants.EN_BASE_WIKIPEDIA_URL, " Comparison_of_Linux_distributions", Constants.WIKI_TEST_OUTPUT_DIR);
 	}
-	
-	
+	*/
 	
 	@Test
 	@DisplayName("test converts all files to csv")
@@ -83,7 +83,7 @@ public class WikiConverterTest {
 				totalExtacted += s.getExtractedTablesNumber();
 			}
 			System.out.println("Number of extracted pertinent tables : "+totalExtacted);
-			displayInfo();
+			Utils.displayInfo(WikiExtractor.statisticsList, "WIKI Extractor");
 			
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -91,17 +91,6 @@ public class WikiConverterTest {
 		
 	}
 	
-	private void displayInfo() {
-		TablePrinter printer = new TablePrinter();
-        //st.setRightAlign(true);//if true then cell text is right aligned
-		printer.setShowVerticalLines(true); //if false (default) then no vertical lines are shown
-		printer.setHeaders("Url", "Igored", "Extracted", "Total");//optional - if not used then there will be no header and horizontal lines
-		for(Statistics s : WikiExtractor.statisticsList) {
-			int total = s.getExtractedTablesNumber()+s.getIgnoredTablesNumber();
-			printer.addRow(s.getUrl(), ""+s.getIgnoredTablesNumber(), ""+s.getExtractedTablesNumber(),""+total);
-		}
-		printer.print();
-	}
 	
 	@Test
 	@DisplayName("test process td text with separator and number")
@@ -145,10 +134,12 @@ public class WikiConverterTest {
 		assertEquals(separator+"some text", result.toString());
 		
 		result = wikiConverter.processCurrentTDText(new StringBuilder("some text"+separator));
-		assertEquals("some text"+separator, result.toString());
+		assertEquals("some text"+" ", result.toString());
 		
 	}
 	
+	
+	// TO BE IMPROVED
 	@Test
 	@AfterAll
 	@DisplayName("test validity of all csv files")
@@ -171,7 +162,8 @@ public class WikiConverterTest {
 		
 		System.out.println("total number of files tested : "+counter);
 		
-	}
-	
+	}	
 
+	
+	
 }

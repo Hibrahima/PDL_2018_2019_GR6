@@ -1,27 +1,27 @@
-,Tested software version,ODF version attribute in exported file<br />office:version="1.X",File type,Validation of simple<br />new document<ref name="opendocumentfellowship" /><ref name="openoffice.org" />,Notes
-AbiWord,2.6.4,1.0,ODT,,
-Adobe Buzzword,beta 3  build 600113,1.0,ODT,,(errors in styles.xml and content.xml)
-EditGrid,11/2008,1.0,ODS,,
-Gnumeric,1.9.3,1.0,ODS,,
-Google Docs & Spreadsheets,11/2008,1.0,ODT  ODS,,
-IBM Lotus Symphony,1.1.0,1.1,ODT  ODS  ODP,,
-IBM Lotus Symphony,3.0.0 FP2,1.2,ODT  ODS  ODP,,
-Inkscape,0.4.6,1.0,ODG,,
-KOffice,1.6.3,attribute is missing,ODT  ODS  ODP,,ODT  ODS - valid<br />ODF 1.0 and 1.1
-KOffice,2.1.2,1.2,ODT  ODS  ODP,,
-Microsoft Office,2007 SP2,1.1,ODT  ODS  ODP,,
-Microsoft Office - SUN ODF Plugin,1.2,1.1,ODT  ODS  ODP,,
-Microsoft Office - SUN ODF Plugin,3.1,1.2,ODT  ODS  ODP,,
-Microsoft Office - OpenXML/ODF Translator Add-in,2.0,attribute is missing,ODT  ODS  ODP,,ODF 1.1 implemented<ref>http://odf-converter.sourceforge.net/</ref>
-NeoOffice,2.2.5,1.0,ODT,,(error in styles.xml)
-OpenOffice.org,2.0 - 2.3.0,1.0,ODT  ODS  ODP,,
-OpenOffice.org,2.3.1 - 2.4.2,1.1,ODT  ODS  ODP,,
-OpenOffice.org,3.0,1.1 and 1.2,ODT  ODS  ODP,,adjustable ODF version
-StarOffice,8.0 product update 10,1.1,ODT  ODS  ODP,,
-RedOffice,4.0,1.0,ODT  ODS  ODP,,
-TextEdit,1.5 (244),1.0,ODT,,(settings.xml is missing<ref name="opendocumentfellowship" />)
-TextMaker,2008 rev.494,1.0,ODT,,(error in styles.xml)
-TextMaker,2010,1.0,ODT,,
-WordPad,6.1 (2009),attribute is missing,ODT,,(settings.xml is missing<ref name="opendocumentfellowship" /> - ODF 1.0/1.1 validation)
-Zoho Office Suite,11/2008,1.0,ODT  ODS  ODP,,
-,Tested software version,ODF version attribute in exported file<br />office:version="1.X",File type,Validation of simple<br />new document<ref name="opendocumentfellowship" /><ref name="openoffice.org" />,Notes
+[empty],Tested software version,ODF version attribute in exported file<br />office:version="1.X",File type,Validation of simple<br />new document<ref name="opendocumentfellowship" /><ref name="openoffice.org" />,Notes
+AbiWord,2.6.4,1.0,ODT,[empty],[empty]
+Adobe Buzzword,beta 3  build 600113,1.0,ODT,[empty],(errors in styles.xml and content.xml)
+EditGrid,11/2008,1.0,ODS,[empty],[empty]
+Gnumeric,1.9.3,1.0,ODS,[empty],[empty]
+Google Docs & Spreadsheets,11/2008,1.0,ODT  ODS,[empty],[empty]
+IBM Lotus Symphony,1.1.0,1.1,ODT  ODS  ODP,[empty],[empty]
+IBM Lotus Symphony,3.0.0 FP2,1.2,ODT  ODS  ODP,[empty],[empty]
+Inkscape,0.4.6,1.0,ODG,[empty],[empty]
+KOffice,1.6.3,attribute is missing,ODT  ODS  ODP,[empty],ODT  ODS - valid<br />ODF 1.0 and 1.1
+KOffice,2.1.2,1.2,ODT  ODS  ODP,[empty],[empty]
+Microsoft Office,2007 SP2,1.1,ODT  ODS  ODP,[empty],[empty]
+Microsoft Office - SUN ODF Plugin,1.2,1.1,ODT  ODS  ODP,[empty],[empty]
+Microsoft Office - SUN ODF Plugin,3.1,1.2,ODT  ODS  ODP,[empty],[empty]
+Microsoft Office - OpenXML/ODF Translator Add-in,2.0,attribute is missing,ODT  ODS  ODP,[empty],ODF 1.1 implemented<ref>http://odf-converter.sourceforge.net/</ref>
+NeoOffice,2.2.5,1.0,ODT,[empty],(error in styles.xml)
+OpenOffice.org,2.0 - 2.3.0,1.0,ODT  ODS  ODP,[empty],[empty]
+OpenOffice.org,2.3.1 - 2.4.2,1.1,ODT  ODS  ODP,[empty],[empty]
+OpenOffice.org,3.0,1.1 and 1.2,ODT  ODS  ODP,[empty],adjustable ODF version
+StarOffice,8.0 product update 10,1.1,ODT  ODS  ODP,[empty],[empty]
+RedOffice,4.0,1.0,ODT  ODS  ODP,[empty],[empty]
+TextEdit,1.5 (244),1.0,ODT,[empty],(settings.xml is missing<ref name="opendocumentfellowship" />)
+TextMaker,2008 rev.494,1.0,ODT,[empty],(error in styles.xml)
+TextMaker,2010,1.0,ODT,[empty],[empty]
+WordPad,6.1 (2009),attribute is missing,ODT,[empty],(settings.xml is missing<ref name="opendocumentfellowship" /> - ODF 1.0/1.1 validation)
+Zoho Office Suite,11/2008,1.0,ODT  ODS  ODP,[empty],[empty]
+[empty],Tested software version,ODF version attribute in exported file<br />office:version="1.X",File type,Validation of simple<br />new document<ref name="opendocumentfellowship" /><ref name="openoffice.org" />,Notes

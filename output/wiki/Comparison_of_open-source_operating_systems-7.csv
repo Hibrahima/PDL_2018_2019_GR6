@@ -1,29 +1,29 @@
 Name,RAID,quota,Resource access control,encryption,other special file system features
-Linux,,,Unix  ACL  MAC,,LVM  EVMS
-FreeBSD,,,Unix  ACL  MAC,,GEOM  snapshots  background fsck  user-mountable file systems
-OpenBSD,,,Unix,,
-NetBSD,,,Unix  Veriexec,,Snapshots  Journaling
-DragonFly BSD,,,Unix,,HAMMER  Snapshots  Checksumming  Deduplication
-OpenSolaris  illumos,,,Unix  ACL  MAC,,Solaris Volume Manager  ZFS  snapshots  transparent data repair
-AuroraUX,,,Unix  ACL  MAC,,Solaris Volume Manager  ZFS  snapshots  transparent data repair
-Darwin  OpenDarwin,,,Unix  ACL,,
-MINIX,,,Unix,,
-FreeDOS,,,,,
-Genode,,,,,Per-process virtual file-system layer
-KolibriOS,,,,,
-MenuetOS,,,,,
-GNU,,,Unix,,
-ReactOS,,,,,
-L4  Fiasco  Pistachio,,,,,
-Plan 9,,,Unix-like  no root,,snapshots  venti archival storage  per-process namespace  user-mountable file systems
-AROS,,,,,
-Syllable,,,Unix,,64-bit  journaling  extended file attributes
-Inferno,,,Unix-like  no root,,per-process namespace  user-mountable file systems
-FreeRTOS,,,,,
-eCos,,,,,
-RTEMS,,,,,
-HelenOS,,,,,
-E/OS,,,Unix,,,V2 OS
-K42
-UnixLite -->
+Linux,[empty],[empty],Unix  ACL  MAC,[empty],LVM  EVMS
+FreeBSD,[empty],[empty],Unix  ACL  MAC,[empty],GEOM  snapshots  background fsck  user-mountable file systems
+OpenBSD,[empty],[empty],Unix,[empty],[empty]
+NetBSD,[empty],[empty],Unix  Veriexec,[empty],Snapshots  Journaling
+DragonFly BSD,[empty],[empty],Unix,[empty],HAMMER  Snapshots  Checksumming  Deduplication
+OpenSolaris  illumos,[empty],[empty],Unix  ACL  MAC,[empty],Solaris Volume Manager  ZFS  snapshots  transparent data repair
+AuroraUX,[empty],[empty],Unix  ACL  MAC,[empty],Solaris Volume Manager  ZFS  snapshots  transparent data repair
+Darwin  OpenDarwin,[empty],[empty],Unix  ACL,[empty],[empty]
+MINIX,[empty],[empty],Unix,[empty],[empty]
+FreeDOS,[empty],[empty],[empty],[empty],[empty]
+Genode,[empty],[empty],[empty],[empty],Per-process virtual file-system layer
+KolibriOS,[empty],[empty],[empty],[empty],[empty]
+MenuetOS,[empty],[empty],[empty],[empty],[empty]
+GNU,[empty],[empty],Unix,[empty],[empty]
+ReactOS,[empty],[empty],[empty],[empty],[empty]
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty]
+Plan 9,[empty],[empty],Unix-like  no root,[empty],snapshots  venti archival storage  per-process namespace  user-mountable file systems
+AROS,[empty],[empty],[empty],[empty],[empty]
+Syllable,[empty],[empty],Unix,[empty],64-bit  journaling  extended file attributes
+Inferno,[empty],[empty],Unix-like  no root,[empty],per-process namespace  user-mountable file systems
+FreeRTOS,[empty],[empty],[empty],[empty],[empty]
+eCos,[empty],[empty],[empty],[empty],[empty]
+RTEMS,[empty],[empty],[empty],[empty],[empty]
+HelenOS,[empty],[empty],[empty],[empty],[empty]
+E/OS,[empty],[empty],Unix,[empty],[empty]
+K42,[added],[added],[added],[added],[added]
+UnixLite -->,[added],[added],[added],[added],[added]
 Name,RAID,quota,Resource access control,encryption,other special file system features

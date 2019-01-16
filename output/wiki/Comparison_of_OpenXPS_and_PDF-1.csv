@@ -7,8 +7,9 @@ Latest standardised version,Ecma International Standard ECMA-388 — Open XML Pa
 Language type,Markup language (XML)<ref name="globalgraphics">http://www.globalgraphics.com/xps/faq.pdf</ref><ref name="verydoc">[http://www.verydoc.com/xps.html XPS: XML Paper Specification]</ref>,PDF is a database of objects that may be created from PostScript or generated directly by an application.
 XML schema representation,XML Schema (W3C) (XSD) and RELAX NG (ISO/IEC 19757-2)<ref>[http://www.ecma-international.org/publications/standards/Ecma-388.htm Standard ECMA-388]</ref>,N/A
 Compression format,ZIP<ref name="globalgraphics" /><ref name="verydoc" /><ref name="zdnet">[http://dictionary.zdnet.com/definition/XML+Paper+Specification.html xml paper specification News and Other Resources | ZDNet]</ref>,LZW for both text and images; JPEG  JPEG 2000  and RLE for images only<ref>[PDF Reference  Sixth edition  http://www.adobe.com/devnet/acrobat/pdfs/pdf_reference_1-7.pdf]  p. 39</ref>
-Container structure,Open Packaging Conventions (ISO/IEC 29500-2:2008)<ref name="globalgraphics" /><ref name="verydoc" />,
+Container structure,Open Packaging Conventions (ISO/IEC 29500-2:2008)<ref name="globalgraphics" /><ref name="verydoc" />,[empty]
 3D graphic content,X3D (ISO/IEC 19775/19776)<ref name="ECMA-388">http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-388.pdf</ref>,U3D (Standard ECMA-363)<ref>[https://www.adobe.com/devnet/acrobat3d/ Acrobat 3D Developer Center | Adobe Acrobat 3D Developer Center]</ref><ref></ref>
+[added],[added],[added]
 Full file content compression,<ref name="amyuni" />,<ref name="iso32000">http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=51502 ISO 32000-1:2008</ref>
 Fast page by page download from web servers,<ref name="amyuni" />,<ref name="amyuni" />
 Multiple documents in one file,<ref name="amyuni" />,<ref>[https://admin.adobe.acrobat.com/_a295153/p81291074/ A9 PDF Binders]</ref>
@@ -20,7 +21,7 @@ Annotations,<ref name="xpsdev">[http://www.xpsdev.com/xps-annotator XPS Annotato
 Image transparencies,<ref name="amyuni" />,<ref name="amyuni" />
 Gradient fills,<ref name="amyuni" /><ref name="informationweek" />,<ref name="amyuni" />
 Alpha channel in color definitions,<ref name="amyuni" />,<ref name="amyuni" />
-Support for multiple transparency blending modes,,<ref name="iso32000" />
+Support for multiple transparency blending modes,[empty],<ref name="iso32000" />
 Change tracking,<ref name="amyuni" />,<ref name="amyuni" />
 Password protection,<ref name="amyuni" />,<ref name="amyuni" /><ref name="mactech" />
 Digital signatures,<ref name="verydoc" /><ref name="zdnet" /><ref name="amyuni" /><ref name="xpsdev"/>,<ref name="mactech" /><ref name="filiol">https://www.blackhat.com/presentations/bh-europe-08/Filiol/Presentation/bh-eu-08-filiol.pdf</ref>

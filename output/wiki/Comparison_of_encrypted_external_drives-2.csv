@@ -1,16 +1,16 @@
 Name,Windows,FreeBSD,Linux,Mac OS,NetBSD,OpenBSD
-SafeStick,,,,,,
-SafeStick SuperSonic,,,,,,
-IronKey S100,,,,,,
-IronKey S200,,,,,,
-IronKey D200,,,,,,
-CryptX2,,,,,,
-DataTraveler 5000,,,,,,
-DataTraveler Locker+,,,,,,
-DataTraveler Vault,,,Public partition only,,,
-DataTraveler Vault – Privacy Edition,,,,,,
-JumpDrive SecureII Plus,,,,,,
-IronClad,,,,,,
-Cruzer Enterprise,,,,,,
-Store n' Go Corporate,,,,,,
+SafeStick,[empty],[empty],[empty],[empty],[empty],[empty]
+SafeStick SuperSonic,[empty],[empty],[empty],[empty],[empty],[empty]
+IronKey S100,[empty],[empty],[empty],[empty],[empty],[empty]
+IronKey S200,[empty],[empty],[empty],[empty],[empty],[empty]
+IronKey D200,[empty],[empty],[empty],[empty],[empty],[empty]
+CryptX2,[empty],[empty],[empty],[empty],[empty],[empty]
+DataTraveler 5000,[empty],[empty],[empty],[empty],[empty],[empty]
+DataTraveler Locker+,[empty],[empty],[empty],[empty],[empty],[empty]
+DataTraveler Vault,[empty],[empty],Public partition only,[empty],[empty],[empty]
+DataTraveler Vault – Privacy Edition,[empty],[empty],[empty],[empty],[empty],[empty]
+JumpDrive SecureII Plus,[empty],[empty],[empty],[empty],[empty],[empty]
+IronClad,[empty],[empty],[empty],[empty],[empty],[empty]
+Cruzer Enterprise,[empty],[empty],[empty],[empty],[empty],[empty]
+Store n' Go Corporate,[empty],[empty],[empty],[empty],[empty],[empty]
 Name,Windows,FreeBSD,Linux,Mac OS,NetBSD,OpenBSD

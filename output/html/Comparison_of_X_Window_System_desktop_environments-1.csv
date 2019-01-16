@@ -8,9 +8,9 @@ KDE Plasma 5 (KDE5  KDE Plasma Workspaces  formerly K Desktop Environment or sim
 LXDE (Lightweight X11 Desktop Environment),2006,2016-11-21,C,GTK+,GPL  LGPL,LXDE  with its low resource footprint  is a favorite among developers of lighter-weight Linux distributions (Lubuntu  Lite  LXLE  PepperMint  Sparky  etc.).
 LXQt,2014-05-07,2018-05-21,C  C++,Qt,GPL  LGPL,merged from LXDE-Qt experiment and Razor-qt
 MATE,2011-08-19,2018-06-02,C  C++  Python,GTK+,LGPL  GPL,Revival and continuation of GNOME 2 environment after the release of GNOME 3. In recent releases  it has been ported to GTK+ 3  demonstrating the progress of the project.
-Pantheon,2011 (?),2018-10-16 (?),Vala,GTK+,GPL
+Pantheon,2011 (?),2018-10-16 (?),Vala,GTK+,GPL,[added]
 Razor-qt,2010,2013-01-12,C++,Qt,GPL,merged into LXQt
-ROX Desktop,2000 (?),2011-10-09,C  Python,GTK+,GPL
+ROX Desktop,2000 (?),2011-10-09,C  Python,GTK+,GPL,[added]
 Trinity Desktop Environment (TDE),2010-04-29,2018-08-18,C++,Qt,GPL (and other),forked from KDE 3.x Intentionally with a Win-XP look.
 Unity,2010-06-09,2016-05-25,C  C++  Python  Vala  QML,GTK+,GPL  LGPL,Developed by Canonical for Ubuntu as an alternative graphical shell to GNOME 3's "GNOME Shell". Designed with "convergence" in mind  it was discontinued by Canonical in early 2017  but its development was continued by the community.
 Xfce,1996,2015-02-28,C,GTK+,GPL  LGPL  BSD license,XFCE is often used in lightweight distributions targeting lower-end hardware.

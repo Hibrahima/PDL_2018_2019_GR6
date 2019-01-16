@@ -1,90 +1,90 @@
 Distribution,Founder,Maintainer,Initial release year,Current stable version,Security updates (years),Release date,System distribution commitment,Forked from,Target audience,Cost,Status
-Alpine Linux,Alpine Linux Team,Alpine Linux Team,,3.8.0,,<ref></ref>,,–,security  lightweight  general,,
-ALT Linux,ALT Linux Team,ALT Linux Team  ALT Linux LLC,,8.2,,<ref></ref>,,Mandrake Linux,general  school,,
-Antergos,Alexandre Filgueira,Antergos Project,,Rolling,Rolling,Rolling,,Arch Linux,general,,
-antiX,Anticapitalista,Anticapitalista,,17,,<ref></ref>,,Debian  MEPIS,old computers,,
-ArchBang,Willensky Aristide,Stan McLaren,,Rolling,Rolling,,,Arch Linux,general,,
-Arch Linux,Judd Vinet,dev team,,Rolling,Rolling,Rolling,,–,general,,
-BLAG,Brixton Linux Action Group,Brixton Linux Action Group,,140k,,,,Fedora,desktop,,
-Bodhi Linux,Bodhi Linux Team,Bodhi Linux Team,,4.5.0<ref></ref>,,,,Debian  Ubuntu,desktop,,
-Canaima,CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community,CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community,,5.0,,,,Debian  Ubuntu,Government of Venezuela,,
-CentOS,CentOS Project,CentOS Project,,7.5-1804,10 years,,,Red Hat Enterprise Linux (RHEL),server  workstation,,
-Chakra,Jan Mette and Arch Linux KDEmod developers,The Chakra Project Team,,Rolling,Rolling,,,Arch Linux<ref></ref>,desktop,,
-Chromium OS,Google,,2009,Rolling,Rolling,Rolling,,Chrome OS,web applications,,
-ClearOS,Peter Baldwin,ClearFoundation,,7.3.0,,,,RHEL  CentOS,server  gateway  network,,
-CrunchBang Linux,Philip Newborough,Philip Newborough,,11,,<ref></ref>,,Debian,desktop,,
-Damn Small Linux,John Andrews,dev team,,4.4.10,,<ref></ref>,,Debian  Knoppix,lightweight  portable,,
-Debian,Ian Murdock,Debian Project,,9.5,~3 years<ref name="DebianSupportPeriod" group="g" />,,(main is 100% free  non-free packages are optional)<ref></ref>,–,general  server  desktop,,
-Debian Edu,,Debian Project,,8.0+edu0,~3 years<ref name="DebianSupportPeriod" group="g"/>,<ref></ref>,,–,schools,,
-Devuan,The "Veteran Unix Admins" (VUA),The "Veteran Unix Admins" (VUA),,1.0.0,,,,Debian,general,,
-Dragora GNU/Linux-Libre,Matias A. Fonzo,Matias A. Fonzo,,2.2,,,,Independent  inspired from Slackware,general,,
-dyne:bolic,Jaromil,Jaromilx,,3.0.0,,,,Debian,multimedia,,
-Elementary OS,Daniel Foré,elementary LLC,,5.0,,<ref></ref>,,Ubuntu  Debian,general,,
-ELinOS,SYSGO,SYSGO,,,6.1,<ref name="elinos_release"></ref>,,–,embedded systems,,
-Emdebian Grip,Embedded Debian Project,Embedded Debian Project,,3.1,End-of-life,,,Debian,embedded systems,,
-Fedora,Fedora Project,Fedora Project,,29,1 year,,<ref></ref>,–,general,,
-Freespire,Lindows.com  Inc.,Linspire  Inc.,,2.0.8,,,,Debian,desktop,,
-Gentoo Linux,Daniel Robbins,Gentoo Foundation  Inc.,,Rolling,Rolling,,,–,general,,
-Guix System Distribution,Ludovic Courtès,Ludovic Courtès  Ricardo Wurmus  the Guix community,,0.16.0,Rolling,<ref name="guix_release"></ref>,,–,general,,
-gNewSense,Brian Brazil and Paul O'Malley,Sam Geeraerts with sponsorship from the FSF,,4.0 (Ucclia),,<ref name="gns_release"></ref>,,Debian,general  server,,
-gnuLinEx,Regional Government of Extremadura,dev team,,LinEx 2013,,,,Debian,desktop,,
-Grml,Michael Prokop,The Grml Team,,2017.05,,,,Debian,live  maintenance  security  network  forensic  accessibility,,
-Hyperbola GNU/Linux-libre,Hyperbola Founders,Hyperbola Founders,,0.2.5<ref></ref>,3 years (stable)  5 years (old stable)<ref></ref>,,,Arch Linux,general,,
-Instant WebKiosk,Marco Buratto,Binary Emotions,,16.0,,<ref></ref>,,Debian,web kiosks  digital signage  personal web navigation,,
-Kali Linux,Max Moser  Mati Aharoni  Martin J. Muench,Offensive Security,,2018.1,,<ref></ref>,,Debian,auditing  forensic  security  network,,
-Knoppix,Klaus Knopper,dev team,,8.1,,<ref></ref>,,Debian,live,,
-Kodibuntu,The XBMC Project,Team Kodi,,,,,,Debian  Ubuntu,multimedia,,
-Korora,Chris Smart,Dev Team,,26,,<ref name="K22"></ref>,,Fedora,desktop,,
-LibreCMC,LibreCMC team,LibreCMC team,,1.4.2,,,,Merged from LibreWRT,embedded systems,,
-Linspire,Linspire  Inc.,Linspire  Inc.,,7.0,,,,Ubuntu,,<ref></ref>,
-Linux Mint,Clement Lefebvre,dev team,,18.3,~3 years (LMDE); 5 years (main editions),,,Debian  Ubuntu,desktop,,
-Linux Lite,Jerry Bezencon,Linux Lite Team,2012,3.8,,2017-02-01,,Ubuntu,desktop,,
-Mageia,Mageia Community,mageia.org,,6,1,<ref></ref>,,Mandriva Linux,general,,
-Mandriva Linux,Mandrakesoft S.A.,Mandriva S.A.,,2011,,,,Red Hat Linux,general,,
-Manjaro Linux,Roland Singer,dev team,<ref></ref>,Rolling,Rolling,Rolling,,Arch Linux,general,,
-MEPIS,Warren Woodford,MEPIS LLC,,,,,,Debian,desktop  server,,
-Musix GNU+Linux,Musix team,Musix team,,3.0.1,,,,Debian,multimedia,,
-Netrunner,Blue Systems,dev team,,18.03,as per Debian Testing or Manjaro (rolling),,,Debian  Manjaro/Arch,desktop,,
-NixOS,Eelco Dolstra and Armijn Hemel,NixOS Foundation,,17.09,6 months,,,-,general  server  desktop,,
-Novell Open Enterprise Server,Novell,Novell  Inc. dev team,,,,,,SUSE Linux Enterprise Server,server,<ref></ref>,
-OpenELEC,Stephan Raue  OpenELEC Team,OpenELEC Team,,8.0.4,,,,–,multimedia,,
-openSUSE,SUSE Linux  Novell,openSUSE Project,,42.3,3 years<ref></ref>,,,–,general  desktop,,
-OpenWrt,,OpenWrt team,,15.05.1,,,,–,embedded systems,,
-Oracle Linux,Oracle Corporation,Oracle Corporation,,7.4,,,,Red Hat Enterprise Linux (RHEL),server,,
-Parabola GNU/Linux-libre,Parabola Hackers,Parabola Hackers,,Rolling,Rolling,<ref name="parabola-downloads"></ref>,,Arch Linux,general,,
-Pardus,Scientific and Technological Research Council of Turkey (TÜBİTAK),TÜBİTAK,,5,,,,–,general,,
-Parsix,Alan Baghumian,Parsix Project,,8.15,,,,Debian,desktop,,
-PCLinuxOS,Bill Reynolds,dev team,,2017.04<ref></ref>,Semi-rolling,,,Mandriva Linux,desktop,,
-Pentoo,Michael Zanetta  Rick Farina  Jens Pranaitis,Pentoo,,2015.0 RC4.6,,,,Gentoo Linux,auditing  security,,
-Porteus,Fanthom,Porteus,,3.2.2,,,,Slackware,lightweight  portable,,
-Puppy Linux,Barry Kauler,Puppy Foundation,,6.3.2,,,,–,lightweight  portable,,
-Qubes OS,Joanna Rutkowska,Invisible Things Lab,,4.0,,<ref></ref>,,Xen and Fedora,security by compartmentalization  desktop,,
-Red Hat Enterprise Linux (RHEL),Red Hat,Red Hat,,7.6,10 years,2018-10-30<ref name="Red Hat 7.6 Release Announcement">></ref>,,Red Hat Linux  Fedora,server  workstation,<ref></ref><ref></ref>,
-Red Hat Linux,Red Hat,Red Hat,,9,,2003-03-31,,–,server  workstation,,
-Rocks Cluster Distribution,UCSD Supercomputing Center  Clustercorp,UCSD Supercomputing Center  Clustercorp,,7.0,,2015-12-01,,Red Hat Linux,server  workstation,,
-Sabayon Linux,Fabio Erculiani,dev team,,17.12,,2017-11-29<ref name="sabayon_release"></ref>,,Gentoo Linux,general,,
-Salix OS,Cyrille Pontvieux  George Vlahavas  Pierrick Le Brun  Thorsten Mühlfelder,Salix team,,14.2,,,,Slackware,general,,
-Scientific Linux,CERN  Fermilab,dev team,,7.4,,2017-10-02,,Red Hat Linux  Red Hat Enterprise Linux (RHEL),server  workstation,,
-Slackware,Patrick Volkerding,dev team,,14.2<ref name="Slackware 14.2"></ref>,,2016-06-30,,Softlanding Linux System (SLS),general,,
-Slax,Tomas Matejicek,Tomas Matejicek,,9.3.0,,2017-12-24<ref></ref>,,Debian  Slackware (until Slax 9),live,,
-SliTaz GNU/Linux,Christophe Lincoln,dev team,,Rolling,Rolling,,,–,portable,,
-Solus,Ikey Doherty,dev team,,Rolling,Rolling,,,–,desktop,,
-SolydXK,Arjen Balfoort,dev team,,201801,Debian packages as per Debian,,,Debian,desktop,,
-Source Mage GNU/Linux,Ryan Abrams  Eric Schabell,dev team,,0.62-11,,,,Sorcerer,general,,
-SteamOS,Valve Corporation,Valve Corporation,,2.148,,,,Debian,video games,,
-SUSE Linux Enterprise,SUSE,Microfocus,,12SP3,,2017-09-07,,Slackware  Jurix,workstation  server,<ref></ref>,
-Tails,,Tails Development Team,,3.8,–<ref name="Tails Releases" group="g"/>,2018-06-26,,Debian,security-focused aimed for anonymity and privacy,,
-Tiny Core Linux,Robert Shingledecker,Team Tiny Core,,8.2.1,,,,Tiny Core Linux,portable,,
-Tor-ramdisk,Anthony G. Basile,dev team,,20151215,,,,Gentoo Linux Embedded  uClibc,Tor server,,
-Trisquel GNU/Linux,Rubén Rodríguez Pérez (quidam),Rubén Rodríguez Pérez (quidam),,8.0,5 years<ref name="Trisquel Release" group="g"/>,,,Ubuntu LTS,desktop,,
-TurnKey GNU/Linux,Alon Swartz  Liraz Siri,TurnKey GNU/Linux Team,,14.1,Debian packages as per Debian; TurnKey packages for life of current major version (plus backports per request),<ref></ref>,,Debian,server based software appliance library aiming to balance security and ease of use,,
-Ubuntu and Derivatives<ref name="ubuntu"></ref>,Canonical Ltd.,Canonical Ltd.,,18.10,Standard releases 1 year  LTS releases 5 years. Flavor LTS releases 3 or 5 years.,<ref></ref>,,Debian,general  server  desktop,,
-Univention Corporate Server,Univention GmbH,Univention GmbH,,4.3,up to 6 months for the free Core Edition; if maintenance is purchased  it's up to 7 years  see:<ref></ref>,,,Debian,home  business  and school,,
-Ututo,Diego Saravia  Daniel Olivera,UTUTO dev team,,XS 2012,,,,Ututo XS: Gentoo Linux  Ututo UL: Ubuntu,general,,
-VectorLinux,Robert S. Lange,dev team,,7.1,,2015-06-27,,Slackware,desktop,,
-Void Linux,Juan Romero Pardines,Juan RP and contributors,,Rolling,Rolling,,,–,general,,
-Webconverger,Kai Hendry,Webconverger Limited,,35.0,,,,Debian,kiosk software  digital signage,,
-Xandros,Xandros Incorporated,Xandros Incorporated,,,,,,Corel Linux,,,
-Zentyal,eBox Technologies,eBox Technologies,,5,,,,Debian  Ubuntu,small business server,,
-Zenwalk,Jean-Philippe Guillemin,dev team,,Rolling<ref name="zenwalk_release"></ref>,,2018-03-09,,Slackware,general,,
+Alpine Linux,Alpine Linux Team,Alpine Linux Team,[empty],3.8.0,[empty],<ref></ref>,[empty],–,security  lightweight  general,[empty],[empty]
+ALT Linux,ALT Linux Team,ALT Linux Team  ALT Linux LLC,[empty],8.2,[empty],<ref></ref>,[empty],Mandrake Linux,general  school,[empty],[empty]
+Antergos,Alexandre Filgueira,Antergos Project,[empty],Rolling,Rolling,Rolling,[empty],Arch Linux,general,[empty],[empty]
+antiX,Anticapitalista,Anticapitalista,[empty],17,[empty],<ref></ref>,[empty],Debian  MEPIS,old computers,[empty],[empty]
+ArchBang,Willensky Aristide,Stan McLaren,[empty],Rolling,Rolling,[empty],[empty],Arch Linux,general,[empty],[empty]
+Arch Linux,Judd Vinet,dev team,[empty],Rolling,Rolling,Rolling,[empty],–,general,[empty],[empty]
+BLAG,Brixton Linux Action Group,Brixton Linux Action Group,[empty],140k,[empty],[empty],[empty],Fedora,desktop,[empty],[empty]
+Bodhi Linux,Bodhi Linux Team,Bodhi Linux Team,[empty],4.5.0<ref></ref>,[empty],[empty],[empty],Debian  Ubuntu,desktop,[empty],[empty]
+Canaima,CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community,CANTV / CNTI / CENTIDEL / Edelca / VIT / FUNDACITE / Free software community,[empty],5.0,[empty],[empty],[empty],Debian  Ubuntu,Government of Venezuela,[empty],[empty]
+CentOS,CentOS Project,CentOS Project,[empty],7.5-1804,10 years,[empty],[empty],Red Hat Enterprise Linux (RHEL),server  workstation,[empty],[empty]
+Chakra,Jan Mette and Arch Linux KDEmod developers,The Chakra Project Team,[empty],Rolling,Rolling,[empty],[empty],Arch Linux<ref></ref>,desktop,[empty],[empty]
+Chromium OS,Google,[empty],2009,Rolling,Rolling,Rolling,[empty],Chrome OS,web applications,[empty],[empty]
+ClearOS,Peter Baldwin,ClearFoundation,[empty],7.3.0,[empty],[empty],[empty],RHEL  CentOS,server  gateway  network,[empty],[empty]
+CrunchBang Linux,Philip Newborough,Philip Newborough,[empty],11,[empty],<ref></ref>,[empty],Debian,desktop,[empty],[empty]
+Damn Small Linux,John Andrews,dev team,[empty],4.4.10,[empty],<ref></ref>,[empty],Debian  Knoppix,lightweight  portable,[empty],[empty]
+Debian,Ian Murdock,Debian Project,[empty],9.5,~3 years<ref name="DebianSupportPeriod" group="g" />,[empty],(main is 100% free  non-free packages are optional)<ref></ref>,–,general  server  desktop,[empty],[empty]
+Debian Edu,[empty],Debian Project,[empty],8.0+edu0,~3 years<ref name="DebianSupportPeriod" group="g"/>,<ref></ref>,[empty],–,schools,[empty],[empty]
+Devuan,The "Veteran Unix Admins" (VUA),The "Veteran Unix Admins" (VUA),[empty],1.0.0,[empty],[empty],[empty],Debian,general,[empty],[empty]
+Dragora GNU/Linux-Libre,Matias A. Fonzo,Matias A. Fonzo,[empty],2.2,[empty],[empty],[empty],Independent  inspired from Slackware,general,[empty],[empty]
+dyne:bolic,Jaromil,Jaromilx,[empty],3.0.0,[empty],[empty],[empty],Debian,multimedia,[empty],[empty]
+Elementary OS,Daniel Foré,elementary LLC,[empty],5.0,[empty],<ref></ref>,[empty],Ubuntu  Debian,general,[empty],[empty]
+ELinOS,SYSGO,SYSGO,[empty],[empty],6.1,<ref name="elinos_release"></ref>,[empty],–,embedded systems,[empty],[empty]
+Emdebian Grip,Embedded Debian Project,Embedded Debian Project,[empty],3.1,End-of-life,[empty],[empty],Debian,embedded systems,[empty],[empty]
+Fedora,Fedora Project,Fedora Project,[empty],29,1 year,[empty],<ref></ref>,–,general,[empty],[empty]
+Freespire,Lindows.com  Inc.,Linspire  Inc.,[empty],2.0.8,[empty],[empty],[empty],Debian,desktop,[empty],[empty]
+Gentoo Linux,Daniel Robbins,Gentoo Foundation  Inc.,[empty],Rolling,Rolling,[empty],[empty],–,general,[empty],[empty]
+Guix System Distribution,Ludovic Courtès,Ludovic Courtès  Ricardo Wurmus  the Guix community,[empty],0.16.0,Rolling,<ref name="guix_release"></ref>,[empty],–,general,[empty],[empty]
+gNewSense,Brian Brazil and Paul O'Malley,Sam Geeraerts with sponsorship from the FSF,[empty],4.0 (Ucclia),[empty],<ref name="gns_release"></ref>,[empty],Debian,general  server,[empty],[empty]
+gnuLinEx,Regional Government of Extremadura,dev team,[empty],LinEx 2013,[empty],[empty],[empty],Debian,desktop,[empty],[empty]
+Grml,Michael Prokop,The Grml Team,[empty],2017.05,[empty],[empty],[empty],Debian,live  maintenance  security  network  forensic  accessibility,[empty],[empty]
+Hyperbola GNU/Linux-libre,Hyperbola Founders,Hyperbola Founders,[empty],0.2.5<ref></ref>,3 years (stable)  5 years (old stable)<ref></ref>,[empty],[empty],Arch Linux,general,[empty],[empty]
+Instant WebKiosk,Marco Buratto,Binary Emotions,[empty],16.0,[empty],<ref></ref>,[empty],Debian,web kiosks  digital signage  personal web navigation,[empty],[empty]
+Kali Linux,Max Moser  Mati Aharoni  Martin J. Muench,Offensive Security,[empty],2018.1,[empty],<ref></ref>,[empty],Debian,auditing  forensic  security  network,[empty],[empty]
+Knoppix,Klaus Knopper,dev team,[empty],8.1,[empty],<ref></ref>,[empty],Debian,live,[empty],[empty]
+Kodibuntu,The XBMC Project,Team Kodi,[empty],[empty],[empty],[empty],[empty],Debian  Ubuntu,multimedia,[empty],[empty]
+Korora,Chris Smart,Dev Team,[empty],26,[empty],<ref name="K22"></ref>,[empty],Fedora,desktop,[empty],[empty]
+LibreCMC,LibreCMC team,LibreCMC team,[empty],1.4.2,[empty],[empty],[empty],Merged from LibreWRT,embedded systems,[empty],[empty]
+Linspire,Linspire  Inc.,Linspire  Inc.,[empty],7.0,[empty],[empty],[empty],Ubuntu,[empty],<ref></ref>,[empty]
+Linux Mint,Clement Lefebvre,dev team,[empty],18.3,~3 years (LMDE); 5 years (main editions),[empty],[empty],Debian  Ubuntu,desktop,[empty],[empty]
+Linux Lite,Jerry Bezencon,Linux Lite Team,2012,3.8,[empty],2017-02-01,[empty],Ubuntu,desktop,[empty],[empty]
+Mageia,Mageia Community,mageia.org,[empty],6,1,<ref></ref>,[empty],Mandriva Linux,general,[empty],[empty]
+Mandriva Linux,Mandrakesoft S.A.,Mandriva S.A.,[empty],2011,[empty],[empty],[empty],Red Hat Linux,general,[empty],[empty]
+Manjaro Linux,Roland Singer,dev team,<ref></ref>,Rolling,Rolling,Rolling,[empty],Arch Linux,general,[empty],[empty]
+MEPIS,Warren Woodford,MEPIS LLC,[empty],[empty],[empty],[empty],[empty],Debian,desktop  server,[empty],[empty]
+Musix GNU+Linux,Musix team,Musix team,[empty],3.0.1,[empty],[empty],[empty],Debian,multimedia,[empty],[empty]
+Netrunner,Blue Systems,dev team,[empty],18.03,as per Debian Testing or Manjaro (rolling),[empty],[empty],Debian  Manjaro/Arch,desktop,[empty],[empty]
+NixOS,Eelco Dolstra and Armijn Hemel,NixOS Foundation,[empty],17.09,6 months,[empty],[empty],-,general  server  desktop,[empty],[empty]
+Novell Open Enterprise Server,Novell,Novell  Inc. dev team,[empty],[empty],[empty],[empty],[empty],SUSE Linux Enterprise Server,server,<ref></ref>,[empty]
+OpenELEC,Stephan Raue  OpenELEC Team,OpenELEC Team,[empty],8.0.4,[empty],[empty],[empty],–,multimedia,[empty],[empty]
+openSUSE,SUSE Linux  Novell,openSUSE Project,[empty],42.3,3 years<ref></ref>,[empty],[empty],–,general  desktop,[empty],[empty]
+OpenWrt,[empty],OpenWrt team,[empty],15.05.1,[empty],[empty],[empty],–,embedded systems,[empty],[empty]
+Oracle Linux,Oracle Corporation,Oracle Corporation,[empty],7.4,[empty],[empty],[empty],Red Hat Enterprise Linux (RHEL),server,[empty],[empty]
+Parabola GNU/Linux-libre,Parabola Hackers,Parabola Hackers,[empty],Rolling,Rolling,<ref name="parabola-downloads"></ref>,[empty],Arch Linux,general,[empty],[empty]
+Pardus,Scientific and Technological Research Council of Turkey (TÜBİTAK),TÜBİTAK,[empty],5,[empty],[empty],[empty],–,general,[empty],[empty]
+Parsix,Alan Baghumian,Parsix Project,[empty],8.15,[empty],[empty],[empty],Debian,desktop,[empty],[empty]
+PCLinuxOS,Bill Reynolds,dev team,[empty],2017.04<ref></ref>,Semi-rolling,[empty],[empty],Mandriva Linux,desktop,[empty],[empty]
+Pentoo,Michael Zanetta  Rick Farina  Jens Pranaitis,Pentoo,[empty],2015.0 RC4.6,[empty],[empty],[empty],Gentoo Linux,auditing  security,[empty],[empty]
+Porteus,Fanthom,Porteus,[empty],3.2.2,[empty],[empty],[empty],Slackware,lightweight  portable,[empty],[empty]
+Puppy Linux,Barry Kauler,Puppy Foundation,[empty],6.3.2,[empty],[empty],[empty],–,lightweight  portable,[empty],[empty]
+Qubes OS,Joanna Rutkowska,Invisible Things Lab,[empty],4.0,[empty],<ref></ref>,[empty],Xen and Fedora,security by compartmentalization  desktop,[empty],[empty]
+Red Hat Enterprise Linux (RHEL),Red Hat,Red Hat,[empty],7.6,10 years,2018-10-30<ref name="Red Hat 7.6 Release Announcement">></ref>,[empty],Red Hat Linux  Fedora,server  workstation,<ref></ref><ref></ref>,[empty]
+Red Hat Linux,Red Hat,Red Hat,[empty],9,[empty],2003-03-31,[empty],–,server  workstation,[empty],[empty]
+Rocks Cluster Distribution,UCSD Supercomputing Center  Clustercorp,UCSD Supercomputing Center  Clustercorp,[empty],7.0,[empty],2015-12-01,[empty],Red Hat Linux,server  workstation,[empty],[empty]
+Sabayon Linux,Fabio Erculiani,dev team,[empty],17.12,[empty],2017-11-29<ref name="sabayon_release"></ref>,[empty],Gentoo Linux,general,[empty],[empty]
+Salix OS,Cyrille Pontvieux  George Vlahavas  Pierrick Le Brun  Thorsten Mühlfelder,Salix team,[empty],14.2,[empty],[empty],[empty],Slackware,general,[empty],[empty]
+Scientific Linux,CERN  Fermilab,dev team,[empty],7.4,[empty],2017-10-02,[empty],Red Hat Linux  Red Hat Enterprise Linux (RHEL),server  workstation,[empty],[empty]
+Slackware,Patrick Volkerding,dev team,[empty],14.2<ref name="Slackware 14.2"></ref>,[empty],2016-06-30,[empty],Softlanding Linux System (SLS),general,[empty],[empty]
+Slax,Tomas Matejicek,Tomas Matejicek,[empty],9.3.0,[empty],2017-12-24<ref></ref>,[empty],Debian  Slackware (until Slax 9),live,[empty],[empty]
+SliTaz GNU/Linux,Christophe Lincoln,dev team,[empty],Rolling,Rolling,[empty],[empty],–,portable,[empty],[empty]
+Solus,Ikey Doherty,dev team,[empty],Rolling,Rolling,[empty],[empty],–,desktop,[empty],[empty]
+SolydXK,Arjen Balfoort,dev team,[empty],201801,Debian packages as per Debian,[empty],[empty],Debian,desktop,[empty],[empty]
+Source Mage GNU/Linux,Ryan Abrams  Eric Schabell,dev team,[empty],0.62-11,[empty],[empty],[empty],Sorcerer,general,[empty],[empty]
+SteamOS,Valve Corporation,Valve Corporation,[empty],2.148,[empty],[empty],[empty],Debian,video games,[empty],[empty]
+SUSE Linux Enterprise,SUSE,Microfocus,[empty],12SP3,[empty],2017-09-07,[empty],Slackware  Jurix,workstation  server,<ref></ref>,[empty]
+Tails,[empty],Tails Development Team,[empty],3.8,–<ref name="Tails Releases" group="g"/>,2018-06-26,[empty],Debian,security-focused aimed for anonymity and privacy,[empty],[empty]
+Tiny Core Linux,Robert Shingledecker,Team Tiny Core,[empty],8.2.1,[empty],[empty],[empty],Tiny Core Linux,portable,[empty],[empty]
+Tor-ramdisk,Anthony G. Basile,dev team,[empty],20151215,[empty],[empty],[empty],Gentoo Linux Embedded  uClibc,Tor server,[empty],[empty]
+Trisquel GNU/Linux,Rubén Rodríguez Pérez (quidam),Rubén Rodríguez Pérez (quidam),[empty],8.0,5 years<ref name="Trisquel Release" group="g"/>,[empty],[empty],Ubuntu LTS,desktop,[empty],[empty]
+TurnKey GNU/Linux,Alon Swartz  Liraz Siri,TurnKey GNU/Linux Team,[empty],14.1,Debian packages as per Debian; TurnKey packages for life of current major version (plus backports per request),<ref></ref>,[empty],Debian,server based software appliance library aiming to balance security and ease of use,[empty],[empty]
+Ubuntu and Derivatives<ref name="ubuntu"></ref>,Canonical Ltd.,Canonical Ltd.,[empty],18.10,Standard releases 1 year  LTS releases 5 years. Flavor LTS releases 3 or 5 years.,<ref></ref>,[empty],Debian,general  server  desktop,[empty],[empty]
+Univention Corporate Server,Univention GmbH,Univention GmbH,[empty],4.3,up to 6 months for the free Core Edition; if maintenance is purchased  it's up to 7 years  see:<ref></ref>,[empty],[empty],Debian,home  business  and school,[empty],[empty]
+Ututo,Diego Saravia  Daniel Olivera,UTUTO dev team,[empty],XS 2012,[empty],[empty],[empty],Ututo XS: Gentoo Linux  Ututo UL: Ubuntu,general,[empty],[empty]
+VectorLinux,Robert S. Lange,dev team,[empty],7.1,[empty],2015-06-27,[empty],Slackware,desktop,[empty],[empty]
+Void Linux,Juan Romero Pardines,Juan RP and contributors,[empty],Rolling,Rolling,[empty],[empty],–,general,[empty],[empty]
+Webconverger,Kai Hendry,Webconverger Limited,[empty],35.0,[empty],[empty],[empty],Debian,kiosk software  digital signage,[empty],[empty]
+Xandros,Xandros Incorporated,Xandros Incorporated,[empty],[empty],[empty],[empty],[empty],Corel Linux,[empty],[empty],[empty]
+Zentyal,eBox Technologies,eBox Technologies,[empty],5,[empty],[empty],[empty],Debian  Ubuntu,small business server,[empty],[empty]
+Zenwalk,Jean-Philippe Guillemin,dev team,[empty],Rolling<ref name="zenwalk_release"></ref>,[empty],2018-03-09,[empty],Slackware,general,[empty],[empty]
 Distribution,Founder,Maintainer,Initial release year,Current stable version,Security updates (years),Release date,System distribution commitment,Forked from,Target audience,Cost,Status

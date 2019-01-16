@@ -1,18 +1,18 @@
 Client,Creator,First public release date,Latest stable version,Software license,Copy files over 2 GB<ref name="ubuntuforums" />
-ALFTP,ESTsoft,2000,5.31,Proprietary,
-ExpanDrive (Mac),ExpanDrive  Inc,2008,,Proprietary,
-ExpanDrive (Windows) (formerly SFTPDrive),ExpanDrive  Inc,2005,,Proprietary,
-ForkLift,BinaryNights  LLC,2007,3.2.2,Proprietary,
-FTP Commander,Internetsoft Corporation,1997,9.21,Proprietary,
-FTP Explorer,FTPx Corp.,October  1996,1.0.1.53; January 2012,Proprietary,
-Interarchy,Nolobe Software Pty Ltd,1993 (as Anarchie),10.0.6,Proprietary,
-Robo-FTP,Serengeti Systems Incorporated,2001,3.10.11,Proprietary,
-Steed,French Fry  SAS,2012,1.2.1.1169,Proprietary,
-Transmit,Panic  Inc.,1998,5.0.4,Proprietary,
-WISE-FTP,AceBIT,1998,7.0 (Build 7.0.4),Proprietary,
-edtFTPj,Bruce P. Blackshaw,2000,2.3.0,Proprietary,,Java JAR file
-edtFTPnet,Bruce P. Blackshaw,2003,2.2.1,Proprietary,,Windows DLL
-Ultimate FTP .NET Lib,ComponentPro,2006,6.8.1,Proprietary,,Windows DLL
-ScriptFTP,FrozenFrog Software,2018,4.5,Proprietary,,Windows
-sFTP Client,sFTP Client Ltd,2013,3.1.6,Proprietary,,Windows  macOS  Linux
-Desktop.Tech,Micro Formatica,2018,0.5.0,Proprietary,
+ALFTP,ESTsoft,2000,5.31,Proprietary,[empty]
+ExpanDrive (Mac),ExpanDrive  Inc,2008,[empty],Proprietary,[empty]
+ExpanDrive (Windows) (formerly SFTPDrive),ExpanDrive  Inc,2005,[empty],Proprietary,[empty]
+ForkLift,BinaryNights  LLC,2007,3.2.2,Proprietary,[empty]
+FTP Commander,Internetsoft Corporation,1997,9.21,Proprietary,[empty]
+FTP Explorer,FTPx Corp.,October  1996,1.0.1.53; January 2012,Proprietary,[empty]
+Interarchy,Nolobe Software Pty Ltd,1993 (as Anarchie),10.0.6,Proprietary,[empty]
+Robo-FTP,Serengeti Systems Incorporated,2001,3.10.11,Proprietary,[empty]
+Steed,French Fry  SAS,2012,1.2.1.1169,Proprietary,[empty]
+Transmit,Panic  Inc.,1998,5.0.4,Proprietary,[empty]
+WISE-FTP,AceBIT,1998,7.0 (Build 7.0.4),Proprietary,[empty]
+edtFTPj,Bruce P. Blackshaw,2000,2.3.0,Proprietary,[empty]
+edtFTPnet,Bruce P. Blackshaw,2003,2.2.1,Proprietary,[empty]
+Ultimate FTP .NET Lib,ComponentPro,2006,6.8.1,Proprietary,[empty]
+ScriptFTP,FrozenFrog Software,2018,4.5,Proprietary,[empty]
+sFTP Client,sFTP Client Ltd,2013,3.1.6,Proprietary,[empty]
+Desktop.Tech,Micro Formatica,2018,0.5.0,Proprietary,[empty]

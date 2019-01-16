@@ -18,7 +18,7 @@ Krusader,?,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,?
 Midnight Commander,Yes,Yes[64],?,Yes,?,Yes,Yes[65],Yes,Yes,?
 muCommander,No[66],?,?,?,?,?,Yes,?,Partial  command execution only,?
 GNOME Files (Nautilus),?,No,No,Yes,No,No,No,Yes,Yes  With Plugin[67][68],Number of entries
-Nemo,?,?,?,?,?,?,?,?
+Nemo,?,?,?,?,?,?,?,?,[added],[added]
 Nomad.NET,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes  via Plugin,DIR and Total size including subdirectories
 Path Finder,?,No,Yes,Partial,?,No,No,Yes,Yes[69],Yes
 PCManFM,?,Yes,No,Yes,Yes,No,?,Yes,No  but there is a fork attempt[70],Nothing

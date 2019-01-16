@@ -1,4 +1,4 @@
-,Main processor,Clock speed,Main memory,Storage,Video memory
+[empty],Main processor,Clock speed,Main memory,Storage,Video memory
 Game Boy Micro,Sharp ARM7TDMI,16.78 MHz,32 KB (32 KiB)  256 KB external,None,96 KB
 GPD Win,64-bit Intel Atom x7-Z8750,1.60–2.56GHz max (with Turbo Boost),4GB LPDDR3 RAM,64GB eMMC ROM MicroSD,Intel HD 405 integrated
 GPD Win 2,64-bit Intel Core M3-7Y30,1.00 GHz/2.60 GHz max (with Turbo Boost),8GB LPDDR3 RAM,128GB M.2 SSD MicroSD,Intel HD 615 integrated
@@ -29,7 +29,7 @@ Sega Nomad,Motorola M68000 & Zilog Z80,7.67 MHz & 4 MHz,64 KB,None,64 KB
 Mega Duck/Cougar Boy,unknown VLSI processor,4.194304 MHz,16 KB,?,?
 Watara Supervision,8-bit 65C02 or M65C02 VLSI processor,4 MHz,Varied by model[23],?,?
 Atari Lynx II,Mikey & Suzy (2 16-bit custom CMOS chips),16 MHz & 16 MHz,64 KB DRAM  128–512 KB external,None,(uses main memory)
-Game Gear,Zilog Z80 (8-bit),3.58 MHz,8 KB,,16 KB
+Game Gear,Zilog Z80 (8-bit),3.58 MHz,8 KB,[empty],16 KB
 TurboExpress,Hudson HuC6280 (8-bit),7.159090 MHz,8KB,None,64 KB
 Game Boy,LR35902,4.194304 MHz,8 KB internal  256 KB – 8 MB external,None,8 KB
 Atari Lynx,Mikey & Suzy (2 16-bit custom CMOS chips),16 MHz & 16 MHz,64 KB DRAM  128–512 KB External,None,(uses main memory)

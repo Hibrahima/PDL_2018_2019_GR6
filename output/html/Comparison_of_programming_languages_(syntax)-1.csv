@@ -1,57 +1,57 @@
 Language,Statement separator-terminator,Secondary separator[1]
-ABAP,period separated
-Ada,semicolon terminated
-ALGOL,semicolon separated
-ALGOL 68,semicolon and comma separated[2]
+ABAP,period separated,[added]
+Ada,semicolon terminated,[added]
+ALGOL,semicolon separated,[added]
+ALGOL 68,semicolon and comma separated[2],[added]
 APL,newline terminated,⋄ separated
-AppleScript,newline terminated
-AutoHotkey,newline terminated
+AppleScript,newline terminated,[added]
+AutoHotkey,newline terminated,[added]
 BASIC,newline terminated,colon separated
-Boo,newline terminated
+Boo,newline terminated,[added]
 C,semicolon terminates statements,comma separates expressions
 C++,semicolon terminates statements,comma separates expressions
-C#,semicolon terminated
-COBOL,whitespace separated  sometimes period separated  optionally separated with commas and semi-colons.,
-Cobra,newline terminated
-CoffeeScript,newline terminated
-D,semicolon terminated
+C#,semicolon terminated,[added]
+COBOL,whitespace separated  sometimes period separated  optionally separated with commas and semi-colons.,[empty]
+Cobra,newline terminated,[added]
+CoffeeScript,newline terminated,[added]
+D,semicolon terminated,[added]
 Eiffel,newline terminated,semicolon
-Erlang,colon separated  period terminated
+Erlang,colon separated  period terminated,[added]
 F#,newline terminated,semicolon
 Fortran,newline terminated,semicolon
-Forth,semicolons terminate word definitions
-GFA BASIC,newline terminated
-Go,semicolon separated (inserted by compiler)
-Haskell (in do-notation),newline separated
-Haskell (in do-notation  when braces are used),semicolon separated
-Java,semicolon terminated
-JavaScript,semicolon separated (but sometimes implicitly inserted on newlines)
-Kotlin,semicolon separated (but sometimes implicitly inserted on newlines)
-Lua,whitespace separated (semicolon optional)
-Mathematica,semicolon separated
+Forth,semicolons terminate word definitions,[added]
+GFA BASIC,newline terminated,[added]
+Go,semicolon separated (inserted by compiler),[added]
+Haskell (in do-notation),newline separated,[added]
+Haskell (in do-notation  when braces are used),semicolon separated,[added]
+Java,semicolon terminated,[added]
+JavaScript,semicolon separated (but sometimes implicitly inserted on newlines),[added]
+Kotlin,semicolon separated (but sometimes implicitly inserted on newlines),[added]
+Lua,whitespace separated (semicolon optional),[added]
+Mathematica,semicolon separated,[added]
 MATLAB,newline terminated,semicolon or comma[3]
-Object Pascal (Delphi),semicolon separated
-Objective-C,semicolon terminated
-OCaml,semicolon separated
-Pascal,semicolon separated
-Perl,semicolon separated
-Perl 6,semicolon separated
-PHP,semicolon terminated
+Object Pascal (Delphi),semicolon separated,[added]
+Objective-C,semicolon terminated,[added]
+OCaml,semicolon separated,[added]
+Pascal,semicolon separated,[added]
+Perl,semicolon separated,[added]
+Perl 6,semicolon separated,[added]
+PHP,semicolon terminated,[added]
 Pick Basic,newline terminated,semicolon separated
 PowerShell,newline terminated,semicolon separated
-Prolog,period terminated
+Prolog,period terminated,[added]
 Python,newline terminated,semicolon
 Ruby,newline terminated,semicolon
 Rust,semicolon terminates statements,comma separates expressions
 Scala,newline terminated (semicolon optional),semicolon
-Seed7,semicolon separated (semicolon termination is allowed)
-Simula,semicolon separated
-S-Lang,semicolon separated
-Smalltalk,period separated
-Standard ML,semicolon separated
-Swift,semicolon separated (inserted by compiler)
+Seed7,semicolon separated (semicolon termination is allowed),[added]
+Simula,semicolon separated,[added]
+S-Lang,semicolon separated,[added]
+Smalltalk,period separated,[added]
+Standard ML,semicolon separated,[added]
+Swift,semicolon separated (inserted by compiler),[added]
 Visual Basic,newline terminated,colon separated
 Visual Basic .NET,newline terminated,colon separated
-Wolfram Language,semicolon separated
-Xojo,newline terminated
+Wolfram Language,semicolon separated,[added]
+Xojo,newline terminated,[added]
 Language,Statement separator-terminator,Secondary separator[1]

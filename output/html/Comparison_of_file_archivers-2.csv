@@ -1,4 +1,4 @@
-,Windows,DOS,Mac OS X,Linux,BSD,Other Unix,AmigaOS,Android,Windows Mobile,Windows Phone
+[empty],Windows,DOS,Mac OS X,Linux,BSD,Other Unix,AmigaOS,Android,Windows Mobile,Windows Phone
 7-Zip,Yes[1],Command-line interface[2],Yes[2],Yes[2],Command-line interface[2],Command-line interface[2],Command-line interface[4],No,Yes,No
 ALZip,Yes,Command-line interface[13],No,No,No,No,No,No,No,No
 ALZip for Mac,No,No,Yes,No,No,No,No,No,No,No
@@ -30,4 +30,4 @@ WinZip,Yes[1],Command-line interface,Yes,No,No,No,Yes,Yes,Unknown,?
 XAD,No,No,No,Yes,Yes,Yes,Yes,Unknown,Unknown,?
 Xarchiver,No,No,No,Yes,Yes,Unknown,Unknown,Unknown,Unknown,?
 ZipGenius,Yes,Unknown,No,No,No,No,No,Unknown,Unknown,?
-,Windows,DOS,Mac OS X,Linux,BSD,Unix,AmigaOS,Android,Windows Mobile,Windows Phone
+[empty],Windows,DOS,Mac OS X,Linux,BSD,Unix,AmigaOS,Android,Windows Mobile,Windows Phone

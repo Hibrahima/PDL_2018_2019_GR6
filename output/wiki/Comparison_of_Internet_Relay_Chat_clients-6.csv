@@ -1,37 +1,37 @@
 Client,Multi-server,UTF-8,Proxy server,irc:// URI scheme,Automatic updates,Scripting language
-Bersirc,,,,,,
-BitchX,,,,,,Enhanced IrcII script
-ChatZilla,,,,,,JavaScript
-Colloquy,,,,,,AppleScript  Cocoa  F-Script  JavaScript  Python
-degesch,,,,,,Lua
-DMDirc,,,,,,Custom Actions system  Java plugins
-ERC,,,,,,Emacs Lisp
-HexChat,,,,,,Perl  Python  Tcl  Lua  Javascript  C  C++  and via D-Bus.
-HydraIRC,,,,,,
-IceChat,,,,,,VBScript
-ircII,,,,,,IrcII script
-IRCjr,,,,,,
-Ircle,,,,,,AppleScript
-Irssi,,,,,,Perl
-jIRCii,,,,,,Sleep
-KiwiIRC,,,,,,Javascript  Node.js
-Konversation,,,,,,Shell script  Ruby  Python  Perl  Java  C++  C#  JavaScript
-KVIrc,,,,,,KVS (custom)  Perl  Python  C++
-LeafChat,,,,,,Java
-LimeChat,,,,,,
-Linkinus,,,,,,AppleScript  Cocoa
-Mibbit,,,,,,
-mIRC,,,,,,mIRC script
-Nettalk,,,SOCKS,,,VBScript  custom
-Opera,,,,,,
-PIRCH,,,,,,
-PJIRC,,,,,,Partial  JavaScript
-Quassel,,,,,,
-qwebirc,,,,,,
-rcirc,,,,,,Emacs Lisp
-Smuxi,,,,,,(language agnostic)
-Snak,,,,,,AppleScript  IrcII script
-Visual IRC,,,,,,Versus
-WeeChat,,,,,,C  Perl  Python  Ruby  Lua  Tcl  Scheme (Guile)
-XChat,,,,,,Perl  Python  Tcl  Ruby  C++  ECMAScript  Scheme (Guile)
+Bersirc,[empty],[empty],[empty],[empty],[empty],[empty]
+BitchX,[empty],[empty],[empty],[empty],[empty],Enhanced IrcII script
+ChatZilla,[empty],[empty],[empty],[empty],[empty],JavaScript
+Colloquy,[empty],[empty],[empty],[empty],[empty],AppleScript  Cocoa  F-Script  JavaScript  Python
+degesch,[empty],[empty],[empty],[empty],[empty],Lua
+DMDirc,[empty],[empty],[empty],[empty],[empty],Custom Actions system  Java plugins
+ERC,[empty],[empty],[empty],[empty],[empty],Emacs Lisp
+HexChat,[empty],[empty],[empty],[empty],[empty],Perl  Python  Tcl  Lua  Javascript  C  C++  and via D-Bus.
+HydraIRC,[empty],[empty],[empty],[empty],[empty],[empty]
+IceChat,[empty],[empty],[empty],[empty],[empty],VBScript
+ircII,[empty],[empty],[empty],[empty],[empty],IrcII script
+IRCjr,[empty],[empty],[empty],[empty],[empty],[empty]
+Ircle,[empty],[empty],[empty],[empty],[empty],AppleScript
+Irssi,[empty],[empty],[empty],[empty],[empty],Perl
+jIRCii,[empty],[empty],[empty],[empty],[empty],Sleep
+KiwiIRC,[empty],[empty],[empty],[empty],[empty],Javascript  Node.js
+Konversation,[empty],[empty],[empty],[empty],[empty],Shell script  Ruby  Python  Perl  Java  C++  C#  JavaScript
+KVIrc,[empty],[empty],[empty],[empty],[empty],KVS (custom)  Perl  Python  C++
+LeafChat,[empty],[empty],[empty],[empty],[empty],Java
+LimeChat,[empty],[empty],[empty],[empty],[empty],[empty]
+Linkinus,[empty],[empty],[empty],[empty],[empty],AppleScript  Cocoa
+Mibbit,[empty],[empty],[empty],[empty],[empty],[empty]
+mIRC,[empty],[empty],[empty],[empty],[empty],mIRC script
+Nettalk,[empty],[empty],SOCKS,[empty],[empty],VBScript  custom
+Opera,[empty],[empty],[empty],[empty],[empty],[empty]
+PIRCH,[empty],[empty],[empty],[empty],[empty],[empty]
+PJIRC,[empty],[empty],[empty],[empty],[empty],Partial  JavaScript
+Quassel,[empty],[empty],[empty],[empty],[empty],[empty]
+qwebirc,[empty],[empty],[empty],[empty],[empty],[empty]
+rcirc,[empty],[empty],[empty],[empty],[empty],Emacs Lisp
+Smuxi,[empty],[empty],[empty],[empty],[empty],(language agnostic)
+Snak,[empty],[empty],[empty],[empty],[empty],AppleScript  IrcII script
+Visual IRC,[empty],[empty],[empty],[empty],[empty],Versus
+WeeChat,[empty],[empty],[empty],[empty],[empty],C  Perl  Python  Ruby  Lua  Tcl  Scheme (Guile)
+XChat,[empty],[empty],[empty],[empty],[empty],Perl  Python  Tcl  Ruby  C++  ECMAScript  Scheme (Guile)
 Client,Multi-server,UTF-8,Proxy server,irc:// URI scheme,Automatic updates,Scripting language

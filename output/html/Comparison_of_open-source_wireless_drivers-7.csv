@@ -10,10 +10,10 @@ malo,Marvell 88W8335/ 88W8310,Community project,N/A,BSD,Ported from OpenBSD,Yes
 wpi,Intel PRO/Wireless 3945ABG,Community project,No,BSD,Ported from OpenBSD,Yes
 iwk,Intel Wireless WiFi Link 4965AGN,Community project,No,BSD,Ported from OpenBSD,Yes
 arn,Atheros 9000,Community project,No,BSD,based on ath9k,Yes
-rwd,Ralink RT2561/RT2561S/RT2661,Community project,No,BSD,,Yes
-rwn,Ralink RT2700/2800,Community project,No,BSD,,Yes
-urtw,Realtek RTL8187L/B USB,Community project,No,BSD,,Yes
-atu,Atmel AT76C50x,Community project,No,BSD,,Yes
-mwl,Marvell 88W8363,Community project,No,BSD,,Yes
-ural,Ralink RT2500USB,Community project,No,BSD,,Yes
+rwd,Ralink RT2561/RT2561S/RT2661,Community project,No,BSD,[empty],Yes
+rwn,Ralink RT2700/2800,Community project,No,BSD,[empty],Yes
+urtw,Realtek RTL8187L/B USB,Community project,No,BSD,[empty],Yes
+atu,Atmel AT76C50x,Community project,No,BSD,[empty],Yes
+mwl,Marvell 88W8363,Community project,No,BSD,[empty],Yes
+ural,Ralink RT2500USB,Community project,No,BSD,[empty],Yes
 zyd,ZyDAS ZD1211 chipsets,Community project,Yes,BSD,Ported from OpenBSD,Yes

@@ -1,26 +1,27 @@
 Protocol,Creator,First public release date,License,Identity (not inc. alias),Asynchronous message relaying,Transport Layer Security,End-to-end encryption,Unlimited number of contacts,Bulletins to all contacts,One-to-many routing 4,Spam protection,Group  channel or conference support,Audio/VoIP support,Webcam/Video,Batch file sharing,Media synchronisation,Serverless 6 (decentralized),Protocol
-Bitmessage,Jonathan Warren,2012 Nov,,Alphanumeric address,,,,,,,(through proof-of-work),,,,,,,Bitmessage
-Gadu-Gadu,GG Network,2000 Jul 17,Proprietary,Unique number e.g. 12345678,,,,,,,5 (simple),,,,,,,Gadu-Gadu
-IRC,Jarkko Oikarinen,1988 Aug,,Nickname!Username@hostname<br />(or "hostmask")<br />e.g. user!~usr@a.b.com1,, but via a memo system that differs from the main system,,,3,,,Medium,(everyone  multiple simultaneous  any size),,,,,,IRC
-Echo Protocol,spot-on.sf.net / goldbug.sf.net,2013,,Key,,,,,,,,,,,,,,Echo Protocol
-Matrix,Matrix.org,2014 Sep,,Matrix user ID (MXID),,,,,,,(using pluggable server-side filtering modules),,,,,,,Matrix
-MSNP (Windows Live Messenger  etc.),Microsoft,1999 Jul,Proprietary,Email address (Microsoft account),,,,Only for certified robots,,,,,,,,,,MSNP (Windows Live Messenger  etc.)
-MTProto (Telegram),Telegram Messenger LLP,2013 Aug,,Phone number (e.g. +1234567890)  nickname (e.g. @example),,,,,,,, contact blocking,,<ref>https://telegram.org/blog/calls</ref>,,,,,MTProto (Telegram)
-Mumble,Thorvald Natvig,1999 Jul,,Username,,,,Only for certified robots,,,,,,,,,,Mumble
-OSCAR (AIM  ICQ),AOL,1997,Proprietary (Discontinued 15-Dec-2017)<ref>https://aimemories.tumblr.com/post/166091776077/aimemories</ref>,Username  Email Address or UIN<br />e.g. 12345678,,(Aim Pro  Aim Lite),,,,,,(Multiple  simultaneous),,,,,,OSCAR (AIM  ICQ)
-RVP (Windows Messenger  etc.),Microsoft,1997 Mar,Proprietary (Discontinued),Windows Active Directory Login,,,,,,,ne,,,,,,,RVP (Windows Messenger  etc.)
-Ricochet,Invisible.im,2014 Mar,,Tor onion address,,,,,,,,,,,,,,Ricochet
-Ring (based on DHT and SIP),Savoir-faire Linux Inc.,2015 May,,40-digit address,,,,,,,Medium,,,,,,,Ring (based on DHT and SIP)
-Signal Protocol,Open Whisper Systems,2014 Feb<ref></ref>,,Phone number (e.g. +1234567890),,,,,,,, contact blocking,,,,,,,Signal Protocol
-SIP/SIMPLE,IETF,2002 Dec,,user@hostname,,,,,,,Medium,,,,,,Depends on implemenation,SIP/SIMPLE
-Skype,Skype,2003 Aug,Proprietary,Username,,,,,,,,,,,,,,Skype
-Steam Friends,Valve Corporation,2003 Sep 12,Proprietary,SteamID/Username or Unique Number,,,,,,,,,,,,,,Steam Friends
-TOC2,AOL,2005 Sep,Proprietary (Discontinued),Username or UIN<br />e.g. 12345678,,,,,,,,paying members only,,,,,,TOC2
-TOX (based on DHT),irungentoo (github user),2013 June,,Public & Private key,,,,,,,,,,,,,,TOX (based on DHT)
-Tuenti,Tuenti,2006,Proprietary,Username,,,,,,,,,,,,,,Tuenti
-Windows Messenger service,Microsoft,1990,Proprietary (Discontinued),NetBIOS,,,,,,,,,,,,,,Windows Messenger service
-XMPP/Jingle (Google Talk),Jeremie Miller  standardized via IETF,1999 Jan,,Jabber ID (JID)<br />e.g. usr@a.b.c/home2,,,,,<ref>http://xmpp.org/extensions/xep-0033.html</ref>,<ref>http://xmpp.org/extensions/xep-0033.html</ref>,,,,,<ref></ref>,<ref></ref>,XMPP/Jingle (Google Talk)
-YMSG (Yahoo! Messenger),Yahoo!,1998  March 9,Proprietary,Username,,,,,,,,,,,,,,YMSG (Yahoo! Messenger)
-Zephyr Notification Service,MIT,1987,,Kerberos principal<br />e.g. user@ATHENA.MIT.EDU,,,,,,,,,,,,,,Zephyr Notification Service
-SMS/MMS/EMS/Call,Friedhelm Hillebrand,1985,Proprietary,Phone number (e.g. +1234567890),,,,About 250 contacts in SIM  unlimited from phone.,,serial messages,Medium,,,,,,,SMS
+Bitmessage,Jonathan Warren,2012 Nov,[empty],Alphanumeric address,[empty],[empty],[empty],[empty],[empty],[empty],(through proof-of-work),[empty],[empty],[empty],[empty],[empty],[empty],Bitmessage
+Gadu-Gadu,GG Network,2000 Jul 17,Proprietary,Unique number e.g. 12345678,[empty],[empty],[empty],[empty],[empty],[empty],5 (simple),[empty],[empty],[empty],[empty],[empty],[empty],Gadu-Gadu
+IRC,Jarkko Oikarinen,1988 Aug,[empty],Nickname!Username@hostname<br />(or "hostmask")<br />e.g. user!~usr@a.b.com1,, but via a memo system that differs from the main system,[empty],[empty],3,[empty],[empty],Medium,(everyone  multiple simultaneous  any size),[empty],[empty],[empty],[empty],[empty],IRC
+Echo Protocol,spot-on.sf.net / goldbug.sf.net,2013,[empty],Key,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Echo Protocol
+Matrix,Matrix.org,2014 Sep,[empty],Matrix user ID (MXID),[empty],[empty],[empty],[empty],[empty],[empty],(using pluggable server-side filtering modules),[empty],[empty],[empty],[empty],[empty],[empty],Matrix
+MSNP (Windows Live Messenger  etc.),Microsoft,1999 Jul,Proprietary,Email address (Microsoft account),[empty],[empty],[empty],Only for certified robots,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MSNP (Windows Live Messenger  etc.)
+MTProto (Telegram),Telegram Messenger LLP,2013 Aug,[empty],Phone number (e.g. +1234567890)  nickname (e.g. @example),[empty],[empty],[empty],[empty],[empty],[empty],, contact blocking,[empty],<ref>https://telegram.org/blog/calls</ref>,[empty],[empty],[empty],[empty],MTProto (Telegram)
+Mumble,Thorvald Natvig,1999 Jul,[empty],Username,[empty],[empty],[empty],Only for certified robots,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Mumble
+OSCAR (AIM  ICQ),AOL,1997,Proprietary (Discontinued 15-Dec-2017)<ref>https://aimemories.tumblr.com/post/166091776077/aimemories</ref>,Username  Email Address or UIN<br />e.g. 12345678,[empty],(Aim Pro  Aim Lite),[empty],[empty],[empty],[empty],[empty],(Multiple  simultaneous),[empty],[empty],[empty],[empty],[empty],OSCAR (AIM  ICQ)
+RVP (Windows Messenger  etc.),Microsoft,1997 Mar,Proprietary (Discontinued),Windows Active Directory Login,[empty],[empty],[empty],[empty],[empty],[empty],ne,[empty],[empty],[empty],[empty],[empty],[empty],RVP (Windows Messenger  etc.)
+Ricochet,Invisible.im,2014 Mar,[empty],Tor onion address,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Ricochet
+Ring (based on DHT and SIP),Savoir-faire Linux Inc.,2015 May,[empty],40-digit address,[empty],[empty],[empty],[empty],[empty],[empty],Medium,[empty],[empty],[empty],[empty],[empty],[empty],Ring (based on DHT and SIP)
+Signal Protocol,Open Whisper Systems,2014 Feb<ref></ref>,[empty],Phone number (e.g. +1234567890),[empty],[empty],[empty],[empty],[empty],[empty],, contact blocking,[empty],[empty],[empty],[empty],[empty],[empty],Signal Protocol
+SIP/SIMPLE,IETF,2002 Dec,[empty],user@hostname,[empty],[empty],[empty],[empty],[empty],[empty],Medium,[empty],[empty],[empty],[empty],[empty],Depends on implemenation,SIP/SIMPLE
+Skype,Skype,2003 Aug,Proprietary,Username,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Skype
+Steam Friends,Valve Corporation,2003 Sep 12,Proprietary,SteamID/Username or Unique Number,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Steam Friends
+TOC2,AOL,2005 Sep,Proprietary (Discontinued),Username or UIN<br />e.g. 12345678,[empty],[empty],[empty],[empty],[empty],[empty],[empty],paying members only,[empty],[empty],[empty],[empty],[empty],TOC2
+TOX (based on DHT),irungentoo (github user),2013 June,[empty],Public & Private key,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],TOX (based on DHT)
+Tuenti,Tuenti,2006,Proprietary,Username,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Tuenti
+Windows Messenger service,Microsoft,1990,Proprietary (Discontinued),NetBIOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Windows Messenger service
+XMPP/Jingle (Google Talk),Jeremie Miller  standardized via IETF,1999 Jan,[empty],Jabber ID (JID)<br />e.g. usr@a.b.c/home2,[empty],[empty],[empty],[empty],<ref>http://xmpp.org/extensions/xep-0033.html</ref>,<ref>http://xmpp.org/extensions/xep-0033.html</ref>,<ref> http://xmpp.org/rfcs/rfc6121.html#blocking http://xmpp.org/extensions/xep-0159.html http://xmpp.org/extensions/xep-0161.html </ref>,[empty],[empty],[empty],[empty],<ref></ref>,<ref></ref>,XMPP/Jingle (Google Talk)
+YMSG (Yahoo! Messenger),Yahoo!,1998  March 9,Proprietary,Username,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],YMSG (Yahoo! Messenger)
+Zephyr Notification Service,MIT,1987,[empty],Kerberos principal<br />e.g. user@ATHENA.MIT.EDU,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Zephyr Notification Service
+SMS/MMS/EMS/Call,Friedhelm Hillebrand,1985,Proprietary,Phone number (e.g. +1234567890),[empty],[empty],[empty],About 250 contacts in SIM  unlimited from phone.,[empty],serial messages,Medium,[empty],[empty],[empty],[empty],[empty],[empty],SMS
 Protocol,Creator,First public release date,License,Identity (not inc. alias),Asynchronous message relaying,Transport Layer Security,End-to-end encryption,Unlimited number of contacts,Bulletins to all contacts,One-to-many routing 4,Spam protection,Group  channel or conference support,Audio/VoIP support,Webcam/Video,Batch file sharing,Media synchronisation,Serverless 6 (decentralized),Protocol
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]

@@ -1,9 +1,9 @@
 +,Assembler,Operating system,Open source,License,Development active
-FASM,Windows  DOS  Unix-like,,,
-GAS,Unix-like  Windows  DOS  OS/2,,,
-MASM,Windows  DOS  OS/2,,,
-NASM,Windows  Linux  macOS  DOS  OS/2,,,
-Open Watcom Assembler,Windows  DOS  Linux  FreeBSD  OS/2,,,
-POASM,Windows  Windows Mobile,,,
-TCCASM,Unix-like  Windows,,,
-Yasm,Windows  DOS  Unix-like,,,
+FASM,Windows  DOS  Unix-like,[empty],[empty],[empty],[added]
+GAS,Unix-like  Windows  DOS  OS/2,[empty],[empty],[empty],[added]
+MASM,Windows  DOS  OS/2,[empty],[empty],[empty],[added]
+NASM,Windows  Linux  macOS  DOS  OS/2,[empty],[empty],[empty],[added]
+Open Watcom Assembler,Windows  DOS  Linux  FreeBSD  OS/2,[empty],[empty],[empty],[added]
+POASM,Windows  Windows Mobile,[empty],[empty],[empty],[added]
+TCCASM,Unix-like  Windows,[empty],[empty],[empty],[added]
+Yasm,Windows  DOS  Unix-like,[empty],[empty],[empty],[added]

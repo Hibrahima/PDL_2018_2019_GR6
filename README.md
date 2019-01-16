@@ -46,6 +46,9 @@ La Javadoc du projet se trouve dans le dossier documentation. Pour le parcourir,
 
 Feel free to make suggestions.
 
+# Lien de la vidéo de demonstration
+https://drive.google.com/open?id=1SEWEGzS-YYkW1Ia2dG_sq7J0WN_6Gn5X
+
 # Authors:
 	Ibrahima HAIDARA
 	Mariam COULIBALY

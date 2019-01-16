@@ -1,20 +1,21 @@
 Audio player,HTTP,RTSP (RTSPU  RTSPT),MMS (MMSU  MMST),Podcasting,Other
-AIMP,,,,,
-Amarok,,,,,UPNP
-Audacious,,,,,
-Audion,,,,,
-cmus,,,,,?
-Cog,,,,,
-foobar2000,,<ref group="protocolnotes">Only WMA files are playable by foobar2000 through an RTSP connection. RealMedia  AAC  etc. are not supported.</ref>,,<ref group="protocolnotes">3rd party plugin for 0.9 allows reading RSS 2.0 feeds as playlists. No subscription/automatic update features.</ref>,
-JuK,,,,,
-JRiver Media Center,,,,,
-MediaMonkey,,,,<ref group="protocolnotes">Present in version 3.0 currently going through Alpha Testing.</ref>,
-MusicBee,,,,,
-Musicmatch Jukebox,,,,,
-musikCube,,,,,
-Rhapsody,,,,,
-Rhythmbox,,,,<ref group="protocolnotes">As of 0.9.2 it allows reading RSS as podcast source. Issues if links in RSS do not point directly to playable media. Automatic update of podcasts available.</ref>,UPNP
-Sonique,,,,,
-XMMS,,,,,
-Zinf,,,,,
+AIMP,[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added]
+Amarok,[empty],[empty],[empty],[empty],UPNP
+Audacious,[empty],[empty],[empty],[empty],[empty]
+Audion,[empty],[empty],[empty],[empty],[empty]
+cmus,[empty],[empty],[empty],[empty],?
+Cog,[empty],[empty],[empty],[empty],[empty]
+foobar2000,[empty],<ref group="protocolnotes">Only WMA files are playable by foobar2000 through an RTSP connection. RealMedia  AAC  etc. are not supported.</ref>,[empty],<ref group="protocolnotes">3rd party plugin for 0.9 allows reading RSS 2.0 feeds as playlists. No subscription/automatic update features.</ref>,[empty]
+JuK,[empty],[empty],[empty],[empty],[empty]
+JRiver Media Center,[empty],[empty],[empty],[empty],[empty]
+MediaMonkey,[empty],[empty],[empty],<ref group="protocolnotes">Present in version 3.0 currently going through Alpha Testing.</ref>,[empty]
+MusicBee,[empty],[empty],[empty],[empty],[empty]
+Musicmatch Jukebox,[empty],[empty],[empty],[empty],[empty]
+musikCube,[empty],[empty],[empty],[empty],[empty]
+Rhapsody,[empty],[empty],[empty],[empty],[empty]
+Rhythmbox,[empty],[empty],[empty],<ref group="protocolnotes">As of 0.9.2 it allows reading RSS as podcast source. Issues if links in RSS do not point directly to playable media. Automatic update of podcasts available.</ref>,UPNP
+Sonique,[empty],[empty],[empty],[empty],[empty]
+XMMS,[empty],[empty],[empty],[empty],[empty]
+Zinf,[empty],[empty],[empty],[empty],[empty]
 Audio player,HTTP,RTSP (RTSPU  RTSPT),MMS (MMSU  MMST),Podcasting,Other

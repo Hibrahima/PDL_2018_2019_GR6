@@ -1,275 +1,242 @@
-Overall rank,Rank by U.S. state and territory,Country/U.S. state and territory,GDP per capita (USD)
-1,—,Lichtenstein[1],169.492
-2,—,Monaco[1],165.871
-3,1,Washington  D.C.[2],160.472
-4,—,Luxembourg[1],100.161
-5,—,Bermuda[1],94.400
-6,—,Switzerland[3],78.813
-7,—,Macau[3],73.187
-8,—,Norway[3],70.813
-10,2,Massachusetts[2],65.545
-11,3,New York[2],64.579
-12,4,Connecticut[2],64.511
-13,5,Alaska[2],63.971
-14,6,Delaware[2],63.664
-15,7,North Dakota[2],62.837
-16,—,Cayman Islands[1],62.132
-17,—,Ireland[1],60.514
-18,—,Qatar[3],59.331
-19,8,Wyoming[2],58.821
-20,9,California[2],58.619
--,—,United States of America[3],57.467
-21,10,New Jersey[2],57.084
-22,11,Washington,56.831
-23,12,Maryland[2],55.404
-24,13,Illinois[2],54.091
-25,14,Texas[2],53.795
-26,—,Denmark[1],53.149
-27,15,Minnesota[2],53.704
-28,16,Nebraska[2],53.114
-29,17,Colorado[2],52.795
-30,—,Singapore[1],52.239
-31,18,New Hampshire[2],51.794
-32,19,Virginia[2],51.736
-33,—,Australia[1],51.352
-34,20,Hawaii[2],51.277
-35,21,Pennsylvania[2],50.997
-36,—,Iceland[1],50.936
-37,—,Sweden[1],50.687
-38,22,Oregon[2],50.582
-39,23,Iowa[2],50.315
-40,—,San Marino[1],49.240
-41,24,South Dakota[2],48.076
-42,25,Rhode Island[2],47.639
-43,26,Ohio[2],47.567
-44,27,Wisconsin[2],47.266
-45,28,Kansas[2],46.982
-46,29,Indiana[2],45.317
-47,30,Georgia[2],44.723
-48,31,Utah[2],44.636
-49,32,Oklahoma[2],44.623
-50,—,Netherlands[1],44.332
-51,33,North Carolina[2],44.325
-52,—,United Kingdom[1],44.162
-53,—,Austria[1],44.118
-54,34,Vermont[2],43.946
-55,35,Louisiana[2],43.917
-56,36,Nevada[2],43.820
-57,37,Michigan[2],43.372
-58,38,Missouri[2],43.317
-59,39,Tennessee[2],43.267
-60,—,Canada[1],43.206
-61,—,Hong Kong[1],42.431
-62,—,Finland[1],42.148
-63,—,Germany[1],41.686
-64,40,New Mexico[2],41.348
-65,—,United Arab Emirates[1],40.439
-66,—,Belgium[1],40.278
-67,—,Andorra[1],39.896
-68,41,Florida[2],39.543
-69,42,Montana[2],39.356
-70,43,Kentucky[2],38.985
-71,44,Maine[2],38.921
-72,45,Arizona[2],38.590
-73,—,New Zealand[1],38.294
-74,46,Alabama[2],37.261
-75,—,Israel[1],37.129
--,—,Oceania[1],37.107
-76,47,South Carolina[2],37.063
-77,—,Greenland[1],36.977
-78,48,Arkansas[2],36.368
-79,49,United States Virgin Islands[4],36.350
-80,50,West Virginia[2],36.315
-81,—,France[1],36.304
-82,51,Idaho[2],35.466
-83,52,Mississippi[5][6][7][2],34.784
-84,—,Japan[1],34.629
-85,—,New Caledonia[1],33.966
-86,—,Brunei[1],30.553
-87,53,Guam[8],30.500
-88,—,Italy[1],30.462
-89,—,Virgin Islands  British[1],30.144
-90,—,Kuwait[1],29.304
-91,54,Puerto Rico[1],27.939
-92,—,South Korea[1],27.397
-93,—,Aruba[1],26.005
-94,—,Spain[1],25.865
--,—,Europe[1],25.590
--,—,Americas[1],25.229
-95,—,Turks and Caicos Islands[1],25.122
-96,—,Malta[1],23.281
-97,—,Bahamas  The[1],22.817
-98,—,Bahrain[1],22.600
-99,—,Cyprus[1],21.942
-100,—,Anguilla[1],21.880
-101,—,Saudi Arabia[1],20.711
-102,—,Slovenia[1],20.690
-103,—,Curaçao[1],20.050
-104,—,Portugal[1],19.239
-105,—,Trinidad and Tobago[1],19.063
-106,—,Nauru[1],18.469
-107,—,French Polynesia[1],18.161
-108,—,Greece[1],17.788
-109,—,Czech Republic[1],17.562
-110,—,Estonia[1],17.122
-111,—,Equatorial Guinea[1],16.344
-112,—,Slovakia[1],16.082
-113,—,Saint Kitts and Nevis[1],15.772
-114,—,Uruguay[1],15.574
-115,—,Oman[1],15.551
-116,—,Barbados[1],15.429
-117,—,Antigua and Barbuda[1],14.764
-118,—,Argentina[1],14.565
-119,—,Lithuania[1],14.384
-120,—,Seychelles[1],14.133
-121,—,Cook Islands[1],14.119
-122,—,Latvia[1],13.704
-123,—,Chile[1],13.416
-124,55,Northern Mariana Islands[9],13.300
-125,—,Panama[1],13.268
-126,56,American Samoa[10][11],13.000
-127,—,Poland[1],12.355
-128,—,Hungary[1],12.351
-129,—,Palau[1],12.122
-130,—,Montserrat[1],11.553
-131,—,Croatia[1],11.479
-132,—,Venezuela[1],11.069
-133,—,Costa Rica[1],11.015
--,—,World,10.700
-134,—,Kazakhstan[1],10.312
-135,—,Malaysia[1],9.768
-136,—,Maldives[1],9.446
-137,—,Russian Federation[1],9.243
-138,—,Turkey[1],9.126
-139,—,Romania[1],9.121
-140,—,Mauritius[1],9.041
-141,—,Suriname[1],8.985
-142,—,Mexico[1],8.981
-143,—,Grenada[1],8.934
--,—,South America[1],8.836
-144,—,Lebanon[1],8.571
-145,—,Brazil[1],8.528
-146,—,China[1],8.109
--,—,Caribbean[1],8.005
-147,—,Gabon[1],7.961
--,—,Central America[1],7.932
-148,—,Saint Lucia[1],7.839
-149,—,Cuba[1],7.657
-150,—,Dominica[1],7.051
-151,—,Turkmenistan[1],6.997
-152,—,Bulgaria[1],6.847
-153,—,Saint Vincent and the Grenadines[1],6.739
-154,—,Montenegro[1],6.424
-155,—,Dominican Republic[1],6.374
-156,—,Botswana[1],6.361
-157,—,Ecuador[1],6.205
-158,—,Peru[1],6.069
-159,—,Colombia[1],6.056
-160,—,Thailand[1],5.815
-161,—,South Africa[1],5.773
-162,—,Belarus[1],5.751
-163,—,Libya[1],5.488
-164,—,Azerbaijan[1],5.439
-165,—,Serbia[1],5.239
-166,—,Jamaica[1],5.106
-167,—,Iran[1],5.038
-168,—,Jordan[1],4.940
-169,—,Fiji[1],4.922
-170,—,Macedonia  Republic of[1],4.836
-171,—,Belize[1],4.789
-172,—,Angola[1],4.714
-173,—,Namibia[1],4.674
-174,—,Iraq[1],4.509
-175,—,Guyana[1],4.279
-176,—,Bosnia and Herzegovina[1],4.265
-177,—,El Salvador[1],4.219
-178,—,Paraguay[1],4.174
-179,—,Algeria[1],4.154
-180,—,Samoa[1],4.006
-181,—,Albania[1],3.984
-182,—,Sri Lanka[1],3.974
-183,—,Mongolia[1],3.973
-184,—,Guatemala[1],3.903
--,—,Southeast Asia[1],3.853
-185,—,Tonga[1],3.784
-186,—,Kosovo[1],3.665
-187,—,Tunisia[1],3.661
-188,—,Georgia[1],3.491
-189,—,Armenia,3.489
-190,—,Marshall Islands[1],3.453
-191,—,Egypt[1],3.452
-192,—,Tuvalu[1],3.362
-193,—,Indonesia[1],3.346
-194,—,Swaziland[1],3.212
-195,—,Cape Verde[1],3.080
-196,—,Bolivia[1],3.077
-197,—,Micronesia  Federated States of[1],3.015
-198,—,Morocco[1],2.919
-199,—,Philippines[1],2.904
-200,—,Papua New Guinea[1],2.798
-201,—,Vanuatu[1],2.783
-202,—,Palestine  State of[1],2.716
-203,—,Nigeria[1],2.714
-204,—,Bhutan[1],2.677
-205,—,Honduras[1],2.522
-206,—,East Timor[1],2.425
-207,—,Uzbekistan[1],2.308
-208,—,Nicaragua[1],2.087
-209,—,Vietnam[1],2.068
-210,—,Ukraine[1],2.022
-211,—,Sudan[1],1.977
-212,—,Djibouti[1],1.956
--,—,Africa[1],1.914
-213,—,Laos[1],1.850
-214,—,Solomon Islands[1],1.842
-215,—,Congo  Republic of the[1],1.838
-216,—,São Tomé and Príncipe[1],1.753
-217,—,India[1],1.614
-218,—,Moldova[1],1.591
-219,—,Syria[1],1.535
-220,—,Kiribati[1],1.443
-221,—,Côte d'Ivoire[1],1.413
-222,—,Pakistan[1],1.410
-223,—,Kenya[1],1.377
-224,—,Comoros[1],1.369
-225,—,Ghana[1],1.356
-226,—,Zambia[1],1.311
-227,—,Mauritania[1],1.235
-228,—,Cameroon[1],1.217
-229,—,Bangladesh[1],1.208
-230,—,Myanmar[1],1.161
-231,—,Cambodia[1],1.159
-232,—,Kyrgyzstan[1],1.106
-233,—,Yemen[1],1.106
-234,—,South Sudan[1],1.067
-235,—,Lesotho[1],941
-236,—,Tajikistan[1],926
-237,—,Eritrea[1],915
-238,—,Senegal[1],901
-239,—,Zimbabwe[1],890
-240,—,Tanzania[1],877
-241,—,Haiti[1],794
-242,—,Benin[1],779
-243,—,Mali[1],744
-244,—,Nepal[1],725
-245,—,Chad[1],713
-246,—,Guinea[1],704
-247,—,Rwanda[1],697
-248,—,Sierra Leone[1],695
-249,—,North Korea[1],648
-250,—,Uganda[1],648
-251,—,Afghanistan[1],623
-252,—,Burkina Faso[1],611
-253,—,Ethiopia[1],603
-254,—,Togo[1],559
-255,—,Guinea-Bissau[1],530
-256,—,Mozambique[1],529
-257,—,Congo  Democratic Republic of the[1],486
-258,—,Gambia  The[1],473
-259,—,Liberia[1],456
-260,—,Madagascar[1],402
-261,—,Malawi[1],373
-262,—,Niger[1],359
-263,—,Central African Republic,333
-264,—,Burundi[1],245
-265,—,Somalia[1],145
+Rank,Country/Territories,US$
+1,District of Columbia,188.782
+2,Luxembourg,105.863
+3,Switzerland,80.637
+4,New York,78.354
+5,Delaware,77.931
+6,Massachusetts,77.433
+7,Norway,75.389
+8,North Dakota,73.214
+9,Connecticut,72.929
+10,Alaska,71.155
+11,Iceland,70.248
+12,California,69.984
+13,Washington,69.478
+14,Wyoming,68.806
+15,Ireland,68.710
+16,New Jersey,66.157
+17,Maryland,65.426
+18,Illinois,64.083
+19,Nebraska,63.852
+20,Minnesota,63.608
+21,Colorado,61.862
+22,Hawaii,61.696
+23,Qatar,61.024
+24,Texas,60.878
+25,Iowa,60.673
+26,Virginia,60.470
+27,New Hampshire,60.321
+-,United States,59.792
+29,Pennsylvania,58.828
+30,Singapore,57.713
+31,Oregon,57.706
+32,South Dakota,57.690
+33,Denmark,56.630
+34,Rhode Island,56.282
+35,Wisconsin,56.078
+36,Ohio,55.890
+37,Australia,55.692
+38,Kansas,54.276
+39,Utah,54.249
+40,Indiana,54.141
+41,Georgia (U.S. state),53.758
+42,Nevada,53.167
+43,North Carolina,53.050
+44,Sweden,52.925
+45,Louisiana,52.602
+46,Tennessee,51.903
+47,Vermont,51.549
+48,Michigan,50.081
+49,Missouri,50.041
+50,Netherlands,48.555
+51,Oklahoma,48.211
+52,San Marino,47.595
+53,Austria,47.347
+54,Florida,46.930
+55,New Mexico,46.655
+56,Arizona,46.147
+57,Montana,46.136
+58,Maine,46.117
+59,Finland,45.927
+60,Kentucky,45.641
+61,Canada,45.094
+62,Germany,44.769
+63,South Carolina,44.162
+64,Belgium,43.488
+65,Alabama,43.377
+66,West Virginia,41.939
+67,Arkansas,41.803
+68,Idaho,41.729
+69,New Zealand,41.572
+70,Israel,40.272
+71,France,39.932
+72,United Kingdom,39.800
+73,Japan,38.448
+74,United Arab Emirates,37.732
+75,Mississippi,37.376
+-,European Union,33.800
+76,Italy,31.996
+77,Bahamas,31.660
+78,South Korea,29.938
+79,Spain,28.358
+80,Brunei,28.278
+81,Kuwait,27.393
+82,Malta,27.326
+83,Cyprus,25.380
+84,Bahrain,24.325
+85,Taiwan,24.292
+86,Slovenia,23.654
+87,Portugal,21.158
+88,Saudi Arabia,21.096
+89,Czech Republic,20.401
+90,Estonia,19.735
+91,Greece,18.637
+92,Barbados,17.757
+93,Slovakia,17.655
+94,Saint Kitts and Nevis,17.397
+95,Oman,17.128
+96,Uruguay,16.941
+97,Lithuania,16.730
+98,Antigua and Barbuda,16.702
+99,Trinidad and Tobago,16.637
+100,Palau,15.980
+101,Seychelles,15.859
+102,Latvia,15.550
+103,Panama,15.089
+104,Chile,15.067
+105,Equatorial Guinea,14.817
+106,Argentina,14.462
+107,Hungary,14.209
+108,Poland,13.821
+109,Croatia,13.271
+110,Maldives,12.527
+111,Lebanon,12.013
+112,Costa Rica,11.728
+113,Russia,10.955
+114,Romania,10.785
+-,World,10.728
+115,Turkey,10.537
+116,Mauritius,10.504
+117,Grenada,10.405
+118,Brazil,9.895
+119,Malaysia,9.755
+120,Saint Lucia,9.606
+121,Mexico,9.318
+122,Kazakhstan,8.762
+123,China,8.643
+124,Nauru,8.574
+125,Bulgaria,8.077
+126,Dominica,7.879
+127,Montenegro,7.678
+128,Botswana,7.584
+129,Dominican Republic,7.477
+130,Gabon,7.373
+131,Saint Vincent and the Grenadines,7.124
+132,Venezuela,6.890
+133,Peru,6.731
+134,Turkmenistan,6.642
+135,Thailand,6.590
+136,Colombia,6.379
+137,Ecuador,6.216
+138,South Africa,6.179
+139,Serbia,5.901
+140,Suriname,5.869
+141,Belarus,5.727
+142,Paraguay,5.600
+143,Namibia,5.589
+144,Fiji,5.527
+145,Macedonia,5.474
+146,Iran,5.289
+147,Jamaica,5.193
+148,Bosnia and Herzegovina,5.180
+149,Iraq,4.950
+150,Belize,4.806
+151,Libya,4.739
+152,Guyana,4.578
+153,Albania,4.544
+154,Tonga,4.520
+155,Guatemala,4.469
+156,Angola,4.465
+157,Samoa,4.258
+158,Azerbaijan,4.140
+159,Jordan,4.135
+160,Georgia,4.085
+161,Sri Lanka,4.073
+162,Algeria,4.033
+163,Kosovo,3.944
+164,Swaziland,3.915
+165,El Salvador,3.894
+166,Indonesia,3.876
+167,Armenia,3.861
+168,Mongolia,3.640
+169,Tuvalu,3.638
+170,Marshall Islands,3.625
+171,Tunisia,3.496
+172,Bolivia,3.353
+173,Cape Verde,3.238
+174,Micronesia,3.200
+175,Morocco,3.151
+176,Vanuatu,3.094
+177,Philippines,2.976
+178,Bhutan,2.903
+179,Papua New Guinea,2.861
+180,Honduras,2.766
+181,Ukraine,2.583
+182,Laos,2.542
+183,Egypt,2.501
+184,Vietnam,2.354
+185,Moldova,2.280
+186,Nicaragua,2.207
+187,East Timor,2.104
+188,Solomon Islands,2.081
+189,Nigeria,1.994
+190,Djibouti,1.989
+191,India,1.983
+192,Republic of the Congo,1.958
+193,São Tomé and Príncipe,1.785
+194,Kiribati,1.721
+195,Kenya,1.702
+196,Ghana,1.663
+197,Côte d'Ivoire,1.617
+198,Bangladesh,1.602
+199,Pakistan,1.541
+200,Uzbekistan,1.491
+201,Zambia,1.480
+202,Sudan,1.428
+203,Lesotho,1.425
+204,Cameroon,1.401
+205,Cambodia,1.390
+206,Mauritania,1.318
+207,Myanmar,1.264
+208,Zimbabwe,1.176
+209,Kyrgyzstan,1.144
+210,Senegal,1.038
+211,Tanzania,1.034
+212,Eritrea,980
+213,Ethiopia,873
+214,Nepal,834
+215,Benin,830
+216,Tajikistan,824
+217,Mali,811
+218,Chad,810
+219,Guinea-Bissau,794
+220,Comoros,788
+221,Haiti,784
+222,Rwanda,772
+223,Guinea,749
+224,Liberia,729
+225,Uganda,699
+226,Burkina Faso,664
+227,Togo,611
+228,Afghanistan,588
+229,Yemen,551
+230,Sierra Leone,491
+231,Gambia  The,480
+232,Democratic Republic of the Congo,478
+233,Madagascar,448
+234,Niger,440
+235,Mozambique,429
+236,Central African Republic,387
+237,Malawi,324
+238,Burundi,312
+239,South Sudan,228

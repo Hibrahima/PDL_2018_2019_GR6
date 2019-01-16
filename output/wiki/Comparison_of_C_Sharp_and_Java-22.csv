@@ -1,10 +1,3 @@
-Native interoperability,Java,C#
-Cross-language interoperability,(with GraalVM  Nashorn  CORBA  JNI or JNA)<ref name="cross-plattform" />,; C# was designed for it<ref name="cross-plattform"></ref>
-External/native methods,
-Marshalling,,; metadata controlled
-Pointers and arithmetics,<ref></ref>
-Native types,<ref></ref>
-Fixed-size buffers,
-Explicit stack allocation,
-Address-of,
-Object pinning (fix variable to address),
+Java,C#
+<source lang=Java> import java.nio.file.*; class FileIOTest {    public static void main(String[] args) throws Exception {         var in = Paths.get("input.txt");        var out = Paths.get("output.txt");         var lines = Files.readAllLines(in);        Files.write(out  lines);     }  }</source>,<source lang=CSharp> using System.IO; class FileIOTest {    public static void Main(string[] args)    {        var lines = File.ReadLines("input.txt");        File.WriteAllLines("output.txt"  lines);    }  } </source>
+Notes on the Java implementation: <kbd>Files.readAllLines</kbd> method returns a List of String  with the content of the text file  Files has also the method <kbd>readAllBytes</kbd>  returns a array of <kbd>Strings</kbd>. <kbd>Files.write</kbd> method writes byte array or into an output file  indicated by a Path object. <kbd>Files.write</kbd> method also takes care of buffering and closing the output stream.,Notes on the C# implementation: The <kbd>ReadLines</kbd> method returns an enumerable object that upon enumeration will read the file one line at a time. The <kbd>WriteAllLines</kbd> method takes an enumerable and retrieves a line at a time and writes it until the enumeration ends. The underlying reader will automatically allocate a buffer  thus there is no need to explicitly introduce a buffered stream. <kbd>WriteAllLines</kbd> automatically closes the output stream  also in the case of an abnormal termination.

@@ -1,56 +1,56 @@
 Software,CRC32,MD5,SHA-1,SHA-224,SHA-256,SHA-384,SHA-512,SHA-3,Panama,RIPEMD-128,RIPEMD-160,RIPEMD-256,RIPEMD-320,Tiger,Whirlpool,Other
-AccuHash,,,,,,,,,,,,,,,,
-BeaverSFV,,,,,,,,,,,,,,,,
-CDCheck,,,(?),(?),(?),(?),,,,,,,,,,MD2
-cfv,,,,,,,,,,,,,,,,Torrent file
-Checksum Compare,,,,,,,,,,,,,,,,
-Checksums,,,,,,,,,,,,,,,,-
-CHK,,,,,,,,,,,,,,,,Adler-32  BLAKE2s  BLAKE2b  CRC64  MD4  SHA-1 (Base32)  SHA-256 (Base64)  SHA-512/224  SHA-512/256
-cksum,,,,,,,,,,,,,,,,
-CyoHash,,,,,,,,,,,,,,,,-
-Data Digester,,,,,,,,,,,,,,,,MD2  MD4  PGP
-DeepDigest,,,,,,,,,,,,,,,,
-DySFV,,,,,,,,,,,,,,,,
-eXpress CheckSum Calculator,,,,,,,,,,,,,,,,
-ExactFile,,,,,,,,,,,,,,,,Adler-32  GOST  MD2
-FastSum,,,,,,,,,,,,,,,,
-FCIV,,,,,,,,,,,,,,,,
-Febooti Hash & CRC,,,,,,,,,,,,,,,,MD2  MD4
-FileVerifier++,,,,,,,,,,,,,,,,
-FlashSFV,,,,,,,,,,,,,,,,
-FSUM,,,,,,,,,,,,,,,,Adler-32
-FSUM Frontend,,,,,,,,,,,,,,,,Total 96 algorithms
-PowerShell's Get-FileHash,,,,,,,,,,,,,,,,MACTripleDES
-HashCalc,,,,,,,,,,,,,,,,MD2  MD4  Adler-32
-HashCheck Shell Extension,,,,,,,,,,,,,,,,MD4
-HashForm,,,,,,,,,,,,,,,,
-HashShell,,,,,,,,,,,,,,,,
-ilSFV,,,,,,,,,,,,,,,,
-Jacksum,,,,,,,,,,,,,,,,Total 58 algorithms
-jdigest,,,,,,,,,,,,,,,,
-jHashCalc,,,,,,,,,,,,,,,,MD4
-MD5 File Hasher,,,,,,,,,,,,,,,,
-MD5 & SHA Checksum Utility,,,,,,,,,,,,,,,,
-md5deep,,,,,,,,,,,,,,,,
-md5sum,,,,,,,,,,,,,,,,
-MD5summer,,,,,,,,,,,,,,,,
-MD5 Win Verifier,,,,,,,,,,,,,,,,
-MultiHasher,,,,,,,,,,,,,,,,
-QuickSFV,,,,,,,,,,,,,,,,
-PeaZip,,,,,,,,,,,,,,,,Adler-32  CRC16  CRC24  CRC64  eDonkey  MD4
-RapidCRC,,,,,,,,,,,,,,,,
-RekSFV,,,,,,,,,,,,,,,,MD4 and HAVAL
-RHash,,,,,,,,,,,,,,,,MD4 and more
-SafeFileManager,,,,,,,,,,,,,,,,
-Sigcheck,,,,,,,,,,,,,,,,IMP
-SFV Checker,,,,,,,,,,,,,,,,
-sha1sum,,,,,,,,,,,,,,,,
-sha3sum,,,,,,,,,,,,,,,,Keccak  SHAKE  RawSHAKE
-SuperSFV,,,,,,,,,,,,,,,,
-TeraCopy,,,,,,,,,,,,,,,,XxHash
-Tom's Hash Explorer,,,,,,,,,,,,,,,,Entropy_(information_theory)  Shannon's Entropy
-Toolsley Hash & Validate,,,,,,,,,,,,,,,,
-Total Commander,,,,,,,,,,,,,,,,
-WinHasher,,,,,,,,,,,,,,,,
-wxChecksums,,,,,,,,,,,,,,,,
+AccuHash,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BeaverSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CDCheck,[empty],[empty],(?),(?),(?),(?),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MD2
+cfv,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Torrent file
+Checksum Compare,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Checksums,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],-
+CHK,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Adler-32  BLAKE2s  BLAKE2b  CRC64  MD4  SHA-1 (Base32)  SHA-256 (Base64)  SHA-512/224  SHA-512/256
+cksum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CyoHash,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],-
+Data Digester,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MD2  MD4  PGP
+DeepDigest,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DySFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eXpress CheckSum Calculator,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ExactFile,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Adler-32  GOST  MD2
+FastSum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FCIV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Febooti Hash & CRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MD2  MD4
+FileVerifier++,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FlashSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FSUM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Adler-32
+FSUM Frontend,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Total 96 algorithms
+PowerShell's Get-FileHash,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MACTripleDES
+HashCalc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MD2  MD4  Adler-32
+HashCheck Shell Extension,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MD4
+HashForm,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HashShell,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ilSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Jacksum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Total 58 algorithms
+jdigest,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+jHashCalc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MD4
+MD5 File Hasher,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MD5 & SHA Checksum Utility,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+md5deep,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+md5sum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MD5summer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MD5 Win Verifier,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MultiHasher,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QuickSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PeaZip,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Adler-32  CRC16  CRC24  CRC64  eDonkey  MD4
+RapidCRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RekSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MD4 and HAVAL
+RHash,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MD4 and more
+SafeFileManager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sigcheck,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],IMP
+SFV Checker,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+sha1sum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+sha3sum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Keccak  SHAKE  RawSHAKE
+SuperSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TeraCopy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],XxHash
+Tom's Hash Explorer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Entropy_(information_theory)  Shannon's Entropy
+Toolsley Hash & Validate,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Total Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinHasher,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+wxChecksums,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Software,CRC32,MD5,SHA-1,SHA-224,SHA-256,SHA-384,SHA-512,SHA-3,Panama,RIPEMD-128,RIPEMD-160,RIPEMD-256,RIPEMD-320,Tiger,Whirlpool,Other

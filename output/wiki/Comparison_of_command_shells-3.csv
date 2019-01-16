@@ -1,25 +1,25 @@
-Shell,Functions,Exception handling,Search & replace on variable substitutions,Arith&shy;metic,Floating point,Math function library,Linear arrays or lists,Assoc&shy;iative arrays,Lambda functions,eval func&shy;tion,Pseudo&shy;random number generation,Bytecode
-Bourne shell 1977 version,,,,,,,,,,,,
-Bourne shell current version,,,,<ref name="ReferenceB"/>,,,,,,,,
-POSIX shell,,,,,,,,,,,,
-bash (v4.0),,,Yes (via ${//} syntax)}},,,,,,,,,
-csh,,,,,,,,,,,,
-tcsh,,,,,,,,,,,,
-Hamilton C shell,,,,,,,,,,,,
-Scsh,,?,,?,?,?,,?,,,,
-ksh (ksh93t+),,,Yes (via ${//} syntax and builtin commands)}},,,,,,,,,
-pdksh,,,,,,,,,,,,
-zsh,,,Yes (via ${:s//} and ${//} syntax)}},,,,,,,,,
-ash,,(via trap),,,,,,,,,,
-CCP,,?,,,?,?,,,,,,
-COMMAND.COM,,(only Auto-fail (via COMMAND /F (or /N in some versions of DR-DOS)),,,,,,,,,,
-OS/2 CMD.EXE,,,,?,,,?,,,,,
-Windows CMD.EXE,,,,</ref>}},,,</ref>)}},,,,,
-4DOS,,,,,?,?,,,,,,
-4OS2,?,?,?,?,?,?,?,?,,,(%@Random[…] function),?
-TCC (formerly 4NT),,,,,?,?,,?,,,(%@Random[…] function),(via BATCOMP command)
-PowerShell,,(Try-Catch-Finally),,,,<ref>The .NET System.Math class defines mathematical functions that can be used through the shortcut [Math]  e.g. [Math]::Sin for the sinus function.https://technet.microsoft.com/en-us/library/dd347632.aspx</ref>,,,,,,
-rc,,,,?,?,?,,?,,,,
-BeanShell,,,?,,?,?,,,,,,
-VMS DCL,,,,,,,,,,,,
-fish,,,
+Shell,String processing,Alternation (Brace expansion),Pattern matching (regular expressions built-in),Pattern matching (filename globbing),Globbing qualifiers (filename generation based on file attributes),Recursive globbing (generating files from any level of subdirectories)
+Bourne shell 1977 version,?,[empty],[empty],[empty],[empty],[empty]
+Bourne shell recent version,(prefix and suffix stripping in variable expansion),[empty],[empty],[empty],[empty],[empty]
+POSIX shell,(prefix and suffix stripping in variable expansion),[empty],[empty],[empty],[empty],[empty]
+bash (v4.0),(prefix and suffix stripping in variable expansion),[empty],[empty],Yes (*  ?  […]  {…})}},[empty],(**/...)
+csh,[empty],[empty],[empty],[empty],[empty],[empty]
+tcsh,[empty],[empty],[empty],[empty],[empty],[empty]
+Hamilton C shell,[empty],[empty],[empty],[empty],[empty],</ref>)}}
+Scsh,?,?,[empty],[empty],[empty],[empty]
+ksh (ksh93t+),(prefix  suffix stripping and string replacement in variable expansion),<ref name="Apress"></ref>,[empty],[empty],[empty],(with set -G  no following of symlinks)
+pdksh,?,<ref name="Apress"/>,[empty],[empty],[empty],[empty]
+zsh,(through variable processing: e.g. substring extraction  various transformations via parameter expansion),[empty],[empty],[empty],[empty],(**/... or ***/... to follow symlinks)
+ash,?,?,[empty],[empty],[empty],[empty]
+CCP,[empty],[empty],[empty],[empty],[empty],[empty]
+COMMAND.COM,[empty],[empty],[empty],[empty],[empty],[empty]
+OS/2 CMD.EXE,[empty],[empty],[empty],[empty],(only in DIR /A:… command),[empty]
+Windows CMD.EXE,(only through FOR /F and SET /A),[empty],[empty],[empty],(only in DIR /A:… command),(via FOR /R command  or  where available  indirectly via /S subdir option)
+4DOS,(through variable functions %@…[]  extended environment variable processing  various string commands and FOR /F and SET /A),[empty],[empty],[empty],(via /A:… attribute and /I"…" description options and /[S…] size  /[T…] time  /[D…] date  and /[!…] file exclusion ranges),(via FOR /R command  or indirectly via GLOBAL command or  where available  /S subdir option)
+4OS2,?,[empty],[empty],?,?,?
+TCC (formerly 4NT),(through variable functions %@…[]  extended environment variable processing  various string commands and FOR /F and SET /A),[empty],[empty],[empty],(via /A:… attribute and /I"…" description options and /[S…] size  /[T…] time  /[D…] date  /[O…] owner  and /[!…] file exclusion ranges),(via FOR /R command  or indirectly via GLOBAL command or  where available  /S subdir option)
+PowerShell,[empty],[empty],[empty],[empty],?,?
+rc,?,?,[empty],[empty],[empty],[empty]
+BeanShell,?,?,[empty],?,?,?
+VMS DCL,[empty],[empty],[empty],[empty],[empty],(via [SUBDIR…])
+fish,[empty],[empty],[empty],Yes (*  ?  {…})}},[empty],(**/...)

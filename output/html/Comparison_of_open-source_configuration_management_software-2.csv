@@ -1,23 +1,23 @@
-,AIX,*BSD,HP-UX,Linux,OS X,Solaris,Windows,Others
-Ansible,Yes,Yes,Yes,Yes,Yes,Yes,Yes (Need linux control machine),Yes[96]
-Bcfg2,Partial[97],Yes[98],No,Yes[99],Partial[100],Yes,No,No
-CFEngine,Yes,Yes[98],Yes,Yes,No,Yes,Yes,Yes[101]
-cdist,,Yes,,Yes,Yes,,No,
-Chef,Yes[102],Yes,Yes,Yes,Yes,Yes,Yes[103],Yes
+[empty],AIX,*BSD,HP-UX,Linux,OS X,Solaris,Windows,Others
+Ansible,Yes,Yes,Yes,Yes,Yes,Yes,Yes (Need linux control machine),Yes[97]
+Bcfg2,Partial[98],Yes[99],No,Yes[100],Partial[101],Yes,No,No
+CFEngine,Yes,Yes[99],Yes,Yes,No,Yes,Yes,Yes[102]
+cdist,[empty],Yes,[empty],Yes,Yes,[empty],No,[empty]
+Chef,Yes[103],Yes,Yes,Yes,Yes,Yes,Yes[104],Yes
 ISconf,Yes,Yes,Yes,Yes,Yes,Yes,No,No
-Juju,,,,Yes,,,Yes[104],
-Local ConFiGuration system (LCFG),No,No,No,Partial[105],Partial[106],Partial[107],No,No
+Juju,[empty],[empty],[empty],Yes,[empty],[empty],Yes[105],[empty]
+Local ConFiGuration system (LCFG),No,No,No,Partial[106],Partial[107],Partial[108],No,No
 OCS Inventory NG,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
 Open pc server integration (Opsi),No,No,No,Yes,No,No,Yes,No
-PIKT,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes[108]
+PIKT,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes[109]
 Puppet,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-Quattor,No,No,No,Yes,Partial[109],Yes,No,No
-Radmind,Yes,Yes[98][110][111],No,Yes,Yes,Yes,Yes,No
-Rex,,Yes,,Yes,Yes[112],Yes,Yes[112],No
-Rudder,Yes,Partial[113],No,Yes,Partial[113],Partial[114],Yes,Yes[115]
-SmartFrog,No[116],No[116],Yes,Yes,Yes,Yes,Yes,No[116]
-Salt,Yes,Yes,Partial[117],Yes[118],Yes,Yes[119],Yes,Partial[117]
-Spacewalk,No[120],No,No,Yes[121],No,Yes[122],No,No
-STAF,Yes[123],Yes[124],Yes[125],Yes[126],Yes[127],Yes[128],Yes[129],Yes[130]
-Synctool,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes[131]
-,AIX,*BSD,HP-UX,Linux,OS X,Solaris,Windows,Others
+Quattor,No,No,No,Yes,Partial[110],Yes,No,No
+Radmind,Yes,Yes[99][111][112],No,Yes,Yes,Yes,Yes,No
+Rex,[empty],Yes,[empty],Yes,Yes[113],Yes,Yes[113],No
+Rudder,Yes,Partial[114],No,Yes,Partial[114],Partial[115],Yes,Yes[116]
+SmartFrog,No[117],No[117],Yes,Yes,Yes,Yes,Yes,No[117]
+Salt,Yes,Yes,Partial[118],Yes[119],Yes,Yes[120],Yes,Partial[118]
+Spacewalk,No[121],No,No,Yes[122],No,Yes[123],No,No
+STAF,Yes[124],Yes[125],Yes[126],Yes[127],Yes[128],Yes[129],Yes[130],Yes[131]
+Synctool,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes[132]
+[empty],AIX,*BSD,HP-UX,Linux,OS X,Solaris,Windows,Others

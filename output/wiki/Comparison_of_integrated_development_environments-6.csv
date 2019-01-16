@@ -1,10 +1,10 @@
 IDE,License,Developer,Latest stable release,Windows,Linux,macOS,Other platforms
-Microsoft Visual Studio,Microsoft,,,,,
-MonoDevelop,,Xamarin and the Mono community,,,,,FreeBSD  OpenBSD  Solaris
-SharpDevelop,,IC#Code Team,,,,,
-SlickEdit,,SlickEdit,October 2016,,,,Solaris  Solaris SPARC  AIX  HP-UX
-Understand,,SciTools,,,,,Solaris
-Visual Studio Code,,Microsoft,,,,,
-Xamarin Studio,,Microsoft,December 2016,,,,
-Eclipse,,Eclipse Foundation,,,,,
-Rider,,JetBrains,,,,,
+Microsoft Visual Studio,Community Edition: Freeware,Microsoft,[empty],[empty],[empty],[empty],[empty]
+MonoDevelop,[empty],Xamarin and the Mono community,[empty],[empty],[empty],[empty],FreeBSD  OpenBSD  Solaris
+SharpDevelop,[empty],IC#Code Team,[empty],[empty],[empty],[empty],[empty]
+SlickEdit,[empty],SlickEdit,October 2016,[empty],[empty],[empty],Solaris  Solaris SPARC  AIX  HP-UX
+Understand,[empty],SciTools,[empty],[empty],[empty],[empty],Solaris
+Visual Studio Code,[empty],Microsoft,[empty],[empty],[empty],[empty],[empty]
+Xamarin Studio,[empty],Microsoft,December 2016,[empty],[empty],[empty],[empty]
+Eclipse,[empty],Eclipse Foundation,[empty],[empty],[empty],[empty],[empty]
+Rider,[empty],JetBrains,[empty],[empty],[empty],[empty],[empty]

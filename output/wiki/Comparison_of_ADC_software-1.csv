@@ -1,14 +1,14 @@
 ADC hub,FOSS,Software license,Active,Last Update,Notes
-ADCH++,,,,2016-03-08 / 2.12.1
-ADCH++ GUI,,,,
-DSHub,,,,2008-10-09 / RC1
-FlexHub,,,,2013-10-20 / 0.2 svn 1469
-Luadch,,,,2017-05-24 / v2.19
-Nexthub,,,,
-uhub,,,,2014-10-17 / 0.5.0,In Debian<ref>https://packages.debian.org/sid/uhub</ref> and OpenWrt<ref></ref>
-ErlHub,,,,
-Qhub,,,,2006-07-09 / v0.10
-Starlet ADC Hub,,,,
-Starhub,,,,
-RusHub,,,,2012-07-10 / 2.3.10
-ADC hub,FOSS,Software license,Active,
+ADCH++,[empty],[empty],[empty],2016-03-08 / 2.12.1,[added]
+ADCH++ GUI,[empty],[empty],[empty],[empty],[added]
+DSHub,[empty],[empty],[empty],2008-10-09 / RC1,[added]
+FlexHub,[empty],[empty],[empty],2013-10-20 / 0.2 svn 1469,[added]
+Luadch,[empty],[empty],[empty],2017-05-24 / v2.19,[added]
+Nexthub,[empty],[empty],[empty],[empty],[added]
+uhub,[empty],[empty],[empty],2014-10-17 / 0.5.0,In Debian<ref>https://packages.debian.org/sid/uhub</ref> and OpenWrt<ref></ref>
+ErlHub,[empty],[empty],[empty],[empty],[added]
+Qhub,[empty],[empty],[empty],2006-07-09 / v0.10,[added]
+Starlet ADC Hub,[empty],[empty],[empty],[empty],[added]
+Starhub,[empty],[empty],[empty],[empty],[added]
+RusHub,[empty],[empty],[empty],2012-07-10 / 2.3.10,[added]
+ADC hub,FOSS,Software license,Active,[empty],[added]

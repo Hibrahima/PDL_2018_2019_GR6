@@ -1,33 +1,34 @@
 Parser,License,Implementation language(s),Latest date*,HTML parsing<ref>12.2 Parsing HTML documents — HTML Standard </ref>,HTML5-compliant parsing,Clean HTML**,Update HTML***
-Lambda Soup,BSD-2-Clause,OCaml,2016-12-10<ref>Lambda Soup 0.6.1</ref>,,,,
-html.parser,Python S. F. L.,Python,2016-06-27<ref>Python 3.5.2</ref>,,,,
-Html Agility Pack,Microsoft Public License,C#,2016-07-14<ref>Nuget Html AgilityPack</ref>,,,,
-Beautiful Soup,Python S. F. L.,Python,2016-08-02<ref>Beautiful Soup 4.5.1</ref>,,<ref>via html5lib</ref>,,
-Gumbo,Apache License 2.0,C,2015-05-01,,,,
-html5ever,Apache License 2.0,Rust,2016-02-23,,,,
-html5lib,MIT License,Python (and PHP  six years ago),2016-07-15<ref>Releases · html5lib/html5lib-python</ref>,,,,
-HTML::Parser,Perl license,Perl,2013-03-28,,<ref>Bug #53300 for HTML-Parser: HTML 5</ref>,,
-WebGear,GPL3,Perl,2017-03-10,,,,
-htmlPurifier,GNU Lesser GPL,PHP,2009-03-25<ref>HTML Tidy for Windows</ref>,,,,
-HTML Tidy,W3C license,ANSI C,2017-03-01<ref>HTML Tidy release 5.4.0</ref>,<ref name="what_is_tidy">What is Tidy?</ref>,,<ref name="what_is_tidy"/>,
-HtmlUnit,Apache License 2.0,Java,2016-05-27<ref>HtmlUnit Release 2.22 Changes</ref>,,,,
-HtmlCleaner,BSD License<ref>HtmlCleaner is distributed under BSD License</ref>,Java,2015-08-24,,,,
-Hubbub,MIT License,C,2016-02-16,,<ref>according to project's home page</ref>,,
-Jaunt API,Jaunt Beta License,Java,2013-08-01,,,,
-Jericho HTML Parser,Eclipse Public License,Java,2015-10-24<ref>Jericho HTML Parser - Browse /jericho-html/3.4 at SourceForge.net</ref>,,,,
-jsdom,MIT license,JavaScript,2018-08-19,,,,
-jsoup,MIT license,Java,2018-04-15<ref>jsoup release 1.11.3</ref>,,<ref>https://jsoup.org/ Per project homepage</ref>,,
-JTidy,JTidy License,Java,2012-10-09<ref>JTidy - Browse /JTidy at SourceForge.net</ref>,,,,
-libxml2 HTMLparser,MIT License,C,2012-09-11<ref>libxml2 Releases</ref>,,,,
-NekoHTML,Apache License 2.0,Java,2014-06-02<ref>NekoHTML | Change History</ref>,,,,
-TagSoup,Apache License 2.0,Java,2011-07-07,,,,
-Validator.nu HTML Parser,MIT License,Java,2012-06-05,,,,
-PHP Simple HTML DOM Parser,MIT License,PHP,2014-08-28,,,,
-The PHP DOMDocument-class,PHP License,PHP,2014-10-04,,,,
-Nokogiri,MIT License,Ruby,2016-10-03<ref>Nokogiri release 1.6.8.1</ref>,,,,
-AVHTML,AGPL,C++,2015-08-27<ref>Latest commit 8c0d99f on 27 Aug 2015</ref>,,,,
-BrilliantHTML5Parser,Apache License 2.0,Swift 3,2016-11-10,,,,
-MyHTML,LGPL,C,2018-09-06,,,,
-Aspose.HTML,Proprietary,C#,2018-06-06,,,,
-Lexbor,Apache License 2.0,C,-,,,,
+Lambda Soup,BSD-2-Clause,OCaml,2016-12-10<ref>Lambda Soup 0.6.1</ref>,[empty],[empty],[empty],[empty]
+html.parser,Python S. F. L.,Python,2016-06-27<ref>Python 3.5.2</ref>,[empty],[empty],[empty],[empty]
+Html Agility Pack,Microsoft Public License,C#,2016-07-14<ref>Nuget Html AgilityPack</ref>,[empty],[empty],[empty],[empty]
+HTML Monkey,Microsoft Public License,C#,2018-12-14,[empty],[empty],[empty],[empty]
+Beautiful Soup,Python S. F. L.,Python,2016-08-02<ref>Beautiful Soup 4.5.1</ref>,[empty],<ref>via html5lib</ref>,[empty],[empty]
+Gumbo,Apache License 2.0,C,2015-05-01,[empty],[empty],[empty],[empty]
+html5ever,Apache License 2.0,Rust,2016-02-23,[empty],[empty],[empty],[empty]
+html5lib,MIT License,Python (and PHP  six years ago),2016-07-15<ref>Releases · html5lib/html5lib-python</ref>,[empty],[empty],[empty],[empty]
+HTML::Parser,Perl license,Perl,2013-03-28,[empty],<ref>Bug #53300 for HTML-Parser: HTML 5</ref>,[empty],[empty]
+WebGear,GPL3,Perl,2017-03-10,[empty],[empty],[empty],[empty]
+htmlPurifier,GNU Lesser GPL,PHP,2009-03-25<ref>HTML Tidy for Windows</ref>,[empty],[empty],[empty],[empty]
+HTML Tidy,W3C license,ANSI C,2017-03-01<ref>HTML Tidy release 5.4.0</ref>,<ref name="what_is_tidy">What is Tidy?</ref>,[empty],<ref name="what_is_tidy"/>,[empty]
+HtmlUnit,Apache License 2.0,Java,2016-05-27<ref>HtmlUnit Release 2.22 Changes</ref>,[empty],[empty],[empty],[empty]
+HtmlCleaner,BSD License<ref>HtmlCleaner is distributed under BSD License</ref>,Java,2015-08-24,[empty],[empty],[empty],[empty]
+Hubbub,MIT License,C,2016-02-16,[empty],<ref>according to project's home page</ref>,[empty],[empty]
+Jaunt API,Jaunt Beta License,Java,2013-08-01,[empty],[empty],[empty],[empty]
+Jericho HTML Parser,Eclipse Public License,Java,2015-10-24<ref>Jericho HTML Parser - Browse /jericho-html/3.4 at SourceForge.net</ref>,[empty],[empty],[empty],[empty]
+jsdom,MIT license,JavaScript,2018-08-19,[empty],[empty],[empty],[empty]
+jsoup,MIT license,Java,2018-04-15<ref>jsoup release 1.11.3</ref>,[empty],<ref>https://jsoup.org/ Per project homepage</ref>,[empty],[empty]
+JTidy,JTidy License,Java,2012-10-09<ref>JTidy - Browse /JTidy at SourceForge.net</ref>,[empty],[empty],[empty],[empty]
+libxml2 HTMLparser,MIT License,C,2012-09-11<ref>libxml2 Releases</ref>,[empty],[empty],[empty],[empty]
+NekoHTML,Apache License 2.0,Java,2014-06-02<ref>NekoHTML | Change History</ref>,[empty],[empty],[empty],[empty]
+TagSoup,Apache License 2.0,Java,2011-07-07,[empty],[empty],[empty],[empty]
+Validator.nu HTML Parser,MIT License,Java,2012-06-05,[empty],[empty],[empty],[empty]
+PHP Simple HTML DOM Parser,MIT License,PHP,2014-08-28,[empty],[empty],[empty],[empty]
+The PHP DOMDocument-class,PHP License,PHP,2014-10-04,[empty],[empty],[empty],[empty]
+Nokogiri,MIT License,Ruby,2016-10-03<ref>Nokogiri release 1.6.8.1</ref>,[empty],[empty],[empty],[empty]
+AVHTML,AGPL,C++,2015-08-27<ref>Latest commit 8c0d99f on 27 Aug 2015</ref>,[empty],[empty],[empty],[empty]
+BrilliantHTML5Parser,Apache License 2.0,Swift 3,2016-11-10,[empty],[empty],[empty],[empty]
+MyHTML,LGPL,C,2018-09-06,[empty],[empty],[empty],[empty]
+Aspose.HTML,Proprietary,C#,2018-06-06,[empty],[empty],[empty],[empty]
+Lexbor,Apache License 2.0,C,-,[empty],[empty],[empty],[empty]
 Parser,License,Implementation language(s),Latest date*,HTML Parsing,HTML5-compliant Parsing,Clean HTML**,Update HTML***

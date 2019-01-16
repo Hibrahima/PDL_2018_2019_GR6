@@ -1,13 +1,13 @@
 IDE,Developer,Latest stable release,Windows,Linux,macOS,Other platforms,Mobiles,Debugger,GUI builder,License,Autocomplete
-Delphi,Embarcadero Technologies,Delphi 10.2 (Tokyo) / March 2017,,,,cross-compile to macOS  Android  iOS (Linux server on the roadmap)<ref></ref>,,,,,
-Free Pascal IDE,Volunteers,3.0.4 / December 6  2017,,,,AmigaOS  Android  FreeBSD  Game Boy Advance  Haiku  AIX  iOS  MorphOS  DOS  NetBSD  Nintendo DS  Nintendo Wii  OpenBSD  OS/2  Solaris  Windows CE  Java Virtual Machine  LLVM (experimental)  JavaScript transpiler  Embedded systems.,,,,,
-KDevelop,KDevelop Team,(only 3.x supports Pascal),,,,FreeBSD  OpenBSD  NetBSD  Solaris  other Unix,,,,,
-Lazarus,Volunteers,1.8.0 / December 6  2017,,,,See Free Pascal,,,,,
-MIDletPascal,Code Research Laboratories,3.5 / February 2  2013,,,,cross-compile from Windows to Java ME,,,,,
-Morfik,Morfik Technology Pty Ltd.,2.0.5.27,,,,compiles to HTML+CSS+XML+JavaScript (web apps),,,,,
-MSEide,Martin Schreiber,4.6 / 2017-11-24,,,,FreeBSD,,,,,
-Understand,SciTools,4.0 / April 2015,,,,Solaris,,,,,
-Visual Studio via Oxygene,RemObjects Software,10.0 / August 2018,and additional Water IDE,,via Fire IDE,JVM  .NET  Mono  Cocoa  Cocoa Touch  Android  iOS  WebAssembly  cross compile to Linux,,,,; free compiler,
-PocketStudio,winsoft,3.0,,,,Palm OS,,,,,
-Dev-Pascal,Bloodshed Software,1.9.2 (using FPC 1.9.2 from 2005),,,,,,,,,
-PascalABC.NET,Volunteers,3.4 / Jule 27  2018,,,,compiles to CLR,,,,,
+Delphi,Embarcadero Technologies,Delphi 10.3 (Rio) / November 21 2018,[empty],[empty],[empty],cross-compile to macOS  Android  iOS (Linux server on the roadmap)<ref></ref>,[empty],[empty],[empty],[empty],[empty]
+Free Pascal IDE,Volunteers,3.0.4 / December 6  2017,[empty],[empty],[empty],AmigaOS  Android  FreeBSD  Game Boy Advance  Haiku  AIX  iOS  MorphOS  DOS  NetBSD  Nintendo DS  Nintendo Wii  OpenBSD  OS/2  Solaris  Windows CE  Java Virtual Machine  LLVM (experimental)  JavaScript transpiler  Embedded systems.,[empty],[empty],[empty],[empty],[empty]
+KDevelop,KDevelop Team,(only 3.x supports Pascal),[empty],[empty],[empty],FreeBSD  OpenBSD  NetBSD  Solaris  other Unix,[empty],[empty],[empty],[empty],[empty]
+Lazarus,Volunteers,1.8.0 / December 6  2017,[empty],[empty],[empty],See Free Pascal,[empty],[empty],[empty],[empty],[empty]
+MIDletPascal,Code Research Laboratories,3.5 / February 2  2013,[empty],[empty],[empty],cross-compile from Windows to Java ME,[empty],[empty],[empty],[empty],[empty]
+Morfik,Morfik Technology Pty Ltd.,2.0.5.27,[empty],[empty],[empty],compiles to HTML+CSS+XML+JavaScript (web apps),[empty],[empty],[empty],[empty],[empty]
+MSEide,Martin Schreiber,4.6 / 2017-11-24,[empty],[empty],[empty],FreeBSD,[empty],[empty],[empty],[empty],[empty]
+Understand,SciTools,4.0 / April 2015,[empty],[empty],[empty],Solaris,[empty],[empty],[empty],[empty],[empty]
+Visual Studio via Oxygene,RemObjects Software,10.0 / August 2018,and additional Water IDE,[empty],via Fire IDE,JVM  .NET  Mono  Cocoa  Cocoa Touch  Android  iOS  WebAssembly  cross compile to Linux,[empty],[empty],[empty],; free compiler,[empty]
+PocketStudio,winsoft,3.0,[empty],[empty],[empty],Palm OS,[empty],[empty],[empty],[empty],[empty]
+Dev-Pascal,Bloodshed Software,1.9.2 (using FPC 1.9.2 from 2005),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PascalABC.NET,Volunteers,3.4 / Jule 27  2018,[empty],[empty],[empty],compiles to CLR,[empty],[empty],[empty],[empty],[empty]

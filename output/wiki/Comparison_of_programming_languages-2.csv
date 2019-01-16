@@ -1,53 +1,8 @@
-Language,Failsafe I/O
-Ada,(exceptions)
-ALGOL,(exceptions or return value depending on function)
-AutoHotkey,(global ErrorLevel must be explicitly checked)
-Bash,<ref group="FSIO">set -e enables termination if any unchecked exit status is nonzero.</ref>
-Ballerina,
-Bro,
-C,<ref name="VS" group="FSIO">gcc can warn on unchecked errno. Newer versions of Visual Studio usually throw exceptions on failed I/O when using stdio.</ref>
-C++,(STL iostreams throw on failure but C APIs like stdio or POSIX do not)<ref name="VS" group="FSIO"/>
-C#,
-COBOL,
-Common Lisp,("conditions and restarts" system)
-D,(throwing on failure) <ref group="FSIO">https://dlang.org/phobos/std_stdio.html</ref>
-Eiffel,– It actually depends on the library and it is not defined by the language
-Erlang,
-Fortran,
-GLBasic,– Will generally cause program to crash
-Go,(unless result explicitly ignored)
-Gosu,
-Harbour,
-Haskell,
-ISLISP,
-Java,
-Julia,
-Kotlin,
-LabVIEW,
-Lua,(some functions do not warn or throw exceptions)
-Mathematica,
-Object Pascal,
-Objective-C,(exceptions)
-OCaml,(exceptions)
-OpenLisp,
-Perl,<ref group="FSIO">Considerable error checking can be enabled optionally  but by default Perl is not failsafe.</ref>
-Perl 6,
-PHP,
-Python,
-Rebol,
-Rexx,(with optional signal on… trap handling)
-RPG,
-Ruby,
-Rust,(unless result explicitly ignored)
-S,
-Smalltalk,
-Scala,<ref group="FSIO">Scala runs on the Java Virtual Machine from which it inherits the runtime exception handling.</ref>
-Standard ML,
-Swift ≥ 2.0,(exceptions)
-Tcl,
-Visual Basic,
-Visual Prolog,
-Wolfram Language,
-Xojo,
-XPath/XQuery,(exceptions)
-Language,Failsafe I/O
+Language,Statements ratio<ref>Data from Code Complete  p. 100. The Statements ratio column "shows typical ratios of source statements in several high-level languages to the equivalent code in C. A higher ratio means that each line of code in the language listed accomplishes more than does each line of code in C.</ref>,Lines ratio<ref>The ratio of line count tests won by each language to the number won by C when using the Compare to feature at benchmarksgame.alioth.debian.org. Last updated May  2006. C gcc was used for C  C++ g++ was used for C++  FORTRAN G95 was used for FORTRAN  Java JDK Server was used for Java  and Smalltalk GST was used for Smalltalk.</ref>
+C,1,1
+C++,2.5,1
+Fortran,2,0.8
+Java,2.5,1.5
+Perl,6,6
+Smalltalk,6,6.25
+Python,6,6.5

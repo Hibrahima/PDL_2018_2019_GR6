@@ -12,9 +12,9 @@ Cohn-Kanade AU-Coded Expression Database,Large database of images with labels fo
 FaceScrub,Images of public figures scrubbed from image searching.,Name and m/f annotation.,107.818,Images  text,Face recognition,2014,[24][25],H. Ng et al.
 BioID Face Database,Images of faces with eye positions marked.,Manually set eye positions.,1521,Images  text,Face recognition,2001,[26][27],BioID
 Skin Segmentation Dataset,Randomly sampled color values from face images.,B  G  R  values extracted.,245.057,Text,Segmentation  classification,2012,[28][29],R. Bhatt.
-Bosphorus,3D Face image database.,34 action units and 6 expressions labeled; 24 facial landmarks labeled.,4652,Face recognition  classification,2008,[30][31],A Savran et al.
-UOY 3D-Face,neutral face  5 expressions: anger  happiness  sadness  eyes closed  eyebrows raised.,labeling.,5250,Face recognition  classification,2004,[32][33],University of York
-CASIA,Expressions: Anger  smile  laugh  surprise  closed eyes.,None.,4624,Face recognition  classification,2007,[34][35],Institute of Automation  Chinese Academy of Sciences
+Bosphorus,3D Face image database.,34 action units and 6 expressions labeled; 24 facial landmarks labeled.,4652,Images  text,Face recognition  classification,2008,[30][31],A Savran et al.
+UOY 3D-Face,neutral face  5 expressions: anger  happiness  sadness  eyes closed  eyebrows raised.,labeling.,5250,Images  text,Face recognition  classification,2004,[32][33],University of York
+CASIA,Expressions: Anger  smile  laugh  surprise  closed eyes.,None.,4624,Images  text,Face recognition  classification,2007,[34][35],Institute of Automation  Chinese Academy of Sciences
 CASIA,Expressions: Anger Disgust Fear Happiness Sadness Surprise,None.,480,Annotated Visible Spectrum and Near Infrared Video captures at 25 frames per second,Face recognition  classification,2011,[36],Zhao  G. et al.
 BU-3DFE,neutral face  and 6 expressions: anger  happiness  sadness  surprise  disgust  fear (4 levels). 3D images extracted.,None.,2500,Images  text,Facial expression recognition  classification,2006,[37],Binghamton University
 Face Recognition Grand Challenge Dataset,Up to 22 samples for each subject. Expressions: anger  happiness  sadness  surprise  disgust  puffy. 3D Data.,None.,4007,Images  text,Face recognition  classification,2004,[38][39],National Institute of Standards and Technology

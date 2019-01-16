@@ -1,27 +1,28 @@
-IRC daemon,Channel types,Operator prefixing<ref name="prefix">Operator prefixing: The ability for network staff (not channel ops  but ircd opers) to be denoted in a channel with a special prefix.</ref>,Advanced operator ACL,Operator "levels"<ref name="levels">Operator "levels": protect "higher" opers from being killed and/or z  k  or g-lined by "lower" opers</ref>,vHost via I-line (or equivalent),i18n nicknames<ref>"Features: nickchars". Vulnscan.org.</ref>,RDBMS integration (SQL)
-Bahamut,#,,,,,,,,,
-bIRCd,# &,,,,,,,,,
-Charybdis,# &,,,,,,,,,
-ConferenceRoom,# &,,,,,,,,,
-FoxEye ircd,# & ! +,,,,,,,,,
-InspIRCd,#,,,,,,,,,
-IRCD,# & ! +,,,,,,,,,
-IRCD-Hybrid,#,,,,,,,,,
-ircd-ratbox,# &,,,,,,,,,
-ircu,# &,,,,,,,,,
-ithildin,#,,,,,,,,,
-kike,#,,,,,,,,,
-miniircd,+ # & !,,,,,,,,,
-Nefarious IRCu,# &,,,,,,,,,
-ngIRCd,# & +,<ref name="ngircd-commit">"Handle channel user modes 'a'  'h'  and 'q' from remote servers". GitHub.</ref>,,,,,,,,
-OfficeIRC Server,# %# & %&,,,,,,,,,
-PleXusIRCd,# &,,,,,,,,,
-pureIRCd,#,,,,,,,,,
-RockIRCd,#,,,,,,,,,
-RubIRCd,#,,,,,,,,,
-ShadowIRCd,# &,,,,,,,,,
-snircd,# &,,,,,,,,,
-solid-ircd,#,,,,,,,,,
-Synchronet IRCd,# &,,,,,,,,,
-UnrealIRCd,#,,,,,,,,iso8859-1/2/7/8-I/9/16  windows-1250/1251  Multibyte,
-WeIRCd,#,,,,,,,,,
+IRC daemon,Channel types,Halfop support (+h %),Admin/protect support (+a/+u &/!/*),Founder/owner support (+q ~/.),Operator prefixing<ref name="prefix">Operator prefixing: The ability for network staff (not channel ops  but ircd opers) to be denoted in a channel with a special prefix.</ref>,Advanced operator ACL,Operator "levels"<ref name="levels">Operator "levels": protect "higher" opers from being killed and/or z  k  or g-lined by "lower" opers</ref>,vHost via I-line (or equivalent),i18n nicknames<ref>"Features: nickchars". Vulnscan.org.</ref>,RDBMS integration (SQL)
+Bahamut,#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+bIRCd,# &,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Charybdis,# &,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ConferenceRoom,# &,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FoxEye ircd,# & ! +,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+InspIRCd,#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCD,# & ! +,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCD-Hybrid,#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ircd-ratbox,# &,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ircu,# &,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ithildin,#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+kike,#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+miniircd,+ # & !,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nefarious IRCu,# &,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ngIRCd,# & +,<ref name="ngircd-commit">"Handle channel user modes 'a'  'h'  and 'q' from remote servers". GitHub.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OfficeIRC Server,# %# & %&,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PleXusIRCd,# &,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+pureIRCd,#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RockIRCd,#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RubIRCd,#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ShadowIRCd,# &,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+snircd,# &,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+solid-ircd,#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Synchronet IRCd,# &,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UnrealIRCd,#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],iso8859-1/2/7/8-I/9/16  windows-1250/1251  Multibyte,[empty]
+WeIRCd,#,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]

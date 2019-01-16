@@ -1,21 +1,21 @@
 Name,Operating system,User interface,Sector by sector,File by file,Hot transfer,Mount or extract,Verify,Operation model,License,Maintained?,Last version release date
-Standalone,Client–server,Offline (From a Live OS)
-Acronis True Image<ref name=ATIH2013 />,Windows,Graphical,,,,,,,,(64 MB),,
-Apple Software Restore,OS X,Command-line,,,,,,,,,,
-Clonezilla<ref name="clonezilla" />,Linux / Windows,Text-based,,,,<ref>https://ubuntuforums.org/showthread.php?t=872832</ref>,,,(Clonezilla server edition),(210 MB),,,September 2017
-dcfldd,Linux,Command-line,,,,,,,,,,
-dd (Unix),Unix,Command-line,,,,,,,,,,
-Disk Utility,OS X,Graphical,,,,,,,,,,
-FSArchiver,Linux,Text-based,,,,,,,,,,
-Ghost v15<ref name="Norton Ghost" />,Windows,Graphical Command-line,,,,,,,,,,
-GParted Live CD<ref></ref>,Linux,Graphical,,,,,,,,,,
-HDClone<ref name="HDClone" />,Windows  (Linux<ref name="HDClone/L">HDClone/L as 2nd Live OS for the stand-alone version since HDClone 7.</ref>),Graphical  Command-line,,,,,,,,,,,January 2017
-Image for Windows,Windows,Graphical,,,,,,,,,,
-IsoBuster<ref name="IsoBuster" />,Windows,Graphical,,,,,,,,,,,December 2018
-Kleo Bare Metal Backup,Independent (Live OS),Graphical,,,,,,,,(570 MB),,,February 2010
-Mondo Rescue<ref name="MondoRescue" />,Linux,Text-based,,,,,,,,*,,
-ntfsclone<ref name="ntfsclone1" /><ref name="ntfsclone2" />,Linux,Command-line,,,,,,,,,,
-Paragon Hard Disk Manager,Windows  OS X,Graphical,,<ref name="Paragon-filesystems" />,,,,,,,Commercial,,October 2017
-partimage<ref name="partimage1" /><ref name="partimage2" />,Linux,Text-based,,<ref name="PI-filesystems" />,,,,,,,,
-Partition-Saving<ref name="partitionsaving1" />,Windows  Linux  DOS,Text-based Command-line,,,,,,,,,,
-Redo Backup and Recovery,Independent (Live OS),Graphical,,,,,,,,(225 MB),,,November 2012
+Standalone,Client–server,Offline (From a Live OS),[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Acronis True Image<ref name=ATIH2013 />,Windows,Graphical,[empty],[empty],[empty],[empty],[empty],[empty],[empty],(64 MB),[empty]
+Apple Software Restore,OS X,Command-line,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Clonezilla<ref name="clonezilla" />,Linux / Windows,Text-based,[empty],[empty],[empty],<ref>https://ubuntuforums.org/showthread.php?t=872832</ref>,[empty],[empty],(Clonezilla server edition),(210 MB),[empty]
+dcfldd,Linux,Command-line,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+dd (Unix),Unix,Command-line,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Disk Utility,OS X,Graphical,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FSArchiver,Linux,Text-based,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ghost v15<ref name="Norton Ghost" />,Windows,Graphical Command-line,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GParted Live CD<ref></ref>,Linux,Graphical,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HDClone<ref name="HDClone" />,Windows  (Linux<ref name="HDClone/L">HDClone/L as 2nd Live OS for the stand-alone version since HDClone 7.</ref>),Graphical  Command-line,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Image for Windows,Windows,Graphical,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IsoBuster<ref name="IsoBuster" />,Windows,Graphical,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Kleo Bare Metal Backup,Independent (Live OS),Graphical,[empty],[empty],[empty],[empty],[empty],[empty],[empty],(570 MB),[empty]
+Mondo Rescue<ref name="MondoRescue" />,Linux,Text-based,[empty],[empty],[empty],[empty],[empty],[empty],[empty],*,[empty]
+ntfsclone<ref name="ntfsclone1" /><ref name="ntfsclone2" />,Linux,Command-line,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Paragon Hard Disk Manager,Windows  OS X,Graphical,[empty],<ref name="Paragon-filesystems" />,[empty],[empty],[empty],[empty],[empty],[empty],Commercial
+partimage<ref name="partimage1" /><ref name="partimage2" />,Linux,Text-based,[empty],<ref name="PI-filesystems" />,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Partition-Saving<ref name="partitionsaving1" />,Windows  Linux  DOS,Text-based Command-line,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Redo Backup and Recovery,Independent (Live OS),Graphical,[empty],[empty],[empty],[empty],[empty],[empty],[empty],(225 MB),[empty]

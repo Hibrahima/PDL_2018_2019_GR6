@@ -1,17 +1,18 @@
 Device,Photo,Mfg. country,Size  mm,Weight  g,Power supply,Display,Sound,Vibration,Detector type,Range  μSv/h,Range  μR/h,Measurement time  seconds,Measuring of beta radiation and range of energy,PC link,Extra features
-SA-05A<ref name=Allimann.com>Allimann.comhttp://www.allimann.com/shop/index.php?id_product=8&controller=product&id_lang=4</ref>,,Switzerland,119x65x26.5,135,Built-in lithium polymer battery,LCD,,,Geiger–Müller tube LND 713,0.01–6000,,1–60,0.05–1.3 MeV,,Clock  calendar and data logger
-ANRI 01-02 Sosna<ref>http://ntfprompribor.ru/page221497</ref>,,Russia,133x82x45,350,Nine-volt battery,LCD,,,Two to four Geiger–Müller tubes,0.1–100,10–104,20±5,,,
-DKG-RM1203M<ref>http://polimaster.ru/products/electronic_dosimeters/personal/pm1203m/?print=true</ref>,,Belarus,125x42x24,90,Two LR44,LCD,,,Geiger–Müller tube,0.01–2000,1–2*105,?,,,Clock with alarm
-MKS-05 «Terra-P»,,Ukraine,120×52×26,150,Two AAA,LCD,,,Geiger–Müller tube,0.1–1000,10–105,5–70,,,Clock with alarm  cover as option
-MKS-05 «Terra» (New edition),,Ukraine,120×52×26,150,Two AAA,LCD with backlight,,,Geiger–Müller tube,0.1–104,10–106,1–70,,,Clock with alarm  cover
-DKR-04,,?,74х48х16,50,AAA,LCD,,,Semiconductor,0.1–106,10–108,4–256,,,
-Radex RD1503  RD1503+,,Russia,105х60х26,90,One or two AAA,LCD with backlight,,,Geiger–Müller tube,0.05–10,5–1000,up to 40,,,
-Radex RD1706,,Russia,105х60х26,90,One or two AAA,LCD with backlight,,,Two Geiger–Müller tubes,0.05–1000,5–105,1–26,,,Background mode
-Radex RD1212,,Russia,97x68x24,80,One or two AAA,LCD with backlight,,,One Geiger–Müller tubes,0.05–999,5–105,1–10,,,Background mode  integrated flashlight  time and date functions  multilingual
-Radex RD1008,,Russia,140х64х26,175,AA,LCD with backlight,,,Two Geiger–Müller tubes,0.1–1000,2–120,2–21,,,Background mode  separated indication of beta and gamma radiation
-newspaper=X-Z LAB|language=en-US|access-date=2016-11-14}}</ref>,,China,69x46x17,60,Built-in lithium ion battery,LCD with backlight,,,YSO scintillator + SiPM,0.5–5000,50–5*105,< 8,,,Dose equivalent rate + accumulated dose meter  pager-like clip  time and date functions  data logging and export (via Mac/PC software)
-newspaper=X-Z LAB|language=en-US|access-date=2016-11-14}}</ref>,,China,69x46x17,60,Built-in lithium ion battery,LCD with backlight,,,YSO scintillator + SiPM,0.01–1000,1–105,< 2,,,Dose equivalent rate + accumulated dose meter  pager-like clip  time and date functions  data logging and export (via Mac/PC software)
-newspaper=X-Z LAB|language=en-US|access-date=2016-11-14}}</ref>,,China,69x46x17,60,Built-in lithium ion battery,LCD with backlight,,,YSO scintillator + SiPM,0.1–105,10–107,< 6,,,Dose equivalent rate + accumulated dose meter  pager-like clip  time and date functions  data logging and export (via Mac/PC software)
-RKSB-104,,Belarus,154х77х39,350,Nine-volt battery,LCD,,,Two Geiger–Müller tubes,0.1–100,10–2*104,18–400,,,
-DKG-RM1610,,Belarus,58х58х18,70,Built-in accumulator,LCD,,,One Geiger–Müller tube,0.01–1.2*106,1–1.2*108,?,,,Shock protection
-EcotestCARD,,Ukraine,,80,CR2450,LCD,,,Semiconductor,0.1–106,10–108,?,?,,
+SA-05A<ref name=Allimann.com>Allimann.comhttp://www.allimann.com/shop/index.php?id_product=8&controller=product&id_lang=4</ref>,[empty],Switzerland,119x65x26.5,135,Built-in lithium polymer battery,LCD,[empty],[empty],Geiger–Müller tube LND 713,0.01–6000,[empty],1–60,0.05–1.3 MeV,[empty],Clock  calendar and data logger
+ANRI 01-02 Sosna<ref>http://ntfprompribor.ru/page221497</ref>,[empty],Russia,133x82x45,350,Nine-volt battery,LCD,[empty],[empty],Two to four Geiger–Müller tubes,0.1–100,10–104,20±5,[empty],[empty],[empty]
+DKG-RM1203M<ref>http://polimaster.ru/products/electronic_dosimeters/personal/pm1203m/?print=true</ref>,[empty],Belarus,125x42x24,90,Two LR44,LCD,[empty],[empty],Geiger–Müller tube,0.01–2000,1–2*105,?,[empty],[empty],Clock with alarm
+MKS-05 «Terra-P»,[empty],Ukraine,120×52×26,150,Two AAA,LCD,[empty],[empty],Geiger–Müller tube,0.1–1000,10–105,5–70,[empty],[empty],Clock with alarm  cover as option
+MKS-05 «Terra» (New edition),[empty],Ukraine,120×52×26,150,Two AAA,LCD with backlight,[empty],[empty],Geiger–Müller tube,0.1–104,10–106,1–70,[empty],[empty],Clock with alarm  cover
+DKR-04,[empty],?,74х48х16,50,AAA,LCD,[empty],[empty],Semiconductor,0.1–106,10–108,4–256,[empty],[empty],[empty]
+Radex RD1503  RD1503+,[empty],Russia,105х60х26,90,One or two AAA,LCD with backlight,[empty],[empty],Geiger–Müller tube,0.05–10,5–1000,up to 40,[empty],[empty],[empty]
+Radex RD1706,[empty],Russia,105х60х26,90,One or two AAA,LCD with backlight,[empty],[empty],Two Geiger–Müller tubes,0.05–1000,5–105,1–26,[empty],[empty],Background mode
+Radex RD1212,[empty],Russia,97x68x24,80,One or two AAA,LCD with backlight,[empty],[empty],One Geiger–Müller tubes,0.05–999,5–105,1–10,[empty],[empty],Background mode  integrated flashlight  time and date functions  multilingual
+Radex RD1008,[empty],Russia,140х64х26,175,AA,LCD with backlight,[empty],[empty],Two Geiger–Müller tubes,0.1–1000,2–120,2–21,[empty],[empty],Background mode  separated indication of beta and gamma radiation
+newspaper=X-Z LAB|language=en-US|access-date=2016-11-14}}</ref>,[empty],China,69x46x17,60,Built-in lithium ion battery,LCD with backlight,[empty],[empty],YSO scintillator + SiPM,0.5–5000,50–5*105,< 8,[empty],[empty],Dose equivalent rate + accumulated dose meter  pager-like clip  time and date functions  data logging and export (via Mac/PC software)
+newspaper=X-Z LAB|language=en-US|access-date=2016-11-14}}</ref>,[empty],China,69x46x17,60,Built-in lithium ion battery,LCD with backlight,[empty],[empty],YSO scintillator + SiPM,0.01–1000,1–105,< 2,[empty],[empty],Dose equivalent rate + accumulated dose meter  pager-like clip  time and date functions  data logging and export (via Mac/PC software)
+newspaper=X-Z LAB|language=en-US|access-date=2016-11-14}}</ref>,[empty],China,69x46x17,60,Built-in lithium ion battery,LCD with backlight,[empty],[empty],YSO scintillator + SiPM,0.1–105,10–107,< 6,[empty],[empty],Dose equivalent rate + accumulated dose meter  pager-like clip  time and date functions  data logging and export (via Mac/PC software)
+RKSB-104,[empty],Belarus,154х77х39,350,Nine-volt battery,LCD,[empty],[empty],Two Geiger–Müller tubes,0.1–100,10–2*104,18–400,[empty],[empty],[empty]
+DKG-RM1610,[empty],Belarus,58х58х18,70,Built-in accumulator,LCD,[empty],[empty],One Geiger–Müller tube,0.01–1.2*106,1–1.2*108,?,[empty],[empty],Shock protection
+EcotestCARD,[empty],Ukraine,[empty],80,CR2450,LCD,[empty],[empty],Semiconductor,0.1–106,10–108,?,?,[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]

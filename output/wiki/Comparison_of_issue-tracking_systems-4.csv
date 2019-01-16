@@ -1,38 +1,38 @@
 System,Email,RSS,Atom,XMPP,Twitter
-Apache Bloodhound,,,,,
-Assembla Tickets,,,,,
-Axosoft,,,,,
-Bugzilla,,,,,
-Debbugs,,,,,
-Faveo Helpdesk,,,,,
-FogBugz,,,,,
-Fossil,,,,,
-FusionForge,,,,,
-GLPI,,,,,
-GNATS,,,,,
-HP Quality Center,,,,,
-IBM Rational ClearQuest,,,,,
-Jira,,,,,
-Liberum Help Desk,,,,,
-MantisBT,,,,,
-Microsoft Dynamics CRM,,,,,
-org-mode,,,,,
-OTRS,,,,,
-Phabricator,,,,,
-Pivotal Tracker,,,,,
-Redmine,,,,, via plugin,
-Request Tracker,,<ref></ref>,,,
-Roundup,,<ref name="roundup-feed"></ref>,<ref name="roundup-feed"/>,,
-StarTeam,,,,,
-Supportworks,,,,,
-SysAid,,,,,
-Team Foundation Server,,,,,
-TestTrack,,,,,
-The Bug Genie,,,,,
-Trac,,,,,
-TrackerSuite.Net,,,,,
-Twproject,,,,,
-Usersnap,,,,,
-Wrike,,,,,
-YouTrack,,,,,
+Apache Bloodhound,[empty],[empty],[empty],[empty],[empty]
+Assembla Tickets,[empty],[empty],[empty],[empty],[empty]
+Axosoft,[empty],[empty],[empty],[empty],[empty]
+Bugzilla,[empty],[empty],[empty],[empty],[empty]
+Debbugs,[empty],[empty],[empty],[empty],[empty]
+Faveo Helpdesk,[empty],[empty],[empty],[empty],[empty]
+FogBugz,[empty],[empty],[empty],[empty],[empty]
+Fossil,[empty],[empty],[empty],[empty],[empty]
+FusionForge,[empty],[empty],[empty],[empty],[empty]
+GLPI,[empty],[empty],[empty],[empty],[empty]
+GNATS,[empty],[empty],[empty],[empty],[empty]
+HP Quality Center,[empty],[empty],[empty],[empty],[empty]
+IBM Rational ClearQuest,[empty],[empty],[empty],[empty],[empty]
+Jira,[empty],[empty],[empty],[empty],[empty]
+Liberum Help Desk,[empty],[empty],[empty],[empty],[empty]
+MantisBT,[empty],[empty],[empty],[empty],[empty]
+Microsoft Dynamics CRM,[empty],[empty],[empty],[empty],[empty]
+org-mode,[empty],[empty],[empty],[empty],[empty]
+OTRS,[empty],[empty],[empty],[empty],[empty]
+Phabricator,[empty],[empty],[empty],[empty],[empty]
+Pivotal Tracker,[empty],[empty],[empty],[empty],[empty]
+Redmine,[empty],[empty],[empty],, via plugin,[empty]
+Request Tracker,[empty],<ref></ref>,[empty],[empty],[empty]
+Roundup,[empty],<ref name="roundup-feed"></ref>,<ref name="roundup-feed"/>,[empty],[empty]
+StarTeam,[empty],[empty],[empty],[empty],[empty]
+Supportworks,[empty],[empty],[empty],[empty],[empty]
+SysAid,[empty],[empty],[empty],[empty],[empty]
+Team Foundation Server,[empty],[empty],[empty],[empty],[empty]
+TestTrack,[empty],[empty],[empty],[empty],[empty]
+The Bug Genie,[empty],[empty],[empty],[empty],[empty]
+Trac,[empty],[empty],[empty],[empty],[empty]
+TrackerSuite.Net,[empty],[empty],[empty],[empty],[empty]
+Twproject,[empty],[empty],[empty],[empty],[empty]
+Usersnap,[empty],[empty],[empty],[empty],[empty]
+Wrike,[empty],[empty],[empty],[empty],[empty]
+YouTrack,[empty],[empty],[empty],[empty],[empty]
 System,Email,RSS,Atom,XMPP,Twitter

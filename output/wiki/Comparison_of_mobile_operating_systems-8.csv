@@ -1,18 +1,19 @@
 +Communication and connectivity
-Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
-Unified Inbox,No <ref></ref> but 3rd party apps available<ref>K-9 Mail - Android-apps op Google Play . Play.google.com. Retrieved on 2012-07-03.</ref>,,<ref></ref>,,,,?
-Email sync protocols supported,POP3  IMAP  MAPI,POP3  IMAP  MAPI  ActiveSync<ref>Set up Exchange ActiveSync on your iPhone  iPad  or iPod touch - Apple Support </ref>,POP3  IMAP  MAPI  ActiveSync,BES  BIS  Push e-mail  10+: POP3  IMAP  ActiveSync,POP3  IMAP,POP3  IMAP  ActiveSync,?
-Non-carrier-based integrated messaging,,(iMessage)<ref></ref>,<ref></ref>,,?,3rd party software,3rd party software
-Visual voicemail,<ref></ref>,,<ref></ref>,,?,?,?
-Call log duration,<ref>A Week with the Android G1 Smartphone – Day 3 & 4 — The Gadgeteer . The-gadgeteer.com. Retrieved on 2012-07-03.</ref>,<ref>iOS 4 on the iPhone has Improved Call History . Simplemobilereview.com (2010-09-02). Retrieved on 2012-07-03.</ref>,<ref></ref>,<ref>About call logs – User Guide – BlackBerry Bold 9780 Smartphone – 6.0 . Docs.blackberry.com. Retrieved on 2012-07-03.</ref>,?,
-Multiple mobile phones per contact,,,,,?,
-Contact groups,<ref>Getting To Know Android 4.0  Part 5 Everything Changes In Contacts  Even The Name! </ref> or 3rd party software<ref>Manage your contacts with groups on your android – Clix Group Manager . Youtube.com (2009-09-30). Retrieved on 2012-07-03.</ref>,<ref>How to make a contact group on iPhone . www.digitaltrends.com (2016-05-25). Retrieved on 2016-09-25.</ref>,<ref>Groups on Windows Phone 7.5 . Youtube.com (2011-09-01). Retrieved on 2012-07-03.</ref>,,,<ref>Groups for contacts </ref>,?
-Voice over IP,<ref></ref> or 3rd party software<ref></ref>,3rd party software<ref></ref>,Skype<ref></ref>,<ref></ref> or 3rd party software<ref></ref>,<ref></ref>,3rd party software,3rd party software
-NFC payment software,<ref></ref>,, via Apple Pay,<ref></ref>,<ref></ref>,,
-Tethering,Mobile Wi-Fi Hotspot  USB  Bluetooth,4.3+: Personal Hotspot (Wi-Fi  Bluetooth  USB; carrier dependent),Internet Sharing (Wi-Fi Hotspot) <ref></ref> Bluetooth (8.1 Update+),USB  Bluetooth  Mobile Wi-Fi Hotspot,microUSB  Bluetooth 3.0  Mobile Wi-Fi Hotspot,Mobile Wi-Fi Hotspot  USB  Bluetooth,Mobile Wi-Fi Hotspot
-USB On-The-Go,<ref></ref><ref></ref>,,<ref></ref>,<ref></ref>,,
-Direct file transfer over Wi-Fi Direct,<ref name="Android 4.0 Platform Highlights" /> and selected devices<ref>Samsung Galaxy S II – WiFi Direct . Youtube.com. Retrieved on 2012-07-03.</ref><ref>Broadcom Adds Bluetooth 3.0  Wi-Fi Direct to Android . (PDF) . Retrieved on 2012-07-03.</ref>,No  3rd party software on jailbroken devices,,,, was available on bada 2+ <ref name="bada 2.0 & Ecosystem FAQ's">bada 2.0 & Ecosystem FAQ's . Developer.samsung.com. Retrieved on 2012-07-03.</ref> but removed on Tizen,<ref>WiFi Direct or P2P wifi support </ref>
-DHCP v4,Yes,Yes,?,Yes,?,?,?
-DHCP v6,No,Yes,?,Yes (Manually selected; Wi-Fi only),?,?,?
-Direct file transfer over Bluetooth,<ref></ref>,,<ref></ref>,,, was available on bada <ref></ref> but removed on Tizen,<ref>Bluetooth file transfer for all file types </ref> but limited to images  videos and contacts
-Direct file transfer over NFC,<ref name="Android 4.0 Platform Highlights" />,,<ref></ref>,<ref></ref>,<ref name="bada 2.0 & Ecosystem FAQ's"/>,
+Feature
+Unified Inbox
+Email sync protocols supported
+Non-carrier-based integrated messaging
+Visual voicemail
+Call log duration
+Multiple mobile phones per contact
+Contact groups
+Voice over IP
+NFC payment software
+Tethering
+USB On-The-Go
+Direct file transfer over Wi-Fi Direct
+DHCP v4
+DHCP v6
+Direct file transfer over Bluetooth
+Direct file transfer over NFC
+[added]

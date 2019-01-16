@@ -1,31 +1,31 @@
 Server,Windows,Linux,macOS,BSD,Solaris,eComStation,OpenVMS,AIX,IBM i,z/OS,HP-UX
-AOLserver,,,,,,,,,,,
-Apache HTTP Server,,,,,,,,,,,
-Apache Tomcat,,,,,,,,,,,
-Boa,,,,,,,,,,,
-Caddy,,,,,,,,,,,
-Caucho Resin Server,,,,,,,,,,,
-Caudium<ref></ref>,,,,,,,,,,,
-Cherokee HTTP Server,,,,,,,,,,
-HFS,,,,,,,,,,,
-Hiawatha,<ref name="hiawathaAbout"></ref>,<ref name="hiawathaAbout"/>,<ref name="hiawathaAbout"/>,<ref name="hiawathaAbout"/>,<ref name="hiawathaAbout"/>,,,,,,
-IBM HTTP Server,,,,,,,,,,,
-Internet Information Services,,,,,,,,,,,
-Jetty (Java),,,,,,,,,,,
-Jexus,,,,,,,,,,,
-lighttpd,<br />(Cygwin),,,,,,,,,,
-LiteSpeed Web Server,,,,,,,,,,,
-Mongoose,,,,,,,,,,,
-Monkey HTTP Server,,,,,,,,,,,
-NaviServer,,,,,,,,,,,
-NCSA HTTPd,,,,,,,,,,,
-nginx,,,,,,,,,,,
-,,,,,,,,,,
-OpenLiteSpeed,,,,,,,,,,,
-Oracle HTTP Server,,,,,,,,,,,
-Oracle iPlanet Web Server,,,,,,,,,,,
-thttpd,<br />(Cygwin),,,,,,,,,,
-TUX web server,,,,,,,,,,,
-Wakanda Server,,<br />(via libbsd),,,,,,,,,
-Xitami,,,,,,,,,,,
-Yaws,,,,,,,,,,,
+AOLserver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Apache HTTP Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Apache Tomcat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Boa,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Caddy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Caucho Resin Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Caudium<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cherokee HTTP Server,<ref name="cherokeeAbout"> "The Windows native build is currently broken."</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hiawatha,<ref name="hiawathaAbout"></ref>,<ref name="hiawathaAbout"/>,<ref name="hiawathaAbout"/>,<ref name="hiawathaAbout"/>,<ref name="hiawathaAbout"/>,[empty],[empty],[empty],[empty],[empty],[empty]
+IBM HTTP Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Internet Information Services,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Jetty (Java),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Jexus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+lighttpd,<br />(Cygwin),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LiteSpeed Web Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mongoose,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Monkey HTTP Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NaviServer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NCSA HTTPd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+nginx,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[[Virtuoso Universal Server|OpenLink Virtuoso]],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenLiteSpeed,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Oracle HTTP Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Oracle iPlanet Web Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+thttpd,<br />(Cygwin),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TUX web server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Wakanda Server,[empty],<br />(via libbsd),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xitami,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Yaws,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

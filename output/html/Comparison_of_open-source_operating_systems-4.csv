@@ -3,25 +3,25 @@ Linux,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 FreeBSD,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 OpenBSD,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
 NetBSD,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-DragonFly BSD,Yes,,Yes,Yes,Yes,Yes,Yes,
-OpenSolaris  illumos,Yes,,Yes,Yes,Yes,Yes,No,No
-AuroraUX,Yes,,Yes,Yes,Yes,Yes,No,No
-Darwin  OpenDarwin,Yes,,,,,,,
-MINIX,Yes,,Yes,,,,,
-FreeDOS,Yes,Yes,Yes,,,,,
+DragonFly BSD,Yes,[empty],Yes,Yes,Yes,Yes,Yes,[empty]
+OpenSolaris  illumos,Yes,[empty],Yes,Yes,Yes,Yes,No,No
+AuroraUX,Yes,[empty],Yes,Yes,Yes,Yes,No,No
+Darwin  OpenDarwin,Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MINIX,Yes,[empty],Yes,[empty],[empty],[empty],[empty],[empty]
+FreeDOS,Yes,Yes,Yes,[empty],[empty],[empty],[empty],[empty]
 Genode,Yes,No,No,Yes,No,Yes,No,No
-Haiku,Yes,Yes,Yes,Yes,,Yes,,
-KolibriOS,Yes,Yes,Yes,,,,No,Yes
-MenuetOS,Yes,Yes,,,,,No,No
-GNU,Yes,,,,,,,
+Haiku,Yes,Yes,Yes,Yes,[empty],Yes,[empty],[empty]
+KolibriOS,Yes,Yes,Yes,[empty],[empty],[empty],No,Yes
+MenuetOS,Yes,Yes,[empty],[empty],[empty],[empty],No,No
+GNU,Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 ReactOS,Yes,Yes,Yes,Yes,Yes,Yes,No,No
-L4  Fiasco  Pistachio,,,,,,,,
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Plan 9,Yes,Yes,Yes,Yes,Yes,Yes,No,No
-AROS,Yes,Yes,,,,,,
-Syllable,Yes,Yes,Yes,Yes,,,,
-Inferno,Yes,Yes,Yes,Yes,,Yes,No,No
-FreeRTOS,,,,,,,
-eCos,Yes,,,Yes,,,Yes,
+AROS,Yes,Yes,[empty],[empty],[empty],[empty],[empty],[empty]
+Syllable,Yes,Yes,Yes,Yes,[empty],[empty],[empty],[empty]
+Inferno,Yes,Yes,Yes,Yes,[empty],Yes,No,No
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+eCos,Yes,[empty],[empty],Yes,[empty],[empty],Yes,[empty]
 RTEMS,Yes,Yes,Yes,Yes,No,No,No,No
 HelenOS,Yes,Yes,Yes,Yes,No,No,No,No
 E/OS,Yes,Yes,Yes,Yes,Yes,No[7],No,No

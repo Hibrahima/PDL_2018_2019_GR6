@@ -27,3 +27,4 @@ Arriflex 435 Advanced,five-link movement,2 (3-pin),2,0.1-150 frame/s in 0.001 fr
 Aaton 35-3P,magnetic drive wheels between body and mag,co-planar,No,2-40 frame/s in 0.001 frame/s increments,No,triphase brushless  Xtal at all speeds,4 and 3 perf,Yes
 Arriflex 235,five-link movement,1 (dual-pin),1,1-75 frame/s in 0.001 frame/s increments,25 frame/s (can't be used with shoulder mags or older 200' mags),DC quartz-controlled  Xtal at all speeds,4  3  and 2 perf,No
 Arriflex 435 Xtreme,five-link movement,2 (3-pin),2,0.1-150 frame/s in 0.001 frame/s increments up to 100 frame/s and 0.01 frame/s increments after,0.1-150 frame/s in 0.001 frame/s increments up to 100 frame/s and 0.01 frame/s increments after,DC quartz-controlled  Xtal at all speeds,4 and 3 perf,Yes
+[added],[added],[added],[added],[added],[added],[added],[added],[added]

@@ -1,11 +1,11 @@
 Kernel Name,a.out,ECOFF,ELF,FDPIC ELF binaries (mmu less),flat binaries (superH),HUNK,Mach-O,Misc (wrapper based  like interpreters),PE,SOM (PA-RISC  HP-UX),NLM,PEF,DOS COM,MZ,LE,LX,NE
-Amiga Exec,,,<ref>AmigaOS up to version 3.9 could use the ELF format for PowerPC executables and libraries through ppc.library  also known as PowerUP. AmigaOS 4  uses ELF as its native executable format.</ref>,,,,,,,,,,,,,,
-DragonFly BSD kernel,,,,,,,,,,,,,,,,,
-HP-UX kernel,,,,,,,,,,,,,,,,,
-Linux kernel,,,,,,,,,<ref>The Linux kernel can recognize PE binaries through binfmt_misc and run them using Wine</ref>,,,,,,,,
-MINIX 3 kernel,<ref name=minix3-a.out-phased-out /><ref name=minix3-a.out-utils-removed />,,<ref name=minix3-elf />,,,,,,,,,,,,,,
-NetBSD kernel,,,,,,,,,,,,,,,,,
-ReactOS kernel,,,,,,,,,,,,,,,,,
-Solaris kernel,<ref>to support SunOS 4.x binaries</ref>,,<ref>including a Linux compatibility option</ref>,,,,,,<ref>The Solaris kernel can PE using Wine</ref>,,,,,,,,
-Windows NT kernel,,,,,,,,,,,,,,,,,
-XNU,,,,,,,,,,,,,,,,,
+Amiga Exec,[empty],[empty],<ref>AmigaOS up to version 3.9 could use the ELF format for PowerPC executables and libraries through ppc.library  also known as PowerUP. AmigaOS 4  uses ELF as its native executable format.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DragonFly BSD kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HP-UX kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linux kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>The Linux kernel can recognize PE binaries through binfmt_misc and run them using Wine</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MINIX 3 kernel,<ref name=minix3-a.out-phased-out /><ref name=minix3-a.out-utils-removed />,[empty],<ref name=minix3-elf />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NetBSD kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReactOS kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Solaris kernel,<ref>to support SunOS 4.x binaries</ref>,[empty],<ref>including a Linux compatibility option</ref>,[empty],[empty],[empty],[empty],[empty],<ref>The Solaris kernel can PE using Wine</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Windows NT kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XNU,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

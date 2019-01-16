@@ -1,127 +1,128 @@
 Language,Pairaphrase,Xerox Easy Translator,Omniscien Technologies Language Studio,IBM Watson,Apertium,OpenLogos,Google Translate,Slate Rocks,Moses for Mere Mortals,Babel Fish,Bing Translator,GramTrans,SYSTRAN,IdiomaX,SAIC Omnifluent,lingenio translate
-To English,Arabic to English,,,,,,,,,,,,,,,,
-Catalan to English,,,,,,,,,,,,,,,,
-Chinese (Simplified) to English,,,,,,,,,,,,,,,,
-Chinese (Traditional) to English,,,,,,,,,,,,,,,,
-Czech to English,,,,,,,,,,,,,,,,
-Danish to English,,,,,,,,,,,,,,,,
-Dutch to English,,,,,,,,,,,,,,,,
-Esperanto to English,,,,,,,,,,,,,,,,
-Estonian to English,,,,,,,,,,,,,,,,
-Finnish to English,,,,,,,,,,,,,,,,
-French to English,,,,,,,,,,,,,,,,
-Galician to English,,,,,,,,,,,,,,,,
-German to English,,,,,,,,,,,,,,,,
-Greek to English,,,,,,,,,,,,,,,,
-Haitian Creole to English,,,,,,,,,,,,,,,,
-Hebrew to English,,,,,,,,,,,,,,,,
-Hindi to English,,,,,,,,,,,,,,,,
-Hungarian to English,,,,,,,,,,,,,,,,
-Indonesian to English,,,,,,,,,,,,,,,,
-Irish to English,,,,,,,,,,,,,,,,
-Italian to English,,,,,,,,,,,,,,,,
-Japanese to English,,,,,,,,,,,,,,,,
-Korean to English,,,,,,,,,,,,,,,,
-Latvian to English,,,,,,,,,,,,,,,,
-Lithuanian to English,,,,,,,,,,,,,,,
-Macedonian to English,,,,,,,,,,,,,,,,
-Malay to English,,,,,,,,,,,,,,,,
-Maltese to English,,,,,,,,,,,,,,,,
-Norwegian to English,,,,,,,,,,,,,,,,
-Persian to English,,,,,,,,,,,,,,,,
-Polish to English,,,,,,,,,,,,,,,,
-Portuguese to English,,,,,,,,,,,,,,,,
-Portuguese (Brazilian) to English,,,,,,,,,,,,,,,,
-Romanian to English,,,,,,,,,,,,,,,,
-Russian to English,,,,,,,,,,,,,,,
-Serbo-Croatian to English,,,,,,,,,,,,,,,,
-Slovak to English,,,,,,,,,,,,,,,,
-Slovene to English,,,,,,,,,,,,,,,,
-Spanish to English,,,,,,,,,,,,,,,,
-Swedish to English,,,,,,,,,,,,,,,,
-Tagalog to English,,,,,,,,,,,,,,,,
-Thai to English,,,,,,,,,,,,,,,,
-Turkish to English,,,,,,,,,,,,,,,,
-Ukrainian to English,,,,,,,,,,,,,,,,
-Welsh to English,,,,,,,,,,,,,,,,
+To English,Arabic to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Catalan to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Chinese (Simplified) to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Chinese (Traditional) to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Czech to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Danish to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dutch to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Esperanto to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Estonian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Finnish to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+French to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Galician to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+German to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Greek to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Haitian Creole to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hebrew to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hindi to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hungarian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Indonesian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Irish to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Italian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Japanese to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Korean to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Latvian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Lithuanian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Macedonian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Malay to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Maltese to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Norwegian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Persian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Polish to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Portuguese to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Portuguese (Brazilian) to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Romanian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Russian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Serbo-Croatian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Slovak to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Slovene to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spanish to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Swedish to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tagalog to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Thai to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Turkish to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ukrainian to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Welsh to English,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Language,Pairaphrase,Xerox Easy Translator,Omniscien Technologies Language Studio,IBM Watson,Apertium,OpenLogos,Google Translate,Slate Rocks,Moses for Mere Mortals,Babel Fish,Bing Translator,GramTrans,SYSTRAN,IdiomaX,SAIC Omnifluent,lingenio translate
-Chinese (Simplified),English to Chinese (Simplified),,,,,,,,,,,,,,,,
-German to Chinese (Simplified),,,,,,,,,,,,,,,,
-To Chinese (Traditional),English to Chinese (Traditional),,,,,,,,,,,,,,,,
-German to Chinese (Traditional),,,,,,,,,,,,,,,,
-To Dutch,English to Dutch,,,,,,,,,,,,,,,,
-French to Dutch,,,,,,,,,,,,,,,,
-To French,English to French,,,,,,,,,,,,,,,,
-German to French,,,,,,,,,,,,,,,,
-Spanish to French,,,,,,,,,,,,,,,,
-Catalan to French,,,,,,,,,,,,,,,,
-Russian to French,,,,,,,,,,,,,,,,
-Dutch to French,,,,,,,,,,,,,,,,
-Italian to French,,,,,,,,,,,,,,,,
-Breton to French,,,,,,,,,,,,,,,,
-To Galician,English to Galician,,,,,,,,,,,,,,,,
-Portuguese to Galician,,,,,,,,,,,,,,,,
-Spanish to Galician,,,,,,,,,,,,,,,,
-To German,Chinese (Simplified) to German,,,,,,,,,,,,,,,,
-Chinese (Traditional) to German,,,,,,,,,,,,,,,,
-English to German,,,,,,,,,,,,,,,,
-French to German,,,,,,,,,,,,,,,,
-Spanish to German,,,,,,,,,,,,,,,,
-Russian to German,,,,,,,,,,,,,,,,
-Italian to German,,,,,,,,,,,,,,,,
-To Italian,English to Italian,,,,,,,,,,,,,,,,
-Spanish to Italian,,,,,,,,,,,,,,,,
-French to Italian,,,,,,,,,,,,,,,,
-German to Italian,,,,,,,,,,,,,,,,
-To Japanese,English to Japanese,,,,,,,,,,,,,,,,
-German to Japanese,,,,,,,,,,,,,,,,
-To Korean,English to Korean,,,,,,,,,,,,,,,,
-To Portuguese,English to Portuguese,,,,,,,,,,,,,,,,
-To Russian,English to Russian,,,,,,,,,,,,,,,,
-French to Russian,,,,,,,,,,,,,,,,
-Spanish to Russian,,,,,,,,,,,,,,,,
-German to Russian,,,,,,,,,,,,,,,,
-Italian to Russian,,,,,,,,,,,,,,,,
-To Spanish,English to Spanish,,,,,,,,,,,,,,,,
-Russian to Spanish,,,,,,,,,,,,,,,,
-French to Spanish,,,,,,,,,,,,,,,,
-German to Spanish,,,,,,,,,,,,,,,,
-Italian to Spanish,,,,,,,,,,,,,,,,
-To Welsh,English to Welsh,,,,,,,,,,,,,,,,
+Chinese (Simplified),English to Chinese (Simplified),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+German to Chinese (Simplified),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Chinese (Traditional),English to Chinese (Traditional),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+German to Chinese (Traditional),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Dutch,English to Dutch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+French to Dutch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To French,English to French,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+German to French,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spanish to French,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Catalan to French,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Russian to French,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dutch to French,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Italian to French,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Breton to French,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+To Galician,English to Galician,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Portuguese to Galician,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spanish to Galician,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To German,Chinese (Simplified) to German,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Chinese (Traditional) to German,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+English to German,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+French to German,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spanish to German,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Russian to German,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Italian to German,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Italian,English to Italian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spanish to Italian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+French to Italian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+German to Italian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Japanese,English to Japanese,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+German to Japanese,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Korean,English to Korean,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Portuguese,English to Portuguese,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Russian,English to Russian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+French to Russian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spanish to Russian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+German to Russian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Italian to Russian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Spanish,English to Spanish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Russian to Spanish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+French to Spanish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+German to Spanish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Italian to Spanish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Welsh,English to Welsh,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Language,Pairaphrase,Xerox Easy Translator,Omniscien Technologies Language Studio,IBM Watson,Apertium,OpenLogos,Google Translate,Slate Rocks,Moses for Mere Mortals,Babel Fish,Bing Translator,GramTrans,SYSTRAN,IdiomaX,SAIC Omnifluent,lingenio translate
-To Arabic,English to Arabic,,,,,,,,,,,,,,,,
-To Catalan,English to Catalan,,,,,,,,,,,,,,,,
-French to Catalan,,,,,,,,,,,,,,,,
-Italian to Catalan,,,,,,,,,,,,,,,,
-Occitan to Catalan,,,,,,,,,,,,,,,,
-Spanish to Catalan,,,,,,,,,,,,,,,,
-To Czech,English to Czech,,,,,,,,,,,,,,,,
-German to Czech,,,,,,,,,,,,,,,,
-To Danish,English to Danish,,,,,,,,,,,,,,,,
-To Esperanto,Catalan to Esperanto,,,,,,,,,,,,,,,,
-Danish to Esperanto,,,,,,,,,,,,,,,,
-English to Esperanto,,,,,,,,,,,,,,,,
-French to Esperanto,,,,,,,,,,,,,,,,
-Spanish to Esperanto,,,,,,,,,,,,,,,,
-To Finnish,English to Finnish,,,,,,,,,,,,,,,,
-To Greek,English to Greek,,,,,,,,,,,,,,,,
-To Haitian Creole,English to Haitian Creole,,,,,,,,,,,,,,,,
-To Hebrew,English to Hebrew,,,,,,,,,,,,,,,,
-To Hindi,English to Hindi,,,,,,,,,,,,,,,,
-To Hungarian,English to Hungarian,,,,,,,,,,,,,,,,
-To Norwegian Bokmål,English to Norwegian Bokmål,,,,,,,,,,,,,,,,
-Norwegian Nynorsk to Norwegian Bokmål,,,,,,,,,,,,,,,,
-To Norwegian Nynorsk,Norwegian Bokmål to Norwegian Nynorsk,,,,,,,,,,,,,,,,
-To Occitan,Catalan to Occitan,,,,,,,,,,,,,,,,
-Spanish to Occitan,,,,,,,,,,,,,,,,
-To Persian,English to Persian,,,,,,,,,,,,,,,,
-To Polish,English to Polish,,,,,,,,,,,,,,,,
-German to Polish,,,,,,,,,,,,,,,,
-To Romanian,English to Romanian,,,,,,,,,,,,,,,,
-To Serbo-Croatian,English to Serbo-Croatian,,,,,,,,,,,,,,,,
-To Slovenian,English to Slovenian,,,,,,,,,,,,,,,,
-German to Slovenian,,,,,,,,,,,,,,,,
-To Swedish,English to Swedish,,,,,,,,,,,,,,,,
-To Turkish,English to Turkish,,,,,,,,,,,,,,,,
-To Ukrainian,English to Ukrainian,,,,,,,,,,,,,,,,
-Total (confirmed),55,85,85,51,27,7,110,94,31,89,10,64,15,59,6
+To Arabic,English to Arabic,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Catalan,English to Catalan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+French to Catalan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Italian to Catalan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Occitan to Catalan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spanish to Catalan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Czech,English to Czech,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+German to Czech,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Danish,English to Danish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Esperanto,Catalan to Esperanto,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Danish to Esperanto,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+English to Esperanto,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+French to Esperanto,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spanish to Esperanto,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Finnish,English to Finnish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Greek,English to Greek,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Haitian Creole,English to Haitian Creole,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Hebrew,English to Hebrew,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Hindi,English to Hindi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Hungarian,English to Hungarian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Norwegian Bokmål,English to Norwegian Bokmål,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Norwegian Nynorsk to Norwegian Bokmål,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Norwegian Nynorsk,Norwegian Bokmål to Norwegian Nynorsk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Occitan,Catalan to Occitan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spanish to Occitan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Persian,English to Persian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Polish,English to Polish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+German to Polish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Romanian,English to Romanian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Serbo-Croatian,English to Serbo-Croatian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Slovenian,English to Slovenian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+German to Slovenian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Swedish,English to Swedish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Turkish,English to Turkish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+To Ukrainian,English to Ukrainian,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Total (confirmed),55,85,85,51,27,7,110,94,31,89,10,64,15,59,6,[added]

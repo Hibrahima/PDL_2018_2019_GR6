@@ -1,7 +1,7 @@
 Database Name,ACID,Referential integrity,Transactions,Fine-grained locking,Multiversion concurrency control,Unicode,Interface,Type inference
 4th Dimension,Yes,Yes,Yes,?,?,Yes,GUI & SQL,Yes
 ADABAS,Yes,No,Yes,?,?,Yes,proprietary direct call & SQL (via 3rd party),Yes
-Adaptive Server Enterprise,Yes,Yes,Yes,?,?,Yes,SQL,Yes
+Adaptive Server Enterprise,Yes,Yes,Yes,Yes (Row-level locking),Yes,Yes,GUI & SQL,Yes
 Advantage Database Server,Yes,Yes,Yes,Yes (Row-level locking),?,Yes4,API & SQL,Yes
 Altibase,Yes,Yes,Yes,Yes (Row-level locking),?,Yes,API & GUI & SQL,Yes
 Apache Derby,Yes,Yes,Yes,Yes (Row-level locking) [41],?,Yes,SQL,Yes

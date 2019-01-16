@@ -1,33 +1,33 @@
 + Language feature comparison (part 1)
-,"+" quantifier,Negated character classes,Non-greedy quantifiers,Shy groups,Recursion,Look-ahead,Look-behind,Backreferences,>9 indexable captures
-Boost.Regex,,,,,,,,,
-Boost.Xpressive,,,,,,,,,
-CL-PPCRE,,,,,,,,,
-EmEditor,,,,,,,,,
-FREJ,,,,,,,,,
-GLib/GRegex,,,,,,,,,
-GNU grep,,,,,,,,,
-Haskell,,,,,,,,,
-Helios RXPF,,,,,,,,,
-ICU Regex,,,,,,,,,
-Java,,,,,,,,,
-JavaScript (ECMAScript),,,,,,,,,
-JGsoft,,,,,,,,,
-Lua,,,,,,,,,
-.NET,,,,,,,,,
-OCaml,,,,,,,,,
-OmniOutliner 3.6.2,,,,,,,,,
-PCRE,,,,,,,,,
-Perl,,,,,,,,,
-PHP,,,,,,,,,
-Python,,,,,,,,,
-Qt/QRegExp,,,,,,,,,
-R,,,,,,,,,
-RE2,,,,,,,,,
-Ruby,,,,,,,,,
-TRE,,,,,,,,,
-Vim,,,,,,,,,
-RGX,,,,,,,,,
-Tcl,,,,,,,,,
-TRegExpr,,,,,,,,,
-XRegExp,,,,,,,,,
+[empty]
+Boost.Regex
+Boost.Xpressive
+CL-PPCRE
+EmEditor
+FREJ
+GLib/GRegex
+GNU grep
+Haskell
+Helios RXPF
+ICU Regex
+Java
+JavaScript (ECMAScript)
+JGsoft
+Lua
+.NET
+OCaml
+OmniOutliner 3.6.2
+PCRE
+Perl
+PHP
+Python
+Qt/QRegExp
+R
+RE2
+Ruby
+TRE
+Vim
+RGX
+Tcl
+TRegExpr
+XRegExp

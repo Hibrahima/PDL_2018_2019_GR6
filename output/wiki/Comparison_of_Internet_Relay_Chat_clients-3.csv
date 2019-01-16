@@ -1,36 +1,36 @@
 Client,386BSD,BSD/OS (BSD/386  BSDI),FreeBSD  NetBSD  OpenBSD,SunOS,ULTRIX,AIX,A/UX,HP-UX,IRIX,SCO OpenServer,Solaris,UnixWare,Linux,NeXTSTEP,OpenVMS,OSF/1,QNX,Tru64 UNIX
-Bersirc,,,,,,,,,,,,,,,,,,
-BitchX,,,<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,,<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,,<ref name=Unix_operating_system_support_BitchX_A group=Note />,,<ref name=Unix_operating_system_support_BitchX_A group=Note />,,,<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,
-ChatZilla,,,,,,,,,,,,,,,,,,
-Colloquy,,,,,,,,,,,,,,,,,,
-degesch,,,,,,,,,,,,,,,,,,
-DMDIrc,,,,,,,,,,,,,,,,,,
-ERC,,,,,,,,,,,,,,,,,,
-HexChat,,,,,,,,,,,,,,,,,,
-HydraIRC,,,,,,,,,,,,,,,,,,
-IceChat,,,,,,,,,,,,,,,,,,
-ircII,,,,,,,,,,,,,,,,,,
-IRCjr,,,,,,,,,,,,,,,,,,
-Ircle,,,,,,,,,,,,,,,,,,
-Irssi,,,,,,,,,,,,,,,,,,
-KiwiIRC,,,,,,,,,,,,,,,,,,
-Konversation,,,,,,,,,,,,,,,,,,
-KVIrc,,,,,,,,,,,,,,,,,,
-LeafChat,,,,,,,,,,,,,,,,,,
-LimeChat,,,,,,,,,,,,,,,,,,
-Linkinus,,,,,,,,,,,,,,,,,,
-Mibbit,,,,,,,,,,,,,,,,,,
-mIRC,,,,,,,,,,,,,,,,,,
-Nettalk,,,,,,,,,,,,,,,,,,
-Opera,,,,,,,,,,,,,,,,,,
-PIRCH,,,,,,,,,,,,,,,,,,
-PJIRC,,,,,,,,,,,,,,,,,,
-Quassel,,,,,,,,,,,,,,,,,,
-qwebirc,,,,,,,,,,,,,,,,,,
-rcirc,,,,,,,,,,,,,,,,,,
-Smuxi,,,,,,,,,,,,,,,,,,
-Snak,,,,,,,,,,,,,,,,,,
-Visual IRC,,,,,,,,,,,,,,,,,,
-WeeChat,,,name=Unix_operating_system_support_WeeChat_A|group=Note}},,,,,,,,<ref name=Unix_operating_system_support_WeeChat_A group=Note />,,,,,,<ref name=Unix_operating_system_support_WeeChat_A group=Note />,
-XChat,,,,,,,,name=Unix_operating_system_support_XChat_A|group=Note}},,,,,,,,,,
+Bersirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitchX,[empty],[empty],<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,[empty],<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,[empty],<ref name=Unix_operating_system_support_BitchX_A group=Note />,[empty],<ref name=Unix_operating_system_support_BitchX_A group=Note />,[empty],[empty],<ref name=Unix_operating_system_support_BitchX_A group=Note />,<ref name=Unix_operating_system_support_BitchX_A group=Note />,[empty]
+ChatZilla,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Colloquy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+degesch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DMDIrc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ERC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HexChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HydraIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IceChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ircII,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCjr,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ircle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Irssi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KiwiIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Konversation,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KVIrc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LeafChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LimeChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linkinus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mibbit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nettalk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Opera,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PIRCH,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PJIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quassel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+qwebirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rcirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Smuxi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Snak,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Visual IRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WeeChat,[empty],[empty],name=Unix_operating_system_support_WeeChat_A|group=Note}},[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=Unix_operating_system_support_WeeChat_A group=Note />,[empty],[empty],[empty],[empty],[empty],<ref name=Unix_operating_system_support_WeeChat_A group=Note />,[empty]
+XChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],name=Unix_operating_system_support_XChat_A|group=Note}},[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Client,386BSD,BSD/OS (BSD/386  BSDI),FreeBSD  NetBSD  OpenBSD,SunOS,ULTRIX,AIX,A/UX,HP-UX,IRIX,SCO OpenServer,Solaris,UnixWare,Linux,NeXTSTEP,OpenVMS,OSF/1,QNX,Tru64 UNIX

@@ -1,25 +1,22 @@
 +
-Web host,Storage size,Max. file size,Direct access<ref group="1" name="ReferenceA">For paying users there is usually a direct access possible.</ref>,Traffic or bandwidth limit,File expiration<ref group="1" name="ReferenceB">For paying users there is usually no file expiration.</ref>,Remote uploading?,Developer API?,FTP upload possible?,File versioning,Follows symlinks,Client-side encryption<ref name="Security Now 349"></ref>,Free GB (number only),Misc. notes
-Amazon Drive<ref name="Muchmore"></ref>,GB 3 mo. free trial  up to 30 TB paid,</ref>}},,Amazon S3 limits,90 days after subscription expires  data is deleted.,,,,,?,?,,Free 5GB plan only for China and Brazil.
-Amazon S3<ref></ref>,GB 12-month free trial with credit-card  paid bandwidth  unlimited paid,GB per file  unlimited files per bucket,,Amazon S3 limits,, pay for storage each month,,REST  SOAP,?,,?,?,,
-Baidu Cloud,TB (6 GB free)<ref></ref>,10 GB free  20 GB paid <ref></ref>,,,,,,,,,?,,Currently in Chinese only
-Box<ref></ref><ref></ref>,free trial  100 GB paid (Starter)  Unlimited Business  Unlimited Enterprise<ref name=":0">.</ref>,250 MB free Personal  5 GB paid Personal  5 GB Business  5 GB Enterprise<ref name=":0" />,Paid account types only<ref></ref>,10 GB/month free  2 TB/month paid<ref>.</ref>,,30 MB per file via IFTTT<ref></ref>,<ref></ref>,Business and Enterprise customers only<ref></ref>,(premium)<ref></ref>,,?,,Does not sync Mac files such as iWork (Keynote etc.). Does not support Linux OS. 50 GB free with Sony Xperia or HP Spectre 13
-CloudMe<ref></ref>,GB free  +500 MB for referrals up to 16 GB  500 GB paid<ref></ref>,MB free  Unlimited premium,No<ref></ref>,,,<ref>https://forum.cloudme.com/viewtopic.php?id=635</ref>,REST  SOAP  WebDAV<ref></ref>,<ref></ref>,(60 days)<ref></ref>,?,?,,Primarily focused on media files  synchronization and backup with web sharing.
-Dropbox<ref></ref>,GB free  +500 MB for referrals up to 18 GB  1 TB  2 TB  or unlimited paid<ref></ref>,GB  Unlimited using client application,File-by-file  not for HTML<ref></ref><ref></ref>,20 GB/day free  200 GB/day paid<ref></ref>,<ref></ref>,,,<ref></ref>,30 days by default  1 year w/ add-on<ref></ref>,,,,Synchronization  backup and websharing. Does support Linux OS 25 GB free with HTC Sense 4 & 5  100 GB free with Samsung device
-Google Drive<ref></ref><ref></ref>,GB free <ref></ref> GB to TB paid;<ref>http://www.pcworld.com/article/2107946/google-lowers-prices-on-drive-paid-storage-options.html</ref><ref>https://techcrunch.com/2014/03/13/google-drive-gets-a-big-price-drop-100gb-now-costs-1-99-a-month/</ref> Unlimited Storage for G Suite Business (1 TB per user if there are fewer than 5 users),TB<ref></ref>,Manually  file-by-file<ref></ref><ref></ref>,<ref></ref>,,,OAuth2,,<ref>About file versions</ref>,,,,Additional space for limited time period with some devices and services.<ref>http://www.androidcentral.com/updating-htc-sense-55-claim-25gb-free-google-drive-space</ref><ref>http://www.cnet.com/how-to/get-10gb-extra-space-on-google-drive-for-linking-with-quickoffice/</ref><ref>http://9to5google.com/2012/10/22/how-to-claim-google-chromebook-goodies-100gb-google-drive-storage-12-gogo-in-air-wi-fi-passes/</ref><ref>http://lifehacker.com/two-year-chromebook-users-your-free-google-drive-spac-1588050197</ref>
-IBM Connections,GB  additional space paid,GB,,,,,CMIS  REST  Atom (standard) and OAuth2,,,?,?,,Subscription costs US$6/year<ref></ref>
-Apple iCloud<ref></ref>,GB free  GB to TB paid,GB,,200/400/600 GB per month,,,,No,,,?,,GB for previous MobileMe account subscriptions<ref></ref>
-iTransfer iT<ref></ref>,GB Free  GB Premium,GB,,,1 Week FREE 1 Month Premium,,,No,,,?,,
-Jumpshare,2 GB free  1 TB paid,250 MB free  Unlimited paid,,5GB per month free  200GB per month on paid plan,,,,,,,,,Real-time file sharing with built-in utilities for screenshots  screencasts  notes  and voice clips.
-Koofr<ref></ref>,GB free  GB to TB paid,,,,,,,,,?,,,
-MediaFire<ref></ref>,GB  + GB for referrals up to TB Pro accounts  TB Business accounts,GB free <ref>Mediafire Homepage</ref> GB paid<ref>Plan Comparison</ref>,,TB pro plan  Business plans receive an amount of bandwidth per month equal to ten times the account’s storage space.<ref>Mediafire states on their knowledgebase that https://mediafire.zendesk.com/hc/en-us/articles/207100597-Bandwidth-and-Direct-Downloading there's a bandwidth limit for premium users</ref>,<ref>Mediafire states on their knowledgebase there isn’t a time limit on how long files will be stored. However  "MediaFire Free accounts holders must have some type (any type) of activity to protect their accounts from deletion".</ref>,,,<ref></ref>,,?,,,Resuming of interrupted downloads possible.
-Mega<ref></ref>,GB free  up to GB free trial <ref></ref> up to TB paid,Available cloud drive space<ref>Mega Help Centre: Basics: Are there any file size limits on Mega?</ref>,No<ref></ref>,GB free  Up to TB per month paid.<ref name="Mega service">Mega (service)</ref>,<ref>Under Suspension and Termination</ref>,,,,<ref></ref>,?,,,Apps for Windows  macOS  Linux  iOS  Android  Windows Phone  Blackberry  Chrome  Firefox  Safari<ref>https://mega.co.nz/#sync</ref> Supports HTML5 browsers.<ref></ref>
-OneDrive<ref></ref>,GB<ref></ref>,,,1 year of account inactivity<ref>Microsoft states in their Terms of Service: "You must sign into your Outlook.com inbox and your OneDrive (separately) at least once in a one-year period  otherwise we will close your Outlook.com inbox and your OneDrive for you."</ref>,,<ref></ref>,<ref></ref>,(Office files only),<ref></ref>,?,,Fetch files allows remote access of files on Windows with OneDrive installed<ref></ref> 25 GB free for grandfathered accounts before April 2012<ref></ref> * Currently requires user to request "unlimited" storage (10TB  able to be increased upon request)  otherwise 1TB for Office 365 subscribers.
-SecureSafe<ref name="mikel backup"></ref>,100MB free  up to 100GB paid <ref></ref>,? 2GB limit for SecureSend,,,,,,,<ref name="mikel backup" />,?,,,Offers Data Inheritance <ref></ref>
-SugarSync<ref></ref>,GB personal paid  Unlimited GB professional paid,,<ref> </ref>,10 GB/file/day free  250 GB file/day paid,No expiration for paid accounts  90 days of inactivity for free users,,REST<ref></ref>,?,,?,,,If you hit the limit your links will be disabled for 24 hours. The bandwidth limits only apply to public links.<ref></ref>
-Tencent Weiyun<ref></ref>,TB (10 GB free),1 GB regular upload  32 GB Power Upload plug-in,,,,,,,,?,,,In English and Chinese (free version in Chinese only)
-TitanFile,No free space  unlimited paid,MB free  GB paid  GB professional,<ref name="Pricing"></ref>,,, unless set by user<ref name="Pricing"/>,No,<ref></ref>,For enterprise clients only,<ref></ref>,?,for paid plans<ref></ref>,,HIPAA-compliant  group messaging  audit logs  granular security control  embedable on website.
-Tresorit<ref></ref>,3 GB free trial  100-1000 GB paid plans<ref></ref>,500 MB free  5 GB premium  10 GB rest of paid plans<ref></ref>,,,,,,,<ref></ref> for paid plans,,<ref></ref>,,Files stored in Tresorit are encrypted using the most advanced encryption methods. No one  not even Tresorit administrators hold the users' decryption keys.
-vBoxxCloud<ref></ref>,14-day free trial  250mb size limit. 25 GB paid storage packs<ref></ref>,Unlimited,,,,,,,,,,20
-Yandex Disk,up to 20 GB free (10 GB when registering)  up to 1024 GB paid,2 GB upload via Web or WebDAV  50 GB upload via application,,200% of storage size per day,,,REST  WebDAV  SDK<ref></ref>,,,?,,,English  Russian  Ukrainian and Turkish interfaces. Service is tightly integrated with other Yandex services. Native apps for Windows  macOS  Linux  iOS  Android. Client-side encryption is available with 3rd party open source clients.
-Web host,Storage size,Max. file size,Direct access<ref group="1" name="ReferenceA" />,Traffic or bandwidth limit,File expiration<ref group="1" name="ReferenceB" />,Remote uploading?,Developer API?,FTP upload possible?,File versioning,Follows symlinks,Client-side encryption<ref name="Security Now 349" />,Free GB (number only),Misc. notes
+Web host
+Amazon Drive<ref name="Muchmore"></ref>
+Amazon S3<ref></ref>
+Baidu Cloud
+Box<ref></ref><ref></ref>
+CloudMe<ref></ref>
+Dropbox<ref></ref>
+Google Drive<ref></ref><ref></ref>
+IBM Connections Files Cloud
+Apple iCloud<ref></ref>
+Jumpshare
+MediaFire<ref></ref>
+Mega<ref></ref>
+OneDrive<ref></ref>
+SecureSafe<ref name="mikel backup"></ref>
+SugarSync<ref></ref>
+Tencent Weiyun<ref></ref>
+TitanFile
+Tresorit<ref></ref>
+Yandex Disk
+Web host

@@ -1,21 +1,21 @@
 Name,Platform,License,Price,Latest stable release,Source availability,Notes
-Omniscien Technologies Language Studio,Windows  Linux  Web Application,Proprietary software,4.1,
-Apertium,GPL,No Fee Required,3.4.2,,Rule-based  shallow transfer; all programs and language data are free and open source
-Anusaaraka,Unix compatible,GPL,No Fee Required,0.50,,Rule-based  deep parser based  paninian framework based; all programs and language data are free and open-source
-IBM,Cross-platform,SaaS,Free  Commercial (varies by plan),3.0,
-OpenLogos,Windows  Linux,No Fee Required,1.0.3,,Rule-based  deep transfer
-Moses,Cross-platform,LGPL,No Fee Required,3.0<ref>http://www.statmt.org/moses/?n=Moses.Releases</ref>,,Drop-in replacement for Pharaoh  features factored translation models and decoding of confusion networks.
-Moses for Mere Mortals,Ubuntu Linux,GPL,No Fee Required,2014-11-16,,Free open source; based on Moses; translation memories integration.
-NiuTrans,Cross-platform,GPL,No fee required,1.1.0,,Competitive performance for Chinese translation tasks; statistical machine translation. Supports phrase-based  hierarchical phrase-based  and syntax-based (string-to-tree  tree-to-string  and tree-to-tree) models for research purposes.
-Google Translate,Cross-platform (Web application),SaaS,No fee required,,,Statistical and neural machine translation
-Bing Translator,Cross-platform (Web application),SaaS,No fee required,Final,,Microsoft's linguistically informed statistical MT system
-Yandex.Translate,Cross-platform (Web application),SaaS,No fee required,,,Statistical and neural machine translation
-SAIC Omnifluent,Windows  Linux  Web  i0S,Commercial License  Server  SaaS,Depends on configuration,3.0,,Hybrid machine translation combines rule-based machine translation and statistical machine translation  integrated with automatic speech recognition on a single platform that translates text and audio files.<ref></ref><ref></ref>
-SYSTRAN,Cross-platform (Web application),Proprietary software,$200 (desktop) – $15.000 and up (enterprise server),Version 7,,Hybrid rules-based and SMT
-Slate Rocks,Cross-platform,1.5,,Applications with complete SMT stack run on Windows  Linux and MacOS to build Moses SMT models and integrate with CAT tools.
-GramTrans,Cross-platform (Web application),Freeware,No Fee Required,,,Rule-based  using constraint grammar
-Promt,Cross-platform (Web application),Proprietary software,Commercial,12.5,,Hybrid rules-based and SMT
-SDL Machine Translation,Cross-platform (Web application),Commercial,Commercial,,,Neural and Statistical based Machine Translation
-Babylon,Windows  Mac,Proprietary software,Depends on license ($9.90–$89 for one license),10.3,,Prompts to install the Babylon Toolbar  a browser hijacker which is difficult to remove.<ref>Remove FBI & Babylon Zombie Virus PCPitstop.com  author Steve Hogan  October 11  2012</ref><ref>How To Uninstall The Babylon Toolbar Completely Martin Brinkmann  ghacks.net  August 17  2011</ref>
-IdiomaX,Windows  Symbian S60  Windows Mobile,Proprietary software,Depends on configuration,6.0,,Rule-based
-Transsoftware,Windows,Proprietary software,Commercial,1.0,,
+Omniscien Technologies Language Studio,Windows  Linux  Web Application,Proprietary software,Depends on configuration and capacity. Different prices for cloud vs on-premise and scale/volumes.,4.1,[empty],Hybrid neural machine translation  hybrid deep neural machine translation  syntax-based  rules-based and statistical machine translation. Provides a server platform and a set of desktop tools to aid in translation. Omnscien also offers Machine learning  data cleaning and language processing tools.
+Apertium,Cross-platform (Web application)  Unix compatible<br />Precompiled packages available for Debian,GPL,No Fee Required,3.4.2,[empty],Rule-based  shallow transfer; all programs and language data are free and open source
+Anusaaraka,Unix compatible,GPL,No Fee Required,0.50,[empty],Rule-based  deep parser based  paninian framework based; all programs and language data are free and open-source
+IBM,Cross-platform,SaaS,Free  Commercial (varies by plan),3.0,[empty],Both rule-based and statistical models developed by IBM Research. Neural Machine Translation models available through the Watson Language Translator API for developers.<ref></ref><ref></ref>
+OpenLogos,Windows  Linux,GPL or Paid initiative taker,No Fee Required,1.0.3,[empty],Rule-based  deep transfer
+Moses,Cross-platform,LGPL,No Fee Required,3.0<ref>http://www.statmt.org/moses/?n=Moses.Releases</ref>,[empty],Drop-in replacement for Pharaoh  features factored translation models and decoding of confusion networks.
+Moses for Mere Mortals,Ubuntu Linux,GPL,No Fee Required,2014-11-16,[empty],Free open source; based on Moses; translation memories integration.
+NiuTrans,Cross-platform,GPL,No fee required,1.1.0,[empty],Competitive performance for Chinese translation tasks; statistical machine translation. Supports phrase-based  hierarchical phrase-based  and syntax-based (string-to-tree  tree-to-string  and tree-to-tree) models for research purposes.
+Google Translate,Cross-platform (Web application),SaaS,No fee required,[empty],[empty],Statistical and neural machine translation
+Bing Translator,Cross-platform (Web application),SaaS,No fee required,Final,[empty],Microsoft's linguistically informed statistical MT system
+Yandex.Translate,Cross-platform (Web application),SaaS,No fee required,[empty],[empty],Statistical and neural machine translation
+SAIC Omnifluent,Windows  Linux  Web  i0S,Commercial License  Server  SaaS,Depends on configuration,3.0,[empty],Hybrid machine translation combines rule-based machine translation and statistical machine translation  integrated with automatic speech recognition on a single platform that translates text and audio files.<ref></ref><ref></ref>
+SYSTRAN,Cross-platform (Web application),Proprietary software,$200 (desktop) – $15.000 and up (enterprise server),Version 7,[empty],Hybrid rules-based and SMT
+Slate Rocks,Cross-platform,LGPL and Proprietary software,Free  $269 or $549 depending on edition,1.5,[empty],Applications with complete SMT stack run on Windows  Linux and MacOS to build Moses SMT models and integrate with CAT tools.
+GramTrans,Cross-platform (Web application),Freeware,No Fee Required,[empty],[empty],Rule-based  using constraint grammar
+Promt,Cross-platform (Web application),Proprietary software,Commercial,12.5,[empty],Hybrid rules-based and SMT
+SDL Machine Translation,Cross-platform (Web application),Commercial,Commercial,[empty],[empty],Neural and Statistical based Machine Translation
+Babylon,Windows  Mac,Proprietary software,Depends on license ($9.90–$89 for one license),10.3,[empty],Prompts to install the Babylon Toolbar  a browser hijacker which is difficult to remove.<ref>Remove FBI & Babylon Zombie Virus PCPitstop.com  author Steve Hogan  October 11  2012</ref><ref>How To Uninstall The Babylon Toolbar Completely Martin Brinkmann  ghacks.net  August 17  2011</ref>
+IdiomaX,Windows  Symbian S60  Windows Mobile,Proprietary software,Depends on configuration,6.0,[empty],Rule-based
+Transsoftware,Windows,Proprietary software,Commercial,1.0,[empty],[empty]

@@ -70,6 +70,6 @@ Tcplay,Alex Hornung,2012-01-28[33],BSD,Yes
 Trend Micro Endpoint Encryption (Mobile Armor),Trend Micro[34],2004 or earlier[35],Proprietary,Yes
 TrueCrypt,TrueCrypt Foundation,2004-02-02[36],TrueCrypt License 3.1[37],No
 USBCrypt,WinAbility Software Corp.,2010,Proprietary,Yes
-VeraCrypt,IDRIX,2013-06-22[38],Yes
+VeraCrypt,IDRIX,2013-06-22[38],Apache License 2.0[39] TrueCrypt License Version 3.0 (legacy code only),Yes
 CyberSafe Top Secret,CyberSoft,2013,Proprietary,Yes
 Name,Developer,First released,Licensing,Maintained?

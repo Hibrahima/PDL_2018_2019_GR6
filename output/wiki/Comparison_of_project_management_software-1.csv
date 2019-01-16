@@ -1,135 +1,137 @@
 Software,Web-based,Hosted On-Premises,SaaS,License,Programming language
-2-plan,<ref name="PMI Italy" />,,,Proprietary  Open source<ref name="2-plan license" />,Java and PHP
-24SevenOffice,,,,,
-Actionspace,,,,,
-AnyChart (AnyGantt),,,,,JavaScript
-Apache Allura,,,,,Python
-Apache OFBiz,,,,,Java  XML  FreeMarker  Groovy  JavaScript
-Apache Bloodhound,,,,,Python
-Asana,,,,,
-Assembla,,,,,
-Axosoft,,,,,
-Basecamp,<ref name="Teambox_RWW" />,<ref></ref>,,,Ruby
-CEITON,,,,,ASP.NET  JavaScript
-Clarizen,<ref name="pcworld" />,,<ref name="pcworld" />,,
-Collabtive,,,,Open source (core only),PHP
-Compuware Changepoint,,,,,
-ConceptDraw Project,,,,,
-ConceptDraw PLAN,,,,,PHP and Java
-Concerto Project Management,,,,,
-Calligra Plan,,,,,C++ and Java
-Copper Project,,,,,
-dotProject,,,,,PHP
-DynaRoad,,,,,
-Easy projects,<ref name="VentureBeatEP" />,<ref name="VentureBeatEP" />,<ref name="VentureBeatEP" />,,ASP.NET
-Eclipse PPM software,,,,,
-Endeavour Software Project Management,,,,,Java
-eGroupWare,,,,,PHP
-enQuire,,,,,Java
-FastTrack Schedule,,,,,
-Feng Office Community Edition,,,,,PHP
-FinancialForce.com,,,,,
-FogBugz,,,,,ASP.NET
-Fossil-scm,<ref name="FossilOnWeb" />,<ref name="FossilOnPremises" />,<ref name="FossilSaaS" />,,SQLite and C
-Freedcamp,,,,,
-FusionForge,,,,,PHP
-GanttProject,,,,,Java
-Genius Project,,,,,
-Group-Office,,,,,
-Groupiful,,,,,PHP
-GroveSite,,,,,
-Hall.com,,,,,
-Helix ALM,,,,,C++
-HeySpace,,,,,JavaScript
-HP Project & Portfolio Software,,,,
-Huddle,,,,,
-Hyperoffice,,,,,
-iManageProject,,,,,
-InLoox,,,,,
-in-Step BLUE,,,,,
-IRise,,,,,Java
-Jira,,,,,Java
-Launchpad,,,,,Python
-LibrePlan,,,,,Java
-LiquidPlanner,,,,,Ruby
-LisaProject,,,,,
-MacProject,,,,,
-MantisBT,,,,,PHP
-Métier,,,,,
-Microsoft Dynamics AX,,,,,X++
-Microsoft Office Project Server,,,,,
-Microsoft Project,,,,,
-Microsoft SharePoint Server,,,,,
-Microsoft Team Foundation Server,,,,,
-Milestones Professional,,,,,C++
-Mingle,,,,,Ruby on Rails
-NetPoint,,,,,
-NetSuite,,,,,
-MyWorkPLAN,,,,,
-O3Spaces,,,,,
-OmniPlan,,,,,
-Onepager pro,,,,,ASP.NET
-Open Workbench,,,,Open source,
-OpenProj,,,,,Java
-OpenProject,,,,,Ruby on Rails and AngularJS
-OnlyOffice,,,,,ASP.NET
-Oracle Primavera EPPM (Primavera P6),,,,,
-phpGroupWare,,,,,PHP
-PHProjekt,,,,,PHP
-Pivotal Tracker,,,,,Ruby
-Plandora,,,,,Java
-Planisware,,,,,
-PLANTA Project,,,,,
-Project Builder,,,,,
-Project KickStart,,,,,
-Project Team Builder,,,,,
-Projector PSA,,,,,
-ProjectLibre,(Cloud based version under development)<ref name = devel2></ref>,,(Included in future plans)<ref></ref>,,Java
-ProjectManager.com,<ref name="projectmanager" />,,,,
-Project.net,,,,,Java
-Projectplace,,,,,
-Projektron BCS,,,,,Java
-ProjeQtOr,,,,,PHP
-Proliance,,,,,
-ProjectLink,,,,,
-Prolog,,,,,
-Priority Matrix,,,,
-Pyrus,,,,,
-RationalPlan,,,,,
-Realisor,,,,,
-Redbooth,<ref name="teambox1" />,,<ref name="teambox1" />,;<ref name="teambox2" /> Proprietary (version 4),Ruby on Rails
-Redmine,,,<ref name="RedmineSaas" /><ref name="RedmineSaas2" /><ref name="Peygir" />,,Ruby
-Rillsoft Project & Integration Server,,,,,C++ and PHP
-RiskyProject,,,,,
-SAP Business ByDesign,,,,,
-Sciforma,,,,,
-Scoro,,,,,PHP<ref></ref>
-Seavus Project Viewer (software),,,,,C++
-Severa,,,,,
-Smartsheet,,,,,PHP
-Spider Project,,,,
-Streamtime Software,,,,,PHP
-TACTIC,,,,,Python
-Talygen,,,,,ASP.NET
-TaskJuggler,,,,,Ruby
-Teamcenter,,,,,
-TeamDynamixHE,,,,,
-Teamwork.com,,,,,
-The Bug Genie,,,,,PHP
-Tom's Planner,,,,,
-Trac,,,,,Python
-TrackerSuite.Net,,,,,
-Traction TeamPage,,,,,Java
-Trello,,,,,JavaScript
-Triskell,,,,,Java
-Tuleap,,,,,
-Twproject,,,,,
-UniPhi,,,,,ASP.NET
-Vpmi,,,,,
-web2project,,,,,PHP
-Workamajig,,,,,
-Workfront,<ref name="Dynamicwp" />,,,,
-WorkPLAN Enterprise,,,,,
-workspace.com,,,,,
-Wrike,,,,
-Zoho Projects,,,,,PHP
+2-plan,<ref name="PMI Italy" />,[empty],[empty],Proprietary  Open source<ref name="2-plan license" />,Java and PHP
+24SevenOffice,[empty],[empty],[empty],[empty],[empty]
+Actionspace,[empty],[empty],[empty],[empty],[empty]
+AnyChart (AnyGantt),[empty],[empty],[empty],[empty],JavaScript
+Apache Allura,[empty],[empty],[empty],[empty],Python
+Apache OFBiz,[empty],[empty],[empty],[empty],Java  XML  FreeMarker  Groovy  JavaScript
+Apache Bloodhound,[empty],[empty],[empty],[empty],Python
+Asana,[empty],[empty],[empty],[empty],[empty]
+Assembla,[empty],[empty],[empty],[empty],[empty]
+Axosoft,[empty],[empty],[empty],[empty],[empty]
+Basecamp,<ref name="Teambox_RWW" />,<ref></ref>,[empty],[empty],Ruby
+CEITON,[empty],[empty],[empty],[empty],ASP.NET  JavaScript
+[added],[added],[added],[added],[added],[added]
+Celoxis,[empty],[empty],[empty],[empty],[empty]
+Clarizen,<ref name="pcworld" />,[empty],<ref name="pcworld" />,[empty],[empty]
+Collabtive,[empty],[empty],[empty],Open source (core only),PHP
+Compuware Changepoint,[empty],[empty],[empty],[empty],[empty]
+ConceptDraw Project,[empty],[empty],[empty],[empty],[empty]
+ConceptDraw PLAN,[empty],[empty],[empty],[empty],PHP and Java
+Concerto Project Management,[empty],[empty],[empty],[empty],[empty]
+Calligra Plan,[empty],[empty],[empty],[empty],C++ and Java
+Copper Project,[empty],[empty],[empty],[empty],[empty]
+dotProject,[empty],[empty],[empty],[empty],PHP
+DynaRoad,[empty],[empty],[empty],[empty],[empty]
+Easy projects,<ref name="VentureBeatEP" />,<ref name="VentureBeatEP" />,<ref name="VentureBeatEP" />,[empty],ASP.NET
+Eclipse PPM software,[empty],[empty],[empty],[empty],[empty]
+Endeavour Software Project Management,[empty],[empty],[empty],[empty],Java
+eGroupWare,[empty],[empty],[empty],[empty],PHP
+enQuire,[empty],[empty],[empty],[empty],Java
+FastTrack Schedule,[empty],[empty],[empty],[empty],[empty]
+Feng Office Community Edition,[empty],[empty],[empty],[empty],PHP
+FinancialForce.com,[empty],[empty],[empty],[empty],[empty]
+FogBugz,[empty],[empty],[empty],[empty],ASP.NET
+Fossil-scm,<ref name="FossilOnWeb" />,<ref name="FossilOnPremises" />,<ref name="FossilSaaS" />,[empty],SQLite and C
+Freedcamp,[empty],[empty],[empty],[empty],[empty]
+FusionForge,[empty],[empty],[empty],[empty],PHP
+GanttProject,[empty],[empty],[empty],[empty],Java
+Genius Project,[empty],[empty],[empty],[empty],[empty]
+Group-Office,[empty],[empty],[empty],[empty],[empty]
+Groupiful,[empty],[empty],[empty],[empty],PHP
+GroveSite,[empty],[empty],[empty],[empty],[empty]
+Hall.com,[empty],[empty],[empty],[empty],[empty]
+Helix ALM,[empty],[empty],[empty],[empty],C++
+HeySpace,[empty],[empty],[empty],[empty],JavaScript
+HP Project & Portfolio Software,[empty],[empty],[empty],[empty],[added]
+Huddle,[empty],[empty],[empty],[empty],[empty]
+Hyperoffice,[empty],[empty],[empty],[empty],[empty]
+iManageProject,[empty],[empty],[empty],[empty],[empty]
+InLoox,[empty],[empty],[empty],[empty],[empty]
+in-Step BLUE,[empty],[empty],[empty],[empty],[empty]
+IRise,[empty],[empty],[empty],[empty],Java
+Jira,[empty],[empty],[empty],[empty],Java
+Launchpad,[empty],[empty],[empty],[empty],Python
+LibrePlan,[empty],[empty],[empty],[empty],Java
+LiquidPlanner,[empty],[empty],[empty],[empty],Ruby
+LisaProject,[empty],[empty],[empty],[empty],[empty]
+MacProject,[empty],[empty],[empty],[empty],[empty]
+MantisBT,[empty],[empty],[empty],[empty],PHP
+Métier,[empty],[empty],[empty],[empty],[empty]
+Microsoft Dynamics AX,[empty],[empty],[empty],[empty],X++
+Microsoft Office Project Server,[empty],[empty],[empty],[empty],[empty]
+Microsoft Project,[empty],[empty],[empty],[empty],[empty]
+Microsoft SharePoint Server,[empty],[empty],[empty],[empty],[empty]
+Microsoft Team Foundation Server,[empty],[empty],[empty],[empty],[empty]
+Milestones Professional,[empty],[empty],[empty],[empty],C++
+Mingle,[empty],[empty],[empty],[empty],Ruby on Rails
+NetPoint,[empty],[empty],[empty],[empty],[empty]
+NetSuite,[empty],[empty],[empty],[empty],[empty]
+MyWorkPLAN,[empty],[empty],[empty],[empty],[empty]
+O3Spaces,[empty],[empty],[empty],[empty],[empty]
+OmniPlan,[empty],[empty],[empty],[empty],[empty]
+Onepager pro,[empty],[empty],[empty],[empty],ASP.NET
+Open Workbench,[empty],[empty],[empty],Open source,[empty]
+OpenProj,[empty],[empty],[empty],[empty],Java
+OpenProject,[empty],[empty],[empty],[empty],Ruby on Rails and AngularJS
+OnlyOffice,[empty],[empty],[empty],[empty],ASP.NET
+Oracle Primavera EPPM (Primavera P6),[empty],[empty],[empty],[empty],[empty]
+phpGroupWare,[empty],[empty],[empty],[empty],PHP
+PHProjekt,[empty],[empty],[empty],[empty],PHP
+Pivotal Tracker,[empty],[empty],[empty],[empty],Ruby
+Plandora,[empty],[empty],[empty],[empty],Java
+Planisware,[empty],[empty],[empty],[empty],[empty]
+PLANTA Project,[empty],[empty],[empty],[empty],[empty]
+Project Builder,[empty],[empty],[empty],[empty],[empty]
+Project KickStart,[empty],[empty],[empty],[empty],[empty]
+Project Team Builder,[empty],[empty],[empty],[empty],[empty]
+Projector PSA,[empty],[empty],[empty],[empty],[empty]
+ProjectLibre,(Cloud based version under development)<ref name = devel2></ref>,[empty],(Included in future plans)<ref></ref>,[empty],Java
+ProjectManager.com,<ref name="projectmanager" />,[empty],[empty],[empty],[empty]
+Project.net,[empty],[empty],[empty],[empty],Java
+Projectplace,[empty],[empty],[empty],[empty],[empty]
+Projektron BCS,[empty],[empty],[empty],[empty],Java
+ProjeQtOr,[empty],[empty],[empty],[empty],PHP
+Proliance,[empty],[empty],[empty],[empty],[empty]
+ProjectLink,[empty],[empty],[empty],[empty],[empty]
+Prolog,[empty],[empty],[empty],[empty],[empty]
+Priority Matrix,[empty],[empty],[empty],[empty],[added]
+Pyrus,[empty],[empty],[empty],[empty],[empty]
+RationalPlan,[empty],[empty],[empty],[empty],[empty]
+Realisor,[empty],[empty],[empty],[empty],[empty]
+Redbooth,<ref name="teambox1" />,[empty],<ref name="teambox1" />,;<ref name="teambox2" /> Proprietary (version 4),Ruby on Rails
+Redmine,[empty],[empty],<ref name="RedmineSaas" /><ref name="RedmineSaas2" /><ref name="Peygir" />,[empty],Ruby
+Rillsoft Project & Integration Server,[empty],[empty],[empty],[empty],C++ and PHP
+RiskyProject,[empty],[empty],[empty],[empty],[empty]
+SAP Business ByDesign,[empty],[empty],[empty],[empty],[empty]
+Sciforma,[empty],[empty],[empty],[empty],[empty]
+Scoro,[empty],[empty],[empty],[empty],PHP<ref></ref>
+Seavus Project Viewer (software),[empty],[empty],[empty],[empty],C++
+Severa,[empty],[empty],[empty],[empty],[empty]
+Smartsheet,[empty],[empty],[empty],[empty],PHP
+Spider Project,[empty],[empty],[empty],[empty],[added]
+Streamtime Software,[empty],[empty],[empty],[empty],PHP
+TACTIC,[empty],[empty],[empty],[empty],Python
+Talygen,[empty],[empty],[empty],[empty],ASP.NET
+TaskJuggler,[empty],[empty],[empty],[empty],Ruby
+Teamcenter,[empty],[empty],[empty],[empty],[empty]
+TeamDynamixHE,[empty],[empty],[empty],[empty],[empty]
+Teamwork.com,[empty],[empty],[empty],[empty],[empty]
+The Bug Genie,[empty],[empty],[empty],[empty],PHP
+Tom's Planner,[empty],[empty],[empty],[empty],[empty]
+Trac,[empty],[empty],[empty],[empty],Python
+TrackerSuite.Net,[empty],[empty],[empty],[empty],[empty]
+Traction TeamPage,[empty],[empty],[empty],[empty],Java
+Trello,[empty],[empty],[empty],[empty],JavaScript
+Triskell,[empty],[empty],[empty],[empty],Java
+Tuleap,[empty],[empty],[empty],[empty],[empty]
+Twproject,[empty],[empty],[empty],[empty],[empty]
+UniPhi,[empty],[empty],[empty],[empty],ASP.NET
+Vpmi,[empty],[empty],[empty],[empty],[empty]
+web2project,[empty],[empty],[empty],[empty],PHP
+Workamajig,[empty],[empty],[empty],[empty],[empty]
+Workfront,<ref name="Dynamicwp" />,[empty],[empty],[empty],[empty]
+WorkPLAN Enterprise,[empty],[empty],[empty],[empty],[empty]
+workspace.com,[empty],[empty],[empty],[empty],[empty]
+Wrike,[empty],[empty],[empty],[empty],[added]
+Zoho Projects,[empty],[empty],[empty],[empty],PHP

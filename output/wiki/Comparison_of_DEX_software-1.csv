@@ -1,6 +1,7 @@
 Name,Online sync,Blind support,Wild cards,Suggestions,W/O diacritics,Full text search,Inflection search,Word context,History,Microsoft Windows,Linux,Mac OS,Android,Windows Phone,Software needs,Storage needs MB,Author,License
-Maestro DEX,,,,,,,,,,,,,,,Perl  wxWidgets  only on Linux,490,Octavian Râşniţă,GPL
-PyDEX,,,,,,,,,,,,,,,wxPython,250,Cristian Năvălici,GPLv3
-Dixit,,,,,,,,,,,,,,,QT  g++  only on Linux,48,Octavian Procopiuc,GPL
-DEX pentru Android,,,,,,,,,,,,,,,,3,Adrian Vintu,Freeware
-DEX pentru Windows Phone,,,,,,,,,,,,,,,,1,Adrian Vintu,Freeware
+Maestro DEX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Perl  wxWidgets  only on Linux,490,Octavian Râşniţă,GPL
+PyDEX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],wxPython,250,Cristian Năvălici,GPLv3
+Dixit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],QT  g++  only on Linux,48,Octavian Procopiuc,GPL
+DEX pentru Android,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],3,Adrian Vintu,Freeware
+DEX pentru Windows Phone,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],1,Adrian Vintu,Freeware
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]

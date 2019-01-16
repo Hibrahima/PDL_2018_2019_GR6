@@ -1,143 +1,143 @@
 +
 ACER
-Manufacturer,Model,Weight [kg],Weight [lb],Display size ",Display,Display DPI,CPU,Speed [GHz],HSDPA,Video chipset,Video,Storage type,Storage [GB],RAM [GB],Battery life [h] )}},Battery life [h] )}},Keyboard size in %,Camera,Mouse layout,Linux }},Windows }},Manual / DataSheet
-Acer Inc.,Aspire One<ref name="Hands on Acer's Aspire One Netbook">Hands on Acer's Aspire One Netbook</ref>,0.99  1.26,2.18  2.77,8.9 - 11.6,,133-135,Atom,1.6,,GMA 950,VGA,SSD + SDHC  HDD,8  16 / 120  160  25,0.5  1  2<ref>Computex: El Acer Aspire One ya es oficial</ref>,(3-cell),(6-cell),?,Built-in,Touchpad  buttons on each side,Linpus<ref>Aspire One   acer.com</ref>,7 Starter Edition,
+Manufacturer
+Acer Inc.
 ALWAYS INNOVATING
-Always Innovating,Touch Book<ref>Always Innovating Touch Book</ref>,0.675/1.418,1.488/3.126,8.9,,133-102,OMAP3530,0.6,,PowerVR SGX530 GPU + 430 MHz C64x+ DSP,None,Removable SD card<ref>https://www.alwaysinnovating.com/touchbook/info.htm</ref>,8,0.25,3-5 (tablet only  6000 mAh),10-15 (with keyboard  12000 mAh),95%,None,Touchpad 2-buttons below,Ångstrom  Ubuntu (operating system)  Android,CE/not x86 based,
+Always Innovating
 AIGO
-Aigo,Aigo MID<ref name="umpcportal_p162">umpcportal.com - Aigo MID</ref>,0.34,0.75,4.8,,194,Atom,0.8,TD,GMA 500,VGA,SSD + SDHC  HDD,8  16 / 120,0.5 or 1,(3-cell),(6-cell),,3.2 MP,Touchscreen,,XP,
+Aigo
 ARCHOS
-Archos,Archos 10,1.23,2.7,10.2,,116,Atom N270,1.6,,GMA 950,VGA,HDD,160,1,,,,1.3 MP,Touchpad 2-buttons below,,XP,
+Archos
 ASUS
-Manufacturer,Model,Weight [kg],Weight [lb],Display size ",Display,Display DPI,CPU,Speed [GHz],HSDPA,Video chipset,Video,Storage type,Storage [GB],RAM [GB],Battery life [h] )}},Battery life [h] )}},Keyboard size in %,Camera,Mouse layout,Linux/Unix }},Windows }},Manual / DataSheet
-Asus,Eee PC 701SD,0.905,2.00,7,,133,Celeron-M ULV 353,0.9,,,VGA,SSD,8,0.5,,,83%,0.3 MP,,Linux,XP Home,
-Asus,Eee PC 900,0.99,2.18,8.9,,133,Celeron-M ULV 353,0.9,,,VGA,SSD,12  16  20,1,(4-cell),(4-cell),83%,1.3 MP<ref name="Which Asus netbook for video conferencing?">Which Asus netbook for video conferencing?</ref>,Touchpad 2-buttons below,Xandros,XP,
-Asus,Eee PC 900A,0.99,2.18,8.9,,133,Atom N270,1.6,,GMA 950,VGA,SSD,4  8  16,1,(4-cell),(4-cell),83%,None  0.3 MP,Touchpad 2-buttons below,Xandros,XP,
-Asus,Eee PC 900HA,1.23,2.7,8.9,,133,Atom N270,1.6,,GMA 3150,VGA,HDD,160,1,(4-cell),(8-cell),83%,0.3 MP,Touchpad 2-buttons below,,Windows XP,
-Asus,Eee PC 901,1.14,2.51,8.9,,133,Atom N270,1.6,PCB sockets present. Mod option.,GMA 950,VGA,SSD + SDHC,12  20,1-2,,,83%,1.3 MP,Touchpad 2-buttons below,Xandros,XP,
-Asus,Eee PC 904HD,1.40,3.09,8.9,,133,Celeron-M,0.9,,,VGA,HDD,80,1,,,,,,,XP,
-Asus,Eee PC 1000,1.45,3.19,10.1,,117,Atom N270,1.6,,945 GME,VGA,SSD + SDHC  HDD,40 / 80 / 120 / 160,1  2,,,92%,,,Xandros,XP,
-Asus,Eee PC 1000HE<ref name="Eee PC 1000HE review"></ref>,1.45,3.20,10.1,,117,Atom N280,1.66,,GMA 950,VGA,HDD,160,1  2,,,92%,1.3 MP,Touchpad 2-buttons below,None,XP Home,
-Asus,Eee PC 1001HA<ref></ref>,1.1,2.4,10.1,,117,Atom N270,1.6,,GMA 950,VGA,HDD,160,1  2 (one slot  field upgradable),(3-cell  2200mAh  23Wh),8 (6-cell  4600mAh  48Wh),92%,0.3 MP,Touchpad 2-buttons below  multitouch,GNU,XP Home,
-Asus,Eee PC 1005HA-PU1X<ref></ref>,1.27,2.81,10.1,,117,Atom N280,1.66,,GMA 950,VGA,HDD,160 + 10 Eee Storage,1  2 (one slot  field upgradable),,(6-cell  5600mAh  63Wh),92%,1.3 MP,Touchpad 2-buttons below  multitouch,None,XP Home,
-Asus,Eee PC 1001PX-EU0X<ref>Eee PC 1001PX (Seashell)</ref>,1.1,2.42 (with 3 cell battery?),10.1,,117,Atom N450,?,,Intel UMA,VGA,HDD,160 (XP) / 250 (Win 7) + 10 Eee Storage,1  2 (one slot  field upgradable,(3 cell  23Wh),(6-cell  48Wh),95%,0.3 MP,Touchpad 2-buttons below  multitouch,None,XP Home or 7 Starter,
-Asus,Eee PC 1008HA<ref name="Eee PC 1008HA review"></ref>,1.09,2.40,10.1,,117,Atom N280,1.66,,GMA 950,VGA,HDD,160 + 10 Eee Storage,1  2,,,92%,1.3 MP,,GNU,XP Home,
-Asus,Eee PC 1015P<ref></ref>,1.1 / 1.25,,10.1,1024x600 WSVGA,117,Intel Atom N450,?,,?,VGA,HDD,?,1 - 2 (DDR2),5 (3-cell  23Wh),9 (6-cell  48Wh),?,0.3 MP,Touchpad 2-buttons below,-,7 Starter,Eee PC 1015P Manual
-Asus,Eee PC 1015PD<ref></ref>,1.1 / 1.25,,10.1,1024x600 WSVGA,117,Intel Atom N455 / N475,?,,NVIDIA ION N11M-PT1,VGA,HDD,160 / 250 / 320 + Web Storage (1 year),1 - 2 (DDR3),4.5 (3-cell  23Wh),13 (6-cell  63Wh),?,0.3 MP,Touchpad 2-buttons below,-,7 Starter,Eee PC 1015PD Manual
-Asus,Eee PC 1015PE<ref></ref>,1.1 / 1.25,,10.1,1024x600 WSVGA,117,Intel Atom N550,1.5,,?,VGA,HDD,160 / 250 / 320 + Web Storage (500 GB),1 - 2 (DDR2),5 (6-cell  23Wh),13.5 (6-cell  63Wh),?,0.3 MP,Touchpad 2-buttons below,-,7 Starter,Eee PC 1015PE Manual
-Asus,Eee PC 1015PED<ref></ref>,1.1 / 1.25,,10.1,1024x600 WSVGA,117,Intel Atom N455 / N475,?,,?,VGA,HDD,160 / 250 / 320 + Web Storage (500 GB),1 - 2 (DDR3),4.5 (3-cell  23Wh),13 (6-cell  63Wh),?,0.3 MP,Touchpad 2-buttons below,-,7 Starter,Eee PC 1015PED Manual
-Asus,Eee PC 1015PEM<ref></ref>,1.27,,10.1,1024x600 WSVGA,117,Intel Atom N550,1.5,,?,VGA,HDD,160 / 250 / 320 + Web Storage (500 GB),1 - 2 (DDR3),10 (6-cell  48Wh),13 (6-cell  63Wh),?,0.3 MP,Touchpad 2-buttons below,-,7 Starter,Eee PC 1015PEM Manual
-Asus,Eee PC 1015PN<ref></ref>,1.25,,10.1,1024x600 WSVGA,117,Intel Atom N570,?,,NVIDIA ION N11M-PT1,VGA  HDMI,HDD,250 + Web Storage (500 GB),1 - 2 (DDR3),8 (6-cell  47Wh),10 (6-cell  56Wh),?,0.3 MP,Touchpad 2-buttons below,-,7 Home Premium / 7 Starter,Eee PC 1015PN Manual
-Asus,Eee PC 1015T<ref></ref>,1.25,,10.1,1024x600 WSVGA,117,AMD APU ?,?,,?,VGA,HDD,160 / 250 / 320,1 - 4 (DDR3),6 (6-cell  48Wh),7.5 (6-cell  63Wh),?,0.3 MP,Touchpad 2-buttons below,-,7 Starter,Eee PC 1015T Manual
-Asus,Eee PC 1015B<ref></ref>,1.28 / 1.3,,10.1,1024x600 WSVGA,117,AMD APU C30 / C50,1.2 / 1.0,,AMD Radeon HD 6250,VGA  HDMI,HDD,250 / 320 / 500 + Web Storage,1 - 2 (DDR3),3 (3-cell  2200mAh  23Wh),8.5 (6-cell  5200mAh  56Wh),?,0.3 MP,Touchpad 2-buttons below,-,7 Starter,Eee PC 1015B Manual
-Asus,Eee PC 1015BX<ref></ref>,1.17 / 1.29,,10.1,1024x600 WSVGA,117,AMD APU C30 / C50 / C60,1.2 / 1.0,,AMD Radeon HD 6250 / 6290,VGA  HDMI,HDD,250 / 320 / 500 + 3 (Web Storage),1 - 2 (DDR3),3 (3-cell  2200mAh  23Wh),7.5 (6-cell  5200mAh  56Wh),?,0.3 MP,Touchpad 2-buttons below,-,7 Starter,Eee PC 1015BX Manual
-Asus,Eee PC 1015CX<ref></ref>,1.1 / 1.25,,10.1,1024x600 WSVGA,117,Intel Atom N2600,1.6,,Intel NM10 (Chipset),VGA  HDMI,HDD,320 / 500,1 - 2 (DDR3),5 (3-cell  23Wh),11 (6-cell  47Wh),?,0.3 MP,Touchpad 2-buttons below,-,7 Starter,Eee PC 1015CX Manual
-Asus,Eee PC 1016P<ref></ref>,1.13 / 1.27,,10.1,1024x600 WSVGA,117,Intel Atom N455,1.66,,Intel NM10 (Chipset),VGA,HDD,160 / 250 / 320,1 - 2 (DDR3),4.5 (3-cell  23Wh),13 (6-cell  63Wh),?,0.3 MP,Touchpad 2-buttons below,-,Eee PC 1016P Manual
-Asus,Eee PC T91<ref name="Eee PC T91 cnet review"></ref><ref name="Eee PC T91 asus.com"></ref>,0.9,2.1,8.9,,133,Atom Z520,1.33,,GMA 500,VGA,SSD + SDHC,16 + 20 Eee Storage,1,(Internal LiPo ? cell  3850 mAh),,92%,0.3 MP,Touchpad 2-buttons below,,XP Home,
-Asus,Eee PC T91MT,0.96,2.1,8.9,,133,Atom Z520,1.33,,GMA 500,VGA,SSD + SDHC,32 + 500 Eee Storage,1,(Internal LiPo ? cell  3850 mAh),,92%,0.3 MP,Touchpad 2-buttons below,,7 Home,
-Asus,Eee PC T101MT<ref name="ASUSTek Computer Inc."></ref>,1.3,2.86,10.1,,117,Intel Atom N450 / N570,1.66,,GMA 3150,VGA,HDD + SDXC,160/320 + 500 Eee Storage,1  2,LiPo 4 cell ?  4900 mAh 35 Wh),,,0.3 MP,Touchpad 2-buttons below,,7 S/HB/HP,
-Asus,Eee PC 1225B<ref></ref>,1.44,,11.6,1366x768 WXGA,135,AMD APU E450 / C60,1.65 / 1.0,,AMD Radeon HD 6320 / 6290,VGA  HDMI,HDD,320 / 500 / 750 + 3 (Web Storage),1 - 4 (DDR3),7 (6-cell  56Wh),7 (6-cell  56Wh),?,0.3 MP,Touchpad 2-buttons below,-,7 Home Premium,Eee PC 1225B Manual
-Asus,Eee PC 1225C<ref></ref>,1.45,,11.6,1366x768 WXGA,135,Intel Atom N2600 / N2800,1.6 / 1.86,,?,VGA  HDMI,HDD,320 / 500,1 - 2 (DDR3),5 (3-cell  2.6Ah),7.5 (6-cell  2.2Ah),?,0.3 MP,Touchpad 2-buttons below,Ubuntu,-,Eee PC 1225C Manual
-Asus,Eee PC 1215P<ref></ref>,1.45,,12.1,1366x768 WXGA,129,Intel Atom N550,1.5,,?,VGA,HDD,250 / 320,1 - 2 (DDR),8 (6-cell),8 (6-cell),?,0.3 MP,Touchpad 2-buttons below,-,7 Home Premium / 7 Starter,Eee PC 1215P Manual
-Asus,Eee PC 1215B<ref></ref>,1.45,,12.1,1366x768 WXGA,129,AMD APU E450 / E350 / C30 / C50 / C60,1.65 / 1.6 / 1.2 / 1.0,,AMD Radeon HD 6320 / 6310 / 6250 / 6290,VGA  HDMI,HDD,250 / 320 / 500 + 3 (Web Storage),1 - 4 (DDR3),8 (6-cell  56Wh),8 (6-cell  56Wh),?,0.3 MP,Touchpad 2-buttons below,?,7 Home Premium,Eee PC 1215B Manual
-Asus,Eee PC 1215N<ref></ref>,1.45,,12.1,1366x768 WXGA,129,Intel Atom D525,1.8,,?,VGA  HDMI,HDD,250 / 320 + Web Storage,1 - 4 (DDR),6 (6-cell),6 (6-cell),?,0.3 MP,Touchpad 2-buttons below,-,7 Home Premium,Eee PC 1215N Manual
-Asus,Eee PC 1215T<ref></ref>,1.45,,12.1,1490x900 WXGA+,147,AMD Athlon II Neo K125,1.7,,AMD HD 4250,VGA  HDMI,HDD,250 / 320,1 - 2 (DDR3),? (6-cell),? (6-cell),?,0.3 MP,Touchpad 2-buttons below,-,7 Home Premium,Eee PC 1215T Manual
+Manufacturer
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
+Asus
 AVERATEC
-Averatec,Buddy<ref name="trigem.com">Averatec Announces 10.2 Inch Netbook PC to US Market </ref>,1.19,2.62,10.2,}}}},}}}},Atom,1.6,,,VGA,HDD,160,1,,,,,,,,,XP,
-Axioo,Pico<ref name="notebooks1">Axioo Pico (Intel Atom N270 processor 1.6GHz  1GB RAM) Overview - CNet Asia</ref>,1.2,2.6,10,,118,Atom N270,1.6,,,,HDD,120,1,(3 cells  2200 mAh),(6 cells  5200 mAh),,,,,XP,
-BELCO,450R<ref>alibaba.com - 450R</ref>,0.75,1.65,7,,133,DM&P PDX-600 (Vortex86dx  i486DX compatible),1,,XGI Z9s (no 3D acceleration),,SSD,4/8,0.5,2000 mAh,,,,,,,
+Averatec
+Axioo
+BELCO
 BENQ
-BenQ,Joybook Lite U101,1.05,2.31,10.1,,117,Atom N270,1.66,,GMA 950,VGA,SSD+HDD,4 (SSD) 80  120  160 (HDD),1.5  2.5 (512MB built in),}},,90%,,,,Linux Lite,,
-Datacask,Jupiter 1014a<ref name="informatique1">datacask jupiter 1014a= NTT CORRINO W 100I = iQon QELIUM AT-2700= Malata PC-81005 and does include an Express Card slot</ref>,1.25,2.75,10.2,,116,Atom,1.6,,GMA 945,VGA,HDD,80  160,0.5  1  2,4 (4000 mAh),,83%,1.3 MP,Touchpad 2-buttons below,Knoppix Variant,XP,
+BenQ
+Datacask
 DELL
-Manufacturer,Model,Weight [kg],Weight [lb],Display size ",Display,Display DPI,CPU,Speed [GHz],HSDPA,Video chipset,Video,Storage type,Storage [GB],RAM [GB],Battery life [h] )}},Battery life [h] )}},Keyboard size in %,Camera,Mouse layout,Linux/Unix }},Windows }},Manual / DataSheet
-Dell,Mini 9<ref name="productdetails1"></ref>,1.06,2.34<ref></ref>,8.9,,133,Atom,1.6,,GMA 950,VGA,SSD + SDHC,4  8  16  32  64,0.5  1  2 (one slot  field upgradable),<ref></ref> (4-cell),(4-cell),83%,,Touchpad 2-buttons below,Dell Ubuntu NBR,XP,
-Dell,Mini 10<ref>Dell specs</ref>,1.3,2.86,10,,156 117,Atom,1.3 / 1.6,,GMA 500,HDMI (VGA on 10v),HDD,120 / 160,1,,,92%,,,Dell Ubuntu NBR,XP,
-Dell,Mini 12<ref name="businesswire1">Dell announcement</ref>,1.24,2.73,12.1,,119,Atom,1.3 / 1.6,,GMA 500,VGA,HDD,60 / 80,1,(3-cell),(6-cell),91.9%,,Touchpad 2-buttons below<ref name="mini-laptops-and-notebooks_com-Dell-Inspiron-Mini-9"> 090603 mini-laptops-and-notebooks.com</ref>,Ubuntu NBR,Vista Home Basic,
-Dell,Latitude 2100<ref name="dell edu"></ref>,1.54,3.4,10.1,,116,Atom,1.6,,GMA 950,VGA,SSD or HDD,16(ssd) / 80 / 180 /250,.5 1 1.5 2 (one slot  field upgradable),(3-cell),(6-cell),89%,,,Ubuntu,XP,
-Dell,Latitude 2120,1.54,3.4,10.1,Wide SVGA matte,116,Intel Atom N550,1.5,,GMA 3150 8MB,VGA,SSD or HDD,16(ssd) / 80 / 180 /250,.5 1 1.5 2 (one slot  field upgradable),(3-cell),(6-cell),89%,1.3 MP,Touchpad 2-buttons below,Ubuntu,XP
+Manufacturer
+Dell
+Dell
+Dell
+Dell
+Dell
 E-LEAD
-E-Lead,Noahpad,0.78,1.72,7,800×480 <br /> WVGA,133,}},1,,,,HDD,30,0.5,,,,,,Ubuntu,,
+E-Lead
 ELONEX
-Elonex,ONE,1.00,2.20,7.0,,133,LNX Code 8,0.3,,,None,SSD,1,0.125,,,,,,Linos,,
+Elonex
 EMACHINES
-Emachines,E350<ref>NetbooksReview</ref>,1.25,2.75,10.1,,116,Atom N450,1.66,,GMA 3150,VGA,HDD,160,1,(3-cell),(6-cell),92%,1.3 MP,Touchpad 2-buttons below,N/A,XP,
+Emachines
 EMTEC
-EMTEC,Gdium<ref></ref><ref name="Gdium's photostream"> Gdium's photostream</ref><ref></ref>,1.2,2.64,10,,118,MIPS Loongson 2F<ref></ref>,0.9,,,VGA,G-Key removable USB Flash,16,0.5,,,,,,Mandriva G-Linux,None (not x86 based),
+EMTEC
 EVEREX
-Everex,CloudBook,0.91,2.00,7,,133,C7-M ULV,1.2,,UniChrome Pro IGP,DVI-I,HDD,30,0.5,,,,,,gOS Rocket,,
+Everex
 GATEWAY
-Manufacturer,Model,Weight [kg],Weight [lb],Display size ",Display,Display DPI,CPU,Speed [GHz],HSDPA,Video chipset,Video,Storage type,Storage [GB],RAM [GB],Battery life [h] )}},Battery life [h] )}},Keyboard size in %,Camera,Mouse layout,Linux/Unix }},Windows }},Manual / DataSheet
-Gateway,LT2001u  LT2021u,1.18,2.62,10.1,,117,Atom,1.6,,,VGA,HDD,160,1,(3-Cell Li),(3-Cell Li),,0.3,Touchpad with 1 button below,N/A,Windows XP Home,
-Gateway,LT3103u  LT3114u,1.38,3.04,11.6,,135,Athlon 64,1.2,,Radeon X1270,VGA,HDD,250,2,5 (6-cell Li),5 (6-cell Li),,0.3,Touchpad with 1-button below,N/A,Vista Home Basic,
+Manufacturer
+Gateway
+Gateway
 GIGABYTE
-Gigabyte Technology,M912<ref name="productid1">[http://www.gigabyte.com.tw/Products/Notebook/Products_Spec.aspx?ProductID=2835 GIGABYTE - Product - Notebook / UMPC - Products - M912 (1.0)]</ref>,1.3,2.86,8.9,,167,Atom,1.6,,,None,HDD,120  160  250,1  2,,,,,,Ubuntu,XP,
-Gigabyte,M912X<ref name="Gigabyte M912X">Gigabyte M912X</ref>,1.35,2.97,8.9,,167,Atom,1.6,,,VGA,HDD,80,1,,,,,,,XP,
-Hillman,IA1001,1.26,2.77,10.2,,116,Atom N270,1.6,,GMA 950,,HDD,160,1,2 (3-cell),,,1.3 MP,Touchpad 2-buttons below,Linux,,
+Gigabyte Technology
+Gigabyte
+Hillman
 HP
-HP,Mini note 2133,1.27,2.79,8.9,,169,C7-M,1–1.6,,,VGA,SSD  HDD,4  120  160,0.5–2,(3-cell),(6-cell),92%,,,Suse,XP  Vista,
-HP,Mini note 2140,1.19,2.62,10.1,,116 155,Atom N270,1.6,,GMA 950,,SSD  HDD,80  160,1-2,(3-cell),(6-cell),92%,,Touchpad buttons on each side,Suse,Vista  XP,
-HP,HP Mini 5101,1.20,2.64,10.1,,117 155,Atom N280,1.667,,GMA 950,VGA,SSD  HDD,80  128  160  250  320,1-2,(4-cell),(6-cell),92%,2MP,Touchpad buttons below,Suse,XP Home,
-Impulse  a division of Carapelli Computers Limited,NPX-9000<ref name="linux.com NPX-9000"></ref><ref name="NPX-9000"></ref>,0.72,1.58,7,,82,X-Scale ARM,0.4,,,,NAND,1,0.125,2100 mAh LiP,,80%,,,Linux 2.4 based Highne 2008 <ref name="linux.com NPX-9000" /><br />Xenium,None (non-x86 based),
+HP
+HP
+HP
+Impulse  a division of Carapelli Computers Limited
 INTEL
-Intel  ECS,Classmate PC,1.45,3.20,7,,133,Celeron-M,0.9,,,None,NAND,2,0.25,,,,,,Mandriva  Debian,XP,
+Intel  ECS
 INVENTEC
-Inventec,Kohjinsha SC3<ref name="umpcportal1">Kohjinsha SC3</ref>,0.798,1.76,7,,169,Atom,1.33,,,,SSD,,,,,,,,,Vista Ultimate,
-Inventec,Kohjinsha SX3<ref name="umpcportal2">Kohjinsha SX3</ref>,1.2,2.64,8.9,,168,Atom,1.3,,,,SSD,,,,,,,,,Vista,
+Inventec
+Inventec
 LEMOTE
-Manufacturer,Model,Weight [kg],Weight [lb],Display size ",Display,Display DPI,CPU,Speed [GHz],HSDPA,Video chipset,Video,Storage type,Storage [GB],RAM [GB],Battery life [h] )}},Battery life [h] )}},Keyboard size in %,Camera,Mouse layout,Linux/Unix }},Windows }},Manual / DataSheet
-Lemote,Lemote YeeLoong (?),1.0,2.2,8.9,,133,Loongson,0.9,,SM 712,VGA,HDD/SSD,160,1,(3-cell),(6-cell),95%,,,Debian,None (not x86 based),
+Manufacturer
+Lemote
 LENOVO
-Lenovo,IdeaPad S10<ref name="engadget1">Lenovo launches a netbook</ref>,1.1  1.3,2.43  2.87,10.2,,116,Atom,1.6,,GMA 950,VGA,HDD,160,1,(3-cell),(6-cell),85%,1.3MP,,SUSE Linux (no longer offered Apr 2009),XP  7,
+Lenovo
 LG
-LG,LG X110 <br /><ref name="reportedly1">LG X110 Netbook</ref>,1.19,2.62,10,,118,Atom,1.6,,,,HDD,80  120  160,0.5  1,,,,,,,XP,
-LG,Xnote B8310<ref name="umpcportal5">LG Xnote B8310</ref>,0.59,1.30,4.8,,194,Atom,,,,,HDD,,1,,,,,,,,
-MAXDATA BELINEA,,,,,,,,,,,,,,,,,,,,,,
-Maxdata Belinea,S-Book<ref name="description1">Belinea s.book description</ref>,1.0,2.2,8.9,}},,C7-M,1–1.2,,,,SSD,,,,,,,,,Vista,
+LG
+LG
+MAXDATA BELINEA
+Maxdata Belinea
 MEDION
-Medion,Akoya E1210 Mini <br /><ref name="Medion Akoya Mini notebook">Medion Akoya Mini notebook</ref>,1.2,2.65,10,,118,Atom,1.6,,,VGA,HDD,80  160,1,,,,,,,XP,
+Medion
 MSI
-MSI,Wind U100,1.04  1.18,2.29  2.6,10,,118,Atom,0.8 ~ 1.6 / 2.0 oc.,,GMA 950,VGA,HDD,80 / 120 / 160,0.5  1,(3-cell),(6-cell),95%,1.3MP,,Suse,XP,
-MSI,Wind U120,1.10,2.42,10,,118,Atom,1.6,,,VGA,HDD  SSD,80/160,1,,,,,,,XP,
-NetColors,Mini 10-N270<ref name="netbookdirect-mini10_n270">http://netbookdirect.net/bestbuy/index.php?main_page=product_info&cPath=34&products_id=210</ref>,0.99  1.26,2.18  2.77,8.9,,133,Atom N270,1.6,,GMA 950,,SSD + SDHC  HDD,16  32 / 160  320,1GB  2GB<ref name="netbookdirect-mini10_n270"/>,(3-cell),(6-cell),89%,,,Ubuntu<ref name="netbookdirect-mini10_n270"/>,XP,
-NTT System,Corrino 100A<ref name="yalu.pl">Data  including pricing  which was calculated at the exchange rate as of Oct. 9  2008  comes from NTT System's main webshop  yalu.pl. A unique feature of NTT Corrino 100A is the PC-Card (PCMCIA) port.</ref>,1.2,2.65,10.2,,116,Geode LX800,0.5,,,,HDD,60,1,Li-Po,Li-Po (4200 mAh),,,,Unspecified,XP,
-One,A110,0.95,2.1,7,,133,C7,1.0,,S3 VX800,VGA,SSD  HDD,2  4 / 60,0.5,,,,,,Linpus,XP,
-One,A440,1.2,2.6,10.2,,116,C7,1.6,,,,HDD,80,1,(3 cells  2200 mAh),,,,,Linpus,XP,
+MSI
+MSI
+NetColors
+NTT System
+One
+One
 PACKARD BELL
-Manufacturer,Model,Weight [kg],Weight [lb],Display size ",Display,Display DPI,CPU,Speed [GHz],HSDPA,Video chipset,Video,Storage type,Storage [GB],RAM [GB],Battery life [h] )}},Battery life [h] )}},Keyboard size in %,Camera,Mouse layout,Linux/Unix }},Windows }},Manual / DataSheet
-Packard Bell,Easy Note XS,,,7.0,,169,C7-M,1.2,,,,HDD,30,1,,,,,,,XP  Vista,
-OPEN PANDORA,,,,,,,,,,,,,,,,,,,,,
-OpenPandora,Pandora,0.30,0.66,4.3,,216,OMAP3530,0.6-0.9,,PowerVR SGX 530,None,Dual SDHC slots,N/A,0.25,10+hrs (4000 mAh),(4000 mAh),?%,,,,
-PCWorld,Advent 4211 <br />,1.2,2.6,10,,118,Atom,1.6,,,VGA,HDD,80,1,(3-cell),(6-cell),95%,,,,,
-PROLiNK,Glee TA-009,1.1,2.42,10.1,,117,Atom,1.6,HSUPA 3.75G<br />DL: 7.2M<br />UL: 5.2M<br />optional,GMA 950,VGA,HDD,160,1,(3-cell),(6-cell),95%,1.3 MP,Touchpad buttons on each side,Ubuntu optional,XP optional,
-Quanta Computer,OLPC XO-1,1.45,3.19,7.5,,200,Geode LX700,0.433,,,None,NAND,1,0.25,,,,,,Fedora,XP<ref>Microsoft partners with OLPC</ref><ref>Microsoft frees poor children from Linux struggles</ref><ref>Windows on the XO</ref>,
-Raon Digital,Everun Note,0.8,1.76,7,,169,Turion 64 X2,1.2,,,,SSD  HDD,16  24; 30  60  80,1,,,,,,Ubuntu,XP,
+Manufacturer
+Packard Bell
+OPEN PANDORA
+OpenPandora
+PCWorld
+PROLiNK
+Quanta Computer
+Raon Digital
 SAMSUNG
-Manufacturer,Model,Weight [kg],Weight [lb],Display size ",Display,Display DPI,CPU,Speed [GHz],HSDPA,Video chipset,Video,Storage type,Storage [GB],RAM [GB],Battery life [h] )}},Battery life [h] )}},Keyboard size in %,Camera,Mouse layout,Linux/Unix }},Windows }},Manual / DataSheet
-Samsung,N120,1.28,2.8,10.2,,116,Atom 280,1.6,,GMA 950,VGA,HDD,160,1,(6-cell),(9-cell),93%,,,,XP,
-Samsung,N110,1.3,2.9,10.2,,116,Atom,1.6,,GMA 950,VGA,HDD,160,1,(6-cell),(6-cell),93%,,,,XP,
-Samsung,NC10,1.3,2.9,10.2,,116,Atom N270,1.6,,GMA 950,VGA,HDD,160,1,(6-cell)<ref name="brightness1"></ref>,(6-cell)<ref name="brightness1"/>,93%,1.3,,,XP,
-Samsung,NC20,1.5,3.3,12.1,,124,Nano,1.3+,,VIA VX800,VGA,HDD,160,1,,,97%,,,,XP,
-Samsung,NB30,1.24,2.73,10.1,,,Atom N450,1.66,no,Intel GMA3150,VGA,HDD + removable SDHC,250,1  2 (one slot  field upgradable),,10.5 (6-cell  66Wh  5900mAh),,0.3 MP ?,Touchpad 2-buttons below  multitouch,,7 Starter,
-Samsung,N220,1.32,2.91,10.1,,,Atom N450,1.66,no,Intel GMA3150,VGA,HDD + removable SDHC,250,1  2 (one slot  field upgradable),,11,,0.3 MP ?,Touchpad 2-buttons below  multitouch,,7 Starter,
+Manufacturer
+Samsung
+Samsung
+Samsung
+Samsung
+Samsung
+Samsung
 SHARP
-Sharp,Willcom D4<ref name="umpcportal4">Sharp Willcom D4</ref>,0.47,1.03,5,,256,Atom,1.6,,,,HDD,,1,,,,,,,,
-Sinomanic,Tianhua GX-1C,,,8.4,,195,Loongson I,0.4 – 0.6,,,,HDD,40,0.125,,,,,,Debian,None (not x86 based),
-Skytone,HiVision NB0700,0.72,1.59,7.0,,133,MIPS Jz4730,0.4,,,,SSD,1,,,,?,,,Custom,None (not x86 based),
-Skytone / 3K,Razorbook<ref name="identical1">identical to the Skytone Alpha-400  but with more flash and RAM and Windows CE instead of Linux</ref>,0.72,1.59,7,,133,XBurst MIPS,0.4,,,,NAND,4,0.5,(2-cell),(2-cell),,,,,None (not x86 based) Windows CE only,
-Skytone,Skytone Alpha-400<ref name="generally1">  The original "Skytone Alpha 400" Linux version generally cost about $200 but versions have been seen for as low as $130  the infrared Razorbook 400 with Windows CE costs $249.</ref>,0.72,1.59,7,,133,XBurst MIPS,0.4,,,None (VGA on some models),NAND,1,0.125,(2-cell),(2-cell),,,,Linux 2.4,None (not x86 based),
+Sharp
+Sinomanic
+Skytone
+Skytone / 3K
+Skytone
 Sony
-Sony,P-Series,0.64,1.41,8,,221,Atom,1.3,,GMA 500,,SSD/HDD,128/64/60,2,3:08 CNet video playback,,88%,,,,Vista,
+Sony
 SYSTEM76
-System76,Starling Netbook 4,0.907,2.0,10.1,,117,Intel Atom N550,1.5,,Intel GMA 3150,One VGA,SSD/HDD,250/320/500/600HDD 40/80/120/160SSD,2,3 (3-cell),6 (6-cell),95%,0.3 MP,Touchpad 2-buttons below (50/50%),Ubuntu Netbook Edition 10.04,None,
-Sylvania Computers,G Netbook<ref name="Sylvania Netbook">Sylvania Netbook </ref>,0.85,1.87,7,,133,C7-M ULV,1.2,,,,HDD,30,1,,,,,,Ubuntu,XP,
+System76
+Sylvania Computers
 TOSHIBA
-Manufacturer,Model,Weight [kg],Weight [lb],Display size ",Display,Display DPI,CPU,Speed [GHz],HSDPA,Video chipset,Video,Storage type,Storage [GB],RAM [GB],Battery life [h] )}},Battery life [h] )}},Keyboard size in %,Camera,Mouse layout,Linux/Unix }},Windows }},Manual / DataSheet
-Toshiba,AC100<ref name="Toshiba AC100-10Z (UK)"></ref>,0.87,1.91,10.1 LED,,117,Tegra 250,1.0,,Tegra 250,HDMI,SSD,8,512 MB,7,48,,1.3 MP,Touchpad,Android 2.1 to 2.2,none (non-x86),
-Toshiba,NB100<ref name="exclusive1"></ref>,1.00,2.20,8.9,,135,Atom,1.6,,GMA 950,VGA,HDD,,,(4 cell),,,1.3 MP,Touchpad 2-buttons below (60/40%),Ubuntu Netbook Remix,XP,
-Toshiba,NB105<ref name="Toshiba Latinoamerica"></ref>,,,8.9 LED,}},,Atom,1.6,,,,HDD,120,1,,,,,,,XP,
-Toshiba,NB200<ref name="Toshiba Latinoamerica"/>,1.15,2.32,10.1 LED,,117,Atom N280,1.66,,GMA 950,VGA,HDD,160-250,1-2 GB,4 (3-Cell),9 (6.9-Cell),,1.3 MP,Touchpad 2-buttons below<ref name="blog_dk_sg-dsc05098jpg"> 090606 blog.dk.sg</ref>,Linux not avail,XP or 7 Starter,
+Manufacturer
+Toshiba
+Toshiba
+Toshiba
+Toshiba
 VIA
-VIA,Nanobook,0.85,1.87,7.0,,133,C7-M,1.2,,,DVI-I,HDD,30,1,,,,,,Linux,XP  Vista,
-VIA,Openbook (reference design  not product),1.00,2.20,8.9,,133,C7-M ULV,1.6,,,VGA,HDD,80,2,,,,,,Linux,XP  Vista,
-Zelybron,Micro Nina,1.27,2.79,10.2,,147,C7-M,1.6,,,,HDD,120,1 – 4,(3-cell),(6-cell),92%,,Touchpad 2-buttons below.<ref>Zelybron Micro Nina 1.jpg&nbsp;090726</ref>,ZelybronBSD,
+VIA
+VIA
+Zelybron

@@ -1,9 +1,9 @@
 Client,Fork from,FLOSS,Runs on,Kad,Unicode,Languages supp,Development Status
-Linux,Windows,Mac OS X
-eDonkey2000,-,,,,,,,1,Discontinued
-aMule,xMule,,,<ref group="N">Windows support is incomplete and does not include all the features of the Linux version  such as UPnP support. Most of the documentation presumes the user using the Linux version and may be give incorrect information for the Windows version.</ref>,,,,28,
-eMule and its Mods,-,,,,,,,43<ref>eMule 0.50a Source: /srchybrid/lang/</ref>,
-eMule Plus,eMule,,<ref group="N">Client can work on Linux via Wine (ref.)  yet it is not officially supported.</ref>,,,,<ref group="N">since 1.2d </ref>,31,Abandoned
-MLDonkey,-,,,,,,,3,Discontinued
-Shareaza,-,,<ref group="N">Shareaza can work on Linux via Wine (ref.)  yet it is not officially supported</ref>,,,,,31,
-xMule,lMule,,,,,,,,Abandoned
+Linux,Windows,Mac OS X,[added],[added],[added],[added],[added]
+eDonkey2000,-,[empty],[empty],[empty],[empty],[empty],[empty]
+aMule,xMule,[empty],[empty],<ref group="N">Windows support is incomplete and does not include all the features of the Linux version  such as UPnP support. Most of the documentation presumes the user using the Linux version and may be give incorrect information for the Windows version.</ref>,[empty],[empty],[empty]
+eMule and its Mods,-,[empty],[empty],[empty],[empty],[empty],[empty]
+eMule Plus,eMule,[empty],<ref group="N">Client can work on Linux via Wine (ref.)  yet it is not officially supported.</ref>,[empty],[empty],[empty],<ref group="N">since 1.2d </ref>
+MLDonkey,-,[empty],[empty],[empty],[empty],[empty],[empty]
+Shareaza,-,[empty],<ref group="N">Shareaza can work on Linux via Wine (ref.)  yet it is not officially supported</ref>,[empty],[empty],[empty],[empty]
+xMule,lMule,[empty],[empty],[empty],[empty],[empty],[empty]

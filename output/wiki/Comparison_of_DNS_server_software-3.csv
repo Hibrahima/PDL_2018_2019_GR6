@@ -1,23 +1,23 @@
 Server,Creator,Cost (USD),Public source code,Software license
-AnswerX,Akamai,Unpublished price,,Clickwrap license
-BIND,Internet Systems Consortium,Free,,BSD  MPL 2.0 for 9.11+
-Microsoft DNS,Microsoft,Included with Windows Server,,Clickwrap license
-djbdns,Daniel J. Bernstein,Free,,Public domain
-Dnsmasq,Simon Kelley,Free,,GPL
-Simple DNS Plus,JH Software,$79 – $379,,Clickwrap license
-NSD,NLnet Labs,Free,,BSD variant
-Knot DNS,CZ.NIC,Free,,GPL
-PowerDNS,PowerDNS.COM BV / Bert Hubert,Free,,GPL
-MaraDNS,Sam Trenholme,Free,,BSD variant
-Nominum ANS,Nominum,Unpublished price,,Clickwrap license
-Nominum Vantio,Nominum,Unpublished price,,Clickwrap license
-pdnsd,Thomas Moestl and Paul Rombouts,Free,,GPL
-Posadis,Meilof Veeningen,Free,,GPL
-Unbound,NLnet Labs,Free,,BSD
-gdnsd,Brandon Black,Free,,GPL
-YADIFA,EURid,Free,,BSD
-yaku-ns,Salvatore Sanfilippo,Free,,GPL
-DNS Blast,EfficientIP,Unpublished price,,Clickwrap license
-Secure64 DNS Authority,Secure64,Unpublished price,,Clickwrap license
-Secure64 DNS Cache,Secure64,Unpublished price,,Clickwrap license
-Technitium DNS Server,Technitium Software,Free,,GPL
+AnswerX,Akamai,Unpublished price,[empty],Clickwrap license
+BIND,Internet Systems Consortium,Free,[empty],BSD  MPL 2.0 for 9.11+
+Microsoft DNS,Microsoft,Included with Windows Server,[empty],Clickwrap license
+djbdns,Daniel J. Bernstein,Free,[empty],Public domain
+Dnsmasq,Simon Kelley,Free,[empty],GPL
+Simple DNS Plus,JH Software,$79 – $379,[empty],Clickwrap license
+NSD,NLnet Labs,Free,[empty],BSD variant
+Knot DNS,CZ.NIC,Free,[empty],GPL
+PowerDNS,PowerDNS.COM BV / Bert Hubert,Free,[empty],GPL
+MaraDNS,Sam Trenholme,Free,[empty],BSD variant
+Nominum ANS,Nominum,Unpublished price,[empty],Clickwrap license
+Nominum Vantio,Nominum,Unpublished price,[empty],Clickwrap license
+pdnsd,Thomas Moestl and Paul Rombouts,Free,[empty],GPL
+Posadis,Meilof Veeningen,Free,[empty],GPL
+Unbound,NLnet Labs,Free,[empty],BSD
+gdnsd,Brandon Black,Free,[empty],GPL
+YADIFA,EURid,Free,[empty],BSD
+yaku-ns,Salvatore Sanfilippo,Free,[empty],GPL
+DNS Blast,EfficientIP,Unpublished price,[empty],Clickwrap license
+Secure64 DNS Authority,Secure64,Unpublished price,[empty],Clickwrap license
+Secure64 DNS Cache,Secure64,Unpublished price,[empty],Clickwrap license
+Technitium DNS Server,Technitium Software,Free,[empty],GPL

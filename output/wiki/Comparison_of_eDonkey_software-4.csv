@@ -1,32 +1,33 @@
 Client,Website,Initial Release,Current Stable Version,Mod Based On
-eDonkey2000,None<ref group="N">Before being sued by RIAA and taken down  the official site was: edonkey2000.com.</ref>,,1.4.6 (),-
-aMule,http://www.amule.org/,,,-
-eMule,Official,http://www.emule-project.net/,,,-
-Osp,http://sourceforge.net/projects/emuleosp/,,0.23 (),Official 0.50a
-AnalyZZUL,http://forum.emule-project.net/index.php?showtopic=136120,,3.0 (),eMule 0.49c ZZUL
-beba,http://beba.emulefuture.de/,,2.72 (),Official 0.50a
-DreaMule,http://www.dreamule.org/,,v3.2 (),-
-Magic Angel,http://sourceforge.net/projects/magicangel/,,4.0 (),eMule 0.50a MorphXT 12.6
-Mephisto,http://mephisto.emule-web.de/,,3.0 (),eMule 0.50a ScarAngel 4.0
-MorphXT,http://emulemorph.sourceforge.net/,,,Official 0.50a
-NeoMule,https://web.archive.org/web/20101203044044/http://www.eselfarm.info/efarm/board.php?boardid=277,,,Official 0.49b
-ScarAngel,http://scarangel.sourceforge.net/,,4.2 (),eMule 0.50a Xtreme 8.1
-SharkX,http://www.emule-mods.de/?mods=SharkX,,eMule 0.49c AcKroNiC 5.4
-Sivka,http://sivka.emule-web.de/,,Official 0.49b
-Spike2,http://www.emule-mods.de/?mods=spike,,Official 0.48a
-StulleMule,http://stulle.emule-web.de/,,7.0 (),eMule 0.50a MorphXT 12.6
-Xtreme,http://www.xtreme-mod.net/,,,Official 0.50a
-X-Ray,http://sourceforge.net/projects/x-ray-mule,,1.7 (),Official 0.49c
-ZZUL,http://forum.emule-project.net/index.php?showforum=75,,20090222-2320 (),Official 0.49c
-ZZUL BastarD,http://forum.emule-project.net/index.php?showtopic=65063,,1.9.10 (),eMule 0.49c ZZUL
-eMule Plus,https://web.archive.org/web/20061004200701/http://www.emuleplus.info/,,,Old official eMule + own code
-iMule,www.imule.i2p<ref>http://www.imule.i2p inside the I2P network.</ref>,,,aMule
-JMule,http://www.jmule.org/,,,-
-Jubster,None<ref group="N">The old official site was . It's not accessible now.</ref>,,,-
-LMule,http://lmule.sourceforge.net/,,,-
-Lphant,None<ref group="N">The old official site was lphant.com. It has been acquired by a Cyprus-based company to publish a fake Lphant. See: Lphant#Domain Name Acquisition</ref>,,,-
-MLDonkey,http://mldonkey.sourceforge.net/,,,-
-Morpheus,None<ref group="N">The old official site was http://www.morpheus.com/ . It's not accessible now.</ref>,,,-
-Shareaza,http://shareaza.sourceforge.net/,,,-
-xMule,http://www.xmule.ws/,,,-
+eDonkey2000,None<ref group="N">Before being sued by RIAA and taken down  the official site was: edonkey2000.com.</ref>,[empty],1.4.6 (),-
+aMule,http://www.amule.org/,[empty],[empty],-
+eMule,Official,http://www.emule-project.net/,[empty],[empty]
+Osp,http://sourceforge.net/projects/emuleosp/,[empty],0.23 (),Official 0.50a
+AnalyZZUL,http://forum.emule-project.net/index.php?showtopic=136120,[empty],3.0 (),eMule 0.49c ZZUL
+beba,http://beba.emulefuture.de/,[empty],2.72 (),Official 0.50a
+DreaMule,http://www.dreamule.org/,[empty],v3.2 (),-
+Magic Angel,http://sourceforge.net/projects/magicangel/,[empty],4.0 (),eMule 0.50a MorphXT 12.6
+Mephisto,http://mephisto.emule-web.de/,[empty],3.0 (),eMule 0.50a ScarAngel 4.0
+MorphXT,http://emulemorph.sourceforge.net/,[empty],[empty],Official 0.50a
+NeoMule,https://web.archive.org/web/20101203044044/http://www.eselfarm.info/efarm/board.php?boardid=277,[empty],[empty],Official 0.49b
+ScarAngel,http://scarangel.sourceforge.net/,[empty],4.2 (),eMule 0.50a Xtreme 8.1
+SharkX,http://www.emule-mods.de/?mods=SharkX,[empty],<ref></ref> }},eMule 0.49c AcKroNiC 5.4
+Sivka,http://sivka.emule-web.de/,[empty],<ref></ref> }},Official 0.49b
+Spike2,http://www.emule-mods.de/?mods=spike,[empty],<ref></ref> }},Official 0.48a
+StulleMule,http://stulle.emule-web.de/,[empty],7.0 (),eMule 0.50a MorphXT 12.6
+Xtreme,http://www.xtreme-mod.net/,[empty],[empty],Official 0.50a
+X-Ray,http://sourceforge.net/projects/x-ray-mule,[empty],1.7 (),Official 0.49c
+ZZUL,http://forum.emule-project.net/index.php?showforum=75,[empty],20090222-2320 (),Official 0.49c
+ZZUL BastarD,http://forum.emule-project.net/index.php?showtopic=65063,[empty],1.9.10 (),eMule 0.49c ZZUL
+eMule Plus,https://web.archive.org/web/20061004200701/http://www.emuleplus.info/,[empty],[empty],Old official eMule + own code
+iMule,www.imule.i2p<ref>http://www.imule.i2p inside the I2P network.</ref>,[empty],[empty],aMule
+JMule,http://www.jmule.org/,[empty],[empty],-
+Jubster,None<ref group="N">The old official site was . It's not accessible now.</ref>,[empty],[empty],-
+LMule,http://lmule.sourceforge.net/,[empty],[empty],-
+Lphant,None<ref group="N">The old official site was lphant.com. It has been acquired by a Cyprus-based company to publish a fake Lphant. See: Lphant#Domain Name Acquisition</ref>,[empty],[empty],-
+MLDonkey,http://mldonkey.sourceforge.net/,[empty],[empty],-
+Morpheus,None<ref group="N">The old official site was http://www.morpheus.com/ . It's not accessible now.</ref>,[empty],[empty],-
+Shareaza,http://shareaza.sourceforge.net/,[empty],[empty],-
+xMule,http://www.xmule.ws/,[empty],[empty],-
 Client,Website,Initial Release,Current Stable Version,Mod Based On
+[added],[added],[added],[added],[added]

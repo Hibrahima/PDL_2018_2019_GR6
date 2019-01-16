@@ -1,44 +1,44 @@
 Operating system,Limit on IA-32,Limit on x64
-,4 GB
-,4 GB
-,8 GB
-,32 GB
-,
-,4 GB
-,4 GB,128 GB
-,2 GB
-,4 GB
-,64 GB
-,4 GB,32 GB
-,64 GB
-,1 GB
-,4 GB,8 GB
-,4 GB,16 GB
-,4 GB,128 GB
-,4 GB
-,4 GB,32 GB
-,,128 GB
-,64 GB
-,2 GB
-,4 GB,8 GB
-,4 GB,16 GB
-,4 GB,192 GB
-,,8 GB
-,,32 GB
-,,128 GB
-,
-,4 GB,128 GB
-,4 GB,512 GB
-,,32 GB
-,,64 GB
-,
-,
-,,32 GB
-,
-,4 GB
-,4 GB,128 GB
-,4 GB
-,4 GB
-,4 GB
-,
-,
+[empty],4 GB,[added]
+[empty],4 GB,[added]
+[empty],8 GB,[added]
+[empty],32 GB,[added]
+[empty],[empty],[added]
+[empty],4 GB,[added]
+[empty],4 GB,128 GB
+[empty],2 GB,[added]
+[empty],4 GB,[added]
+[empty],64 GB,[added]
+[empty],4 GB,32 GB
+[empty],64 GB,[added]
+[empty],1 GB,[added]
+[empty],4 GB,8 GB
+[empty],4 GB,16 GB
+[empty],4 GB,128 GB
+[empty],4 GB,[added]
+[empty],4 GB,32 GB
+[empty],[empty],128 GB
+[empty],64 GB,[added]
+[empty],2 GB,[added]
+[empty],4 GB,8 GB
+[empty],4 GB,16 GB
+[empty],4 GB,192 GB
+[empty],[empty],8 GB
+[empty],[empty],32 GB
+[empty],[empty],128 GB
+[empty],[empty],[added]
+[empty],4 GB,128 GB
+[empty],4 GB,512 GB
+[empty],[empty],32 GB
+[empty],[empty],64 GB
+[empty],[empty],[added]
+[empty],[empty],[added]
+[empty],[empty],32 GB
+[empty],[empty],[added]
+[empty],4 GB,[added]
+[empty],4 GB,128 GB
+[empty],4 GB,[added]
+[empty],4 GB,[added]
+[empty],4 GB,[added]
+[empty],[empty],[added]
+[empty],[empty],[added]

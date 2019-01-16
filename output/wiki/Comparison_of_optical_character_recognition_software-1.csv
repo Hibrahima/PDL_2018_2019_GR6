@@ -1,38 +1,38 @@
 + Sortable table
-Name,Founded year,Latest stable version,Release year,License,Online,Windows,Mac OS X,Linux,BSD,Programming language,SDK?,Languages,Fonts,Output Formats,Notes
-Tesseract,1985,4.0.0,2018,,,,,,,C++  C,,100+<ref>Based on count of language training files for version 3.04. Available at the download page.</ref>,Any printed font,Text  hOCR <ref>Usage explained in the Tesseract Readme and FAQ</ref> PDF  others with different user interfaces<ref>Such as ODF with OCRFeeder</ref> or the API,Created by Hewlett-Packard; under further development by Google<ref></ref>
-Readiris,1986,16,,,,,,,,,,100+<ref>http://www.irislink.com/EN-GB/c1462/Readiris-16-for-Windows---OCR-Software.aspx</ref>,,,Owned by Canon
-CIB ocr <ref></ref>,2011,2.08.00,2018,Freeware,<ref></ref>,,,,,C++  Java  Python  Objective-C,,German  English  Spanish  Russian  Chinese  Japanese  Italian  French,Any printed font,Text  hOCR  PDF,CIB ocr supports more than 160 input formats
-Screenworm,2013,1.0,2014,,,,,,,Objective-C++,,57,,TXT,Product of Funchip. Uses the Tesseract OCR-engine.
-ExperVision<ref name="ExperVision-default"></ref> TypeReader & RTK,1987,7.1.170.1125,2010,,,,,,,C/C++,,21,2618,,Has a Mobile and Embedded System version for iOS/Android/etc.
-AliusDoc AD-SCI<ref></ref>,2005,2.1,2015,,,,,,,VB.Net,For Extensions,All ASCII-compatible languages,,XML  PlainText  any other thru SDK extensions,Minimal need for post-sale Professional Services. Works with structured  semi-structured  and unstructured documents.
-ABBYY FineReader,1989,14,2017-01-25,,,,,,,C/C++,,192<ref></ref>,,DOC  DOCX  XLS  XLSX  PPTX  RTF  PDF  HTML  CSV  TXT  ODT  DjVu  EPUB  FB2<ref></ref>,ABBYY also supplies SDKs for embedded and mobile devices. Professional  Corporate and Site License Editions for Windows  Express Edition for Mac.<ref></ref>
-E-aksharayan,2010,,,,,,,,,,,14,,RTF  TXT  BRL,
-Asprise OCR SDK,1998,15,2015,,,,,,,Java  C# VB.NET  C/C++/Delphi,,20+<ref></ref>,,Plain text  searchable PDF  XML<ref></ref>,Java  C#  VB.NET  C/C++/Delphi SDKs for OCR and Barcode recognition on Windows  Linux  Mac OS X and Unix.<ref></ref>
-Nicomsoft OCR SDK,1999,5.5,2015,,,,,,,C#  VB.NET  C++  Delphi  Java,,25+<ref></ref>,,Searchable PDF  Text  RTF,C#  VB.NET  C++  Delphi  Java OCR tool for Windows and Linux.<ref></ref>
-AnyDoc Software,1989,,,,,,,,,VBScript,,,,,Works with structured  semi-structured  and unstructured documents.
-LEADTOOLS<ref name="leadtools-default"></ref>,1990<ref name="leadtools-corporate"></ref>,19.0,2014,,,,,,,C/C++  .NET  Objective-C  Java  JavaScript,,56<ref></ref>,Any printed font,PDF  PDF/A  DOC  DOCX  XLS  XPS  RTF  HTML  ANSI Text  Unicode Text  CSV<ref></ref>,Supports Latin  Asian  Arabic  and MICR character sets.<ref name="leadtools-default"/> For full page  zonal  and form image processing. Includes OCR  barcode  OMR and forms recognition.<ref></ref> ICR (handwritten text recognition) is supported.<ref></ref>
-CuneiForm,1996,1.1,2011-04-19,,,,,,,C/C++,,28,Any printed font,HTML  hOCR  native  RTF  TeX  TXT<ref>Debian manual page for Cuneiform for Linux version 1.1.0</ref>,Enterprise-class system  can save text formatting and recognizes complicated tables of any structure
-OCR.space,2015,3.02,2017,,,,,,,C#,,23,Any printed font,TXT,Windows desktop software  Windows Store application and online web app - converts scanned documents to editable text documents using OCR.
-SimpleOCR,2002,3.5,2008,,,,,,,,,,,
-Dynamsoft OCR SDK,2003,8.2,2012,,,,,,,C/C++,,40+<ref></ref>,,PDF  TXT
-OmniPage,1970s,19.2,2015,,,,,,,C/C++  C#<ref></ref>,,125<ref></ref>,Machine and handprinted fonts,DOC/DOCX XLS/XLSX PPTX RTF PDF PDF/A Searchable PDF HTML Text XML ePUB MP3,Product of Nuance Communications
-Microsoft Office OneNote 2007,2011,,2007,,,,,,,,,,,
-FreeOCR,,4.2,August 2012,,,,,,,,,,,,<ref></ref>
-gImageReader<ref></ref>,2009,3.2.99,2017-07,,,,,,,C++,,100+,Any printed font,TXT  PDF  hOCR,uses Tesseract OCR engine
-GOCR,2000,0.52<ref></ref>,2018-10-15,,<ref></ref>,,,,,C,,20+,,
-Ocrad,,0.26<ref></ref>,2017-03-31,,,,,,,C++,,Latin alphabet,,,Command line
-SmartScore,1991,10.5.8,2015-07,,,,,,,,,,,,For musical scores
-Microsoft Office Document Imaging,,Office 2007,2007,,,,,,,,,,,,Uses OmniPage
-OCR.net,2016,,2016,,,,,,,Java  C++  PHP  Objective-c,,100+,,TXT  Searchable PDF,Online service powered by PDF OCR X for conversions.
-PDF OCR X,2008,3.0.11,2018,,,,,,,Java  C++  Objective-C,,100+,,TXT  Searchable PDf,Drag and drop UI.
-Puma.NET,,,2009-10-29,,,,,,,C#,,28,Any printed font,,.NET OCR SDK based on Cognitive Technologies' CuneiForm recognition engine. Wraps Puma COM server and provides simplified API for .NET applications
-ReadSoft,,,14,,,,,,,,,,,,Scan  capture and classify business documents such as invoices  forms and purchase orders integrated with business processes.
-Scantron,,,,,,,,,,,,,,,For working with localized interfaces  corresponding language support is required.
-OCRFeeder,2009-03,0.8.1,2014-12-22,,,,,,,Python,,,,,Features a full user interface and has a command-line tool for automatic operations. Has its own segmentation algorithm but uses system-wide OCR engines like Tesseract or Ocrad
-OCRopus,2007,1.3.3,2017-12-16,,,,,,,Python,,All languages using Latin script (other languages can be trained),Normal Latin script and Fraktur (other scripts can be trained),TXT  hOCR<ref>OCRopus includes the ocropus-hocr tool which produces hOCR from the recognition results.</ref>  PDF<ref>In combination with the hocr-tools</ref>,Pluggable framework under active development  used for Google Books
-MathOCR,2014,0.0.3,2015,,,,,,,Java,,,,HTML  LaTeX,Features mathematical formula recognition and logical layout analysis  can use OCR engines like Tesseract or Ocrad as back-end.
-MeOCR,2012,1.0.0,2012,,,,,,,C/C++/C#,,28,Any printed font,HTML  hOCR  native  RTF  TeX  TXT,Windows application. Converts scanned documents to editable text documents using OCR and exports them to Microsoft Word with one click. Features a full user interface and also has a .NET Interface library<ref></ref> for developers.
-Yunmai OCR SDK,2002,1.0,2013,,,,,,,Java  C++  C  object pascal  objective-C,,14,Any printed font,TXT  PDF,Has the advantage of Chinese characters recognition.<ref></ref>
-Anyline SDK,last=|first=|date=2016-06-30|website=Anyline|publisher=|access-date=2016-06-30}}</ref>,3.5.1<ref name=":0"></ref>,2016<ref name=":0" />,</ref>}},,,,,,Java (Android)  Objective-C & Swift (iOS)  C# (Windows Phone  Xamarin)  JavaScript (Cordova)<ref></ref>,</ref>}},2 (German  English),last=|first=|date=2016-06-30|website=Anyline|publisher=|access-date=2016-06-30}}</ref>,Plain text  verification image,*Customizable mobile OCR SDK for Android  iOS  Windows Phone  Smart glasses (Google Glass  Epson Moverio ...)
-Name,Founded year,Latest stable version,Release year,License,Online,Windows,Mac OS X,Linux,BSD,Programming language,SDK?,Languages,Fonts,Output Formats,Notes
+Name
+Tesseract
+Readiris
+CIB ocr <ref></ref>
+Screenworm
+ExperVision<ref name="ExperVision-default"></ref> TypeReader & RTK
+AliusDoc AD-SCI<ref></ref>
+ABBYY FineReader
+E-aksharayan
+Asprise OCR SDK
+Nicomsoft OCR SDK
+AnyDoc Software
+LEADTOOLS<ref name="leadtools-default"></ref>
+CuneiForm
+OCR.space
+SimpleOCR
+Dynamsoft OCR SDK
+OmniPage
+Microsoft Office OneNote 2007
+FreeOCR
+gImageReader<ref></ref>
+GOCR
+Ocrad
+SmartScore
+Microsoft Office Document Imaging
+OCR.net
+PDF OCR X
+Puma.NET
+ReadSoft
+Scantron
+OCRFeeder
+OCRopus
+MathOCR
+MeOCR
+Yunmai OCR SDK
+Anyline SDK
+Name

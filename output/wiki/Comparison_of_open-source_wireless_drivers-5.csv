@@ -1,26 +1,26 @@
 Driver,Chipset,Integration,Free firmware<ref group="note" name="free firmware">'N/A' means firmware is stored in device at all times  'yes' means firmware is available for totally free redistribution  'no' means you have to get into non-free-software contract with the manufacturer to get access to the firmware</ref>,License,Original/Primary developer,Development methodologies,Free software<ref group=note name="'free software'">in terms of no binary-only requirements that are posed by the driver  i.e. you can modify all code that is run on your CPU</ref>
-an,Aironet 4500/4800  Cisco Aironet 340/350,Integrated,,BSD,Bill Paul (FreeBSD),Ported from FreeBSD,
-ath,Atheros AR521*/ AR2413/ AR2417/ AR5413/ AR5416/ AR5424/ AR9160,Integrated,,BSD,Sam Leffler (FreeBSD),Binary blobs ported from FreeBSD,
-athn,Atheros AR5008 up to the AR9287,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,
-atu,Atmel at76c503/ at76c503a/ at76c505/ at76c505a,Integrated,,BSD,Dan Vreeken (FreeBSD),Ported from OpenBSD,
-atw,ADMtek ADM8211,Integrated,,BSD,David Young (NetBSD),,
-awi,AMD PCnetMobile,Integrated,,BSD,,,
-bwi,Broadcom BCM430x/4318,Integrated,,BSD,Sepherosa Ziehau (DragonflyBSD),Ported from Dragonfly BSD,
-cnw,Netwave AirSurfer,Integrated,,BSD,,,
-ipw,Intel PRO/Wireless 2100,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,
-iwi,Intel PRO/Wireless 2200BG/2915ABG,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,
-iwm,Intel Wireless WiFi 7260  7265  3160,Integrated,,BSD,Antti Kantee (NetBSD),,
-iwn,Intel Wireless WiFi Link 4965/ 5000/ 1000/ 6000,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,
-malo,Marvell 88W8335/88W8310,Integrated,,BSD,Claudio Jeker (OpenBSD),Ported from OpenBSD,
-otus,Atheros AR9001U,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,
-ral,Ralink RT2500/ RT2501/ RT2600/ RT2500USB/RT3592,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,
-ray,Raytheon Raylink / WebGear Aviator,Integrated,,BSD,Christian E. Hopps (NetBSD),,
-rtw,Realtek RTL8180L,Integrated,,BSD,David Young (NetBSD),,
-rtwn,Realtek RTL8188CE and RTL8192CE,Integrated,,BSD,Stefan Sperling (OpenBSD),Ported from OpenBSD,
-run,Ralink RT2700U  RT2800U and RT3000U,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,
-upgt,Conexant/Intersil PrismGT SoftMAC USB IEEE 802.11b/g,Integrated,,BSD,Marcus Glocker (OpenBSD),Ported from OpenBSD,
-urtw,Realtek RTL8187B/L,Integrated,,BSD,Weongyo Jeong (FreeBSD),Ported from FreeBSD,
-urtwn,Realtek RTL8188CUS  RTL8188CE-VAU  RTL8188EUS  RTL8188RU  and RTL8192CU,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,
-wi,Lucent Technologies WaveLAN/IEEE and PRISM-II 802.11,Integrated,,BSD,Bill Paul,,
-wpi,Intel PRO/Wireless 3945ABG,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,
-zyd,ZyDAS ZD1211/ ZD1211B,Integrated,,BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,
+an,Aironet 4500/4800  Cisco Aironet 340/350,Integrated,[empty],BSD,Bill Paul (FreeBSD),Ported from FreeBSD,[empty]
+ath,Atheros AR521*/ AR2413/ AR2417/ AR5413/ AR5416/ AR5424/ AR9160,Integrated,[empty],BSD,Sam Leffler (FreeBSD),Binary blobs ported from FreeBSD,[empty]
+athn,Atheros AR5008 up to the AR9287,Integrated,[empty],BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,[empty]
+atu,Atmel at76c503/ at76c503a/ at76c505/ at76c505a,Integrated,[empty],BSD,Dan Vreeken (FreeBSD),Ported from OpenBSD,[empty]
+atw,ADMtek ADM8211,Integrated,[empty],BSD,David Young (NetBSD),[empty],[empty]
+awi,AMD PCnetMobile,Integrated,[empty],BSD,[empty],[empty],[empty]
+bwi,Broadcom BCM430x/4318,Integrated,[empty],BSD,Sepherosa Ziehau (DragonflyBSD),Ported from Dragonfly BSD,[empty]
+cnw,Netwave AirSurfer,Integrated,[empty],BSD,[empty],[empty],[empty]
+ipw,Intel PRO/Wireless 2100,Integrated,[empty],BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,[empty]
+iwi,Intel PRO/Wireless 2200BG/2915ABG,Integrated,[empty],BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,[empty]
+iwm,Intel Wireless WiFi 7260  7265  3160,Integrated,[empty],BSD,Antti Kantee (NetBSD),[empty],[empty]
+iwn,Intel Wireless WiFi Link 4965/ 5000/ 1000/ 6000,Integrated,[empty],BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,[empty]
+malo,Marvell 88W8335/88W8310,Integrated,[empty],BSD,Claudio Jeker (OpenBSD),Ported from OpenBSD,[empty]
+otus,Atheros AR9001U,Integrated,[empty],BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,[empty]
+ral,Ralink RT2500/ RT2501/ RT2600/ RT2500USB/RT3592,Integrated,[empty],BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,[empty]
+ray,Raytheon Raylink / WebGear Aviator,Integrated,[empty],BSD,Christian E. Hopps (NetBSD),[empty],[empty]
+rtw,Realtek RTL8180L,Integrated,[empty],BSD,David Young (NetBSD),[empty],[empty]
+rtwn,Realtek RTL8188CE and RTL8192CE,Integrated,[empty],BSD,Stefan Sperling (OpenBSD),Ported from OpenBSD,[empty]
+run,Ralink RT2700U  RT2800U and RT3000U,Integrated,[empty],BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,[empty]
+upgt,Conexant/Intersil PrismGT SoftMAC USB IEEE 802.11b/g,Integrated,[empty],BSD,Marcus Glocker (OpenBSD),Ported from OpenBSD,[empty]
+urtw,Realtek RTL8187B/L,Integrated,[empty],BSD,Weongyo Jeong (FreeBSD),Ported from FreeBSD,[empty]
+urtwn,Realtek RTL8188CUS  RTL8188CE-VAU  RTL8188EUS  RTL8188RU  and RTL8192CU,Integrated,[empty],BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,[empty]
+wi,Lucent Technologies WaveLAN/IEEE and PRISM-II 802.11,Integrated,[empty],BSD,Bill Paul,[empty],[empty]
+wpi,Intel PRO/Wireless 3945ABG,Integrated,[empty],BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,[empty]
+zyd,ZyDAS ZD1211/ ZD1211B,Integrated,[empty],BSD,Damien Bergamini (OpenBSD),Ported from OpenBSD,[empty]

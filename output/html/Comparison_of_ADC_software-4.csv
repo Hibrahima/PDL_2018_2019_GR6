@@ -1,13 +1,13 @@
 ADC hub,Encryption,IPv6,Plugin,Hash algorithms,Bloom filter,ADC support,Other
-ADCH++,Yes,Yes,Lua  Python  Ruby,Tiger tree hash,Yes,TIGR  PING  ADCS,
-ADCH++ GUI,Yes,No,Python,Tiger tree hash,Yes,TIGR  PING  ADCS,
-DSHub,Yes,No,Java  Python,Tiger tree hash,No,TIGR  PING  ADCS,
-FLexHub,Linux only,No,No,Tiger tree hash,No,TIGR  PING  ADCS,
-Luadch,Yes,Yes,Lua,Tiger tree hash,No,TIGR  PING  ADCS  KEYP  ASCH  SUDP  OSNR,
-Nexthub,Yes,No,C#,Tiger tree hash,No,TIGR  ADCS,
-uhub,Yes,Yes,C,Tiger tree hash,No,TIGR  PING  ADCS,
-Qhub,?,?,?,Tiger tree hash,No,TIGR,
-Starlet ADC Hub,No,No,No,Tiger tree hash,No,TIGR,
-Starhub,?,?,?,Tiger tree hash,No,TIGR,
-RusHub,No,?,No,Tiger tree hash,No,TIGR,
+ADCH++,Yes,Yes,Lua  Python  Ruby,Tiger tree hash,Yes,TIGR  PING  ADCS,[empty]
+ADCH++ GUI,Yes,No,Python,Tiger tree hash,Yes,TIGR  PING  ADCS,[empty]
+DSHub,Yes,No,Java  Python,Tiger tree hash,No,TIGR  PING  ADCS,[empty]
+FLexHub,Linux only,No,No,Tiger tree hash,No,TIGR  PING  ADCS,[empty]
+Luadch,Yes,Yes,Lua,Tiger tree hash,No,TIGR  PING  ADCS  KEYP  ASCH  SUDP  OSNR,[empty]
+Nexthub,Yes,No,C#,Tiger tree hash,No,TIGR  ADCS,[empty]
+uhub,Yes,Yes,C,Tiger tree hash,No,TIGR  PING  ADCS,[empty]
+Qhub,?,?,?,Tiger tree hash,No,TIGR,[empty]
+Starlet ADC Hub,No,No,No,Tiger tree hash,No,TIGR,[empty]
+Starhub,?,?,?,Tiger tree hash,No,TIGR,[empty]
+RusHub,No,?,No,Tiger tree hash,No,TIGR,[empty]
 ADC hub,Encryption,IPv6,Plugin,Hash algorithms,Bloom filter,ADC support,Other

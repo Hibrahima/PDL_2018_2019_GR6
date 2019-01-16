@@ -1,40 +1,40 @@
 Name,Panorama leveling,Vignetting correction,Lens distortion correcting,White balance correction,Exposure correction,Viewpoint adjustment,Notes
-Panoweaver Standard / Professional<ref>Panoweaver user's manual</ref>,,,,,,,
-Dermandar,,,,,,,
-i2Align Quickage Express / Pro<ref>"How Quickage works" page</ref>,,,,,,,
-Pixtra PanoStitcher<ref>PanoStitcher tutorial</ref>,,,,,,,Also chromatic aberration correction if correction parameters provided
-Pixtra OmniStitcher,,,,,,,Also chromatic aberration correction if correction parameters provided
-QuickPHOTO,,,,,,,
-PhotoFit Harmony / Premium<ref>PhotoFit features</ref>,,,,,,,
-PanoramaPlus X4<ref>PanoramaPlus X4 quickstart guide</ref>,,,,,,,
-PanoramaBuilder 7.0 / PanoramaBuilder 7.0 Pro,,,,,,,
-360 Panorama Professional,,,,,,,
-VRstitcher Fisheye Pro<ref>Product detaisl page</ref>,,,,,,,
-COOL 360,,,,,,,
-PanaVue ImageAssembler Std. / Pro. / Ent.<ref>ImageAssembler help files</ref>,,,,,,,
-The Panorama Factory v5<ref>The Panorama Factory feature page</ref>,,,,,,,
-PixMaker Lite / Home / Business,,,,,,,
-PTAssembler<ref>PTAssembler home page</ref>,,,,,,,
-PTgui / PTgui Pro,,,,,,<ref>PTgui viewpoint correction tutorial</ref>,
-Autopano Pro / Giga / Server,,,,,,*<ref>Autopano 2.5 announcement</ref>,(*) Giga only.
-Autostitch,,,,,,,
-Calico Panorama,,,,,,,
-Hugin,,,,,,<ref>Hugin tutorial — Stitching murals using mosaic mode</ref>,
-3DVista Stitcher 3.0,,,,,,,
-D Joiner<ref>D Joiner tips section</ref>,,,,,,,
-Panorama Maker 6,,,,,,,
-Photovista Panorama<ref>Photovista user's manual</ref>,,,,,,,
-PanoramaStudio / Pro <ref>PanoramaStudio feature overview page</ref>,,,,,,,
-Stitcher Unlimited 2009,,,,,,,
-ADG Panorama Tools / Pro,,,,,,,
-Panorama Composer 3<ref>Panorama Composer's lens settings</ref>,,,,,,,
-Image Composite Editor,,,,,,,
-Panorama Perfect<ref>http://www.volny.cz/panopohanka/</ref>,,,,,,,
-Photoshop,,,,,,,
-AIPR Lite 1,,*,,,,,(*) color mapping about the seams greatly mitigates the effects of vignetting
-Gigapan Stitch 1.0,,,,,,
-PanoramaMaker,,,,,,
-Panorama Stitcher,,,*,,,,(*) Only for rectilinear lenses
-SharpStitch,,,,,,,
-Pano2VR / Pano2VR pro<ref>Pano2VR product page</ref>,,,,,,,
+Panoweaver Standard / Professional<ref>Panoweaver user's manual</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dermandar,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+i2Align Quickage Express / Pro<ref>"How Quickage works" page</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pixtra PanoStitcher<ref>PanoStitcher tutorial</ref>,[empty],[empty],[empty],[empty],[empty],[empty],Also chromatic aberration correction if correction parameters provided
+Pixtra OmniStitcher,[empty],[empty],[empty],[empty],[empty],[empty],Also chromatic aberration correction if correction parameters provided
+QuickPHOTO,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PhotoFit Harmony / Premium<ref>PhotoFit features</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PanoramaPlus X4<ref>PanoramaPlus X4 quickstart guide</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PanoramaBuilder 7.0 / PanoramaBuilder 7.0 Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+360 Panorama Professional,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VRstitcher Fisheye Pro<ref>Product detaisl page</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+COOL 360,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PanaVue ImageAssembler Std. / Pro. / Ent.<ref>ImageAssembler help files</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+The Panorama Factory v5<ref>The Panorama Factory feature page</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PixMaker Lite / Home / Business,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PTAssembler<ref>PTAssembler home page</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PTgui / PTgui Pro,[empty],[empty],[empty],[empty],[empty],<ref>PTgui viewpoint correction tutorial</ref>,[empty]
+Autopano Pro / Giga / Server,[empty],[empty],[empty],[empty],[empty],*<ref>Autopano 2.5 announcement</ref>,(*) Giga only.
+Autostitch,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Calico Panorama,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hugin,[empty],[empty],[empty],[empty],[empty],<ref>Hugin tutorial — Stitching murals using mosaic mode</ref>,[empty]
+3DVista Stitcher 3.0,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+D Joiner<ref>D Joiner tips section</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Panorama Maker 6,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photovista Panorama<ref>Photovista user's manual</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PanoramaStudio / Pro <ref>PanoramaStudio feature overview page</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Stitcher Unlimited 2009,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ADG Panorama Tools / Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Panorama Composer 3<ref>Panorama Composer's lens settings</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Image Composite Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Panorama Perfect<ref>http://www.volny.cz/panopohanka/</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photoshop,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AIPR Lite 1,[empty],*,[empty],[empty],[empty],[empty],(*) color mapping about the seams greatly mitigates the effects of vignetting
+Gigapan Stitch 1.0,[empty],[empty],[empty],[empty],[empty],[empty],[added]
+PanoramaMaker,[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Panorama Stitcher,[empty],[empty],*,[empty],[empty],[empty],(*) Only for rectilinear lenses
+SharpStitch,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pano2VR / Pano2VR pro<ref>Pano2VR product page</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Name,Panorama leveling,Vignetting correction,Lens distortion correcting,White balance correction,Exposure correction,Viewpoint adjustment,Notes

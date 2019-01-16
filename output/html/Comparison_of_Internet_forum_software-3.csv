@@ -1,4 +1,4 @@
-,MySQL,PostgreSQL,MSSQL,Oracle,SQLite,Firebird,Flat file
+[empty],MySQL,PostgreSQL,MSSQL,Oracle,SQLite,Firebird,Flat file
 bbPress[2],Yes,No,No,No,No,No,No
 Beehive Forum,Yes,No,No,No,No,No,No
 Discourse,No,Yes,No,No,No,No,No

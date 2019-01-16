@@ -1,19 +1,19 @@
 Firewall,License,Cost,OS
-Clavister,,Included on all Clavister NGFWs,Proprietary operating system cOS Core
-Check Point,,Included on Check Point security gateways,Proprietary operating system Check Point IPSO and Gaia (Linux-based)
-FortiGate,,Included on all Fortigate devices
-Palo Alto Networks,,Included on Palo Alto Networks firewalls,Proprietary operating system PANOS
-Sophos,,Included on Sophos UTM,Linux-based appliance
-Cisco ASA Firepower,,Included on all CISCO ASA devices,Proprietary operating system
-Cisco PIX,,Included on all CISCO PIX devices,Proprietary operating system
-Juniper SSG,,Included on Netscreen security gateways,Proprietary operating system ScreenOS
-Juniper SRX,,Included on SRX security gateways,Proprietary operating system Junos
-Sonicwall,,Included on Dell appliance
-Barracuda Firewall,,Included Firewall Next Generation appliance,Windows-based appliance<br />embedded firewall distribution
-Cyberoam,,Included Firewall Sophos appliance,Windows-based appliance<br />embedded firewall distribution
-D-Link,,Included Firewall DFL,Windows-based appliance<br />embedded firewall distribution
-Endian Firewall,,Free / Paid,Linux-based appliance
-Forcepoint NGFW,,Included on all Forcepoint NGFW devices,Proprietary operating system
+Clavister,[empty],Included on all Clavister NGFWs,Proprietary operating system cOS Core
+Check Point,[empty],Included on Check Point security gateways,Proprietary operating system Check Point IPSO and Gaia (Linux-based)
+FortiGate,[empty],Included on all Fortigate devices,Proprietary  FortiOS  Based on the Linux kernel
+Palo Alto Networks,[empty],Included on Palo Alto Networks firewalls,Proprietary operating system PANOS
+Sophos,[empty],Included on Sophos UTM,Linux-based appliance
+Cisco ASA Firepower,[empty],Included on all CISCO ASA devices,Proprietary operating system
+Cisco PIX,[empty],Included on all CISCO PIX devices,Proprietary operating system
+Juniper SSG,[empty],Included on Netscreen security gateways,Proprietary operating system ScreenOS
+Juniper SRX,[empty],Included on SRX security gateways,Proprietary operating system Junos
+Sonicwall,[empty],Included on Dell appliance,Proprietary operating system SonicOS Based on the Linux kernel
+Barracuda Firewall,[empty],Included Firewall Next Generation appliance,Windows-based appliance<br />embedded firewall distribution
+Cyberoam,[empty],Included Firewall Sophos appliance,Windows-based appliance<br />embedded firewall distribution
+D-Link,[empty],Included Firewall DFL,Windows-based appliance<br />embedded firewall distribution
+Endian Firewall,[empty],Free / Paid,Linux-based appliance
+Forcepoint NGFW,[empty],Included on all Forcepoint NGFW devices,Proprietary operating system
 OPNsense,Simplified BSD / FreeBSD License,Free / Paid,FreeBSD-based appliance<br />firewall distribution
 pfSense,ESF/Apache 2.0,Free / Paid,FreeBSD-based appliance<br />firewall distribution
 Untangle,GPL,Free / Paid,Linux-based appliance<br />firewall distribution

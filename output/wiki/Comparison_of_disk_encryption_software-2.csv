@@ -1,71 +1,71 @@
 Name,Windows NT,Windows Mobile (incl.Pocket PC),FreeBSD,Linux,Mac OS X,NetBSD,OpenBSD,DragonFly BSD,Android,iOS
-Aloaha Crypt Disk,,,,,,,,,,
-BestCrypt Volume Encryption,,,,<ref></ref>,,,,,,
-BitArmor DataControl,,,,,,,,,,
-BitLocker,,,,<ref name=dislocker>https://github.com/Aorimn/dislocker FUSE driver to read/write Windows BitLocker-ed volumes under Linux / Mac OSX</ref>,<ref name=dislocker />,,,,,
-Bloombase Keyparc,,,,,,,,,,
-Boxcryptor,,,,,,,,,,
-CenterTools DriveLock,,,,,,,,,,
-CGD,,,,,,,,,,
-Check Point Full Disk Encryption,,,,<ref></ref>,,,,,,
-CipherShed,,,<ref>http://www.truecrypt.org/misc/freebsd Although CipherShed can be built under FreeBSD  it is not recommended to run it because of bugs and instabilities when CipherShed is attempted to be used</ref>,,,,,,<ref name="play.google.com">https://play.google.com/store/apps/details?id=com.sovworks.edslite Third party app allows to open containers encryptes with AES-256  SHA-512 hash and FAT file system</ref>,
-CrossCrypt,<ref>CrossCrypt - Only for the Microsoft Windows XP/2000 operating systems</ref>,,,,,,,,,
-CryFS,,,,,,,,,,
-Cryhod,,,,,,,,,,
-Cryptainer,,<ref>http://cypherix.com/downloads.htm PocketPC freeware release- SmartPhone beta available</ref>,,,,,,,,
-CryptArchiver,,,,,,,,,,
-Cryptoloop,<ref name="freeotfe.org">http://www.freeotfe.org/docs/Main/Linux_volumes.htm FreeOTFE supports cryptoloop  dm-crypt/cryptsetup/dmsetup  and dm-crypt/LUKS volumes</ref>,,,,,,,,,
-Cryptomator,<ref name="cryptomator.org">http://www.cryptomator.org</ref>,,,,,,,,,
-CryptoPro Secure Disk Enterprise,,,,,,,,,,
-CryptoPro Secure Disk for BitLocker,,,,,,,,,,
-Cryptsetup / Dmsetup,<ref name="freeotfe.org"/>,,,,,,,,,
-CryptSync,,,,,,,,,,
-Discryptor,,,,,,,,,,
-DiskCryptor,,,,,,,,,,
-DISK Protect,,,,,,,,,,
-Dm-crypt / LUKS,<ref name="freeotfe.org"/>,<ref>http://www.freeotfe.org/docs/Main/Linux_volumes.htm FreeOTFE4PDA supports dm-crypt/LUKS volumes</ref>,,,,,,,,
-DriveCrypt,,,,,,,,,,
-DriveSentry GoAnywhere 2,,,,,,,,,,
-E4M,,,,,,,,,,
-e-Capsule Private Safe,,,,,,,,,,
-eCryptfs,,,,,,,,,,
-EgoSecure HDD Encryption,,,,,,,,,,
-EncFS,<ref name="save"></ref>,<ref name="boxcryptor"></ref>,(FUSE),(FUSE),<ref name="save" />,(FUSE),(FUSE),(FUSE),<ref name="boxcryptor" />,
-EncryptStick,,,,,,,,,,
-FileVault,,,,,,,,,,
-FileVault 2,,,,<ref>https://code.google.com/p/libfvde/ libfvde supports reading FileVault2 Drive Encryption (FVDE) encrypted volumes</ref>,,,,,,
-FinalCrypt,,,,,,,,,,
-FREE CompuSec,,,,,,,,,,
-FreeOTFE,,,,<ref>http://www.freeotfe.org/docs/Main/Linux_volumes.htm Supports Linux volumes</ref>,,,,,,
-GBDE,,,,,,,,,,
-GELI,,,,,,,,,,
-Knox,,,,,,,,,,
-LibreCrypt,,,,<ref>https://github.com/t-d-k/LibreCrypt/blob/master/docs/Linux_volumes.md Supports Linux volumes</ref>,,,,,<ref>https://play.google.com/store/apps/details?id=com.nemesis2.luksmanager&hl=en_GB Third party app allows a user to open LibreCrypt compatible LUKS containers</ref>,
-Loop-AES,,,,,,,,,,
-McAfee Drive Encryption (SafeBoot),,<ref name="Endpoint Encryption for Mobile"></ref>,,,,,,,,
-n-Crypt Pro,,,,,,,,,,
-PGPDisk,,,,,,,,,,
-PGP Whole Disk Encryption,,,,,,,,,,
-Private Disk,,,,,,,,,,
-ProxyCrypt,,,,,,,,,,
-R-Crypto,,,,,,,,,,
-SafeGuard Easy,,,,,,,,,,
-SafeGuard Enterprise,,,,,,,,,,
-SafeGuard PrivateDisk,,,,,,,,,,
-SafeHouse Professional,,,,,,,,,,
-Scramdisk,,,,,,,,,,
-Scramdisk 4 Linux,,,,,,,,,,
-SecuBox,,,,,,,,,,
-SecureDoc,,,,,,,,,,
-Sentry 2020,,,,,,,,,,
-Softraid / RAID C,,,,,,,,,,
-SpyProof!,,,,,,,,,,
-Svnd / Vnconfig,,,,,,,,,,
-Symantec Endpoint Encryption,,,,<ref></ref>,,,,,,
-Tcplay,,,,,,,,,,
-Trend Micro Endpoint Encryption,,,,,,,,,,
-TrueCrypt,,,<ref>http://www.truecrypt.org/misc/freebsd Although TrueCrypt can be built under FreeBSD  it is not recommended to run it because of bugs and instabilities when TrueCrypt is attempted to be used</ref>,,,,,,<ref name="play.google.com"/>,
-USBCrypt,,,,,,,,,,
-VeraCrypt,,,,,,,,,<ref>https://play.google.com/store/apps/details?id=com.sovworks.eds.android Third party app allows to encrypt and decrypt VeraCrypt containers (only available in the paid version)</ref>,
-CyberSafe Top Secret,,,,,,,,,,
+Aloaha Crypt Disk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BestCrypt Volume Encryption,[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+BitArmor DataControl,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitLocker,[empty],[empty],[empty],<ref name=dislocker>https://github.com/Aorimn/dislocker FUSE driver to read/write Windows BitLocker-ed volumes under Linux / Mac OSX</ref>,<ref name=dislocker />,[empty],[empty],[empty],[empty],[empty]
+Bloombase Keyparc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Boxcryptor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CenterTools DriveLock,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CGD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Check Point Full Disk Encryption,[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+CipherShed,[empty],[empty],<ref>http://www.truecrypt.org/misc/freebsd Although CipherShed can be built under FreeBSD  it is not recommended to run it because of bugs and instabilities when CipherShed is attempted to be used</ref>,[empty],[empty],[empty],[empty],[empty],<ref name="play.google.com">https://play.google.com/store/apps/details?id=com.sovworks.edslite Third party app allows to open containers encryptes with AES-256  SHA-512 hash and FAT file system</ref>,[empty]
+CrossCrypt,<ref>CrossCrypt - Only for the Microsoft Windows XP/2000 operating systems</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CryFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cryhod,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cryptainer,[empty],<ref>http://cypherix.com/downloads.htm PocketPC freeware release- SmartPhone beta available</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CryptArchiver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cryptoloop,<ref name="freeotfe.org">http://www.freeotfe.org/docs/Main/Linux_volumes.htm FreeOTFE supports cryptoloop  dm-crypt/cryptsetup/dmsetup  and dm-crypt/LUKS volumes</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cryptomator,<ref name="cryptomator.org">http://www.cryptomator.org</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CryptoPro Secure Disk Enterprise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CryptoPro Secure Disk for BitLocker,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cryptsetup / Dmsetup,<ref name="freeotfe.org"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CryptSync,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Discryptor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DiskCryptor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DISK Protect,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dm-crypt / LUKS,<ref name="freeotfe.org"/>,<ref>http://www.freeotfe.org/docs/Main/Linux_volumes.htm FreeOTFE4PDA supports dm-crypt/LUKS volumes</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DriveCrypt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DriveSentry GoAnywhere 2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+E4M,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+e-Capsule Private Safe,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eCryptfs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+EgoSecure HDD Encryption,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+EncFS,<ref name="save"></ref>,<ref name="boxcryptor"></ref>,(FUSE),(FUSE),<ref name="save" />,(FUSE),(FUSE),(FUSE),<ref name="boxcryptor" />,[empty]
+EncryptStick,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FileVault,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FileVault 2,[empty],[empty],[empty],<ref>https://code.google.com/p/libfvde/ libfvde supports reading FileVault2 Drive Encryption (FVDE) encrypted volumes</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+FinalCrypt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FREE CompuSec,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeOTFE,[empty],[empty],[empty],<ref>http://www.freeotfe.org/docs/Main/Linux_volumes.htm Supports Linux volumes</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+GBDE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GELI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Knox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LibreCrypt,[empty],[empty],[empty],<ref>https://github.com/t-d-k/LibreCrypt/blob/master/docs/Linux_volumes.md Supports Linux volumes</ref>,[empty],[empty],[empty],[empty],<ref>https://play.google.com/store/apps/details?id=com.nemesis2.luksmanager&hl=en_GB Third party app allows a user to open LibreCrypt compatible LUKS containers</ref>,[empty]
+Loop-AES,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+McAfee Drive Encryption (SafeBoot),[empty],<ref name="Endpoint Encryption for Mobile"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+n-Crypt Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PGPDisk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PGP Whole Disk Encryption,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Private Disk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ProxyCrypt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+R-Crypto,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SafeGuard Easy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SafeGuard Enterprise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SafeGuard PrivateDisk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SafeHouse Professional,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scramdisk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scramdisk 4 Linux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SecuBox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SecureDoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sentry 2020,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Softraid / RAID C,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SpyProof!,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Svnd / Vnconfig,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Symantec Endpoint Encryption,[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Tcplay,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Trend Micro Endpoint Encryption,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TrueCrypt,[empty],[empty],<ref>http://www.truecrypt.org/misc/freebsd Although TrueCrypt can be built under FreeBSD  it is not recommended to run it because of bugs and instabilities when TrueCrypt is attempted to be used</ref>,[empty],[empty],[empty],[empty],[empty],<ref name="play.google.com"/>,[empty]
+USBCrypt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VeraCrypt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>https://play.google.com/store/apps/details?id=com.sovworks.eds.android Third party app allows to encrypt and decrypt VeraCrypt containers (only available in the paid version)</ref>,[empty]
+CyberSafe Top Secret,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Name,Windows NT,Windows Mobile (incl. Pocket PC),FreeBSD,Linux,Mac OS X,NetBSD,OpenBSD,DragonFly BSD,Android,iOS

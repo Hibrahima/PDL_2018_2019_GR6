@@ -1,27 +1,27 @@
 Name,Show in-line changes,Directory comparison,Binary comparison,Moved lines,3-way comparison,Merge,Structured comparison<ref name="ReferenceA">Compare logical sections (class  methods)</ref>,Manual compare alignment,Image Compare
-Beyond Compare,,,,,(Files and Folders),(Pro only),,,
-Compare++,,,,,,,(C/C++ C# Java Javascript CSS3),,
-diff,,,partly,,,,,,
-diff3,,,,,(non-optional),,,,
-Eclipse (compare),,,,,(only ancestor),,,,
-Ediff,,,,,,,,,
-ExamDiff Pro,,,,<ref>Examdiff</ref>,(ExamDiff Pro Master only)<ref> Examdiff</ref>,,,,
-Far Manager (compare),(Via plugin) <ref name="Visual Rename">Visual Rename</ref>,,,(Via plugin) <ref name="Visual Rename"/>,,,,,
-fc,,,,,,,,,
-FileMerge (aka opendiff),,,,,(optional ancestor),,,,
-Guiffy SureMerge,,,,,,,,,
-IntelliJ IDEA (compare),,,,,,,,,
-jEdit JDiff plugin,,,,,,,,,
-Kompare,,,,,,,,,
-Lazarus Diff,,,,,,,,,
-Meld,,,,,,,,,
-Notepad++ (compare),,,,,,,,
-Perforce P4Merge,,,,,,,,,
-Pretty Diff,,,,,,,,,
-Tkdiff,,,,,,,,,
-Total Commander (compare),,,,,,,,,
-vimdiff,,(via DirDiff plugin),,,,,,,
-WinDiff,,,,,,,,,
-WinMerge,,,,,(Via a fork) <ref name="Winmerge jp version">Winmerge jp version</ref>,,,,(Via a fork) <ref name="Winmerge jp version"/>
-UCC,,,,,,,,,
+Beyond Compare,[empty],[empty],[empty],[empty],(Files and Folders),(Pro only),[empty],[empty],[empty]
+Compare++,[empty],[empty],[empty],[empty],[empty],[empty],(C/C++ C# Java Javascript CSS3),[empty],[empty]
+diff,[empty],[empty],partly,[empty],[empty],[empty],[empty],[empty],[empty]
+diff3,[empty],[empty],[empty],[empty],(non-optional),[empty],[empty],[empty],[empty]
+Eclipse (compare),[empty],[empty],[empty],[empty],(only ancestor),[empty],[empty],[empty],[empty]
+Ediff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ExamDiff Pro,[empty],[empty],[empty],<ref>Examdiff</ref>,(ExamDiff Pro Master only)<ref> Examdiff</ref>,[empty],[empty],[empty],[empty]
+Far Manager (compare),(Via plugin) <ref name="Visual Rename">Visual Rename</ref>,[empty],[empty],(Via plugin) <ref name="Visual Rename"/>,[empty],[empty],[empty],[empty],[empty]
+fc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FileMerge (aka opendiff),[empty],[empty],[empty],[empty],(optional ancestor),[empty],[empty],[empty],[empty]
+Guiffy SureMerge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IntelliJ IDEA (compare),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+jEdit JDiff plugin,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Kompare,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Lazarus Diff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Meld,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Notepad++ (compare),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Perforce P4Merge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pretty Diff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tkdiff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Total Commander (compare),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+vimdiff,[empty],(via DirDiff plugin),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinDiff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinMerge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UCC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Name,Show in-line changes,Directory comparison,Binary comparison,Moved lines,3-way comparison,Merge,Structured comparison<ref name="ReferenceA"/>,Manual compare alignment,Image compare

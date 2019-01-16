@@ -1,4 +1,4 @@
-,Directives[Note 1],Conditionals,Atomic groups[Note 2],Named capture[Note 3],Comments,Embedded code,Unicode property support [20],Balancing groups[Note 4],Variable-length look-behinds[Note 5]
+[empty],Directives[Note 1],Conditionals,Atomic groups[Note 2],Named capture[Note 3],Comments,Embedded code,Unicode property support [20],Balancing groups[Note 4],Variable-length look-behinds[Note 5]
 Boost.Regex,Yes,Yes,Yes,Yes,Yes,No,Some[Note 6],No,No
 Boost.Xpressive,Yes,No,Yes,Yes,Yes,No,No,No,No
 CL-PPCRE,Yes,Yes,Yes,Yes,Yes,Yes,Some[Note 6],No,No

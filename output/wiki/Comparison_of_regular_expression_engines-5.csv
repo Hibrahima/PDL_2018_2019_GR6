@@ -1,15 +1,15 @@
 + API feature comparison
-,Native UTF-16 support,Native UTF-8 support,Multi-line matching,Partial match
-Boost.Regex,,,,
-GLib/GRegex,,,,
-Helios RXPF,,,,
-ICU Regex,,,,
-Java,,,,
-.NET,,,,
-PCRE,,,,
-Qt/QRegExp,,,,
-Tcl,,,,
-TRE,,,,
-RGX,,,,
-wxWdigets::wxRegEx,,,,
-XRegExp,,,,
+[empty]
+Boost.Regex
+GLib/GRegex
+Helios RXPF
+ICU Regex
+Java
+.NET
+PCRE
+Qt/QRegExp
+Tcl
+TRE
+RGX
+wxWdigets::wxRegEx
+XRegExp

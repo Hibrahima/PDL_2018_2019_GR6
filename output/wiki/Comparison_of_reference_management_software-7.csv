@@ -1,32 +1,32 @@
 Software,Word for Windows,Word for Mac,Pages,Apache OpenOffice / LibreOffice,Kile/LyX,Google Docs,RTF scan<ref name="Reformat RTF">Can reformat references in a properly saved RTF document  allowing limited use in OpenOffice.org Writer  StarOffice  FrameMaker  Microsoft Works  WordPad  WordPerfect  Google Docs and others.</ref>,Other
-Aigaion,,,,,,,,
-Bebop,,,,,,,,
-BibBase,,,,,,,,
-BibDesk,,,,,,,,
-Biblioscape,,,,,,,,
-BibSonomy,,,,,,,,
-Bibus,,,,,,,,
-Bookends,,,,,,,,
-Citavi,,,,,<ref>Detailed setup guide "Citavi + LyX". Citavi. Retrieved 2014-07-10.</ref>,,,
-CiteULike,,,,,,,,
-colwiz,,,,,,,,
-EndNote,,,,<ref></ref>,,,,
-F1000Workspace,,,,,,,,
-JabRef,<ref>See JabRef FAQ: Field Mapping between MS-Office and JabRef.</ref>,,,<ref>See JabRef FAQ: OpenOffice/LibreOffice integration.</ref>,,,,
-KBibTeX,,,,,,,,
-Mendeley,,<ref>Will transfer you to the Desktop App to choose a reference. Broken in OSX Sierra and High Sierra.</ref>,,,,,,
-Paperpile,,,,,,,,
-Papers,,,,,,,,
-Pybliographer,,,,,,,,
-Qiqqa,,,,,,,,
-ReadCube,,,,,,,,
-refbase,,,,<ref>Refbase can create a spreadsheet for import into an OO.o database to use the native OO.o bibliography tool. Refbase's MySQL database can additionally be used directly by OO.o http://wiki.refbase.net/index.php/OO.o_Writer_integration.</ref>,,,,
-RefDB,,,,,,,,
-Reference Manager,,,,,,,,
-Referencer,,,,,,,,
-RefWorks,,,,,,,,
-SciRef,,,,,,,,
-Sente,,,,,,,,
-Wikindx,,,,,,,,
-WizFolio,,,,,,,,
-Zotero,,,,,,,,
+Aigaion,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bebop,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BibBase,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BibDesk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Biblioscape,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BibSonomy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bibus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bookends,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Citavi,[empty],[empty],[empty],[empty],<ref>Detailed setup guide "Citavi + LyX". Citavi. Retrieved 2014-07-10.</ref>,[empty],[empty],[empty]
+CiteULike,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+colwiz,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+EndNote,[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty]
+F1000Workspace,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JabRef,<ref>See JabRef FAQ: Field Mapping between MS-Office and JabRef.</ref>,[empty],[empty],<ref>See JabRef FAQ: OpenOffice/LibreOffice integration.</ref>,[empty],[empty],[empty],[empty]
+KBibTeX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mendeley,[empty],<ref>Will transfer you to the Desktop App to choose a reference. Broken in OSX Sierra and High Sierra.</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Paperpile,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Papers,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pybliographer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Qiqqa,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReadCube,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+refbase,[empty],[empty],[empty],<ref>Refbase can create a spreadsheet for import into an OO.o database to use the native OO.o bibliography tool. Refbase's MySQL database can additionally be used directly by OO.o http://wiki.refbase.net/index.php/OO.o_Writer_integration.</ref>,[empty],[empty],[empty],[empty]
+RefDB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Reference Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Referencer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RefWorks,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SciRef,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sente,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Wikindx,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WizFolio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zotero,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

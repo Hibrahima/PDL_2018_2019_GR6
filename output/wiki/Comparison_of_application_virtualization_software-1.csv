@@ -1,13 +1,13 @@
 Virtual machine,Machine model,Memory management,Code security,Interpreter,JIT,AOT,Shared libraries,Common Language Object Model,Dynamic typing
-Android Runtime (ART),register,automatic,,,,,,,
-Common Language Runtime (CLR),stack,automatic or manual,,,,,,,
-Dis (Inferno),register,automatic,,,,,,,
-DotGNU Portable.NET,stack,automatic or manual,,,,,,,
-Java virtual machine (JVM),stack,automatic,,,,,,,<ref></ref>
-JikesRVM,stack,automatic,,,,,,,
-LLVM,register,manual,,,,,,,
-Mono,stack,automatic or manual,,,,,,,
-Parrot,register,automatic,,,<ref></ref>,,,,
-Dalvik,register,automatic,,,,,,,
-Squeak,stack,automatic,,,,,,,
-BEAM (Erlang),register,automatic,,,,,,,
+Android Runtime (ART),register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Common Language Runtime (CLR),stack,automatic or manual,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dis (Inferno),register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DotGNU Portable.NET,stack,automatic or manual,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Java virtual machine (JVM),stack,automatic,[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>
+JikesRVM,stack,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LLVM,register,manual,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mono,stack,automatic or manual,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Parrot,register,automatic,[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty]
+Dalvik,register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Squeak,stack,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BEAM (Erlang),register,automatic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]

@@ -7,5 +7,5 @@ Finalizers/destructors,Yes,Yes
 Instance initializers,Yes,No; can be simulated with instance constructor
 Object initialization,Bottom-up (fields and constructors),Top-down (fields); bottom-up (constructors)
 Object initializers,Yes,Yes
-Collection initializers,No; can be simulated with methods initializers,Yes
+Collection initializers,No; static varargs methods,Yes
 Array initializers,Yes,Yes

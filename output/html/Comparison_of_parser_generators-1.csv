@@ -14,7 +14,7 @@ gplex,DFA,C#,mixed,.NET CLR,BSD-like
 JFlex,DFA,Java,mixed,Java Virtual Machine,BSD
 JLex,DFA,Java,mixed,Java Virtual Machine,BSD-like
 lex,DFA,C,mixed,POSIX,Proprietary  CDDL
-lexertl,DFA,C++,,all,GNU LGPL
+lexertl,DFA,C++,[empty],all,GNU LGPL
 LRSTAR,DFA,C++,separate,Windows,Proprietary
 Quex,DFA direct code,C  C++,mixed,all,GNU LGPL
 Ragel,DFA,C  C++  Assembly  Objective C  D  Go  Ruby  Java  C#  OCaml  Crack  Rust  Julia,mixed,all,GNU GPL  MIT[1][1][1][1]

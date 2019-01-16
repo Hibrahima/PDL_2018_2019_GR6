@@ -1,4 +1,4 @@
-,Native UTF-16 support[Note 1],Native UTF-8 support[Note 1],Multi-line matching,Partial match[Note 2]
+[empty],Native UTF-16 support[Note 1],Native UTF-8 support[Note 1],Multi-line matching,Partial match[Note 2]
 Boost.Regex,No,No,Yes,Yes
 GLib/GRegex,Yes,Yes,Yes,Yes
 Helios RXPF,Yes,Yes,No,Yes

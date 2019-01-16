@@ -1,4 +1,4 @@
-,Creator,Language,First public release,Latest stable version,Cost (USD),License,Notes
+[empty],Creator,Language,First public release,Latest stable version,Cost (USD),License,Notes
 ALGLIB,Sergey Bochkanov,C++  C#  FreePascal,2006,3.12.0 / August 2017,Dual licensed,GPL/commercial,General purpose numerical analysis library. Cross-platform (Windows  *nix).
 Armadillo,NICTA,C++,2009,3.900 / 2013,Free,MPL,C++ template library for linear algebra; includes various decompositions and factorisations; syntax (API) is similar to MATLAB.
 GNU Scientific Library,GNU Project,C,1996,2.3 / December 2016,Free,GPL,General purpose numerical analysis library. Targets GNU/Linux  can be built on almost any *nix OS with Ansi C compiler.

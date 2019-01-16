@@ -1,104 +1,104 @@
-Engine,Origin,Designer,Vehicle,Use,Propellant,Specific impulse (s),Thrust (N),Mass (kg),Thrust/ weight ratio{{efn|Computed as <math>Thrust\ (\mathrm{N})} \over {Mass\ (\mathrm{kg}) \times Gravity\ (\mathrm{m/s^2})</math>}},Chamber pressure (bar),Oxidiser to Fuel Ratio
-Aestus,}},Airbus Defence and Space,Ariane 5 G  G+  ES,Upper,[[Dinitrogen tetroxide|N2O4]] / MMH,<ref name="Aestus_Airbus"></ref>,,,,,1.9
-Aestus II,,Airbus Defence and Space,Ariane 5,Upper,[[Dinitrogen tetroxide|N2O4]] / MMH,<ref name="AestusII_Airbus"></ref>,,,,,1.9
-AJ-60A,,Aerojet,Atlas V,Booster,Solid,,<ref name=aerojet-aj60a></ref>,,,,
-AR1,,Aerojet Rocketdyne,Vulcan (potential),1st,RP-1 / LOX,,(SL)<ref>http://www.rocket.com/ar1-booster-engine</ref>,,,,2.72
-BE-3,,Blue Origin,New Glenn New Shepard,1st 2nd 3rd,[[Liquid hydrogen|LH2]] / LOX,,,,,,
-BE-4,,Blue Origin,New Glenn Vulcan,1st,[[Liquid methane|CH4]] / LOX,,<ref name="sn20140917"></ref><ref name="BE-4"></ref>,,,<ref name=ars20160309></ref>,
-Boeing 601HP,,Boeing,Boeing 601HP satellites,Ion thruster,Xenon,@0.5 kW,@0.5 kW,,,,
-CE-20,,LPSC,GSLV Mk III,Upper,[[Liquid hydrogen|LH2]] / LOX,,,,,,5.05
-CE-7.5,,LPSC,GSLV Mk II,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="CE7.5"></ref>,to,,,,
-F-1,,Rocketdyne,Saturn V,1st,RP-1 / LOX,(SL),(SL),,,,2.27
-F-1A<ref>Alternate Propulsion Subsystem Concepts NAS8-39210 DCN 1-1-PP-02147</ref>,,Rocketdyne,,1st,RP-1 / LOX,(SL),(SL),,,,2.27
-Gamma 2,,Bristol Siddeley,Black Arrow,2nd,RP-1 / [[Hydrogen peroxide|H2O2]],<ref name="Gamma2"></ref>,,,,,8
-Gamma 8,,Bristol Siddeley,Black Arrow,1st,RP-1 / [[Hydrogen peroxide|H2O2]],<ref name="Gamma8"></ref>,,,,,8
-Hadley,,Ursa Major Technologies,GOLauncher 1<ref></ref>,1st,RP-1 / LOX,,(SL)<ref></ref>,,,,
-HiPEP,,NASA,Jupiter Icy Moons Orbiter,Ion thruster,Xenon,@39.3 kW,@39.3 kW,,,,
-HM-7A,,Snecma,Ariane 1,3rd,[[Liquid hydrogen|LH2]] / LOX,<ref name="HM7A"></ref> (SL),,,,,5
-HM-7B,,Snecma,Ariane 2 Ariane 3 Ariane 4 Ariane 5 ECA,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="HM7B_Astrium"></ref> (SL)<ref name="HM7B_Astronautix"></ref>,<ref name="HM7B_Astrium" /> (SL)<ref name="HM7B_Astronautix" />,<ref name="HM7B_Astrium" />,,<ref name="HM7B_Astrium" />,5
-J-2,,Rocketdyne,Saturn V Saturn IB,2nd  3rd,[[Liquid hydrogen|LH2]] / LOX,<ref name="J-2"></ref> (SL),(SL),,,,5.5
-J-2X,,Pratt & Whitney Rocketdyne,SLS,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="J-2X"></ref>,}},}},,}},5.5-4.5
-LE-5,,Mitsubishi NASDA,H-I,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="LE-5"></ref>,,,,,5.5
-LE-5A,,Mitsubishi NASDA,H-II,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="LE-5A"></ref>,,,,,5
-LE-5B,,Mitsubishi JAXA,H-IIA<br />H-IIB,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="LE-5B"></ref>,,,,,5
-LE-7,,Mitsubishi NASDA,H-II,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="LE-7"></ref>,(SL),,,,5.9
-LE-7A,,Mitsubishi JAXA,H-IIA<br />H-IIB,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="LE-7A"></ref> (SL)<ref name="LE-7A" />,,,,,5.9
-last=Aerospace|first=Firefly|website=www.fireflyspace.com|language=en|access-date=2018-09-24}}</ref>,,Firefly Aerospace,Alpha,2nd,RP-1 / LOX,,,,,,
-Merlin 1C,,SpaceX,,1st 2nd,RP-1 / LOX,<ref name="merlin 1c spec"></ref> (SL)<ref name="merlin 1c falcon9"></ref>,<ref name="merlin 1c spec" /> (SL)<ref name="merlin 1c spec" />,,<ref name="merlin 1c spec" />,,
-Merlin 1D,,SpaceX,Falcon 9 v1.1,1st,RP-1 / LOX,<ref name="spacexfalcon9Merlinpage"></ref> (SL)<ref name="spacexfalcon9Merlinpage" />,<ref name="Quora150"></ref>,<ref name="Quora150" />,<ref name="Quora150" />,,2.34
-Merlin 1D FT,,SpaceX,Falcon 9 FT Falcon Heavy,1st,RP-1 / LOX,<ref name="spacexfalcon9Merlinpage" /> (SL)<ref name="spacexfalcon9Merlinpage" />,<ref name="Merlin 1D Full Thrust"></ref> (SL)<ref name="Merlin 1D Full Thrust" />,<ref name="Quora150" />,<ref name="Merlin 1D Full Thrust" />,,
-Merlin Vacuum 1C,,SpaceX,,2nd,RP-1 / LOX,<ref name="merlin 1c falcon9" />,<ref name="merlin 1c falcon9" />,,,,
-Merlin Vacuum 1D,,SpaceX,Falcon 9 Falcon Heavy,2nd,RP-1 / LOX,<ref name="Merlin Vacuum 1D"></ref>,<ref name="Merlin Vacuum 1D" />,,,,2.36
-Mira (LM10),,Avio,Vega E<ref name="LM10Mira"></ref>,3rd<ref name="LM10Mira"></ref>,[[Liquid methane|CH4]]/LOX<ref name="LM10Mira"></ref>,<ref name="LM10Mira"></ref>,<ref name="LM10Mira"></ref>,<ref name="LM10Mira"></ref>,<ref name="LM10Mira"></ref>,,<ref name="LM10Mira"></ref>
-NewtonThree,,Virgin Galactic,LauncherOne,Booster,RP-1 / LOX,,<ref name="virgingalactic1"></ref>,,,,
-NewtonFour,,Virgin Galactic,LauncherOne,2nd,RP-1 / LOX,,<ref name="virgingalactic1"/>,,,,
-NEXT,,NASA,,Ion thruster,Xenon,@6.9 kW,@6.9 kW,,,,
-NK-33A (AJ26-62) 11Д111 / 14Д15,,JSC Kuznetsov,Antares 100 Soyuz-2-1v,1st,RP-1 / LOX,<ref name="NK33"></ref>,,,,,
-NSTAR<ref name="NSTAR"></ref><ref name="NSTAR_boeing"></ref>,,Hughes Electron Dynamics Boeing,Dawn,Ion thruster,Xenon,@2.3 kW,@2.3 kW,,,,
-P80<ref name="AvioVegaLeaflet"></ref><ref name="ESAflightVV01"></ref><ref name="ELV"></ref>,,,Vega,1st,HTPB,,,with fuel,,,
-P120C<ref name="P120Ctestfire">Press release: Successful first test firing for the P120C solid rocket motor for Ariane 6 and Vega-C</ref>,,,Ariane 6/Vega-C,Booster/1st,HTPB<ref>Powerful new European solid-fueled rocket motor aces first test-firing</ref>,<ref name="P120Ctestfire" />,<ref name="P120Ctestfire" />,with fuel<ref name="P120Ctestfire" />,,,
-P230,,SNPE and Avio Spa (Italy),Ariane 5,Booster,HTPB,<ref name="P230"></ref> (SL),(SL),with fuel<ref name="P230" />,,,
-PPS-1350 (СПД-100),,OKB Fakel,SMART-1,Hall thruster,Xenon,@1.5 kW,@1.5 kW,,,,
-S139,,SDSC,PSLV,1st,HTPB,<ref name="PSLV-1"></ref>,,with fuel,,,
-Raptor<ref name="SpaceX Raptor"/>,,SpaceX,BFR,1st  2nd,[[Liquid methane|CH4]] / LOX,<ref name=youtube-makinglifemulti></ref> (SL),(SL),,,<ref name=":0"></ref>,3.8
-Raptor Vacuum<ref name="SpaceX Raptor"></ref>,,SpaceX,BFR,2nd  1st on Mars,[[Liquid methane|CH4]] / LOX,<ref name="youtube-makinglifemulti" />,,,<ref name=":0" />,3.8
-RD-0120 11Д122,,KBKhA,Energia,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="RD-0120"></ref>,,,,,
-RD-0124 14Д23,,KBKhA,Soyuz-2.1b Soyuz-2-1v Angara,2nd  3rd,RP-1 / LOX,<ref name="RD-0124"></ref>,,,,,
-RD-107A 14Д22,,NPO Energomash,Soyuz-FG Soyuz-2,1st,RP-1 / LOX,<ref name="RD-107A and RD-108A"></ref> (SL),(SL),,,,
-RD-108A 14Д21,,NPO Energomash,Soyuz-FG Soyuz-2,2nd,RP-1 / LOX,<ref name="RD-107A and RD-108A" /> (SL),(SL),,,,
-RD-117 11Д511,,NPO Energomash,Soyuz-U,1st,RP-1 / LOX,<ref name="lpre"></ref> (SL),(SL),,,,
-RD-118 11Д512,,NPO Energomash,Soyuz-U,2nd,RP-1 / LOX,<ref name="lpre" /> (SL),(SL),,,,
-RD-171M11Д520,,NPO Energomash,Zenit-2M Zenit-3SL Zenit-3SLB Zenit-3SLBF Soyuz-5,1st,RP-1 / LOX,<ref name="RD-171M"></ref> (SL),(SL),,,,
-RD-17011Д521,,NPO Energomash,Energia,1st,RP-1 / LOX,(SL),(SL),,,,
-RD-180,,NPO Energomash,Atlas V Atlas III,1st,RP-1 / LOX,<ref name="RD-180"></ref> (SL),(SL),,,,2.72
-RD-181,,NPO Energomash,Antares 200,1st,RP-1 / LOX,<ref>http://spaceflight101.com/spacerockets/antares-200-series/</ref> (SL),(SL),,,,
-RD-191,,NPO Energomash,Angara,1st,RP-1 / LOX,<ref name="RD-191"></ref> (SL),(SL),,,,
-RD-193,,NPO Energomash,Soyuz-2-1v,1st,RP-1 / LOX,<ref name="RD-193 Engine"></ref>,(SL),,,,
-RD-264 11Д119,,NPO Energomash,Dnepr,1st,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="RD-264"></ref> (SL),,,,,
-RD-275M 14Д14М,,NPO Energomash,Proton-M,1st,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="RD-275M"></ref> (SL),(SL),,,,
-RD-56 (KVD-1) 11Д56У,,KBKhM,GSLV Mk I,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="KVD1"></ref>,,,,,
-Reaver 1<ref name=":1" />,,Firefly Aerospace,Alpha,1st,RP-1 / LOX,,,,,,
-RL-10A-4-2<ref name="RL-10A-4-2"></ref>,,Aerojet Rocketdyne,Atlas IIIB Atlas V,Upper,[[Liquid hydrogen|LH2]] / LOX,,,,,,
-RL-10B-2<ref name="RL-10B-2"></ref>,,Aerojet Rocketdyne,Delta III Delta IV SLS,Upper,[[Liquid hydrogen|LH2]] / LOX,,,,,,
-RL-10C-1<ref name="RL-10C-1"></ref>,,Aerojet Rocketdyne,Delta III Delta IV SLS  Vulcan,Upper,[[Liquid hydrogen|LH2]] / LOX,,,,,,
-RS-25 (SSME),,Rocketdyne,Space Shuttle SLS,1st,[[Liquid hydrogen|LH2]] / LOX,,(SL)<ref name="aerojet">Aerojet Rocketdyne  RS-25 Engine (accessed July 22  2014)</ref>,,,,
-RS-68A,,Rocketdyne,Delta IV Delta IV Heavy,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="RS-68A"></ref>,(SL),,,date=June 2017}},
-Rutherford,,Rocket Lab,Electron,1st  2nd,RP-1 / LOX,,(SL),,,,
-S200,,SDSC,GSLV Mk III,Booster,HTPB,<ref name="isrolvm3"></ref>,<ref name="isros200">ISRO Press Release: S200 First Static Test (S-200-ST-01)</ref><ref name="dnai3sb"></ref><ref></ref>,with fuel<ref name="isrolvm3" />,,,
-SCE-200,,LPSC,GSLV Mk III ULV,Upper / Main,RP-1 / LOX,(SL),(SL),,,,
-SLS Solid Rocket Booster,,Orbital ATK,SLS,Booster,PBAN,,,with fuel,,,
-SLV-1,,Godrej & Boyce,PSLV,Booster,HTPB,<ref name="SLV-1"></ref>,,with fuel,,,
-Space Shuttle Solid Rocket Booster,,Thiokol,Space Shuttle Ares I,Booster,PBAN / APCP,,(SL),with fuel,,,
-SPT-100,,OKB Fakel,LS-1300 satellites,Hall thruster,Xenon,@1.35 kW,@1.35 kW,,,,
-SRB-A,,IHI Aerospace JAXA,H-IIA,Booster,HTPB,<ref name="SRB-A"></ref>,,with fuel,,,
-SRB-A3,,IHI Aerospace JAXA,H-IIB Epsilon,Booster,BP-207J<ref name="SRB-A3"></ref>,<ref name="SRB-A3" />,(SL),with fuel,,,
-UA1207,,United Technologies,Titan IV,Booster,PBAN,<ref name="UA1207"></ref> (SL),(SL),with fuel,,,
-VASIMR,,Ad Astra Rocket Company,,Electro-magnetic thruster,Argon,@200 kW,@200 kW,,,,
-Vikas (rocket engine),,LPSC,,Second / Main / Booster,[[Dinitrogen tetroxide|N2O4]] / UDMH,,–804.500 V –756.500 (SL),,,–58.5,
-Viking 2,,Snecma,Ariane 1,1st,[[Dinitrogen tetroxide|N2O4]] / UDMH,,(SL),,,,
-Viking 2B,,Snecma,Ariane 2 Ariane 3,1st,[[Dinitrogen tetroxide|N2O4]] / UH&thinsp;25,,(SL),,,,
-Viking 4,,Snecma,Ariane 1,2nd,[[Dinitrogen tetroxide|N2O4]] / UDMH,,,,,,
-Viking 4B,,Snecma,Ariane 2 Ariane 3 Ariane 4,2nd,[[Dinitrogen tetroxide|N2O4]] / UH&thinsp;25,,,,,,
-Viking 5C,,Snecma,Ariane 4,1st,[[Dinitrogen tetroxide|N2O4]] / UH&thinsp;25,,(SL),,,,
-Viking 6,,Snecma,Ariane 4,Booster,[[Dinitrogen tetroxide|N2O4]] / UH&thinsp;25,,,,,,
-Vinci,,Snecma,Ariane 6,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="Vinci_Astronautix"></ref>,,,,,
-Vulcain HM-60,,Snecma,Ariane 5,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="Vulcain_Astrium"></ref> (SL)<ref name="Vulcain_Astronautix"></ref>,<ref name="Vulcain_Astrium" /> (SL)<ref name="Vulcain_Astronautix" />,<ref name="Vulcain_Astronautix" />,,<ref name="Vulcain_Astrium" />,
-Vulcain 2,,Snecma,Ariane 5,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="Vulcain2_Astrium"></ref> (SL)<ref name="Vulcain2_Astronautix"></ref>,<ref name="Vulcain2_Astrium" /> (SL)<ref name="Vulcain2_Astronautix" />,<ref name="Vulcain_Astronautix" />,,<ref name="Vulcain2_Astrium" />,
-Waxwing,,Bristol Aerojet,Black Arrow,Upper,Solid,<ref name="Waxwing"></ref> (SL),(SL),,,,
-XIPS-25,,Boeing,Boeing 702 satellites,Ion thruster,Xenon,@4.5 kW,@4.5 kW,,,,
-YF-100,,AALPT,,Boosters  1st,RP-1 / LOX,<ref name=spacepac></ref> (SL),(SL),,,,
-YF-115,,AALPT,,2nd,RP-1 / LOX,,,,,,
-YF-21B,,AALPT,,Boosters  1st,[[Dinitrogen tetroxide|N2O4]] / UDMH,(SL)<ref name="casc-lm3a-2011"></ref>,(SL)<ref name="casc-lm3a-2011" />,,,,
-YF-21C,,AALPT,,1st,[[Dinitrogen tetroxide|N2O4]] / UDMH,(SL)<ref name="casc-lm3a-2011"></ref>,(SL)<ref name="casc-lm3a-2011" />,,
-YF-25,,AALPT,,Boosters,[[Dinitrogen tetroxide|N2O4]] / UDMH,(SL)<ref name="casc-lm3a-2011"></ref>,(SL)<ref name="casc-lm3a-2011" />,,,,
-YF-22B,,AALPT,,2nd,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="casc-lm3a-2011" />,,,,,
-YF-22C,,AALPT,,2nd,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="casc-lm3a-2011" />,,,,,
-YF-22D,,AALPT,,2nd,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="casc-lm3a-2011" />,,,,,
-YF-22E,,AALPT,,2nd,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="casc-lm3a-2011" />,,,,,
-YF-40,,AALPT,,3rd,[[Dinitrogen tetroxide|N2O4]] / UDMH,,,,,,
-YF-50D,,AALPT,,Upper,[[Dinitrogen tetroxide|N2O4]] / UDMH,,,,,,
-YF-73,,AALPT,Long March 3,3rd,[[Liquid hydrogen|LH2]] / LOX,,,,,,
-YF-75,,AALPT,,3rd,[[Liquid hydrogen|LH2]] / LOX,<ref name="casc-lm3a-2011" />,,,,,
-YF-75D,,AALPT,Long March 5,2nd,[[Liquid hydrogen|LH2]] / LOX,,,,,,
-YF-77,,AALPT,Long March 5,1st,[[Liquid hydrogen|LH2]] / LOX,(SL),(SL),,,,
-Rodong-1,,Korean Committee of Space Technology,Paektusan/Unha<ref name="b14643.de">http://www.b14643.de/Spacerockets_1/Rest_World/Paektusan-1/Description/Frame.htm</ref><ref name="b14643.de"/>,1st,UDMH/AK27,/,/,,,,
+Engine,Origin,Designer,Vehicle,Use,Propellant,Specific impulse (s),Thrust (N),Mass (kg),Thrust:weight ratio,Chamber pressure (bar),Oxidiser:fuel ratio
+Aestus,}},Airbus Defence and Space,Ariane 5 G  G+  ES,Upper,[[Dinitrogen tetroxide|N2O4]] / MMH,<ref name="Aestus_Airbus"></ref>,[empty],[empty],[empty],[empty],1.9
+Aestus II,[empty],Airbus Defence and Space,Ariane 5,Upper,[[Dinitrogen tetroxide|N2O4]] / MMH,<ref name="AestusII_Airbus"></ref>,[empty],[empty],[empty],[empty],1.9
+AJ-60A,[empty],Aerojet,Atlas V,Booster,Solid,[empty],<ref name=aerojet-aj60a></ref>,[empty],[empty],[empty],[empty]
+AR1,[empty],Aerojet Rocketdyne,Vulcan (potential),1st,RP-1 / LOX,[empty],(SL)<ref>http://www.rocket.com/ar1-booster-engine</ref>,[empty],[empty],[empty],2.72
+BE-3,[empty],Blue Origin,New Glenn New Shepard,1st  2nd  3rd,[[Liquid hydrogen|LH2]] / LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+BE-4,[empty],Blue Origin,New Glenn Vulcan,1st,[[Liquid methane|CH4]] / LOX,[empty],<ref name="sn20140917"></ref><ref name="BE-4"></ref>,[empty],[empty],<ref name=ars20160309></ref>,[empty]
+Boeing 601HP,[empty],Boeing,Boeing 601HP satellites,Vacuum,Xenon,@0.5 kW,@0.5 kW,[empty],[empty],[empty],[empty]
+CE-20,[empty],LPSC,GSLV Mk III,Upper,[[Liquid hydrogen|LH2]] / LOX,[empty],[empty],[empty],34.7,[empty],5.05
+CE-7.5,[empty],LPSC,GSLV Mk II,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="CE7.5"></ref>,to,[empty],[empty],[empty],[empty]
+F-1,[empty],Rocketdyne,Saturn V,1st,RP-1 / LOX,(SL),(SL),[empty],[empty],[empty],2.27
+F-1A<ref>Alternate Propulsion Subsystem Concepts NAS8-39210 DCN 1-1-PP-02147</ref>,[empty],Rocketdyne,[empty],1st,RP-1 / LOX,(SL),(SL),[empty],[empty],[empty],2.27
+Gamma 2,[empty],Bristol Siddeley,Black Arrow,2nd,RP-1 / [[Hydrogen peroxide|H2O2]],<ref name="Gamma2"></ref>,[empty],[empty],[empty],[empty],8
+Gamma 8,[empty],Bristol Siddeley,Black Arrow,1st,RP-1 / [[Hydrogen peroxide|H2O2]],<ref name="Gamma8"></ref>,[empty],[empty],[empty],[empty],8
+Hadley,[empty],Ursa Major Technologies,GOLauncher 1<ref></ref>,1st,RP-1 / LOX,[empty],(SL)<ref></ref>,[empty],[empty],[empty],[empty]
+HiPEP,[empty],NASA,Jupiter Icy Moons Orbiter,Vacuum,Xenon,@39.3 kW,@39.3 kW,[empty],[empty],[empty],[empty]
+HM-7A,[empty],Snecma,Ariane 1,3rd,[[Liquid hydrogen|LH2]] / LOX,<ref name="HM7A"></ref> (SL),[empty],[empty],[empty],[empty],5
+HM-7B,[empty],Snecma,Ariane 2 Ariane 3 Ariane 4 Ariane 5 ECA,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="HM7B_Astrium"></ref> (SL)<ref name="HM7B_Astronautix"></ref>,<ref name="HM7B_Astrium" /> (SL)<ref name="HM7B_Astronautix" />,<ref name="HM7B_Astrium" />,[empty],<ref name="HM7B_Astrium" />,5
+J-2,[empty],Rocketdyne,Saturn V Saturn IB,2nd  3rd,[[Liquid hydrogen|LH2]] / LOX,<ref name="J-2"></ref> (SL),(SL),[empty],[empty],[empty],5.5
+J-2X,[empty],Pratt & Whitney Rocketdyne,SLS,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="J-2X"></ref>,}},}},[empty],}},5.5–4.5
+LE-5,[empty],Mitsubishi NASDA,H-I,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="LE-5"></ref>,[empty],[empty],[empty],[empty],5.5
+LE-5A,[empty],Mitsubishi NASDA,H-II,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="LE-5A"></ref>,[empty],[empty],[empty],[empty],5
+LE-5B,[empty],Mitsubishi JAXA,H-IIA<br />H-IIB,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="LE-5B"></ref>,[empty],[empty],[empty],[empty],5
+LE-7,[empty],Mitsubishi NASDA,H-II,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="LE-7"></ref>,(SL),[empty],[empty],[empty],5.9
+LE-7A,[empty],Mitsubishi JAXA,H-IIA<br />H-IIB,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="LE-7A"></ref> (SL)<ref name="LE-7A" />,[empty],[empty],[empty],[empty],5.9
+last=Aerospace|first=Firefly|website=www.fireflyspace.com|language=en|access-date=2018-09-24}}</ref>,[empty],Firefly Aerospace,Alpha,2nd,RP-1 / LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+Merlin 1C,[empty],SpaceX,[empty],1st  2nd,RP-1 / LOX,<ref name="merlin 1c spec"></ref> (SL)<ref name="merlin 1c falcon9"></ref>,<ref name="merlin 1c spec" /> (SL)<ref name="merlin 1c spec" />,[empty],<ref name="merlin 1c spec" />,[empty],[empty]
+Merlin 1D,[empty],SpaceX,Falcon 9 v1.1,1st,RP-1 / LOX,<ref name="spacexfalcon9Merlinpage"></ref> (SL)<ref name="spacexfalcon9Merlinpage" />,<ref name="Quora150"></ref>,<ref name="Quora150" />,<ref name="Quora150" />,[empty],2.34
+Merlin 1D FT,[empty],SpaceX,Falcon 9 FT Falcon Heavy,1st,RP-1 / LOX,<ref name="spacexfalcon9Merlinpage" /> (SL)<ref name="spacexfalcon9Merlinpage" />,<ref name="Merlin 1D Full Thrust"></ref> (SL)<ref name="Merlin 1D Full Thrust" />,<ref name="Quora150" />,<ref name="Merlin 1D Full Thrust" />,[empty],[empty]
+Merlin Vacuum 1C,[empty],SpaceX,[empty],2nd,RP-1 / LOX,<ref name="merlin 1c falcon9" />,<ref name="merlin 1c falcon9" />,[empty],[empty],[empty],[empty]
+Merlin Vacuum 1D,[empty],SpaceX,Falcon 9 Falcon Heavy,2nd,RP-1 / LOX,<ref name="Merlin Vacuum 1D"></ref>,<ref name="Merlin Vacuum 1D" />,[empty],[empty],[empty],2.36
+Mira (LM10),[empty],Avio,Vega E<ref name="LM10Mira"></ref>,3rd<ref name="LM10Mira"></ref>,[[Liquid methane|CH4]] / LOX<ref name="LM10Mira"></ref>,<ref name="LM10Mira"></ref>,<ref name="LM10Mira"></ref>,<ref name="LM10Mira"></ref>,<ref name="LM10Mira"></ref>,[empty],<ref name="LM10Mira"></ref>
+NewtonThree,[empty],Virgin Galactic,LauncherOne,Booster,RP-1 / LOX,[empty],<ref name="virgingalactic1"></ref>,[empty],[empty],[empty],[empty]
+NewtonFour,[empty],Virgin Galactic,LauncherOne,2nd,RP-1 / LOX,[empty],<ref name="virgingalactic1"/>,[empty],[empty],[empty],[empty]
+NEXT,[empty],NASA,[empty],Vacuum,Xenon,@6.9 kW,@6.9 kW,[empty],[empty],[empty],[empty]
+NK-33A (AJ26-62) 11Д111 / 14Д15,[empty],JSC Kuznetsov,Antares 100 Soyuz-2-1v,1st,RP-1 / LOX,<ref name="NK33"></ref>,[empty],[empty],[empty],[empty],[empty]
+NSTAR<ref name="NSTAR"></ref><ref name="NSTAR_boeing"></ref>,[empty],Hughes Electron Dynamics Boeing,Dawn,Vacuum,Xenon,@2.3 kW,@2.3 kW,[empty],[empty],[empty],[empty]
+P80<ref name="AvioVegaLeaflet"></ref><ref name="ESAflightVV01"></ref><ref name="ELV"></ref>,[empty],[empty],Vega,1st,HTPB,[empty],[empty],with fuel,[empty],[empty],[empty]
+P120C<ref name="P120Ctestfire">Press release: Successful first test firing for the P120C solid rocket motor for Ariane 6 and Vega-C</ref>,[empty],[empty],Ariane 6/Vega-C,Booster  1st,HTPB<ref>Powerful new European solid-fueled rocket motor aces first test-firing</ref>,<ref name="P120Ctestfire" />,<ref name="P120Ctestfire" />,with fuel<ref name="P120Ctestfire" />,[empty],[empty],[empty]
+P230,[empty],SNPE and Avio Spa (Italy),Ariane 5,Booster,HTPB,<ref name="P230"></ref> (SL),(SL),with fuel<ref name="P230" />,[empty],[empty],[empty]
+PPS-1350 (СПД-100),[empty],OKB Fakel,SMART-1,Vacuum,Xenon,@1.5 kW,@1.5 kW,[empty],[empty],[empty],[empty]
+S139,[empty],SDSC,PSLV,1st,HTPB,<ref name="PSLV-1"></ref>,[empty],with fuel,[empty],[empty],[empty]
+Raptor<ref name="SpaceX Raptor"/>,[empty],SpaceX,BFR,1st  2nd,[[Liquid methane|CH4]] / LOX,<ref name=youtube-makinglifemulti></ref> (SL),(SL),[empty],[empty],<ref name=":0"></ref>,3.8
+Raptor Vacuum<ref name="SpaceX Raptor"></ref>,[empty],SpaceX,BFR,2nd  1st on Mars,[[Liquid methane|CH4]] / LOX,+<ref name="nsf20180809"> </ref>,<ref name="youtube-makinglifemulti" />,[empty],[empty],<ref name=":0" />,3.8
+RD-0120 11Д122,[empty],KBKhA,Energia,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="RD-0120"></ref>,[empty],[empty],[empty],[empty],[empty]
+RD-0124 14Д23,[empty],KBKhA,Soyuz-2.1b Soyuz-2-1v Angara,2nd  3rd,RP-1 / LOX,<ref name="RD-0124"></ref>,[empty],[empty],[empty],[empty],[empty]
+RD-107A 14Д22,[empty],NPO Energomash,Soyuz-FG Soyuz-2,1st,RP-1 / LOX,<ref name="RD-107A and RD-108A"></ref> (SL),(SL),[empty],[empty],[empty],[empty]
+RD-108A 14Д21,[empty],NPO Energomash,Soyuz-FG Soyuz-2,2nd,RP-1 / LOX,<ref name="RD-107A and RD-108A" /> (SL),(SL),[empty],[empty],[empty],[empty]
+RD-117 11Д511,[empty],NPO Energomash,Soyuz-U,1st,RP-1 / LOX,<ref name="lpre"></ref> (SL),(SL),[empty],[empty],[empty],[empty]
+RD-118 11Д512,[empty],NPO Energomash,Soyuz-U,2nd,RP-1 / LOX,<ref name="lpre" /> (SL),(SL),[empty],[empty],[empty],[empty]
+RD-171M11Д520,[empty],NPO Energomash,Zenit-2M Zenit-3SL Zenit-3SLB Zenit-3SLBF Soyuz-5,1st,RP-1 / LOX,<ref name="RD-171M"></ref> (SL),(SL),[empty],[empty],[empty],[empty]
+RD-17011Д521,[empty],NPO Energomash,Energia,1st,RP-1 / LOX,(SL),(SL),[empty],[empty],[empty],[empty]
+RD-180,[empty],NPO Energomash,Atlas V Atlas III,1st,RP-1 / LOX,<ref name="RD-180"></ref> (SL),(SL),[empty],[empty],[empty],2.72
+RD-181,[empty],NPO Energomash,Antares 200,1st,RP-1 / LOX,<ref>http://spaceflight101.com/spacerockets/antares-200-series/</ref> (SL),(SL),[empty],[empty],[empty],[empty]
+RD-191,[empty],NPO Energomash,Angara,1st,RP-1 / LOX,<ref name="RD-191"></ref> (SL),(SL),[empty],[empty],[empty],[empty]
+RD-193,[empty],NPO Energomash,Soyuz-2-1v,1st,RP-1 / LOX,<ref name="RD-193 Engine"></ref>,(SL),[empty],[empty],[empty],[empty]
+RD-264 11Д119,[empty],NPO Energomash,Dnepr,1st,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="RD-264"></ref> (SL),[empty],[empty],[empty],[empty],[empty]
+RD-275M 14Д14М,[empty],NPO Energomash,Proton-M,1st,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="RD-275M"></ref> (SL),(SL),[empty],[empty],[empty],[empty]
+RD-56 (KVD-1) 11Д56У,[empty],KBKhM,GSLV Mk I,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="KVD1"></ref>,[empty],[empty],[empty],[empty],[empty]
+Reaver 1<ref name=":1" />,[empty],Firefly Aerospace,Alpha,1st,RP-1 / LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+RL-10A-4-2<ref name="RL-10A-4-2"></ref>,[empty],Aerojet Rocketdyne,Atlas IIIB Atlas V,Upper,[[Liquid hydrogen|LH2]] / LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+RL-10B-2<ref name="RL-10B-2"></ref>,[empty],Aerojet Rocketdyne,Delta III Delta IV SLS,Upper,[[Liquid hydrogen|LH2]] / LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+RL-10C-1<ref name="RL-10C-1"></ref>,[empty],Aerojet Rocketdyne,Delta III Delta IV SLS  Vulcan,Upper,[[Liquid hydrogen|LH2]] / LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+RS-25 (SSME),[empty],Rocketdyne,Space Shuttle SLS,1st,[[Liquid hydrogen|LH2]] / LOX,[empty],(SL)<ref name="aerojet">Aerojet Rocketdyne  RS-25 Engine (accessed July 22  2014)</ref>,[empty],[empty],[empty],[empty]
+RS-68A,[empty],Rocketdyne,Delta IV Delta IV Heavy,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="RS-68A"></ref>,(SL),[empty],[empty],date=June 2017}},[empty]
+Rutherford,[empty],Rocket Lab,Electron,1st  2nd,RP-1 / LOX,[empty],(SL),[empty],[empty],[empty],[empty]
+S200,[empty],SDSC,GSLV Mk III,Booster,HTPB,<ref name="isrolvm3"></ref>,<ref name="isros200">ISRO Press Release: S200 First Static Test (S-200-ST-01)</ref><ref name="dnai3sb"></ref><ref></ref>,with fuel<ref name="isrolvm3" />,[empty],[empty],[empty]
+SCE-200,[empty],LPSC,GSLV Mk III ULV,Upper  main,RP-1 / LOX,(SL),(SL),[empty],[empty],[empty],[empty]
+SLS Solid Rocket Booster,[empty],Orbital ATK,SLS,Booster,PBAN,[empty],[empty],with fuel,[empty],[empty],[empty]
+SLV-1,[empty],Godrej & Boyce,PSLV,Booster,HTPB,<ref name="SLV-1"></ref>,[empty],with fuel,[empty],[empty],[empty]
+Space Shuttle Solid Rocket Booster,[empty],Thiokol,Space Shuttle Ares I,Booster,PBAN / APCP,[empty],(SL),with fuel,[empty],[empty],[empty]
+SPT-100,[empty],OKB Fakel,LS-1300 satellites,Vacuum,Xenon,@1.35 kW,@1.35 kW,[empty],[empty],[empty],[empty]
+SRB-A,[empty],IHI Aerospace JAXA,H-IIA,Booster,HTPB,<ref name="SRB-A"></ref>,[empty],with fuel,[empty],[empty],[empty]
+SRB-A3,[empty],IHI Aerospace JAXA,H-IIB Epsilon,Booster,BP-207J<ref name="SRB-A3"></ref>,<ref name="SRB-A3" />,(SL),with fuel,[empty],[empty],[empty]
+UA1207,[empty],United Technologies,Titan IV,Booster,PBAN,<ref name="UA1207"></ref> (SL),(SL),with fuel,[empty],[empty],[empty]
+VASIMR,[empty],Ad Astra Rocket Company,[empty],Vacuum,Argon,@200 kW,@200 kW,[empty],[empty],[empty],[empty]
+Vikas (rocket engine),[empty],LPSC,[empty],2nd  main  booster,[[Dinitrogen tetroxide|N2O4]] / UDMH,[empty],–804.500 –756.500 (SL),[empty],[empty],–58.5,[empty]
+Viking 2,[empty],Snecma,Ariane 1,1st,[[Dinitrogen tetroxide|N2O4]] / UDMH,[empty],(SL),[empty],[empty],[empty],[empty]
+Viking 2B,[empty],Snecma,Ariane 2 Ariane 3,1st,[[Dinitrogen tetroxide|N2O4]] / UH&thinsp;25,[empty],(SL),[empty],[empty],[empty],[empty]
+Viking 4,[empty],Snecma,Ariane 1,2nd,[[Dinitrogen tetroxide|N2O4]] / UDMH,[empty],[empty],[empty],[empty],[empty],[empty]
+Viking 4B,[empty],Snecma,Ariane 2 Ariane 3 Ariane 4,2nd,[[Dinitrogen tetroxide|N2O4]] / UH&thinsp;25,[empty],[empty],[empty],[empty],[empty],[empty]
+Viking 5C,[empty],Snecma,Ariane 4,1st,[[Dinitrogen tetroxide|N2O4]] / UH&thinsp;25,[empty],(SL),[empty],[empty],[empty],[empty]
+Viking 6,[empty],Snecma,Ariane 4,Booster,[[Dinitrogen tetroxide|N2O4]] / UH&thinsp;25,[empty],[empty],[empty],[empty],[empty],[empty]
+Vinci,[empty],Snecma,Ariane 6,Upper,[[Liquid hydrogen|LH2]] / LOX,<ref name="Vinci_Astronautix"></ref>,[empty],[empty],[empty],[empty],[empty]
+Vulcain HM-60,[empty],Snecma,Ariane 5,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="Vulcain_Astrium"></ref> (SL)<ref name="Vulcain_Astronautix"></ref>,<ref name="Vulcain_Astrium" /> (SL)<ref name="Vulcain_Astronautix" />,<ref name="Vulcain_Astronautix" />,[empty],<ref name="Vulcain_Astrium" />,[empty]
+Vulcain 2,[empty],Snecma,Ariane 5,1st,[[Liquid hydrogen|LH2]] / LOX,<ref name="Vulcain2_Astrium"></ref> (SL)<ref name="Vulcain2_Astronautix"></ref>,<ref name="Vulcain2_Astrium" /> (SL)<ref name="Vulcain2_Astronautix" />,<ref name="Vulcain_Astronautix" />,[empty],<ref name="Vulcain2_Astrium" />,[empty]
+Waxwing,[empty],Bristol Aerojet,Black Arrow,Upper,Solid,<ref name="Waxwing"></ref> (SL),(SL),[empty],[empty],[empty],[empty]
+XIPS-25,[empty],Boeing,Boeing 702 satellites,Vacuum,Xenon,@4.5 kW,@4.5 kW,[empty],[empty],[empty],[empty]
+YF-100,[empty],AALPT,[empty],Booster  1st,RP-1 / LOX,<ref name=spacepac></ref> (SL),(SL),[empty],[empty],[empty],[empty]
+YF-115,[empty],AALPT,[empty],2nd,RP-1 / LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+YF-21B,[empty],AALPT,[empty],Booster  1st,[[Dinitrogen tetroxide|N2O4]] / UDMH,(SL)<ref name="casc-lm3a-2011"></ref>,(SL)<ref name="casc-lm3a-2011" />,[empty],[empty],[empty],[empty]
+YF-21C,[empty],AALPT,[empty],1st,[[Dinitrogen tetroxide|N2O4]] / UDMH,(SL)<ref name="casc-lm3a-2011"></ref>,(SL)<ref name="casc-lm3a-2011" />,[empty],[empty],[empty],[added]
+YF-25,[empty],AALPT,[empty],Booster,[[Dinitrogen tetroxide|N2O4]] / UDMH,(SL)<ref name="casc-lm3a-2011"></ref>,(SL)<ref name="casc-lm3a-2011" />,[empty],[empty],[empty],[empty]
+YF-22B,[empty],AALPT,[empty],2nd,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="casc-lm3a-2011" />,[empty],[empty],[empty],[empty],[empty]
+YF-22C,[empty],AALPT,[empty],2nd,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="casc-lm3a-2011" />,[empty],[empty],[empty],[empty],[empty]
+YF-22D,[empty],AALPT,[empty],2nd,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="casc-lm3a-2011" />,[empty],[empty],[empty],[empty],[empty]
+YF-22E,[empty],AALPT,[empty],2nd,[[Dinitrogen tetroxide|N2O4]] / UDMH,<ref name="casc-lm3a-2011" />,[empty],[empty],[empty],[empty],[empty]
+YF-40,[empty],AALPT,[empty],3rd,[[Dinitrogen tetroxide|N2O4]] / UDMH,[empty],[empty],[empty],[empty],[empty],[empty]
+YF-50D,[empty],AALPT,[empty],Upper,[[Dinitrogen tetroxide|N2O4]] / UDMH,[empty],[empty],[empty],[empty],[empty],[empty]
+YF-73,[empty],AALPT,Long March 3,3rd,[[Liquid hydrogen|LH2]] / LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+YF-75,[empty],AALPT,[empty],3rd,[[Liquid hydrogen|LH2]] / LOX,<ref name="casc-lm3a-2011" />,[empty],[empty],[empty],[empty],[empty]
+YF-75D,[empty],AALPT,Long March 5,2nd,[[Liquid hydrogen|LH2]] / LOX,[empty],[empty],[empty],[empty],[empty],[empty]
+YF-77,[empty],AALPT,Long March 5,1st,[[Liquid hydrogen|LH2]] / LOX,(SL),(SL),[empty],[empty],[empty],[empty]
+Rodong-1,[empty],Korean Committee of Space Technology,Nodong engine<ref name="b14643.de">http://www.b14643.de/Spacerockets_1/Rest_World/Paektusan-1/Description/Frame.htm</ref>,1st,UDMH / AK27,[empty],[empty],[empty],[empty],[empty],[empty]

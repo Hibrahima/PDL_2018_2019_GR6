@@ -1,7 +1,7 @@
-,Creator,Latest stable version,Release date,OS,Software license,Open source,Programming language,Plugin support
-9menu,Arnold Robbins,1.8,,Linux,GPL,,C,
-Avant Window Navigator,Neil J. Patel,0.4.2 <ref></ref>,,Linux,GPL,,C,
-dmenu,dwm developers,4.5<ref></ref>,,Linux,MIT License,,C,
-GNOME Do,GNOME Do Developers,0.95.1<ref></ref>,,Linux,GPL,,C Sharp,
-Katapult,Katapult Developers,0.3.2.1,,Linux with KDE,GPL,,C++,
-Unity Dash,Canonical Ltd.,7.3.0<ref></ref>,,Ubuntu,GPLv3,,Vala,("lenses" and "scopes")
+[empty],Creator,Latest stable version,Release date,OS,Software license,Open source,Programming language,Plugin support
+9menu,Arnold Robbins,1.8,[empty],Linux,GPL,[empty],C,[empty]
+Avant Window Navigator,Neil J. Patel,0.4.2 <ref></ref>,[empty],Linux,GPL,[empty],C,[empty]
+dmenu,dwm developers,4.5<ref></ref>,[empty],Linux,MIT License,[empty],C,[empty]
+GNOME Do,GNOME Do Developers,0.95.1<ref></ref>,[empty],Linux,GPL,[empty],C Sharp,[empty]
+Katapult,Katapult Developers,0.3.2.1,[empty],Linux with KDE,GPL,[empty],C++,[empty]
+Unity Dash,Canonical Ltd.,7.3.0<ref></ref>,[empty],Ubuntu,GPLv3,[empty],Vala,("lenses" and "scopes")

@@ -1,65 +1,67 @@
 Name,floppy,ISO,folders on host,physical disk / device,raw / flat (whole disk),raw / flat (partition),hdd (Parallels),QCOW (QEMU),QCOW2 (QEMU),QED (QEMU),VDI (VirtualBox),VHD (Connectix Virtual PC),VHDX (Hyper-V),VMDK (VMware)
 Name,{{?}} floppy,{{?}} ISO,{{?}} folder,{{?}} physical disk,{{?}} raw img disk,{{?}} raw img partition,{{?}} HDD,{{?}} QCOW,{{?}} QCOW2,{{?}} QED,{{?}} VDI,{{?}} VHD,{{?}} VHDX,{{?}} VMDK
-Bochs<ref></ref>,,,,,,,,,,,,,,
-Containers  or Zones,,,,,,,,,,,,,,
-Cooperative Linux (coLinux),,,,,,,,,,,,,,
-CHARON,,,,,,,,,,,,,,
-Denali,,,,,,,,,,,,,,
-DOSBox,,,,,,,,,,,,,,
-DOSEMU,,,,,,,,,,,,,,
-FreeBSD Jail,,,,,,,,,,,,,,
-GXemul,,,,,,,,,,,,,,
-Hercules,,,,,,,,,,,,,,
-Hyper-V (2008 R2),,,,,,,,,,,,,,
-Hyper-V (2012),,,,,,,,,,,,,,
-Hyper-V (2012 R2),,,,,,,,,,,,,,
-iCore Virtual Accounts,,,,,,,,,,,,,,
-Integrity Virtual Machines,,,,,,,,,,,,,,
-JPC (Virtual Machine),,,,,,,,,,,,,,
-KVM,,,,,,,,,,,,,,
-Linux-VServer,,,,,,,,,,,,,,
-LynxSecure,,,,,,,,,,,,,,
-LXC,,,,,,,,,,,,,,
-OpenVZ,,,,,,,,,,,,,,
-Oracle VM Server for x86,,,,,,,,,,,,,,
-Oracle VM Server for SPARC (LDoms),,,,,,,,,,,,,,
-OVPsim,,,,,,,,,,,,,,
-Parallels Desktop for Mac,,,,,,,,,,,,,,
-Parallels Workstation,,,,,,,,,,,,,,
-PearPC,,,,,,,,,,,,,,
-PikeOS,,,,,,,,,,,,,,
-PowerVM,,,,,,,,,,,,,,
-QEMU,,,,,,,,,,,,,,
-QEMU w/ kqemu module,,,,,,,,,,,,,,
-QEMU w/ qvm86 module,,,,,,,,,,,,,,
-QuickTransit,,,,,,,,,,,,,,
-ScaleMP vSMP Foundation,,,,,,,,,,,,,,
-SIMH,,,,,,,,,,,,,,
-Simics,,,,,,,,,,,,,,
-Sun xVM Server,,,,,,,,,,,,,,
-SVISTA 2004,,,,,,,,,,,,,,
-TRANGO,,,,,,,,,,,,,,
-User Mode Linux,,,,,,,,,,,,,,
-VirtualBox,,,,<ref name="virtualbox4" />,<ref name="virtualbox4" />,<ref name="virtualbox4" />,,,,,,,,
-Virtual Iron 3.1,,,,,,,,,,,,,,
-Virtual PC 2007,,,,,,,,,,,,,,
-Windows Virtual PC,,,,,,,,,,,,,,
-Virtual PC 7 for Mac,,,,,,,,,,,,,,
-VirtualLogix VLX,,,,,,,,,,,,,,
-Virtual Server 2005 R2,,,,,,,,,,,,,,
-Synopsys (CoWare) Virtual Platform,,,,,,,,,,,,,,
-Virtuozzo,,,,,,,,,,,,,,
-VMware ESX Server,,,,,,,,,,,,,,
-VMware ESXi,,,,,,,,,,,,,,
-VMware Fusion,,,,,,,,,,,,,,
-VMware Server,,,,,,,,,,,,,,
-VMware Workstation,,,,,,,,,,,,,,
-VMware Player,,,,,,,,,,,,,,
-Wind River Hypervisor,,,,,,,,,,,,,,
-Wind River VxWorks MILS Platform,,,,,,,,,,,,,,
-Xen,,,,,<ref name="blktap2"></ref>,,,<ref name=blktap2 />,,,,<ref name=blktap2 />,,
-XenServer,,,,,<ref name="blktap2"/>,,,<ref name=blktap2 />,,,,<ref name=blktap2 />,,
-XtratuM,,,,,,,,,,,,,,
-z/VM,,,,,,,,,,,,,,
-z LPARs,,,,,,,,,,,,,,
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Bochs<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Containers  or Zones,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cooperative Linux (coLinux),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CHARON,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Denali,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DOSBox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DOSEMU,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeBSD Jail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GXemul,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hercules,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hyper-V (2008 R2),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hyper-V (2012),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hyper-V (2012 R2),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+iCore Virtual Accounts,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Integrity Virtual Machines,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JPC (Virtual Machine),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KVM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linux-VServer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LynxSecure,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LXC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenVZ,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Oracle VM Server for x86,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Oracle VM Server for SPARC (LDoms),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OVPsim,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Parallels Desktop for Mac,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Parallels Workstation,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PearPC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PikeOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PowerVM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QEMU,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QEMU w/ kqemu module,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QEMU w/ qvm86 module,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QuickTransit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ScaleMP vSMP Foundation,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SIMH,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Simics,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sun xVM Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SVISTA 2004,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TRANGO,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+User Mode Linux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VirtualBox,[empty],[empty],[empty],<ref name="virtualbox4" />,<ref name="virtualbox4" />,<ref name="virtualbox4" />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Virtual Iron 3.1,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Virtual PC 2007,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Windows Virtual PC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Virtual PC 7 for Mac,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VirtualLogix VLX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Virtual Server 2005 R2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Synopsys (CoWare) Virtual Platform,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Virtuozzo,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMware ESX Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMware ESXi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMware Fusion,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMware Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMware Workstation,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMware Player,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Wind River Hypervisor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Wind River VxWorks MILS Platform,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xen,[empty],[empty],[empty],[empty],<ref name="blktap2"></ref>,[empty],[empty],<ref name=blktap2 />,[empty],[empty],[empty],<ref name=blktap2 />,[empty],[empty]
+XCP-ng,[empty],[empty],?,<ref name="blktap2"/>,<ref name="blktap2"/>,?,?,<ref name=blktap2 />,?,?,<ref name=blktap2 />,?,?,[added]
+XenServer,[empty],[empty],[empty],[empty],<ref name="blktap2"/>,[empty],[empty],<ref name=blktap2 />,[empty],[empty],[empty],<ref name=blktap2 />,[empty],[empty]
+XtratuM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+z/VM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+z LPARs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Name,floppy,ISO,folders on host,physical disk / device,raw / flat (whole disk),raw / flat (partition),hdd (Parallels),QCOW (QEMU),QCOW2 (QEMU),QED (QEMU),VDI (VirtualBox),VHD (Connectix Virtual PC),VHDX (Hyper-V),VMDK (VMware)

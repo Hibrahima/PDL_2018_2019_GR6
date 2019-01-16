@@ -1,28 +1,28 @@
 Driver,Chipset,Integration,Non-free firmware required<ref group=note name='non-free firmware' />,License,Original/Primary developer,Development
-acx,Texas Instruments ACX100/ACX111,Separate project,,BSD,,Reverse engineering
-an,Aironet 4500/4800  Cisco Aironet 340/350  Xircom Wireless Ethernet,Integrated,,BSD,Bill Paul (FreeBSD),
-arl,Aironet Arlan 655,Integrated / Removed in 8.0,,BSD,,
-ath,Atheros AR5210/ AR5211/ AR5212/ AR5416 /AR9130 /AR9160 /AR9280 /AR9285 /AR9287 (and derivatives),Integrated,,BSD,Originally by Atheros via Sam Leffler (FreeBSD); supported by the community,Documentation based
-awi,AMD PCnetMobile,Integrated / Removed in 8.0,,BSD,Bill Sommerfeld (NetBSD) and Atsushi Onoe (NetBSD),
-bwi,Broadcom BCM43xx/4318,Integrated since 8.0,,BSD,Sepherosa Ziehau (DragonFly BSD)  Andrew Thompson (FreeBSD)  Sam Leffler (FreeBSD),Ported from DragonFly BSD
-bwn,Broadcom BCM43xx/4318 v4 firmware,Integrated since 8.1,,BSD,Weongyo Jeong,?
-cnw,Netwave AirSurfer,Integrated / Removed in 8.0,,BSD,Imported from NetBSD,
-ipw,Intel PRO/Wireless 2100,Integrated,,BSD,Damien Bergamini (OpenBSD/ FreeBSD),Reverse engineering
-iwi,Intel PRO/Wireless 2200BG/ 2225BG/ 2915ABG,Integrated,,BSD,Damien Bergamini (OpenBSD/ FreeBSD),Reverse engineering
-iwm,Intel Dual Band Wireless-AC 3160 / 3165 / 7260 / 7265 / 8260,?,?,,?,?
-iwn,Integrated since 8.0 / Available for 7.1 and above as separate patch,,BSD,Damien Bergamini  Benjamin Close  Sam Leffler (OpenBSD/ FreeBSD),Reverse engineering
-malo,Marvell 88W8335,Integrated,,BSD,Weongyo Jeong (FreeBSD)  Sam Leffler (FreeBSD),
+acx,Texas Instruments ACX100/ACX111,Separate project,[empty],BSD,[empty],Reverse engineering
+an,Aironet 4500/4800  Cisco Aironet 340/350  Xircom Wireless Ethernet,Integrated,[empty],BSD,Bill Paul (FreeBSD),[empty]
+arl,Aironet Arlan 655,Integrated / Removed in 8.0,[empty],BSD,[empty],[empty]
+ath,Atheros AR5210/ AR5211/ AR5212/ AR5416 /AR9130 /AR9160 /AR9280 /AR9285 /AR9287 (and derivatives),Integrated,[empty],BSD,Originally by Atheros via Sam Leffler (FreeBSD); supported by the community,Documentation based
+awi,AMD PCnetMobile,Integrated / Removed in 8.0,[empty],BSD,Bill Sommerfeld (NetBSD) and Atsushi Onoe (NetBSD),[empty]
+bwi,Broadcom BCM43xx/4318,Integrated since 8.0,[empty],BSD,Sepherosa Ziehau (DragonFly BSD)  Andrew Thompson (FreeBSD)  Sam Leffler (FreeBSD),Ported from DragonFly BSD
+bwn,Broadcom BCM43xx/4318 v4 firmware,Integrated since 8.1,[empty],BSD,Weongyo Jeong,?
+cnw,Netwave AirSurfer,Integrated / Removed in 8.0,[empty],BSD,Imported from NetBSD,[empty]
+ipw,Intel PRO/Wireless 2100,Integrated,[empty],BSD,Damien Bergamini (OpenBSD/ FreeBSD),Reverse engineering
+iwi,Intel PRO/Wireless 2200BG/ 2225BG/ 2915ABG,Integrated,[empty],BSD,Damien Bergamini (OpenBSD/ FreeBSD),Reverse engineering
+iwm,Intel Dual Band Wireless-AC 3160 / 3165 / 7260 / 7265 / 8260,?,?,[empty],?,?
+iwn,Intel PRO/Wireless 4965 ABGN/ 5100/ 5300/ 5350/ 1000 Intel Centrino 6000/ 6150/ 6200/ 6205/ 6230/ 6250/ 6300,Integrated since 8.0 / Available for 7.1 and above as separate patch,[empty],BSD,Damien Bergamini  Benjamin Close  Sam Leffler (OpenBSD/ FreeBSD),Reverse engineering
+malo,Marvell 88W8335,Integrated,[empty],BSD,Weongyo Jeong (FreeBSD)  Sam Leffler (FreeBSD),[empty]
 mwl,Marvell 88W8363,Integrated since 8.0,<ref></ref>,BSD,Sam Leffler (FreeBSD),?
-ral,Ralink Technology RT2500/ RT2501/ RT2600/RT3090/RT3592,Integrated,,BSD,Damien Bergamini (OpenBSD/ FreeBSD),Based on partial documentation
-ray,Raytheon Raylink/Webgear Aviator,Integrated / Removed in 8.0,,BSD,Imported from NetBSD,
-rsu,Realtek RTL8188SU/RTL8192SU,Integrated since 10.0,,BSD,Damien Bergamini (OpenBSD)  Imported from OpenBSD by Rui Paulo,?
+ral,Ralink Technology RT2500/ RT2501/ RT2600/RT3090/RT3592,Integrated,[empty],BSD,Damien Bergamini (OpenBSD/ FreeBSD),Based on partial documentation
+ray,Raytheon Raylink/Webgear Aviator,Integrated / Removed in 8.0,[empty],BSD,Imported from NetBSD,[empty]
+rsu,Realtek RTL8188SU/RTL8192SU,Integrated since 10.0,[empty],BSD,Damien Bergamini (OpenBSD)  Imported from OpenBSD by Rui Paulo,?
 rum,Ralink RT2501USB/ RT2601USB,Integrated,<ref name="rum-firmware"/>,BSD,Niall O'Higgins and Damien Bergamini,Based on partial documentation
 run,Ralink RT2700U/ RT2800U/ RT3000U,Integrated since 8.1,<ref name="rum-firmware"/>,BSD,Damien Bergamini (OpenBSD)  Imported from OpenBSD by Akinori Furukoshi,Based on partial documentation
 uath,Atheros AR5005UG/ AR5005UX,Integrated since 8.0,<ref></ref>,BSD,Weongyo Jeong (FreeBSD)  Sam Leffler (FreeBSD),?
-upgt,GW3887 (Conexant/Intersil PrismGT series),Integrated since 8.0,,BSD,Imported from OpenBSD,Reverse engineering
-ural,Ralink Technology RT2500USB,Integrated,,BSD,Damien Bergamini (OpenBSD/ FreeBSD),Based on partial documentation
+upgt,GW3887 (Conexant/Intersil PrismGT series),Integrated since 8.0,[empty],BSD,Imported from OpenBSD,Reverse engineering
+ural,Ralink Technology RT2500USB,Integrated,[empty],BSD,Damien Bergamini (OpenBSD/ FreeBSD),Based on partial documentation
 urtw,Realtek RTL8187L/ RTL8187B,Integrated since 8.0,<ref></ref>,BSD,Weongyo Jeong (FreeBSD),?
-urtwn,Realtek RTL8188CU/RTL8188EU/RTL8192CU,Integrated since 10.0,,BSD,Damien Bergamini (OpenBSD/FreeBSD),Reverse engineering
-wi,Lucent Hermes (WaveLAN/ ORiNOCO); Intersil PRISM-2  PRISM-2.5  PRISM-3; Symbol Spectrum24 802.11B (Symbol support removed in 8.0),Integrated,,BSD,Bill Paul (FreeBSD),Documentation based
-wpi,Intel PRO/Wireless 3945ABG,Integrated,,BSD,Damien Bergamini  Benjamin Close,Reverse engineering
-zyd,ZyDAS ZD1211/ZD1211B,Integrated,,BSD,Florian Stoehr  Damien Bergamini and Jonathan Gray (OpenBSD),Documentation based
+urtwn,Realtek RTL8188CU/RTL8188EU/RTL8192CU,Integrated since 10.0,[empty],BSD,Damien Bergamini (OpenBSD/FreeBSD),Reverse engineering
+wi,Lucent Hermes (WaveLAN/ ORiNOCO); Intersil PRISM-2  PRISM-2.5  PRISM-3; Symbol Spectrum24 802.11B (Symbol support removed in 8.0),Integrated,[empty],BSD,Bill Paul (FreeBSD),Documentation based
+wpi,Intel PRO/Wireless 3945ABG,Integrated,[empty],BSD,Damien Bergamini  Benjamin Close,Reverse engineering
+zyd,ZyDAS ZD1211/ZD1211B,Integrated,[empty],BSD,Florian Stoehr  Damien Bergamini and Jonathan Gray (OpenBSD),Documentation based

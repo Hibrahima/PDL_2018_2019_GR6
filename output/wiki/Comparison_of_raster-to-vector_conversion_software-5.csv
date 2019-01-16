@@ -1,10 +1,11 @@
-,Fills & hatch,Vector combine,Rotate & move,Polylines,Spline curves,Lines to curves cmd. & vice versa,Vector shapes,Font ID & replace
-Easy Trace,,,,,,,,No
-FreeHand,,,,,,,,No
-Graphic Tracer Professional,N/A,,,,,,,
-Illustrator,,,,,,,,No
+[empty],Fills & hatch,Vector combine,Rotate & move,Polylines,Spline curves,Lines to curves cmd. & vice versa,Vector shapes,Font ID & replace
+Easy Trace,[empty],[empty],[empty],[empty],[empty],[empty],[empty],No
+FreeHand,[empty],[empty],[empty],[empty],[empty],[empty],[empty],No
+Graphic Tracer Professional,N/A,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Illustrator,[empty],[empty],[empty],[empty],[empty],[empty],[empty],No
 Potrace,N/A,N/A,N/A,N/A,N/A,N/A,N/A,No
 ImageTracer,N/A,N/A,N/A,N/A,N/A,N/A,N/A,No
-Scan2CAD,,,,,,,,No
-WinTopo Pro,,,,,,,,No
-,Fills & hatch,Vector combine,Rotate & move,Polylines,Spline curves,Lines to curves cmd. & vice versa,Vector shapes,
+Scan2CAD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],No
+WinTopo Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],No
+[empty],Fills & hatch,Vector combine,Rotate & move,Polylines,Spline curves,Lines to curves cmd. & vice versa,Vector shapes,[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added]

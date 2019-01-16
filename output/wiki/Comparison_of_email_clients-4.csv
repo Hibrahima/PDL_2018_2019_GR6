@@ -1,48 +1,49 @@
 Client,POP3 fetch all messages,POP3 selected by filter,POP3 selected by user,IMAP4,SMTP,NNTP,LDAP v2,LDAP v3,EWS,IPv6,MAPI
-Alpine,,,,,,,,,,,
-Becky! Internet Mail,,,,,,,,,,,
-Citadel,,,,,,,,,,,
-Claws Mail,,,,,,,,,,,
-Cone,,,,,,,,,,,
-Courier,,,,,,,,,,,
-Elm,,,,,,,,,,,
-eM Client,,,,,,,,,,,
-EmailTray,,,,,,,,,,,
-Eureka Email,,,,,,,,,,,
-Evolution,,,,,,,,,plug-in,,plug-in
-Gnus,,,,,,,,,,,
-GroupWise,,,,,,,,,,,
-Hiri,,,,,,,,,,,
-i.Scribe / InScribe,,,,,,,,,,,
-IBM Notes,,,,,,,,,,,
-KMail,,,,,,,,,,,
-Mailbird,,,,,,,,,,,
-Mailpile,,,,,,,,,,,
-Microsoft Entourage,,,,,,,,,,,
-Microsoft Entourage 2008  Web Services Edition,,,,,,,,,,,
-Microsoft Office Outlook,,,,,,,,,,,
-Mozilla Mail & Newsgroups,,,,,,,,,,,
-Mozilla Thunderbird,,,,,,,,<ref>Write to LDAP still missing after 10 years  Mozilla bug 86405</ref>,,
-Mulberry,,,,,,,,,,,
-Mutt,,No (possible with POP3 browser),No (possible with POP3 browser),,,(slrn looks alike),(resolve real names through NSS),,,,
-Netscape Messenger,,,,,,,,,,,
-Netscape Messenger 9,,,,,,,,,,,
-nmh / MH,,,,,,,,,,,
-Opera Mail,,,,,,,,,,,
-Outlook Express,,,,,,,,,,,
-Pegasus Mail,,,,,,,,,,,
-Pine,,,,,,,,,,,
-Pocomail,,,,,,,,,,,
-RoundCube,,,,,,,,,,,
-SeaMonkey Mail & Newsgroups,,,,,,,,,,,
-Spicebird,,,,,,,,,,,
-SquirrelMail,,,,,,,,,,,
-Sylpheed,,,,,,,,,,,
-The Bat!,,,,,,,,,,,
-Trojitá,,,,,,,,,,,
-Turnpike,,,,,,,,,,,
-Windows Live Mail,,,,,,,,,,,
-Windows Mail,,,,,,,,,,,
-YAM,,,,,,,,,,,
-Zimbra,,,,,,,,,,,
+Alpine,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Becky! Internet Mail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Citadel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Claws Mail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cone,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Courier,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Elm,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eM Client,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+EmailTray,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Eureka Email,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Evolution,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],plug-in,[empty],plug-in
+Gnus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GroupWise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hiri,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+i.Scribe / InScribe,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IBM Notes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KMail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mailbird,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mailpile,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Entourage,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Entourage 2008  Web Services Edition,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Office Outlook,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mozilla Mail & Newsgroups,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mozilla Thunderbird,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>Write to LDAP still missing after 10 years  Mozilla bug 86405</ref>,extensible<ref>Add-ons include MesQuilla ExQuilla Exchange Web Services (alpha) (see also [https://addons.mozilla.org/en-US/thunderbird/addon/exquilla-exchange-web-services/ ExQuilla for Microsoft Exchange]) and [https://addons.mozilla.org/en-US/thunderbird/addon/provider-for-microsoft-exchang/ Provider for Microsoft Exchange] </ref>,[empty],[empty]
+Mulberry,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mutt,[empty],No (possible with POP3 browser),No (possible with POP3 browser),[empty],[empty],(slrn looks alike),(resolve real names through NSS),[empty],[empty],[empty],[empty]
+Netscape Messenger,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Netscape Messenger 9,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+nmh / MH,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Opera Mail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Outlook Express,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pegasus Mail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pine,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pocomail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RoundCube,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SeaMonkey Mail & Newsgroups,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spicebird,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SquirrelMail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sylpheed,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+The Bat!,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Trojitá,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Turnpike,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Windows Live Mail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Windows Mail,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+YAM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zimbra,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
 Client,POP3 fetch all messages,POP3 selected by filter,POP3 selected by user,IMAP4,SMTP,NNTP,LDAP v2,LDAP v3,EWS,IPv6,MAPI

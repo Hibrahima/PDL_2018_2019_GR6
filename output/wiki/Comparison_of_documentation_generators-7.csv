@@ -1,23 +1,24 @@
-,HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub
-Ddoc,,,,,,,,,
-Document! X,,,,,,,,,
-Doxygen,,,,Indirectly,,Indirectly,,,,
-Epydoc,,,,,Indirectly,Indirectly,,,
-Haddock,,,,,,,,Partial,
-HeaderDoc,,,,,,,,,
-Imagix 4D,,,,,,,,,
-Javadoc,,Indirectly,Indirectly,Indirectly,Indirectly,Indirectly,Indirectly,Indirectly,Indirectly
-JSDoc,,,,,,,,,
-JsDoc Toolkit,,,,,,,,,+JSON
-Natural Docs,,,,,,,,,
-NDoc,,,,,,,,,
-phpDocumentor,,,,,,,,,
-pydoc,,,,,,,,,,
-RDoc,,,,,,,Indirectly,,
-ROBODoc,,Indirectly,,Indirectly,,Indirectly,,,
-Sandcastle,,,,,,,,,
-Sphinx,,,,Indirectly,,,,,,
-Visual Expert,,,,,,,,,
-VSdocman,,,,,,,,,
-YARD,,,,,,,,,
-,HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub
+[empty],HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub
+Ddoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Document! X,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Doxygen,[empty],[empty],[empty],Indirectly,[empty],Indirectly,[empty],[empty],[empty],[empty]
+Epydoc,[empty],[empty],[empty],[empty],Indirectly,Indirectly,[empty],[empty],[empty],[added]
+Haddock,[empty],[empty],[empty],[empty],[empty],[empty],[empty],Partial,[empty],[added]
+HeaderDoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Imagix 4D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Javadoc,[empty],Indirectly,Indirectly,Indirectly,Indirectly,Indirectly,Indirectly,Indirectly,Indirectly,[added]
+JSDoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+JsDoc Toolkit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],+JSON,[added]
+Natural Docs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+NDoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+pdoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+phpDocumentor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+pydoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RDoc,[empty],[empty],[empty],[empty],[empty],[empty],Indirectly,[empty],[empty],[added]
+ROBODoc,[empty],Indirectly,[empty],Indirectly,[empty],Indirectly,[empty],[empty],[empty],[added]
+Sandcastle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Sphinx,[empty],[empty],[empty],Indirectly,[empty],[empty],[empty],[empty],[empty],[empty]
+Visual Expert,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+VSdocman,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+YARD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+[empty],HTML,CHM,RTF,PDF,LaTeX,PostScript,man pages,DocBook,XML,ePub

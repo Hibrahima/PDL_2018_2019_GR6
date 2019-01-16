@@ -1,31 +1,31 @@
 File manager,File Name <ref group="D" name="FileName"/>,File Contents <ref group="D" name="FileContents"/>,Basic metadata search <ref group="D" name="BasicMetadata"/>,All metadata search <ref group="D" name="AllMetadata"/>,RegExp for Contents,Boolean (nesting levels),Fuzzy logic <ref group="D" name="FuzzyLogic"/>,Save searches <ref group="D" name="SaveSearches"/>,Refined searches <ref group="D" name="RefinedSearches"/>
-Altap Salamander,,,,,<ref group="s">Altap Salamander Search offers RegExp for defining the file content.</ref>,,,,
-Commander One,,,<ref group="s" name="ossupport" />,<ref group="s" name="ossupport" />,,,,,
-CRAX Commander,,,<ref group="s" name="ossupport" />,,,,,,
-Directory Opus,,,,,,,,,
-Dired,,,,,,,,,
-Dolphin,,,,,,,,,
-Double Commander,,,,,,,,,
-emelFM2,,,,,,,,,
-FAR Manager,,,,,<ref group="s" name="Plugin" />,<ref group="s" name="Plugin" />,<ref group="s" name="Plugin" />,,
-File Commander,,,,,,,,,
-Finder,,,,,,,,,
-ForkLift,,,,,,,,,
-Konqueror,,,,,,,,,
-Krusader,,,,,<ref></ref>,,,,
-GNOME Files (Nautilus),,,<ref group="s" name="Beagle" />,<ref group="s" name="Beagle" />,,,,,
+Altap Salamander,[empty],[empty],[empty],[empty],<ref group="s">Altap Salamander Search offers RegExp for defining the file content.</ref>,[empty],[empty],[empty],[empty]
+Commander One,[empty],[empty],<ref group="s" name="ossupport" />,<ref group="s" name="ossupport" />,[empty],[empty],[empty],[empty],[empty]
+CRAX Commander,[empty],[empty],<ref group="s" name="ossupport" />,[empty],[empty],[empty],[empty],[empty],[empty]
+Directory Opus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dired,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dolphin,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Double Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+emelFM2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FAR Manager,[empty],[empty],[empty],[empty],<ref group="s" name="Plugin" />,<ref group="s" name="Plugin" />,<ref group="s" name="Plugin" />,[empty],[empty]
+File Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Finder,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ForkLift,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Konqueror,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Krusader,[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty]
+GNOME Files (Nautilus),[empty],[empty],<ref group="s" name="Beagle" />,<ref group="s" name="Beagle" />,[empty],[empty],[empty],[empty],[empty]
 Nemo,?,?,?,?,?,?,?,?,?
-Nomad.NET,,,,,,,,,
-Path Finder,,,,,,,,,
-PCManFM,,,,,,,,,
-ROX-Filer,,,,,,,,,
-Total Commander,,,,,,,,,<ref group="s" name="Intersection" />
-Windows Explorer,,,,,,,,,
-Xandros File Manager,,,,,,,,,
-Xfe,,<ref group="s" name="TextContains" />,,,,,,,
-Xfile,,,,,,,,,
-Xfm,,,,,,,,,
-xplorer²,,,,,,,,,
-XYplorer,,,,,,,,,<ref group="s">After searching results  user can apply advanced visual filters to narrow down results.</ref>
-ZTreeWin,,,,,<ref group="s">ZTreeWin provides several context specific search syntaxes that are not pure regex</ref>,,,,
+Nomad.NET,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Path Finder,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PCManFM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ROX-Filer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Total Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group="s" name="Intersection" />
+Windows Explorer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xandros File Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xfe,[empty],<ref group="s" name="TextContains" />,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xfile,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xfm,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+xplorer²,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XYplorer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group="s">After searching results  user can apply advanced visual filters to narrow down results.</ref>
+ZTreeWin,[empty],[empty],[empty],[empty],<ref group="s">ZTreeWin provides several context specific search syntaxes that are not pure regex</ref>,[empty],[empty],[empty],[empty]
 File manager,File Name <ref group="D" name="FileName"/>,File Contents <ref group="D" name="FileContents"/>,Basic metadata search <ref group="D" name="BasicMetadata"/>,All metadata search <ref group="D" name="AllMetadata"/>,RegExp for Contents,Boolean (nesting levels),Fuzzy logic <ref group="D" name="FuzzyLogic"/>,Save searches <ref group="D" name="SaveSearches"/>,Refined searches <ref group="D" name="RefinedSearches"/>

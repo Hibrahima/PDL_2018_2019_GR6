@@ -1,20 +1,20 @@
 Archive format,Built-in compression,Self-extracting,Directory Structure,POSIX attributes,ACLs,Alternate data streams
-cpio,,,,,,
-tar,,,,,,
-dar,,,,,,
-ar,,,,,,
-pax,,,,,,
-dump,,,,,,
-shar,,,,,,
-makeself,,,,,,
-zip,,,,,,
-rar,,,,,,
-ace,,,,,,
-arj,,,,,,
-zoo,,,,,,
-ISO 9660 (CD-ROM),,,,,,
-cab,,,,,,
-rpm,,,,,,
-deb,,,,,,
-7z,,,,,,
+cpio,[empty],[empty],[empty],[empty],[empty],[empty]
+tar,[empty],[empty],[empty],[empty],[empty],[empty]
+dar,[empty],[empty],[empty],[empty],[empty],[empty]
+ar,[empty],[empty],[empty],[empty],[empty],[empty]
+pax,[empty],[empty],[empty],[empty],[empty],[empty]
+dump,[empty],[empty],[empty],[empty],[empty],[empty]
+shar,[empty],[empty],[empty],[empty],[empty],[empty]
+makeself,[empty],[empty],[empty],[empty],[empty],[empty]
+zip,[empty],[empty],[empty],[empty],[empty],[empty]
+rar,[empty],[empty],[empty],[empty],[empty],[empty]
+ace,[empty],[empty],[empty],[empty],[empty],[empty]
+arj,[empty],[empty],[empty],[empty],[empty],[empty]
+zoo,[empty],[empty],[empty],[empty],[empty],[empty]
+ISO 9660 (CD-ROM),[empty],[empty],[empty],[empty],[empty],[empty]
+cab,[empty],[empty],[empty],[empty],[empty],[empty]
+rpm,[empty],[empty],[empty],[empty],[empty],[empty]
+deb,[empty],[empty],[empty],[empty],[empty],[empty]
+7z,[empty],[empty],[empty],[empty],[empty],[empty]
 Archive format,Built-in compression,Self-extracting,Directory Structure,POSIX attributes,ACLs,Alternate data streams

@@ -1,43 +1,43 @@
 GIS software,Free software,Open source,Windows,Mac OS X,Linux,BSD,Unix,Web,Other
-ArcGIS,Viewer(s),,,,,,,,Google Earth Plugin  KML  WMS
-Autodesk,Viewer(s),,,,,,,,
-Cadcorp,Viewer(s),,,,,,,,
-CAPAWARE,,,,,,,,,
-Chameleon,,,,,,,,AMP,
-Deegree,,,Java,Java,Java,Java,Java,,
-Erdas Imagine,Viewers & Plug-ins,,,,,,,,
-GeoBase - Telogis,Trial,,,,,,,,Traffic  WMS  ADAS  Routing
-GeoNetwork,,,Java,Java,Java,Java,Java,,
-GeoServer,,,Java,Java,Java,Java,Java,Java,
-GeoTools,,,Java,Java,Java,Java,Java,,
-GRASS,,,,,,,,via pyWPS<ref></ref>,
-gvSIG,,,Java,Java,Java,Java,Java,,
-IDRISI,,,,,,,,,
-JViews Maps (By Rogue Wave  formerly ILOG),Viewer(s),,Java,Java,Java,Java,Java,Java & DHTML/Ajax,Live/active symbol overlays
-ILWIS,,,,,,,,,
-GeoMedia,Viewer(s),,,,,,CLIX,,KML
-JUMP GIS,,,Java,Java,Java,Java,Java,,
-Kosmo,,,Java,Java,Java,Java,Java,,
-LandSerf,,,Java,Java,Java,Java,Java,,
-MapDotNet,,,,,,,,
-Manifold System,,,,,,,,,
-Microsoft MapPoint,Discontinued,,,,,,,,
-Pitney Bowes MapInfo Pro,Viewer(s),,,,,,,,
-MapServer,,,,,,,,AMP,
-Maptitude Caliper software,,,,,,,,,
-MapWindow GIS,,,,,,,,,
-Oracle Spatial,,,,,,,,,
-Panorama,,,"GIS Map 2005",,"GIS Panorama",,,,
-PostGIS,,,,,,,,,
-QGIS,,,,,,,,,Google Earth Plugin  KML  WMS
-RegioGraph,,,,,,,,,
-RemoteView,,,,,,,,,
-SAGA GIS,,,,,,,,,KLM
-SAP HANA,Free Trial,,,,,,,,
-Smallworld,,,,,,,,Read-only,OLE  XML  Multiuser  Utility Data Model  Data Translator export/import
-SPRING,,,,,,,Solaris,,
-TerraLib TerraView,,,,,,,,,
-TNTmips,Viewer(s),,,,,,,,
-TransModeler Caliper Software,,,,,,,,,
-uDIG,,,Java,Java,Java,Java,Java,,
+ArcGIS,Viewer(s),[empty],[empty],[empty],[empty],[empty],[empty],[empty],Google Earth Plugin  KML  WMS
+Autodesk,Viewer(s),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cadcorp,Viewer(s),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CAPAWARE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Chameleon,[empty],[empty],[empty],[empty],[empty],[empty],[empty],AMP,[empty]
+Deegree,[empty],[empty],Java,Java,Java,Java,Java,[empty],[empty]
+Erdas Imagine,Viewers & Plug-ins,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GeoBase - Telogis,Trial,[empty],[empty],[empty],[empty],[empty],[empty],[empty],Traffic  WMS  ADAS  Routing
+GeoNetwork,[empty],[empty],Java,Java,Java,Java,Java,[empty],[empty]
+GeoServer,[empty],[empty],Java,Java,Java,Java,Java,Java,[empty]
+GeoTools,[empty],[empty],Java,Java,Java,Java,Java,[empty],[empty]
+GRASS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],via pyWPS<ref></ref>,[empty]
+gvSIG,[empty],[empty],Java,Java,Java,Java,Java,[empty],[empty]
+IDRISI,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JViews Maps (By Rogue Wave  formerly ILOG),Viewer(s),[empty],Java,Java,Java,Java,Java,Java & DHTML/Ajax,Live/active symbol overlays
+ILWIS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GeoMedia,Viewer(s),[empty],[empty],[empty],[empty],[empty],CLIX,[empty],KML
+JUMP GIS,[empty],[empty],Java,Java,Java,Java,Java,[empty],[empty]
+Kosmo,[empty],[empty],Java,Java,Java,Java,Java,[empty],[empty]
+LandSerf,[empty],[empty],Java,Java,Java,Java,Java,[empty],[empty]
+MapDotNet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Manifold System,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft MapPoint,Discontinued,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pitney Bowes MapInfo Pro,Viewer(s),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MapServer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],AMP,[empty]
+Maptitude Caliper software,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MapWindow GIS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Oracle Spatial,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Panorama,[empty],[empty],"GIS Map 2005",[empty],"GIS Panorama",[empty],[empty],[empty],[empty]
+PostGIS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QGIS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Google Earth Plugin  KML  WMS
+RegioGraph,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RemoteView,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SAGA GIS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],KLM
+SAP HANA,Free Trial,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Smallworld,[empty],[empty],[empty],[empty],[empty],[empty],[empty],Read-only,OLE  XML  Multiuser  Utility Data Model  Data Translator export/import
+SPRING,[empty],[empty],[empty],[empty],[empty],[empty],Solaris,[empty],[empty]
+TerraLib TerraView,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TNTmips,Viewer(s),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TransModeler Caliper Software,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+uDIG,[empty],[empty],Java,Java,Java,Java,Java,[empty],[empty]
 GIS software,Free software,Open source,Windows,Mac OS X,Linux,BSD,Unix,Web,Other

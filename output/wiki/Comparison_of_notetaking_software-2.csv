@@ -1,32 +1,32 @@
 Name,Organizing principle(s),Outline bulleting with indent,Tabbed sections,Sync,PDF annotate and save [unclear],White&shy;board,Ink-pen input,Handwriting recognition,Spell check,Search,Replace,Printing,File save/export/import formats
-AllMyNotes Organizer,Tree,,,,,,,,,,,,Proprietary  encrypted; import: plain text  RTF  CSV  images  HTML; exports: plain text  HTML  RTF  images
-BasKet Note Pads,Tree  tags,,,,,,,,,,,,Rich text; export as HTML; import text files
-CintaNotes,Notebooks  sections  tags,,,,,,,,,,,,Proprietary; export to Unicode text  XML and HTML
-ConnectedText,Wiki  Tree and Categories,,,,,,,,,,,,Proprietary (SQL); Export to text  XML  CHM and HTML. Import from text  HTML  XML and RTF
-Day One,Chronological  tags,,,<ref group="Notes">Data is synced between devices by Dropbox or iCloud.</ref>,,,,,,,,<ref group="Notes">Printable via exported pdf files.</ref>,Markdown (in GUI)  XML (data file); Export as: pdf  txt  md
-Org-mode (Emacs),tree  tags,,,,,,,,,,,,LaTeX  HTML  DocBook  Taskjuggler  PDF  Freemind  XOXO  iCalendar
-Evernote,tags  Notebooks  Stacks,,,,,,<ref group="Notes">No support for ink notes in Mac version. Cannot mix ink with text</ref>,,,,,,Notes stored as XML; both free and paid versions allow notes of any file type
-Gnote,Notebooks,,,,,,,,,,,,NoteXmlFormat  HTML  PDF
-Google Keep,tags  colors,,,,,,,,<ref group="Notes">On android and Chrome OS uses platform's spell checker.</ref>,,,,Proprietary; export to Google Doc and thence to PDF  Word  ODT etc.
-KeyNote NF,Notebooks  notes and tree,,,,,,,,,,,,Internal: combination of TXT and RTF; import/export: TXT  RTF  HTML  Treepad
-Memonic,,,,,,,,,,,,,Notes stored as XML; can attach any filetype
-Microsoft OneNote,Notebooks  sections  pages,,,<ref group="Notes">Can sync with OneDrive and SharePoint.</ref>,<ref group="Notes">OneNote 2010 and OneNote 2007 Service Pack 2 and beyond have it built in. A Save As PDF add-in is available for earlier versions of OneNote 2007. Can save to PDF with add-in.http://www.microsoft.com/downloads/details.aspx?FamilyId=4D951911-3E7E-4AE6-B059-A2E79ED87041&displaylang=en</ref>,,,,,,,,Open  XML <ref>http://msdn.microsoft.com/en-us/library/dd924743(v=office.12).aspx</ref> import from web pages and other applications
-MyInfo,,,,,,,,,,,,,Proprietary  encrypted; import: plain text  RTF  CSV  MS Word  images  web pages; exports: plain text  HTML  RTF  CSV  MS Word
-MyNotex,,,,,,,,,,,,,Sqlite based  zipped attachments; export to HTML; copying as LaTeX; import text files  OpenOffice.org documents
-Notizen .NET,tree,,,,,,,,,,,,TXT (ANSI/Unicode)  RTF  ALX
-Okular,,,,,<ref group="Notes">Saved in separate file.</ref>,,,,,,,,PDF  PS  TIFF  CHM  DjVu  DVI  XPS  ODF  others; export PDF+notes for sending to other Okular users
-Open-Sankoré,tree  notebooks,,,,,,,,,,,,Save/export: PDF  IWB  UBZ; Import: PDF  IWB  UBZ  images  image directories
-Outline,Tree-structured notebooks  sections  pages,,,<ref group="Notes">Notes can be synced between devices via Box  Dropbox  OneDrive  SharePoint and iCloud.</ref>,,,,,,,,,MS OneNote format  export/import as PDF
-PDF Studio,,,,,,,,,,,,,PDF
-Personal Knowbase,tags,,,,,,,,,,,,Export to RTF  HTML  TXT  CSV
-Qiqqa,tags  brainstorm,,,,,,,,,,,,Proprietary  PDF  Brainstorm; export to RTF and Word
-Simplenote,tags,,,,,,,,,,,,Export to XML
-TagSpaces,tags  files  directories,,,,,,,,,,,,PNG  JPG  GIF  BMP  ICO  WEBP  SVG  PDF  HTML  MHT  MHTML  MARKDOWN  TXT  XML  JSON  OGG  OGV  WEBM  ODT  ODS  ODP  ODG  EPUB  ZIP
-TiddlyWiki,tags (wikiwords),,,,,,,,(via browser),,,,HTML  json  txt csv
-Tomboy,,,,,,,,,,,,,NoteXmlFormat  HTML  PDF  wiki-formats
-TreeDBNotes,tree,,,,,,,,,,,,RTF  HTML  txt
-Ulysses,Notebooks  sections  tags,,,,,,,,,,,,Rich text; export as HTML; import text files; markdown editing.
-WikidPad,tags (wikiwords),,,,,,,,,,,,HTML
-Microsoft Windows Journal,,,,,,,,<ref group="Notes">Handwritten notes are searchable.</ref>,,,,,Proprietary
-Zim,tags (wikiwords),,,,,,,,,,,, using installed web browser,Stored in modified DokuWiki Markdown; export: HTML  LaTeX  Pandoc Markdown  Sphinx RST (reStructuredText)
+AllMyNotes Organizer,Tree,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Proprietary  encrypted; import: plain text  RTF  CSV  images  HTML; exports: plain text  HTML  RTF  images
+BasKet Note Pads,Tree  tags,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Rich text; export as HTML; import text files
+CintaNotes,Notebooks  sections  tags,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Proprietary; export to Unicode text  XML and HTML
+ConnectedText,Wiki  Tree and Categories,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Proprietary (SQL); Export to text  XML  CHM and HTML. Import from text  HTML  XML and RTF
+Day One,Chronological  tags,[empty],[empty],<ref group="Notes">Data is synced between devices by Dropbox or iCloud.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group="Notes">Printable via exported pdf files.</ref>,Markdown (in GUI)  XML (data file); Export as: pdf  txt  md
+Org-mode (Emacs),tree  tags,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],LaTeX  HTML  DocBook  Taskjuggler  PDF  Freemind  XOXO  iCalendar
+Evernote,tags  Notebooks  Stacks,[empty],[empty],[empty],[empty],[empty],<ref group="Notes">No support for ink notes in Mac version. Cannot mix ink with text</ref>,[empty],[empty],[empty],[empty],[empty],Notes stored as XML; both free and paid versions allow notes of any file type
+Gnote,Notebooks,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NoteXmlFormat  HTML  PDF
+Google Keep,tags  colors,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group="Notes">On android and Chrome OS uses platform's spell checker.</ref>,[empty],[empty],[empty],Proprietary; export to Google Doc and thence to PDF  Word  ODT etc.
+KeyNote NF,Notebooks  notes and tree,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Internal: combination of TXT and RTF; import/export: TXT  RTF  HTML  Treepad
+Memonic,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Notes stored as XML; can attach any filetype
+Microsoft OneNote,Notebooks  sections  pages,[empty],[empty],<ref group="Notes">Can sync with OneDrive and SharePoint.</ref>,<ref group="Notes">OneNote 2010 and OneNote 2007 Service Pack 2 and beyond have it built in. A Save As PDF add-in is available for earlier versions of OneNote 2007. Can save to PDF with add-in.http://www.microsoft.com/downloads/details.aspx?FamilyId=4D951911-3E7E-4AE6-B059-A2E79ED87041&displaylang=en</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],Open  XML <ref>http://msdn.microsoft.com/en-us/library/dd924743(v=office.12).aspx</ref> import from web pages and other applications
+MyInfo,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Proprietary  encrypted; import: plain text  RTF  CSV  MS Word  images  web pages; exports: plain text  HTML  RTF  CSV  MS Word
+MyNotex,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Sqlite based  zipped attachments; export to HTML; copying as LaTeX; import text files  OpenOffice.org documents
+Notizen .NET,tree,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],TXT (ANSI/Unicode)  RTF  ALX
+Okular,[empty],[empty],[empty],[empty],<ref group="Notes">Saved in separate file.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],PDF  PS  TIFF  CHM  DjVu  DVI  XPS  ODF  others; export PDF+notes for sending to other Okular users
+Open-Sankoré,tree  notebooks,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Save/export: PDF  IWB  UBZ; Import: PDF  IWB  UBZ  images  image directories
+Outline,Tree-structured notebooks  sections  pages,[empty],[empty],<ref group="Notes">Notes can be synced between devices via Box  Dropbox  OneDrive  SharePoint and iCloud.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MS OneNote format  export/import as PDF
+PDF Studio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],PDF
+Personal Knowbase,tags,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Export to RTF  HTML  TXT  CSV
+Qiqqa,tags  brainstorm,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Proprietary  PDF  Brainstorm; export to RTF and Word
+Simplenote,tags,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Export to XML
+TagSpaces,tags  files  directories,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],PNG  JPG  GIF  BMP  ICO  WEBP  SVG  PDF  HTML  MHT  MHTML  MARKDOWN  TXT  XML  JSON  OGG  OGV  WEBM  ODT  ODS  ODP  ODG  EPUB  ZIP
+TiddlyWiki,tags (wikiwords),[empty],[empty],[empty],[empty],[empty],[empty],[empty],(via browser),[empty],[empty],[empty],HTML  json  txt csv
+Tomboy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NoteXmlFormat  HTML  PDF  wiki-formats
+TreeDBNotes,tree,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],RTF  HTML  txt
+Ulysses,Notebooks  sections  tags,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Rich text; export as HTML; import text files; markdown editing.
+WikidPad,tags (wikiwords),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],HTML
+Microsoft Windows Journal,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group="Notes">Handwritten notes are searchable.</ref>,[empty],[empty],[empty],[empty],Proprietary
+Zim,tags (wikiwords),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],, using installed web browser,Stored in modified DokuWiki Markdown; export: HTML  LaTeX  Pandoc Markdown  Sphinx RST (reStructuredText)
 Name,Organizing principle(s),Outline bulleting with indent,Tabbed sections,Sync,PDF annotate and save,White&shy;board,Ink-pen input,Handwriting recognition,Spell check,Search,Replace,Printing,File save/export/import formats

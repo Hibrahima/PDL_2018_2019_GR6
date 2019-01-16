@@ -1,55 +1,55 @@
 Name,CBC w/ predictable IVs,CBC w/ secret IVs,CBC w/ random per-sector keys,LRW,XTS,Authenticated encryption
-Aloaha Crypt Disk,,,,,,
-ArchiCrypt Live,,,,<ref>Containers created with ArchiCrypt Live version 5 use LRW</ref>,,
-BestCrypt,,,,<ref></ref>,<ref></ref>,
-BitArmor DataControl,,,,,,
-BitLocker,<ref name="Fergusson"></ref>,<ref name="Fergusson"/>,,,,
-Bloombase Keyparc,,,,,,
-CGD,,<ref></ref>,,,,
-CenterTools DriveLock,,,,,,
-Check Point Full Disk Encryption,,,,,,
-CipherShed,<ref name="ReferenceB">Containers created with TrueCrypt versions 1.0 through 4.0 use CBC.</ref>,,,<ref name="ReferenceC">Containers created with TrueCrypt versions 4.1 through 4.3a use LRW  and support CBC for opening legacy containers only.</ref>,<ref>Containers created with CipherShed or TrueCrypt versions 5.0+ use XTS  and support LRW/CBC for opening legacy containers only.</ref>,
-CrossCrypt,,,,,,
-CryFS,,,,,,
-CryptArchiver,,,,,,
-Cryhod,,,,,,
-Cryptoloop,,,,,,
-DiskCryptor,,,,,,
-Dm-crypt / LUKS,,,,<ref name=cryptoapi-lrw>Starting with Linux kernel version 2.6.20  CryptoAPI supports the LRW mode: https://lwn.net/Articles/213650/</ref>,,</ref>}}
-DriveCrypt,,,,,,
-DriveSentry GoAnywhere 2,,,,,,
-E4M,,,,,,
-e-Capsule Private Safe,,,,,,
-eCryptfs,,,,,,
-EgoSecure HDD Encryption,,,,,,
-FileVault,<ref name=nsa-vilefault/>,,,,,
-FileVault 2,,,,,<ref></ref>,
-FinalCrypt,,,,,,
-FREE CompuSec,,,,,,
-FreeOTFE,,,,,,
-GBDE,,,<ref name=gbde-paper/>,,,
-GELI,,<ref name=linuxbsd></ref>,,,,
-Loop-AES,<ref name=loop-aes/>,<ref name=loop-aes/>,,,,
-McAfee Drive Encryption (SafeBoot),,,,,,
-n-Crypt Pro,,,,,,
-PGPDisk,,,,,,
-Private Disk,,,,,,
-ProxyCrypt,,,,,,
-R-Crypto,,,,,,
-SafeGuard Easy,,,,,,
-SafeGuard Enterprise,,,,,,
-SafeGuard PrivateDisk,,,,,,
-SafeHouse Professional,,,,,,
-Scramdisk,,,,,,
-Scramdisk 4 Linux,,<ref name=sd4l-sd>For Scramdisk containers</ref>,,<ref name=sd4l-tc4>For Truecrypt 4 containers</ref>,<ref name=sd4l-tc5-6>For Truecrypt 5 and 6 containers</ref>,
-SecuBox,,,,,,
-SecureDoc,,,,,,
-Sentry 2020,,,,,,
-Softraid / RAID C,,,,,<ref></ref>,
-Svnd / Vnconfig,,,,,,
-Symantec Endpoint Encryption,,,,,,
-TrueCrypt,<ref name="ReferenceB"/>,,,<ref name="ReferenceC"/>,<ref>Containers created with TrueCrypt versions 5.0 or later use XTS  and support LRW/CBC for opening legacy containers only.</ref>,
-USBCrypt,,,,,,
-VeraCrypt,,,,,,
-CyberSafe Top Secret,,,,,,
+Aloaha Crypt Disk,[empty],[empty],[empty],[empty],[empty],[empty]
+ArchiCrypt Live,[empty],[empty],[empty],<ref>Containers created with ArchiCrypt Live version 5 use LRW</ref>,[empty],[empty]
+BestCrypt,[empty],[empty],[empty],<ref></ref>,<ref></ref>,[empty]
+BitArmor DataControl,[empty],[empty],[empty],[empty],[empty],[empty]
+BitLocker,<ref name="Fergusson"></ref>,<ref name="Fergusson"/>,[empty],[empty],[empty],[empty]
+Bloombase Keyparc,[empty],[empty],[empty],[empty],[empty],[empty]
+CGD,[empty],<ref></ref>,[empty],[empty],[empty],[empty]
+CenterTools DriveLock,[empty],[empty],[empty],[empty],[empty],[empty]
+Check Point Full Disk Encryption,[empty],[empty],[empty],[empty],[empty],[empty]
+CipherShed,<ref name="ReferenceB">Containers created with TrueCrypt versions 1.0 through 4.0 use CBC.</ref>,[empty],[empty],<ref name="ReferenceC">Containers created with TrueCrypt versions 4.1 through 4.3a use LRW  and support CBC for opening legacy containers only.</ref>,<ref>Containers created with CipherShed or TrueCrypt versions 5.0+ use XTS  and support LRW/CBC for opening legacy containers only.</ref>,[empty]
+CrossCrypt,[empty],[empty],[empty],[empty],[empty],[empty]
+CryFS,[empty],[empty],[empty],[empty],[empty],[empty]
+CryptArchiver,[empty],[empty],[empty],[empty],[empty],[empty]
+Cryhod,[empty],[empty],[empty],[empty],[empty],[empty]
+Cryptoloop,[empty],[empty],[empty],[empty],[empty],[empty]
+DiskCryptor,[empty],[empty],[empty],[empty],[empty],[empty]
+Dm-crypt / LUKS,[empty],[empty],[empty],<ref name=cryptoapi-lrw>Starting with Linux kernel version 2.6.20  CryptoAPI supports the LRW mode: https://lwn.net/Articles/213650/</ref>,[empty],</ref>}}
+DriveCrypt,[empty],[empty],[empty],[empty],[empty],[empty]
+DriveSentry GoAnywhere 2,[empty],[empty],[empty],[empty],[empty],[empty]
+E4M,[empty],[empty],[empty],[empty],[empty],[empty]
+e-Capsule Private Safe,[empty],[empty],[empty],[empty],[empty],[empty]
+eCryptfs,[empty],[empty],[empty],[empty],[empty],[empty]
+EgoSecure HDD Encryption,[empty],[empty],[empty],[empty],[empty],[empty]
+FileVault,<ref name=nsa-vilefault/>,[empty],[empty],[empty],[empty],[empty]
+FileVault 2,[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+FinalCrypt,[empty],[empty],[empty],[empty],[empty],[empty]
+FREE CompuSec,[empty],[empty],[empty],[empty],[empty],[empty]
+FreeOTFE,[empty],[empty],[empty],[empty],[empty],[empty]
+GBDE,[empty],[empty],<ref name=gbde-paper/>,[empty],[empty],[empty]
+GELI,[empty],<ref name=linuxbsd></ref>,[empty],[empty],[empty],[empty]
+Loop-AES,<ref name=loop-aes/>,<ref name=loop-aes/>,[empty],[empty],[empty],[empty]
+McAfee Drive Encryption (SafeBoot),[empty],[empty],[empty],[empty],[empty],[empty]
+n-Crypt Pro,[empty],[empty],[empty],[empty],[empty],[empty]
+PGPDisk,[empty],[empty],[empty],[empty],[empty],[empty]
+Private Disk,[empty],[empty],[empty],[empty],[empty],[empty]
+ProxyCrypt,[empty],[empty],[empty],[empty],[empty],[empty]
+R-Crypto,[empty],[empty],[empty],[empty],[empty],[empty]
+SafeGuard Easy,[empty],[empty],[empty],[empty],[empty],[empty]
+SafeGuard Enterprise,[empty],[empty],[empty],[empty],[empty],[empty]
+SafeGuard PrivateDisk,[empty],[empty],[empty],[empty],[empty],[empty]
+SafeHouse Professional,[empty],[empty],[empty],[empty],[empty],[empty]
+Scramdisk,[empty],[empty],[empty],[empty],[empty],[empty]
+Scramdisk 4 Linux,[empty],<ref name=sd4l-sd>For Scramdisk containers</ref>,[empty],<ref name=sd4l-tc4>For Truecrypt 4 containers</ref>,<ref name=sd4l-tc5-6>For Truecrypt 5 and 6 containers</ref>,[empty]
+SecuBox,[empty],[empty],[empty],[empty],[empty],[empty]
+SecureDoc,[empty],[empty],[empty],[empty],[empty],[empty]
+Sentry 2020,[empty],[empty],[empty],[empty],[empty],[empty]
+Softraid / RAID C,[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+Svnd / Vnconfig,[empty],[empty],[empty],[empty],[empty],[empty]
+Symantec Endpoint Encryption,[empty],[empty],[empty],[empty],[empty],[empty]
+TrueCrypt,<ref name="ReferenceB"/>,[empty],[empty],<ref name="ReferenceC"/>,<ref>Containers created with TrueCrypt versions 5.0 or later use XTS  and support LRW/CBC for opening legacy containers only.</ref>,[empty]
+USBCrypt,[empty],[empty],[empty],[empty],[empty],[empty]
+VeraCrypt,[empty],[empty],[empty],[empty],[empty],[empty]
+CyberSafe Top Secret,[empty],[empty],[empty],[empty],[empty],[empty]
 Name,CBC w/ predictable IVs,CBC w/ secret IVs,CBC w/ random per-sector keys,LRW,XTS,Authenticated encryption

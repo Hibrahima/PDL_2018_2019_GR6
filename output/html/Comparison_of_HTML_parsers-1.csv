@@ -2,6 +2,7 @@ Parser,License,Implementation language(s),Latest date*,HTML parsing[1],HTML5-com
 Lambda Soup,BSD-2-Clause,OCaml,2016-12-10[2],Yes,Yes,?,?
 html.parser,Python S. F. L.,Python,2016-06-27[3],Yes,?,No,No
 Html Agility Pack,Microsoft Public License,C#,2016-07-14[4],Yes,?,No,?
+HTML Monkey,Microsoft Public License,C#,2018-12-14,Yes,?,?,?
 Beautiful Soup,Python S. F. L.,Python,2016-08-02[5],Yes,Partial[6],Yes,Yes
 Gumbo,Apache License 2.0,C,2015-05-01,Yes,Yes,?,?
 html5ever,Apache License 2.0,Rust,2016-02-23,Yes,Yes,?,?

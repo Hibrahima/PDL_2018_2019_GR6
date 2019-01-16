@@ -8,7 +8,7 @@ Denali,University of Washington,x86,x86,Denali,Ilwaco  NetBSD,Not distributed
 DOSBox,Peter Veenstra  Sjoerd with community,Any,x86,Linux  Windows  classic Mac OS  macOS  BeOS  FreeBSD  NetBSD  OpenBSD  Solaris  QNX  IRIX  MorphOS  AmigaOS  Maemo  Symbian,Internally emulated DOS shell; classic PC booter games  unofficially Windows 1.0 to 98,GPL
 DOSEMU,Community project,x86  x86-64,x86,Linux,DOS,GPL version 2
 FreeBSD Jail,FreeBSD,Any running FreeBSD,Same as host,FreeBSD,FreeBSD  Linux ABI,BSD
-GNOME Boxes,GNOME,,,Unix-like,Unix-like,LGPLv2
+GNOME Boxes,GNOME,[empty],[empty],Unix-like,Unix-like,LGPLv2
 GXemul,Anders Gavare,Any,ARM  MIPS  Motorola 88000  PowerPC  SuperH,Unix-like,NetBSD  OpenBSD  Linux  Ultrix  Sprite,BSD
 Hercules,Roger Bowler,Any,z/Architecture,Windows  FreeBSD  NetBSD  Linux  macOS,Linux on z Systems  z/OS  z/VM  z/VSE  OS/360  DOS/360  DOS/VS  MVS  VM/370  TSS/370,QPL
 Hyper-V (2008),Microsoft,x86-64 with Intel VT-x or AMD-V,x86-64  x86 (up to 8 physical CPUs),Windows Server 2008 (R2) w/Hyper-V role  Microsoft Hyper-V Server,Supported drivers for Windows 2000  Windows 2003  Windows 2008  Windows XP  Windows Vista  FreeBSD  Linux (SUSE 10 released  more announced),Proprietary
@@ -53,6 +53,7 @@ VirtualLogix VLX,VirtualLogix,ARM  TI DSP C6000  x86  PowerPC,Same as host,No ho
 Virtual Server 2005 R2,Connectix and Microsoft,x86  x86-64,x86  x86-64,Windows Server 2003  2008  XP (Requires IIS),Windows NT  2000  2003  2008  Linux (Red Hat  SUSE  Ubuntu),Proprietary
 Synopsys (CoWare) Virtual Platform,CoWare,x86  x86-64  SPARC v9,Devices including (multi) cores from ARM  MIPS  PowerPC  Toshiba MeP  Renesas SH  Texas Instruments  Tensilica  ZSP,Windows  Linux  Solaris,Depends on guest CPU; includes: Linux (various flavors)  µITRON (various flavors)  Windows CE  Symbian  more,Proprietary
 Virtuozzo,SWsoft  now Virtuozzo Inc,x86  IA-64  x86-64,x86  IA-64  x86-64,Linux  Windows,Linux  Windows,Proprietary
+VMM[disambiguation needed],OpenBSD,x86-64  others(?),x86  x86-64  others(?),OpenBSD,?,BSD
 VMware ESX Server,VMware,x86  x86-64,x86  x86-64,No host OS,Windows  Linux  Solaris  FreeBSD  OSx86 (as FreeBSD)  virtual appliances  Netware  OS/2  SCO  BeOS  Haiku  Darwin  others: runs arbitrary OS[a],Proprietary
 VMware ESXi,VMware,x86  x86-64,x86  x86-64,No host OS,Same as VMware ESX Server,Proprietary
 VMware Fusion,VMware,x86  x86-64,x86  x86-64,macOS,Same as VMware ESX Server,Proprietary
@@ -61,6 +62,7 @@ VMware Workstation,VMware,x86-64[b],x86  x86-64,Windows  Linux,Same as VMware ES
 VMware Player  later VMware Workstation Player,VMware,x86-64[c],x86  x86-64,Windows  Linux,Same as VMware ESX Server,Proprietary  free for personal non-commercial use[10][11]
 Wind River Hypervisor,Wind River,x86  x86-64  PowerPC  ARM,Same as host,No host OS,Linux  VxWorks  unmodified guests (including MS Windows and RTOSes such ach OSE  QNX and others)  bare metal virtual board,Proprietary
 Xen,Xensource  Now Citrix Systems,x86  x86-64  ARM  IA-64 (inactive)  PowerPC (inactive),Same as host,GNU/Linux  Unix-like,GNU/Linux  FreeBSD  MiniOS  NetBSD  Solaris  Windows 7/XP/Vista/Server 2008 (requires Intel VT-x (Vanderpool) or AMD-V (Pacifica)-capable CPU)  Plan 9,GNU GPLv2 +
+XCP-ng,By Vates SAS,x86  x86-64  ARM  IA-64 (inactive)  PowerPC (inactive),Same as host,No host OS,GNU/Linux  FreeBSD  MiniOS  NetBSD  Solaris  Windows  Windows Server 2008 (with Intel VT-x or AMD-V)  Plan 9|,[added]
 XenServer,By Citrix Systems,x86  x86-64  ARM  IA-64 (inactive)  PowerPC (inactive),Same as host,No host OS,GNU/Linux  FreeBSD  MiniOS  NetBSD  Solaris  Windows 7/XP/Vista/Server 2008 (with Intel VT-x or AMD-V)  Plan 9,GNU GPLv2 +
 XtratuM,Universidad Politecnica de Valencia,x86  x86; SPARC v8 LEON2/3,Same as host,No host OS,GPOS: Linux  RTOS: PartiKle  RTEMS,GPL
 z/VM,IBM,z/Architecture,z/Architecture  z/VM does not run on predecessor mainframes,No host OS  itself (single or multiple levels/versions deep; e.g.  VM/ESA running in z/VM 4.4 in z/VM 5.2 in z/VM 5.1.),Linux on zSeries  z/OS  z/VSE  z/TPF  z/VM  VM/CMS  MUSIC/SP  OpenSolaris for System z  predecessors,Proprietary

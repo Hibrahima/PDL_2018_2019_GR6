@@ -1,32 +1,32 @@
 Editor,CSS2,Frames,Java,JavaScript,XSLT,XHTML,MathML,XForms,RSS,Atom,XPath
-Amaya<ref name="noUTF">not Unicode-savvy</ref>,,,,,,,,,,,
-Aptana,,,,,,,,,,,
-Arachnophilia,,,,,,,,,,,
-Bluefish,,,,,,,,,,,
-BlueGriffon,(via commercial proprietary add-on)<ref>http://www.bluegriffon.com/index.php?pages/CssEditor BlueGriffon's commercial proprietary CSS editor add-on</ref>,,,,,,(via commercial proprietary add-on)<ref>http://www.bluegriffon.com/index.php?pages/MathML BlueGriffon's commercial proprietary MathML add-on</ref>,,,,
-Brackets,,,,,,,,,,,
-Claris Homepage,,,,,,,,,,,
-Codelobster,,,,,,,,,,,
-CoffeeCup HTML Editor,,,,,,,,,,,
-Dreamweaver,,,,,,,,http://www.adobe.com/cfusion/exchange/index.cfm?event=extensionDetail&extid=1025026,,,
-Freeway,,,,,,,,,,,
-GoLive,,,,,,,,,,,
-HTML-Kit,,,,,,,,,,,
-KompoZer,,,,,,,,,,,
-LibreOffice,,,(optional),(and Python),(that's how export works),,,,,,
-Maqetta,,?,,,?,?,?,?,?,?,?
-Microsoft Expression Web,,,,,,,,,,,
-Microsoft FrontPage,,,,,,,,,,,
-Microsoft SharePoint Designer,,,,,,,,,,,
-Microsoft Visual Web Developer,,,,,,,,,,,
-Nvu,,,,,,,,,,,
-openElement,,,,,,,,,,,
-OpenOffice.org,,,,,,,,,,,
-oXygenXML Editor,,,,,,,,,,,
-Quanta Plus,,,,,,,,,,,
-RocketCake,,,,,,,,,,,
-SeaMonkey Composer,,,,,,,,,,,
-TOWeb,,,,,,,,,,,
-Web Architect,,,,,,,,,,,
-WebStorm IDE,,,,,,,,,,,
+Amaya<ref name="noUTF">not Unicode-savvy</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Aptana,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Arachnophilia,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bluefish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BlueGriffon,(via commercial proprietary add-on)<ref>http://www.bluegriffon.com/index.php?pages/CssEditor BlueGriffon's commercial proprietary CSS editor add-on</ref>,[empty],[empty],[empty],[empty],[empty],(via commercial proprietary add-on)<ref>http://www.bluegriffon.com/index.php?pages/MathML BlueGriffon's commercial proprietary MathML add-on</ref>,[empty],[empty],[empty],[empty]
+Brackets,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Claris Homepage,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Codelobster,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CoffeeCup HTML Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dreamweaver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],http://www.adobe.com/cfusion/exchange/index.cfm?event=extensionDetail&extid=1025026,[empty],[empty],[empty]
+Freeway,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GoLive,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HTML-Kit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KompoZer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LibreOffice,[empty],[empty],(optional),(and Python),(that's how export works),[empty],[empty],[empty],[empty],[empty],[empty]
+Maqetta,[empty],?,[empty],[empty],?,?,?,?,?,?,?
+Microsoft Expression Web,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft FrontPage,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft SharePoint Designer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Visual Web Developer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nvu,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+openElement,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenOffice.org,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+oXygenXML Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quanta Plus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RocketCake,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SeaMonkey Composer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TOWeb,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Web Architect,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WebStorm IDE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Editor,CSS2,Frames,Java,JavaScript,XSLT,XHTML,MathML,XForms,RSS,Atom,XPath

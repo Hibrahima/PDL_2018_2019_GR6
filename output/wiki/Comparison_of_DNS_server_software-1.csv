@@ -1,26 +1,27 @@
 Server,Authoritative,Recursive,Recursion ACL,Slave mode,Caching,DNSSEC,TSIG,IPv6,Wildcard,Free Software,Interface,split horizon
-AnswerX,,,,,,,,,,,API  command line,
-BIND,,,,,,,,(since 9.x),(since 4.x),,Web  command line,
-PowerDNS,,,,,,(since 3.0),(since 3.0),,,,REST  Web  command line,
-djbdns,,,,,,,,via generic records. http://www.fefe.de/dns/,,,command line and web (VegaDNS & NicTool)<ref> </ref>,
-dbndns,,,,,,,,,,,command line and web,
-pdnsd,,,,,,<ref> "no support for the DNSSEC protocol itself yet in pdnsd"</ref>,,,,,command line  pdnsd-ctl program,
-MaraDNS,,,,,,,,,,,command line,
-Posadis,,,,,,,,,,,command line  API,
-Unbound,,,,,,,,,,,command line  API,
-Dnsmasq,,,,,,(since 2.69),,,,,command line,
-NSD,,,,,,,,,,,command line,
-Knot DNS,,,,,,,,,,,command line,
-dnrd,,,,,,,,,,,command line,
-gdnsd,,,,,,,,,,,command line,
-YADIFA,,,,,,,,,,,command line,
-yaku-ns,,,,,,,,,,,command line,
-Microsoft DNS,,,,,,,,,,,GUI  command line  API  WMI  RPC,
-Simple DNS Plus,,,,,,,,,,,GUI  Web  command line,
-Nominum ANS,,,,,,,,,,,command line  api  SOAP Interface  SNMP,
-Nominum Vantio,,,,,,,,,,,command line  api  SOAP Interface  SNMP,
-DNS Blast,,,,,,,,,,,CLI  SOAP  REST  SNMP  DNSTAP,
-Secure64 DNS Authority,,,,,,,,,,,Command Line or Web GUI,
-Secure64 DNS Cache,,,,,,,,,,,Command Line or Web GUI,
-Technitium DNS Server,,,,,,,,,,,Command Line  Web GUI  or REST API,
+AnswerX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],API  command line,[empty]
+BIND,[empty],[empty],[empty],[empty],[empty],[empty],[empty],(since 9.x),(since 4.x),[empty],Web  command line,[empty]
+PowerDNS,[empty],[empty],[empty],[empty],[empty],(since 3.0),(since 3.0),[empty],[empty],[empty],REST  Web  command line,[empty]
+djbdns,[empty],[empty],[empty],[empty],[empty],[empty],[empty],via generic records. http://www.fefe.de/dns/,[empty],[empty],command line and web (VegaDNS & NicTool)<ref> </ref>,[empty]
+dbndns,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line and web,[empty]
+pdnsd,[empty],[empty],[empty],[empty],[empty],<ref> "no support for the DNSSEC protocol itself yet in pdnsd"</ref>,[empty],[empty],[empty],[empty],command line  pdnsd-ctl program,[empty]
+MaraDNS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line,[empty]
+Posadis,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line  API,[empty]
+Unbound,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line  API,[empty]
+Dnsmasq,[empty],[empty],[empty],[empty],[empty],(since 2.69),[empty],[empty],[empty],[empty],command line,[empty]
+NSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line,[empty]
+Knot DNS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line,[empty]
+dnrd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line,[empty]
+gdnsd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line,[empty]
+YADIFA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line,[empty]
+yaku-ns,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line,[empty]
+Microsoft DNS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],GUI  command line  API  WMI  RPC,[empty]
+Simple DNS Plus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],GUI  Web  command line,[empty]
+Nominum ANS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line  api  SOAP Interface  SNMP,[empty]
+Nominum Vantio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],command line  api  SOAP Interface  SNMP,[empty]
+DNS Blast,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],CLI  SOAP  REST  SNMP  DNSTAP,[empty]
+Secure64 DNS Authority,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Command Line or Web GUI,[empty]
+Secure64 DNS Cache,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Command Line or Web GUI,[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Technitium DNS Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Command Line  Web GUI  or REST API,[empty]
 Server,Authoritative,Recursive,Recursion ACL,Slave mode,Caching,DNSSEC,TSIG,IPv6,Wildcard,Free Software,Interface,split horizon

@@ -1,27 +1,27 @@
 Name,ZIP support,FTP support,SFTP support,Version Control browsing,Patch creation,Patch application,Patch preview,Unicode support,XML-aware
-Beyond Compare,Yes,Yes,Yes,SVN,Yes,Yes,Yes,Yes,
-Compare++,,,,SVN  CVS  Git  Microsoft TFS  Perforce  VSS using command line,,,,Yes,
-diff,No,No,,No,Yes,Yes with patch,Yes with patch,No,No
-diff3,No,No,,,,,,,No
-Eclipse (compare),,,,Yes CVS  Subversion  Git  Mercurial  Baazar,,,,Yes,
-Ediff,Yes,Yes,,RCS  CVS  SVN  Mercurial  git (anything supported by Emacs' VC-mode)[32],Yes,Yes,Yes,,
-ExamDiff Pro,Yes[33],Yes[34],,,normal diff only,,,Yes,
-Far Manager (compare),No,No,,No,No,No,No,Yes,No
-fc,No,No,,,No,,,,
-FileMerge (aka opendiff),No,supported by OS,,,No,,,No,No
-Guiffy SureMerge,Yes,,,,Yes,Yes,Yes,Yes[35],
-IntelliJ IDEA (compare),Yes,,,Yes,Yes,Yes,Yes,Yes,
-jEdit JDiff plugin,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,
-Kompare,,,,,Yes,,,,
-Lazarus Diff,,,,,,,,,
-Meld,,,,CVS  Subversion  Git  Mercurial  Baazar,Yes,,,Yes,
-Notepad++ (compare),No,Yes[36],,Git  Subversion (compare against base),No,No,No,Yes,No
-Perforce P4Merge,,,,No,,,,Yes,
+Beyond Compare,Yes,Yes,Yes,SVN,Yes,Yes,Yes,Yes,[empty]
+Compare++,[empty],[empty],[empty],SVN  CVS  Git  Microsoft TFS  Perforce  VSS using command line,[empty],[empty],[empty],Yes,[empty]
+diff,No,No,[empty],No,Yes,Yes with patch,Yes with patch,No,No
+diff3,No,No,[empty],[empty],[empty],[empty],[empty],[empty],No
+Eclipse (compare),[empty],[empty],[empty],Yes CVS  Subversion  Git  Mercurial  Baazar,[empty],[empty],[empty],Yes,[empty]
+Ediff,Yes,Yes,[empty],RCS  CVS  SVN  Mercurial  git (anything supported by Emacs' VC-mode)[31],Yes,Yes,Yes,[empty],[empty]
+ExamDiff Pro,Yes[32],Yes[33],[empty],[empty],normal diff only,[empty],[empty],Yes,[empty]
+Far Manager (compare),No,No,[empty],No,No,No,No,Yes,No
+fc,No,No,[empty],[empty],No,[empty],[empty],[empty],[empty]
+FileMerge (aka opendiff),No,supported by OS,[empty],[empty],No,[empty],[empty],No,No
+Guiffy SureMerge,Yes,[empty],[empty],[empty],Yes,Yes,Yes,Yes[34],[empty]
+IntelliJ IDEA (compare),Yes,[empty],[empty],Yes,Yes,Yes,Yes,Yes,[empty]
+jEdit JDiff plugin,Yes,Yes,[empty],Yes,Yes,Yes,Yes,Yes,[empty]
+Kompare,[empty],[empty],[empty],[empty],Yes,[empty],[empty],[empty],[empty]
+Lazarus Diff,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Meld,[empty],[empty],[empty],CVS  Subversion  Git  Mercurial  Baazar,Yes,[empty],[empty],Yes,[empty]
+Notepad++ (compare),No,Yes[35],[empty],Git  Subversion (compare against base),No,No,No,Yes,No
+Perforce P4Merge,[empty],[empty],[empty],No,[empty],[empty],[empty],Yes,[empty]
 Pretty Diff,No,No,No,No,No,No,No,Yes,Yes
-Tkdiff,No,No,,CVS  RCS  Subversion,No,No,No,No,No
+Tkdiff,No,No,[empty],CVS  RCS  Subversion,No,No,No,No,No
 Total Commander (compare),Yes,Yes,Yes,No,No,No,No,Yes,No
-vimdiff,Yes,Yes,,,Yes,,,Yes,
-WinDiff,No,No,,,No,,,No,
-WinMerge,Yes,No,,Mercurial [37] Subversion [38] Visual Source Safe  Rational ClearCase[39],Yes,,,Yes,
-UCC,Yes,No,,,,,,Yes,
+vimdiff,Yes,Yes,[empty],[empty],Yes,[empty],[empty],Yes,[empty]
+WinDiff,No,No,[empty],[empty],No,[empty],[empty],No,[empty]
+WinMerge,Yes,No,[empty],Mercurial [36] Subversion [37] Visual Source Safe  Rational ClearCase[38],Yes,[empty],[empty],Yes,[empty]
+UCC,Yes,No,[empty],[empty],[empty],[empty],[empty],Yes,[empty]
 Name,ZIP support,FTP support,SFTP support,Version Control browsing,Patch creation,Patch application,Patch preview,Unicode support,XML-aware

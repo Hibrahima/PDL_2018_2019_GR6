@@ -1,13 +1,13 @@
 Tone name,Yin level 陰平(1),Yin rising 陰上(2),Yin departing 陰去(3),Yin entering 陰入(4),Yang level 陽平(5),Yang rising 陽上(6),Yang departing 陽去(7),Yang entering 陽入(8),High rising (9),Neutral tone (0)
 IPA,a˥,a˥˧,a˨˩,ap˩ at˩ ak˩ aʔ˩,a˧˥,a˥˧,a˧,ap˥ at˥ ak˥ aʔ˥,a˥˥,a˨
-Pe̍h-ōe-jī,a,á,à,ap at ak ah,â,á,ā,a̍p a̍t a̍k a̍h,,--a
+Pe̍h-ōe-jī,a,á,à,ap at ak ah,â,á,ā,a̍p a̍t a̍k a̍h,[empty],--a
 Revised TLPA  TLPA,a1,a2,a3,ap4 at4 ak4 ah4,a5,a2 (6=2),a7,ap8 at8 ak8 ah8,a9,a0
-BP,ā,ǎ,à,āp āt āk āh,á,ǎ,â,áp át ák áh,,
-MLT,af,ar,ax,ab ad ag aq,aa,aar,a,ap at ak ah,,~a
+BP,ā,ǎ,à,āp āt āk āh,á,ǎ,â,áp át ák áh,[empty],[empty]
+MLT,af,ar,ax,ab ad ag aq,aa,aar,a,ap at ak ah,[empty],~a
 DT,a,à,â,āp āt āk āh,ǎ,à,ā,ap at ak ah,á,å
-Taiwanese kana (normal vowels),アア,アア,アア,アㇷ゚ アッ アㇰ アァ,アア,アア,アア,アㇷ゚ アッ アㇰ アァ,,
-Taiwanese kana (nasal vowels),アア,アア,アア,アㇷ゚ アッ アㇰ アァ,アア,アア,アア,アㇷ゚ アッ アㇰ アァ,,
-Extended bopomofo,ㄚ,ㄚˋ,ㄚ˪,ㄚㆴ ㄚㆵ ㄚㆶ ㄚㆷ,ㄚˊ,ㄚˋ,ㄚ˫,ㄚㆴ˙ ㄚㆵ˙ ㄚㆶ˙ ㄚㆷ˙,,
+Taiwanese kana (normal vowels),アア,アア,アア,アㇷ゚ アッ アㇰ アァ,アア,アア,アア,アㇷ゚ アッ アㇰ アァ,[empty],[empty]
+Taiwanese kana (nasal vowels),アア,アア,アア,アㇷ゚ アッ アㇰ アァ,アア,アア,アア,アㇷ゚ アッ アㇰ アァ,[empty],[empty]
+Extended bopomofo,ㄚ,ㄚˋ,ㄚ˪,ㄚㆴ ㄚㆵ ㄚㆶ ㄚㆷ,ㄚˊ,ㄚˋ,ㄚ˫,ㄚㆴ˙ ㄚㆵ˙ ㄚㆶ˙ ㄚㆷ˙,[empty],[empty]
 Tâi-lô,a,á,à,ah,â,á (ǎ),ā,a̍h,a̋,--a
-Example (traditional Chinese),公司,報紙,興趣,血壓 警察 中國 牛肉,人員,,草地,配合 法律 文學 歇熱,社子,進去
-Example (simplified Chinese),公司,报纸,兴趣,血压 警察 中国 牛肉,人员,,草地,配合 法律 文学 歇热,社子,进去
+Example (traditional Chinese),公司,報紙,興趣,血壓 警察 中國 牛肉,人員,[empty],草地,配合 法律 文學 歇熱,社子,進去
+Example (simplified Chinese),公司,报纸,兴趣,血压 警察 中国 牛肉,人员,[empty],草地,配合 法律 文学 歇热,社子,进去

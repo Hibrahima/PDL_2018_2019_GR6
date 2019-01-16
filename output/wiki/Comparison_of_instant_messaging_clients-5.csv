@@ -1,44 +1,44 @@
 Client,Handwriting mode,Dockable,Multiaccount,Spell check,User-defined graphic emoticons,Animations,OAuth
-Adium,, receive only,,,,,,
-AIM,,,,,,,
-aMSN,,,,,,,
-Ayttm,,,,,,,
-BitlBee,,,,,,,
-Centericq,,,,,,,
-climm,,,,,,,
-Coccinella,,,,,,,
-Discord,,,,,,,
-Empathy,,,,,,,
-Facebook Messenger,,,,,,,
-Fire,,,,,,,
-Gajim,,,,,,,
-Google Talk,<ref group="lower-alpha" name="googletalk-enc" />,,<ref group="lower-alpha" name="no-standalone" />,,,<ref group="lower-alpha" name="no-standalone" />,
-iChat,,,,,,,
-ICQ,,,,,,, tZer,
-IMVU,,,,,,,
-Jitsi,,,,,,,
-Kadu,,,,,,, emoticons,
-Kopete,,,,,,, emoticons,
-Miranda IM,,,,,,,
-MySpaceIM,,,,,,,
-naim,,,,,,,
-Paltalk,,,,,,,
-Pidgin,,,,,,, emoticons  user icons,
-Psi,,,,,,<ref group="lower-alpha" name="configuration-options" />,
-QIP,,,,,,, emoticons,
-QuteCom,,,,,,,
-Ring,,,,,,,
-Riot.im,,,,,,,
-Signal,,,,,,,
-Snapchat,,,,,,,
-Skype,,,,,,, animated emoticons,
-Telegram (standard messages),,,,,,,
-Telegram (secret chats),,,,,,,
-Tencent QQ,,,,,,,
-Tkabber,,,,,,, animated emoticons,
-Trillian,,,,,,, animated emoticons,
-WhatsApp,,,,,,,
-Windows Live Messenger,,,,,,, animated emoticons  winks,
-Wire,,{{?}},,,,,, uses encrypted protocol
-Yahoo! Messenger,,,,,,,
+Adium,, receive only,[empty],[empty],[empty],[empty],[empty],[empty]
+AIM,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+aMSN,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ayttm,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitlBee,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Centericq,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+climm,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Coccinella,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Discord,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Empathy,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Facebook Messenger,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fire,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Gajim,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Google Talk,<ref group="lower-alpha" name="googletalk-enc" />,[empty],<ref group="lower-alpha" name="no-standalone" />,[empty],[empty],<ref group="lower-alpha" name="no-standalone" />,[empty]
+iChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ICQ,[empty],[empty],[empty],[empty],[empty],, tZer,[empty]
+IMVU,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Jitsi,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Kadu,[empty],[empty],[empty],[empty],[empty],, emoticons,[empty]
+Kopete,[empty],[empty],[empty],[empty],[empty],, emoticons,[empty]
+Miranda IM,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MySpaceIM,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+naim,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Paltalk,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pidgin,[empty],[empty],[empty],[empty],[empty],, emoticons  user icons,[empty]
+Psi,[empty],[empty],[empty],[empty],[empty],<ref group="lower-alpha" name="configuration-options" />,[empty]
+QIP,[empty],[empty],[empty],[empty],[empty],, emoticons,[empty]
+QuteCom,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ring,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Riot.im,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Signal,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Snapchat,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Skype,[empty],[empty],[empty],[empty],[empty],, animated emoticons,[empty]
+Telegram (standard messages),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Telegram (secret chats),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tencent QQ,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tkabber,[empty],[empty],[empty],[empty],[empty],, animated emoticons,[empty]
+Trillian,[empty],[empty],[empty],[empty],[empty],, animated emoticons,[empty]
+WhatsApp,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Windows Live Messenger,[empty],[empty],[empty],[empty],[empty],, animated emoticons  winks,[empty]
+Wire,[empty],{{?}},[empty],[empty],[empty],[empty],, uses encrypted protocol
+Yahoo! Messenger,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Client,Handwriting mode,Dockable,Multiaccount,Spell check,User-defined graphic emoticons,Animations,OAuth for client authorization

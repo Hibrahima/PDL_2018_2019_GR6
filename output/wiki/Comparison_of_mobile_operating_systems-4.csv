@@ -1,6 +1,7 @@
 +Accessibility features
-Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
-System wide base text size,,<ref></ref><ref></ref><ref>Pogue  David. (2011-11-10) Apple's AssistiveTouch Helps the Disabled Use a Smartphone – NYTimes.com . pogue.blogs.nytimes.com. Retrieved on 2012-07-03.</ref>,,<ref></ref>,?,<ref>https://together.jolla.com/question/153631/release-notes-210-iijoki/#153631-ux - Together Jolla</ref>,?
-Monaural output,,,,,,
-Always visible scrollbar,,,,,,
-Reduced Animations,,,,,,
+Feature
+System wide base text size
+Monaural output
+Always visible scrollbar
+Reduced Animations
+[added]

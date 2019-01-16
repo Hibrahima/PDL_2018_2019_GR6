@@ -1,33 +1,33 @@
-,HTML5 standard,HTML web browser features,Adobe Flash/AIR features
+[empty],HTML5 standard,HTML web browser features,Adobe Flash/AIR features
 Date started,Work began in 2003 Working Draft as of 2011<ref></ref>,N/A,Work began in 1996<ref name="turfwar"></ref> Version 1 released in 1997
-Desktop operating systems,N/A,,
-Mobile operating systems,N/A,,</ref> (unofficially for Android 4.1 and above) <ref></ref> BlackBerry PlayBook <ref></ref> BlackBerry 10 v10.0 - 10.3.0 (10.3.1 unofficially supported) <ref></ref> Windows RT }} <ref></ref> iOS 64-bit Support  Leapfrog Leapster (Uses cartriges that contains flash files.)
-Video game consoles,N/A,</ref><ref></ref> Xbox 360 <ref name="html5consoles"></ref><ref></ref> Nintendo Wii <ref name="html5consoles"/><ref></ref><ref></ref><ref></ref> PlayStation Vita}},
-Device support,N/A,,
+Desktop operating systems,N/A,[empty],[empty]
+Mobile operating systems,N/A,[empty],</ref> (unofficially for Android 4.1 and above) <ref></ref> BlackBerry PlayBook <ref></ref> BlackBerry 10 v10.0 - 10.3.0 (10.3.1 unofficially supported) <ref></ref> Windows RT }} <ref></ref> iOS 64-bit Support  Leapfrog Leapster (Uses cartriges that contains flash files.)
+Video game consoles,N/A,</ref><ref></ref> Xbox 360 <ref name="html5consoles"></ref><ref></ref> Nintendo Wii U <ref name="html5consoles"/><ref></ref><ref></ref><ref></ref> PlayStation Vita}},[empty]
+Device support,N/A,[empty],[empty]
 Market penetration,N/A,</ref> ~99% support JavaScript 1.5 or above <ref name="owljs"></ref> ~97% of devices support basic SVG<ref name="caniusesvg" />}},</ref> (~83% have Flash Player 11  ~17% have 10 and below) <ref name="owlflash"></ref>}} but >50% of web traffic comes from mobile devices<ref name="webusage2016"></ref>
-Vector graphics formats,N/A,</ref>}},
-Bitmap effects,,</ref> support of Filters in CSS3 (e.g. Glow  Blur  Drop Shadow  Sepia)<ref></ref>}},, applied to text or graphics (e.g. Glow  Drop Shadow  Bevel)<ref></ref>
-Vector text display,,,, with Saffron Type System
-Font support,N/A,,<ref></ref>
+Vector graphics formats,N/A,</ref>}},[empty]
+Bitmap effects,[empty],</ref> support of Filters in CSS3 (e.g. Glow  Blur  Drop Shadow  Sepia)<ref></ref>}},, applied to text or graphics (e.g. Glow  Drop Shadow  Bevel)<ref></ref>
+Vector text display,[empty],[empty],, with Saffron Type System
+Font support,N/A,[empty],<ref></ref>
 Text anti-aliasing,N/A,, implemented in most browsers  for system and custom fonts,, in most cases
-Text tab stops,,,, with Text Layout Framework
-Liquid text layout,,, via "div" tag and CSS styling,
-Tabular data,,, via "table" tag,
+Text tab stops,[empty],[empty],, with Text Layout Framework
+Liquid text layout,[empty],, via "div" tag and CSS styling,[empty]
+Tabular data,[empty],, via "table" tag,[empty]
 Linked text frames,, two specifications compete: CSS Regions<ref></ref> and CSS Overflow<ref></ref>}},<ref></ref>,, with Text Layout Framework<ref></ref>
-Programming languages,,,
-C++ support,,,</ref> AIR has AIR Native Extensions that allow loading native code  such as compiled c++ code.}}
+Programming languages,[empty],[empty],[empty]
+C++ support,[empty],[empty],</ref> AIR has AIR Native Extensions that allow loading native code  such as compiled c++ code.}}
 Code delivery format,Plaintext,Plaintext JavaScript with limited obfuscation  WebAssembly bytecode (experimental)  GLSL for GPUs  in Canvas elements,Compiled bytecode  can be obfuscated
-Data formats,,<ref></ref>,<ref></ref>
-Data compression,,</ref>}},
-Image formats,,,<ref></ref><ref></ref>
-Video formats,,</ref> varying support of WebM and Ogg Theora (see HTML5 video)}},<ref></ref>
-Streaming video,<ref></ref>,<ref></ref>,
-Audio formats,,</ref> AAC<ref></ref> and WAV PCM; varying support of Ogg Vorbis  and WebM Vorbis (see HTML5 audio)}},
+Data formats,[empty],<ref></ref>,<ref></ref>
+Data compression,[empty],</ref>}},[empty]
+Image formats,[empty],[empty],<ref></ref><ref></ref>
+Video formats,[empty],</ref> varying support of WebM and Ogg Theora (see HTML5 video)}},<ref></ref>
+Streaming video,<ref></ref>,<ref></ref>,[empty]
+Audio formats,[empty],</ref> AAC<ref></ref> and WAV PCM; varying support of Ogg Vorbis  and WebM Vorbis (see HTML5 audio)}},[empty]
 Fullscreen support,<ref></ref>,</ref> Not yet widely supported on mobile}},, with warning displayed
-Encryption DRM,,</ref> All other files being plaintext  except for obfuscation}},
-File system access,,</ref>}},</ref> AIR only: full create/read/write access to file system<ref></ref>}}
-Bitmap manipulation,,</ref>}},, via BitmapData class<ref></ref>
-Binary manipulation,,, via JavaScript Typed Arrays<ref></ref>,, via ByteArray class<ref></ref>
-Large binary data,,,, embedded or streaming binary data<ref></ref>
-Offline storage,,, via Web storage  HTTP cookie  or Indexed DB to store binary  XML or JSON data<ref></ref>,, via Local Shared Objects to store AMF-formatted data
-Metadata,,,
+Encryption DRM,[empty],</ref> All other files being plaintext  except for obfuscation}},[empty]
+File system access,[empty],</ref>}},</ref> AIR only: full create/read/write access to file system<ref></ref>}}
+Bitmap manipulation,[empty],</ref>}},, via BitmapData class<ref></ref>
+Binary manipulation,[empty],, via JavaScript Typed Arrays<ref></ref>,, via ByteArray class<ref></ref>
+Large binary data,[empty],[empty],, embedded or streaming binary data<ref></ref>
+Offline storage,[empty],, via Web storage  HTTP cookie  or Indexed DB to store binary  XML or JSON data<ref></ref>,, via Local Shared Objects to store AMF-formatted data
+Metadata,[empty],[empty],[empty]

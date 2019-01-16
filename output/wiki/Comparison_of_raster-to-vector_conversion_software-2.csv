@@ -1,10 +1,11 @@
 NAME,Maximum zoom,Object limit per document,Control point limit,Color management for print,Thumbnails,Adjust Image (functions),Text Recognition (OCR),Scripting support
-Easy Trace,12800x,No Limit,,,,,,
-FreeHand,64x,,,,,,,
-Graphic Tracer Professional,No limit,No limit,No limit,,,,,
-Illustrator,640x,,,,,,,
-Potrace,N/A,,,,,,,
-ImageTracer<ref>https://github.com/jankovicsandras</ref>,N/A,No limit,No limit,,,,,
-Scan2CAD,64K,No limit,No limit,,,,,
-WinTopo Pro<ref>http://www.wintopo.com/features.htm</ref>,512x,No limit,No limit,,,,,
-,Maximum zoom,Object limit per document,Control point limit,Color management for print,Thumbnails,adjust image (functions),Text Recognition (OCR),Scripting support
+Easy Trace,12800x,No Limit,[empty],[empty],[empty],[empty],[empty],[empty]
+FreeHand,64x,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Graphic Tracer Professional,No limit,No limit,No limit,[empty],[empty],[empty],[empty],[empty]
+Illustrator,640x,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Potrace,N/A,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ImageTracer<ref>https://github.com/jankovicsandras</ref>,N/A,No limit,No limit,[empty],[empty],[empty],[empty],[empty]
+Scan2CAD,64K,No limit,No limit,[empty],[empty],[empty],[empty],[empty]
+WinTopo Pro<ref>http://www.wintopo.com/features.htm</ref>,512x,No limit,No limit,[empty],[empty],[empty],[empty],[empty]
+[empty],Maximum zoom,Object limit per document,Control point limit,Color management for print,Thumbnails,adjust image (functions),Text Recognition (OCR),Scripting support
+[added],[added],[added],[added],[added],[added],[added],[added],[added]

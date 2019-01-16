@@ -26,7 +26,7 @@ MYOB AccountRight,Proprietary,Yes,Yes,No,Low- to high-end market,Small business 
 MYOB EXO Business,Proprietary,Yes,No,No,Mid- to high-end market,Larger  more complex businesses. Fully customised ERP with Accounting/General ledger  CRM  Job & Project Costing  POS  Asset Management and Intercompany Reporting. Integrated Payroll & HR available through MYOB EXO Employer Services,Stand-alone  multi-user/location  terminal server  remote access
 NetSuite,Software as a Service,Yes,Yes,Yes,Mid-market,CRM  ERP  E-commerce,Web-based
 NewViews,Proprietary,Yes,No,No,Low to mid-market,Real-time  E-commerce  Integrated  Multi-user  Payroll (Canada  USA)  general ledger  AR  AP  Multi-Currency  Small Business Accounting  Inventory Control  Order Entry  Job Costing  Non-profit Housing Edition  Work Orders  Attachments (Scans),Stand-alone and/or Web Access  Cloud Hostable
-NolaPro,Software as a Service and freeware,Yes,Yes,Yes,Low- to high-end market,
+NolaPro,Software as a Service and freeware,Yes,Yes,Yes,Low- to high-end market,[empty],[added]
 Open Systems Accounting Software,Proprietary,Yes,Yes,Yes,Low to mid-market,ERP  SCM  E-commerce  Reporting & Business Intelligence,Stand-alone
 Oracle E-Business Suite,Proprietary,Yes,Yes,Yes,High-end market,ERP,Web-based
 Oracle Fusion Cloud ERP,Proprietary,Yes,Yes,Yes,High-end market,ERP  Financial Management  Supply Chain Management  Human Capital Management  Enterprise Performance Management,Web-based
@@ -44,7 +44,7 @@ Sage 300 ERP,Proprietary,Yes,Yes,Yes,Mid-market,ERP  Multicurrency  Intercompany
 Sage Line 50,Proprietary,Yes,No,No,Low-market (for SME),?,Stand-alone
 Sage Pastel Evolution,Proprietary,Yes,No,No,Small  medium to mid-size enterprises (SME),Financials  Inventory  Manufacturing  Job Costing  POS  Procurement  CRM  Business Intelligence  Payroll  HR,Stand-alone
 Sage PFW ERP,Proprietary,Yes,No,Yes,Mid-market,ERP  Process manufacturing,Stand-alone
-SAP Business ByDesign,Proprietary,Yes,Yes,Yes,Small & midsize enterprises (SME),ERP  e-commerce,Web-based
+SAP Business ByDesign,Proprietary,Yes,Yes,Yes,Small & midsize enterprises (SME),ERP  Financial Management  Supply Chain Management  Supplier Relationship Management  Project Management  Human Capital Management  Customer Relationship Management  Enterprise Performance Management,Web-based
 SAP Business One,Proprietary,Yes,No,Yes (Server only)[6],Small & midsize enterprises (SME),ERP  e-commerce,Stand-alone
 SAP ERP,Proprietary,Yes,Yes,Yes,Midsize to High-end,ERP  CRM  SCM  SRM  PLM  Global Trade Services (GTS)  e-commerce  Business Intelligence  Mobile Business,Stand-alone and Web-based
 Simply Accounting,Proprietary,Yes,No,Yes,Low-end,Business Accounting  Retail  Inventory Control,Stand-alone

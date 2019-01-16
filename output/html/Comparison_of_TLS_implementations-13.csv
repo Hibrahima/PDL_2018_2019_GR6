@@ -1,19 +1,19 @@
 Implementation,PKCS #11 device,Intel AES-NI,VIA PadLock,ARMv8-A,Intel SGX,Intel QAT
 BearSSL,No,Yes,No,No,No,No
 Botan,Yes[209],Yes,No,Yes,No,No
-CryptoComply,Yes,Yes,Yes,Yes,,Yes
-cryptlib,Yes,Yes,Yes,No,,No
+CryptoComply,Yes,Yes,Yes,Yes,[empty],Yes
+cryptlib,Yes,Yes,Yes,No,[empty],No
 GnuTLS,Yes,Yes,Yes,Yes[210],No,No
-JSSE,Yes,Yes[211],No,No,,No
-LibreSSL,No,Yes,Yes,No,,No
-MatrixSSL,Yes,Yes,No,Yes,,No
-mbed TLS,Yes,Yes[212],Yes,No,,No
-NSS,Yes[213],Yes[214],No[215],No,,No
-OpenSSL,Yes[216],Yes,Yes,Yes[217],,No
+JSSE,Yes,Yes[211],No,No,[empty],No
+LibreSSL,No,Yes,Yes,No,[empty],No
+MatrixSSL,Yes,Yes,No,Yes,[empty],No
+mbed TLS,Yes,Yes[212],Yes,No,[empty],No
+NSS,Yes[213],Yes[214],No[215],No,[empty],No
+OpenSSL,Yes[216],Yes,Yes,Yes[217],[empty],No
 RomSTL,No,Yes,No,No,No,No
-RSA BSAFE,Yes,Yes,No,,,No
+RSA BSAFE,Yes,Yes,No,[empty],[empty],No
 rustls,No,Yes,No,No,No,No
-SChannel,No,Yes,No,No,,No
-Secure Transport,No,Yes[218][219],No,Yes,,No
+SChannel,No,Yes,No,No,[empty],No
+Secure Transport,No,Yes[218][219],No,Yes,[empty],No
 wolfSSL,No,Yes,No,Yes,Yes,Yes[220]
 Implementation,PKCS #11 device,Intel AES-NI,VIA PadLock,ARMv8-A,Intel SGX,Intel QAT

@@ -1,27 +1,28 @@
 IRC daemon,Windows,DOS,Mac OS,Linux,BSD,Solaris,HP-UX,AIX,select(),poll(),epoll<ref name="epoll">epoll. xmailserver.org. (Linux since 2.6) - I/O event notification facility. Has a much better performance than select() and poll() system calls.</ref>,kqueue<ref name="kqueue">kqueue (FreeBSD since 4.1) - asynchronous event dispatch mechanism.</ref>,threads,RT signals<ref name="rtsigio">"POSIX.4 Real Time Signals" (Linux since 2.4) - special class of Linux system signals used for notification of events on file descriptors. Deprecated in favour of epoll.</ref>,/dev/poll<ref></ref>,Windows IOCP<ref>"CreateIoCompletionPort function". Microsoft MSDN Library.</ref>,Solaris IOCP<ref>"The Event Completion Framework for the Solaris Operating System (Solaris IOCP)". Sun.com.</ref>
-Bahamut,,,,,,,,,,,,,,,,,
-bIRCd,,,,,,,,,,,,,,,,,
-Charybdis,,,,,,,,,,,,,,,,,
-ConferenceRoom,,,,,,,,,,,,,,,,,
-FoxEye ircd,,,,,,,,,,,,,,,,,
-InspIRCd<ref></ref><ref></ref>,,,,,,,,,,,,,,,,,
-IRCD<ref>[ 50 ]</ref>,,,,,,,,,,,,,,,,,
-ircd-hybrid,,,,,,,,,,,,,,,,,
-ircd-ratbox,,,,,,,,,,,,,,,,,
-ircu,,,,,,,,,,,,,,,,,
-ithildin,,,,,,,,,,,,,,,,,
-kike,,,,,,,,,,,,,,,,,
-miniircd,,,,,,,,,,,,,,,,,
-Nefarious IRCu,,,,,,,,,,,,,,,,,
-ngIRCd,,,,,,,,,,,,,,,,,
-OfficeIRC Server,,,,,,,,,,,,,,,,,
-PleXusIRCd,,,,,,,,,,,,,,,,,
-pureIRCd,,,,,,,,,,,,,,,,,
-RockIRCd,,,,,,,,,,,,,,,,,
-RubIRCd,,,,,,,,,,,,,,,,,
-ShadowIRCd,,,,,,,,,,,,,,,,,
-snircd,,,,,,,,,,,,,,,,,
-solid-ircd,,,,,,,,,,,,,,,,,
-Synchronet IRCd,,,,,,,,,,,,,,,,,
-UnrealIRCd,,,,,,,,,,,,,,,,,
-WeIRCd,,,,,,,,,,,,,,,,,
+Bahamut,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+bIRCd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Charybdis,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ConferenceRoom,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FoxEye ircd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+InspIRCd<ref></ref><ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCD<ref>[ 50 ]</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ircd-hybrid,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ircd-ratbox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ircu,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ithildin,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+kike,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+miniircd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nefarious IRCu,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ngIRCd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OfficeIRC Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PleXusIRCd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+pureIRCd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RockIRCd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RubIRCd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ShadowIRCd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+snircd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+solid-ircd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Synchronet IRCd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UnrealIRCd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WeIRCd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]

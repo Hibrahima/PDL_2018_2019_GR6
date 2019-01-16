@@ -10,4 +10,5 @@ VirtualBox 4.1.x,256 logical cores (Windows version limited to 64)<ref name="vir
 Microsoft Hyper-V Server R2<ref name="technet5" />,64 cores / 8 CPUs<ref name="arstechnica" />,1 TB,No limit,384,4,64 GB,4 IDE; 256 SCSI,2 TB
 Microsoft Hyper-V Server 2012<ref name="technet4" />,320 cores / 64 CPUs,4 TB,No limit,1024,64,1 TB,4 IDE; 256 SCSI,64 TB
 Xen<ref name=":0"></ref>,4095 CPUs,16TB,No limit,No limit,512 PV / 128 HVM,512GB PV / 1TB HVM,?,?
+XCP-ng,4095 CPUs,16TB,No limit,No limit,512 PV / 128 HVM,512GB PV / 1TB HVM,?,?
 Xen Server<ref name=":0" />,4095 CPUs,16TB,No limit,No limit,512 PV / 128 HVM,512GB PV / 1TB HVM,?,?

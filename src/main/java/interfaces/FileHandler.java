@@ -42,4 +42,14 @@ public interface FileHandler {
 	 * @return true if that file is a valid CSV file
 	 */
 	public boolean isCsvFileValid(File file, char separator);
+	
+	/**
+	 * Verifies is a file is well formated with regards to CSV rules
+	 * Verifies that a file is a valid CSV file
+	 * 
+	 * @param separator the separator to use for testing
+	 * @param file the file to test
+	 * @return true if that file is a valid CSV file
+	 */
+	public boolean isCsvFileValid(char separator, File file);
 }

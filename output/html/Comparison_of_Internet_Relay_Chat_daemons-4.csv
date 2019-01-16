@@ -1,4 +1,4 @@
-IRC daemon,Channel types,Operator prefixing[68],Advanced operator ACL,Operator "levels"[69],vHost via I-line (or equivalent),i18n nicknames[70],RDBMS integration (SQL)
+IRC daemon,Channel types,Halfop support (+h %),Admin/protect support (+a/+u &/!/*),Founder/owner support (+q ~/.),Operator prefixing[68],Advanced operator ACL,Operator "levels"[69],vHost via I-line (or equivalent),i18n nicknames[70],RDBMS integration (SQL)
 Bahamut,#,No,No,No,No,No,No,Partial,No,No
 bIRCd,# &,No,No,No,No,No,No,Partial,No,No
 Charybdis,# &,No,No,No,No,Yes,Yes,Yes,No,No

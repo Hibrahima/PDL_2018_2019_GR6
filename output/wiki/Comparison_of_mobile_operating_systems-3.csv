@@ -1,22 +1,23 @@
 +Advanced controls
-Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
-While-in-use permissions,,<ref>iOS 11 gives users tighter control over when apps can use their location - The Verge</ref>,,,,
-Per-app Internet access,No <ref></ref> 3rd party software<ref></ref>,<ref></ref> 3rd party software on jailbroken devices<ref></ref>,,<ref name="http://crackberry.com/blackberry-101-application-permissions"></ref>,,
-Per-app identity access,<ref>Android O Behavior Changes | Android Developers </ref>,<ref></ref><ref></ref>,,,,
-Per-app user data access,<ref name="https://arstechnica.com/gadgets/2015/10/android-6-0-marshmallow-thoroughly-reviewed/5/">Android 6.0 Marshmallow  thoroughly reviewed | Ars Technica </ref>,<ref>Apple Adds New Privacy Settings in iOS 6 . Iphonehacks.com (2012-06-12). Retrieved on 2012-07-03.</ref>,<ref name="http://www.pocketmeta.com/windows-phone-8-1-update-2-new-features-uncovered-21731/">Windows Phone 8.1 Update 2 new features uncovered </ref>,<ref name="http://crackberry.com/blackberry-101-application-permissions"/>,,
-Per-app background execution,No <ref></ref> 3rd party apps available<ref></ref>,<ref>How to turn off Background App Refresh in iOS 7 - CNET </ref>,<ref></ref>,<ref></ref>,,
-Per-app notifications,<ref></ref>,<ref></ref><ref></ref>,<ref></ref>,,,
-Per-app location access,<ref name="https://arstechnica.com/gadgets/2015/10/android-6-0-marshmallow-thoroughly-reviewed/5/"/>,<ref></ref>,<ref></ref>,<ref name="http://crackberry.com/blackberry-101-application-permissions"/>,,
-Per-app camera access,<ref name="https://arstechnica.com/gadgets/2015/10/android-6-0-marshmallow-thoroughly-reviewed/5/"/>,<ref></ref>,<ref name="http://www.pocketmeta.com/windows-phone-8-1-update-2-new-features-uncovered-21731/"/>,<ref name="http://crackberry.com/blackberry-101-application-permissions"/>,,
-Per-app microphone access,<ref name="https://arstechnica.com/gadgets/2015/10/android-6-0-marshmallow-thoroughly-reviewed/5/"/>,<ref></ref>,<ref name="http://www.pocketmeta.com/windows-phone-8-1-update-2-new-features-uncovered-21731/"/>,<ref name="http://crackberry.com/blackberry-101-application-permissions"/>,,
-Per-app shared files access,<ref name="https://arstechnica.com/gadgets/2015/10/android-6-0-marshmallow-thoroughly-reviewed/5/"/>,<ref></ref>,,<ref name="http://crackberry.com/blackberry-101-application-permissions"/>,,
-Per-app network data usage auditing,<ref name="Android 4.0 Platform Highlights">Android 4.0 Platform Highlights | Android Developers . Developer.android.com. Retrieved on 2012-07-03.</ref>,<ref>Cellular Settings . manuals.info.apple.com. Retrieved on 2015-04-01.</ref>,Data Sense<ref></ref> or Nokia Counters in 7.5+<ref></ref>,<ref>Application Data Usage Monitoring – BlackBerry Applications . docs.blackberry.com. Retrieved on 2015-04-15.</ref>,?,<ref>persistent data counter </ref>
-Fine grained storage usage,<ref>Android 4.0 Internal Memory Storage and Apps Management . Android Tapp. Retrieved on 2012-07-03.</ref>,<ref>How To See How Much Space Is Being Used By Each of Your Apps in iOS 5 — iPad Insight . Ipadinsight.com (2011-06-13). Retrieved on 2012-07-03.</ref>,<ref></ref>,,?,
-Parental controls,or 3rd party software<ref></ref>,<ref></ref>,<ref name="http://www.windowsphone.com/en-us/how-to/wp8/basics/set-up-kids-corner"/>,<ref></ref>,?,
-Screen orientation lock,<ref>How to enable the orientation lock on an Android phone . Youtube.com (2011-06-01). Retrieved on 2012-07-03.</ref>,<ref name="iPhoneTips"/>,<ref name="https://www.theverge.com/2013/10/14/4836394/windows-phone-8-update-3-features-screenshots-release-date"></ref>,<ref></ref>,?,<ref>Screen orientation setting / locking </ref>
-File manager,<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,3rd party software<ref></ref>,<ref>Tutorial: Install Terminal  Native File Manager And Accessing SD Card Storage | Latest Jolla And Sailfish OS News </ref>
-File manager write access to external storage,<ref name="liliputing.com"></ref> Or 3rd party software like LineageOS,<ref></ref>,,,,
-Multi-user,<ref></ref><ref></ref>,publisher=Ars Technica |date=2016-01-11 |deadurl=no |archiveurl=https://web.archive.org/web/20160723033257/http://arstechnica.co.uk/apple/2016/01/ios-9-3-brings-multi-user-mode-to-ipads-along-with-more-features-and-fixes/ |archivedate=2016-07-23 |df= }}</ref>,,,,
-Guest mode,<ref>Android 5.0 Lollipop announced with Material Design  Guest Mode and more </ref>,<ref></ref>,<ref name="http://www.windowsphone.com/en-us/how-to/wp8/basics/set-up-kids-corner"></ref>,,,
-Do not disturb mode,<ref>Set up 'Priority' mode on Android 5.0 Lollipop - CNET </ref>,<ref></ref>,<ref name="blogs.windows.com"></ref>,,,
-App groups,,<ref></ref>,,<ref></ref>,?,<ref>Folder support in app launcher </ref>
+Feature
+While-in-use permissions
+Per-app Internet access
+Per-app identity access
+Per-app user data access
+Per-app background execution
+Per-app notifications
+Per-app location access
+Per-app camera access
+Per-app microphone access
+Per-app shared files access
+Per-app network data usage auditing
+Fine grained storage usage
+Parental controls
+Screen orientation lock
+File manager
+File manager write access to external storage
+Multi-user
+Guest mode
+Do not disturb mode
+App groups
+[added]

@@ -1,61 +1,57 @@
-File system,Stores file owner,POSIX file permissions,Creation timestamps,Last access/ read timestamps,Last metadata change timestamps,Last archive timestamps,Access control lists,Security/ MAC labels,Extended attributes/ Alternate data streams/ forks,Checksum/ ECC
-BeeGFS,,,,,,,,,,
-CP/M file system,,,,,,,,,,
-DECtape<ref></ref>,,,,,,,,,,
-Elektronika BK tape format,,,,,,,,,,
-Level-D,,,,,,,,,,
-RT-11<ref></ref>,,,(date only),,,,,,,
-Version 6 Unix file system (V6FS)<ref name="Unixv6"></ref>,,,,,,,,,,
-Version 7 Unix file system (V7FS)<ref name="Unixv7">See dinode structure on page 355 (FILESYS(5)) of </ref>,,,,,,,,,,
-FAT12/FAT16/FAT32,,,,,,,,,,
-HPFS,,,,,,,,,,
-NTFS,,,,,,,,</ref>}},,
-ReFS,,,,,,,,,,
-HFS,,,,,,,,,,
-HFS Plus,,,,,,,,,,
-FFS,,,,,,,,,,
-UFS1,,,,,,,,,,
-UFS2,,,,,,,,,,
-HAMMER,,,,,,,,,,
-LFS,,,,,,,,,,
-ext,,,,,,,,,,
-Xiafs,,,,,,,,,,
-ext2,,,,,,,,,,
-ext3,,,,,,,,,,
-ext4,,,,,,,,,,</ref>}}
-NOVA,,,,,,,,,,
-Lustre,,,,,,,,,,
-F2FS,,,,,,,,,,
-GPFS,,,,,,,,,,
-GFS,,,,,,,,,,
-NILFS,,,,,,,,,,
-ReiserFS,,,,,,,,,,
-Reiser4,,,,,,,,,,
-OCFS,,,,,,,,,,
-OCFS2,,,,,,,,,,
-XFS,,,,,,,,,,
-JFS,,,,,,,,,,
-QFS,,,,,,,,,,
-BFS,,,,,,,,,,
-AdvFS,,,,,,,,,,
-NSS,,,,,,,,,,
-NWFS,,,,,,,,,,
-ODS-5,,,,,,,,,,
-APFS,,,,,,,,,,
-VxFS,,,,,,,,,,
-UDF,,,,,,,,,,
-Fossil,,,,,,,,,,
-ZFS,,,,,,,,,,
-Btrfs,,,,,,,,,,
-Minix V1,,,,,,,,,,
-Minix V2,,,,,,,,,,
-Minix V3,,,,,,,,,,
-VMFS2,,,,,,,,,,
-VMFS3,,,,,,,,,,
-ISO 9660:1988,,,,,,,,,,
-Rock Ridge,,,,,,,,,,
-Joliet ("CDFS"),,,,,,,,,,
-ISO 9660:1999,,,,,,,,,,
-High Sierra,,,,,,,,,,
-SquashFS,,,,,,,,,,
-File system,Stores file owner,POSIX file permissions,Creation timestamps,Last access/read timestamps,Last metadata change timestamps,Last archive timestamps,Access control lists,Security/ MAC labels,Extended attributes/ Alternate data streams/ forks,Checksum/ ECC
+File system,Hard links,Symbolic links,Block journaling,Metadata-only journaling,Case-sensitive,Case-preserving,File Change Log,Internal snapshotting / branching,XIP,Filesystem-level encryption,Data deduplication,Data checksums
+DECtape,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BeeGFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Level-D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RT-11,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+APFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 6 Unix file system (V6FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 7 Unix file system (V7FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FAT12,[empty],[empty],[empty],(with TFAT12 only),[empty],(with VFAT LFNs only),[empty],[empty],[empty],(DR-DOS with SECURITY only),[empty],[empty]
+FAT16 / FAT16B / FAT16X,[empty],[empty],[empty],(with TFAT16 only),[empty],(with VFAT LFNs only),[empty],[empty],[empty],(DR-DOS with SECURITY only),[empty],[empty]
+FAT32 / FAT32X,[empty],[empty],?,(with TFAT32 only),[empty],(with VFAT LFNs only),[empty],[empty],[empty],[empty],[empty],[empty]
+GFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HPFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NTFS,[empty],</ref> NTFS 3.0 (Windows 2000) and higher can create junctions  which allow entire directories (but not individual files) to be mapped to elsewhere in the directory tree of the same partition (file system). These are implemented through reparse points  which allow the normal process of filename resolution to be extended in a flexible manner.}},[empty],(2000),[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+HFS Plus,<ref></ref>,[empty],[empty],[empty],</ref> HFS Plus version 5 optionally supports case-sensitivity. However  since case-sensitivity is fundamentally different from case-insensitivity  a new signature was required so existing HFS Plus utilities would not see case-sensitivity as a file system error that needed to be corrected. Since the new signature is 'HX'  it is often believed this is a new filesystem instead of a simply an upgraded version of HFS Plus.<ref> (hasn't been updated to discuss HFSX)</ref><ref> (Very technical overview of HFS Plus and HFSX.)</ref>}},[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UFS1,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UFS2,[empty],[empty],[empty],<ref>https://www.mckusick.com/softdep/suj.pdf</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HAMMER,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xiafs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext3,[empty],[empty],(2001),(2001),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],, experimental <ref name="note-67"></ref>,[empty],[empty]
+NOVA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+F2FS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],, experimental <ref name="note-68"></ref>,[empty],[empty]
+Lustre,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NILFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReiserFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Reiser4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],, experimental <ref></ref>,[empty]
+JFS,[empty],[empty],[empty],(1990),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NSS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NWFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ODS-2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ODS-5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UDF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VxFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fossil,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],</ref><ref>https://github.com/zfsonlinux/zfs/pull/5769</ref>}},[empty],[empty]
+Btrfs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],, planned  not being developed (Nov  2015)<ref></ref>,[empty],[empty]
+Minix V1,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Minix V2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Minix V3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ISO 9660,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rock Ridge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Joliet ("CDFS"),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SquashFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+File system,Hard links,Symbolic links,Block journaling,Metadata-only journaling,Case-sensitive,Case-preserving,File Change Log,Internal snapshotting / branching,XIP,Filesystem-level encryption,Data deduplication,Data checksums

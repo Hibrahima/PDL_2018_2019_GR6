@@ -53,4 +53,4 @@ WS_FTP,Yes,Yes (Pro only),Yes (Pro only),Yes,Yes (Pro only),Yes,Yes (Pro only),N
 Xftp,Yes,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,?
 Yummy FTP,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes (AppleScript),Yes,Yes,?
 sFTP Client,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes (SSH Terminal),Yes,Yes,Yes
-Client,FTP,FTP over SSH,SFTP,FTPS (FTP over SSL),FXP (Site2site transfer),DAV / HTTP(S),Compression,Remote Compression,API / Commandline available,Resume Download,Passive mode
+Client,FTP,FTP over SSH,SFTP,FTPS (FTP over SSL),FXP (Site2site transfer),DAV / HTTP(S),Compression,Remote Compression,API / Commandline available,Resume Download,Passive mode,[added]

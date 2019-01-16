@@ -1,4 +1,4 @@
-,"+" quantifier,Negated character classes,Non-greedy quantifiers[Note 1],Shy groups[Note 2],Recursion,Look-ahead,Look-behind,Backreferences[Note 3],>9 indexable captures
+[empty],"+" quantifier,Negated character classes,Non-greedy quantifiers[Note 1],Shy groups[Note 2],Recursion,Look-ahead,Look-behind,Backreferences[Note 3],>9 indexable captures
 Boost.Regex,Yes,Yes,Yes,Yes,Yes[Note 4],Yes,Yes,Yes,Yes
 Boost.Xpressive,Yes,Yes,Yes,Yes,Yes[Note 5],Yes,Yes,Yes,Yes
 CL-PPCRE,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes

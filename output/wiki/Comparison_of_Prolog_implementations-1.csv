@@ -1,9 +1,9 @@
 Name,Type checker,Determinacy checker,Call-pattern checker
-Ciao,,,
-GNU Prolog,,,
-Jekejeke Prolog,,,
-SICStus Prolog,,,
-SWI-Prolog,,,
-Visual Prolog,,,
-XSB,,,
-YAP-Prolog,,,
+Ciao,[empty],[empty],[empty]
+GNU Prolog,[empty],[empty],[empty]
+Jekejeke Prolog,[empty],[empty],[empty]
+SICStus Prolog,[empty],[empty],[empty]
+SWI-Prolog,[empty],[empty],[empty]
+Visual Prolog,[empty],[empty],[empty]
+XSB,[empty],[empty],[empty]
+YAP-Prolog,[empty],[empty],[empty]

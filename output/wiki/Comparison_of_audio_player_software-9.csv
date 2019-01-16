@@ -1,23 +1,23 @@
 Audio player,ID3v1,ID3v2,APEv2 tag,Vorbis comment,Cue sheet,CD-Text,WAVE chunks
-AIMP,,,,,,,
-Amarok,<ref group="metadatanotes" name="taglib">Understanding of ID3v1  ID3v2  APEv2 and Vorbis comments is handled by an external library called TagLib.</ref>,<ref group="metadatanotes" name="taglib" /><ref group="metadatanotes" >Amarok does not understand embedded covers.</ref>,<ref group="metadatanotes" name="taglib" />,,<ref group="metadatanotes" name="amarok_missing_features">Yes   but buggy.</ref>,,
-Audacious,,,,,,,
-Audion,,,,,,,
-cmus,,,,,,,
-Cog,,,,,,,
-foobar2000,,,,,,<ref group="metadatanotes" name="foo_cdtext">There is a plugin called CD-TEXT Reader adding such a feature.</ref>,
-iTunes,,,,,,,
-JRiver Media Center,,,,,,,
-JuK,<ref group="metadatanotes" name="taglib" />,<ref group="metadatanotes" name="taglib" />,<ref group="metadatanotes" name="taglib" />,<ref group="metadatanotes" name="taglib" />,,,
-MediaMonkey,,,,,,,
-MPXPLAY,,,,,,,
-MusicBee,,,,,,,
-Musicmatch Jukebox,,,,,,,
-musikCube,,,,,,,
-Quod Libet,,,,,,,
-Rhapsody,,,,,,,
-Rhythmbox,,,,,,,
-Sonique,,,,,,,
-XMMS,,,,,,,
-Zinf,,,,,,,
+AIMP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Amarok,<ref group="metadatanotes" name="taglib">Understanding of ID3v1  ID3v2  APEv2 and Vorbis comments is handled by an external library called TagLib.</ref>,<ref group="metadatanotes" name="taglib" /><ref group="metadatanotes" >Amarok does not understand embedded covers.</ref>,<ref group="metadatanotes" name="taglib" />,[empty],<ref group="metadatanotes" name="amarok_missing_features">Yes   but buggy.</ref>,[empty],[empty]
+Audacious,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Audion,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+cmus,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cog,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+foobar2000,[empty],[empty],[empty],[empty],[empty],<ref group="metadatanotes" name="foo_cdtext">There is a plugin called CD-TEXT Reader adding such a feature.</ref>,[empty]
+iTunes,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JRiver Media Center,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JuK,<ref group="metadatanotes" name="taglib" />,<ref group="metadatanotes" name="taglib" />,<ref group="metadatanotes" name="taglib" />,<ref group="metadatanotes" name="taglib" />,[empty],[empty],[empty]
+MediaMonkey,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MPXPLAY,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MusicBee,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Musicmatch Jukebox,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+musikCube,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quod Libet,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rhapsody,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rhythmbox,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sonique,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XMMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zinf,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Audio player,ID3v1,ID3v2,APEv2 tag,Vorbis comment,Cue sheet,CD-Text,WAVE chunks

@@ -1,9 +1,9 @@
-,Windows,macOS,Linux,BSD,Unix,DOS,Android
-ALGLIB,,,,,,,
-GNU Scientific Library,,,,,,,
-ILNumerics,,,,,,,
-IMSL Numerical Libraries,,,,,,,
-Math.NET Numerics,,,,,,,
-NAG Numerical Library,,,,,,,
-NMath,,,,,,,
-SciPy (Python packages),,,,,,,
+[empty],Windows,macOS,Linux,BSD,Unix,DOS,Android
+ALGLIB,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU Scientific Library,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ILNumerics,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IMSL Numerical Libraries,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Math.NET Numerics,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NAG Numerical Library,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NMath,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SciPy (Python packages),[empty],[empty],[empty],[empty],[empty],[empty],[empty]

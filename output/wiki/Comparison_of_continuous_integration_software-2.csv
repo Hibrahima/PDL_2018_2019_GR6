@@ -1,20 +1,20 @@
 Name,AccuRev,BitKeeper,CA Harvest,ClearCase,CVS,Darcs,Git,GNU Bazaar,Integrity,Mercurial,Perforce,Plastic,PVCS,StarTeam,Subversion,Surround,Synergy,Team Concert,Team Foundation Server,Vault,Visual SourceSafe
-AnthillPro,,,,,,,,,,,,,,,,,,,,,
-Apache Continuum,,,,<ref name=continuum_features/>,<ref name=continuum_features/>,,<ref name=continuum_features/>,<ref name=continuum_features/>,,<ref name=continuum_features/>,<ref name=continuum_features/>,,,<ref name=continuum_features/>,<ref name=continuum_features/>,,<ref name=continuum_features/>,,,,<ref name=continuum_features/>
-Apache Gump,,,,,,,,,,,,,,,,,,,,,
-AppVeyor,,,,,,,,,,,,,,,<ref>http://www.appveyor.com/docs/installed-software#version-control-systems</ref>,,,,,,
-Bamboo,<ref></ref>,,,,,,,,,,,,,,,,,,<ref></ref>,,
-Buddy,,,,,,,,,,,,,,,,,,,,,
-BuildBot,,,,,,,,,,,,,,,,,,,,,
-BuildMaster,,,,,,,,,,,,,,,,,,,,,
-CABIE,,,,,,,,,,,,,,,,,,,,,
-CruiseControl,,,,,,,,,,,,,,,,,,,,,
-CruiseControl.NET,,,,,,,,,,,,,,,,,,,,,
-Distelli,,,,,,,,,,,,,,,,,,,,,
-Drone,,,,,,,<ref></ref>,,,,,,,,,,,,,,
-Jenkins-Hudson,,,,,,<ref>https://wiki.jenkins-ci.org/display/JENKINS/Darcs+Plugin</ref>,,,<ref>https://wiki.jenkins-ci.org/display/JENKINS/PTC+Integrity+Plugin</ref>,,,<ref>https://wiki.jenkins-ci.org/display/JENKINS/PlasticSCM+Plugin</ref>,,,,<ref>https://wiki.jenkins-ci.org/display/JENKINS/Surround+SCM+Plugin</ref>,<ref>https://wiki.jenkins-ci.org/display/JENKINS/Synergy+Plugin</ref>,<ref>https://wiki.jenkins-ci.org/display/JENKINS/Team+Concert+Plugin</ref>,,<ref>https://wiki.jenkins-ci.org/display/JENKINS/Vault+Plugin</ref>,
-OpenMake Software Meister,,,,,,,,,,,,,,,,,,,,,
-Semaphore (software),,,,,,,,,,,,,,,,,,,,,
-TeamCity,,,,,,,,<ref>https://plugins.jetbrains.com/plugin/8886-bazaar</ref>,,,,,,,,,,,,,
-Team Foundation Server,,,,,,,,,,,,,,,,,,,,,
-Vexor,,,,,,,,,,,,,,,,,,,,,
+AnthillPro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Apache Continuum,[empty],[empty],[empty],<ref name=continuum_features/>,<ref name=continuum_features/>,[empty],<ref name=continuum_features/>,<ref name=continuum_features/>,[empty],<ref name=continuum_features/>,<ref name=continuum_features/>,[empty],[empty],<ref name=continuum_features/>,<ref name=continuum_features/>,[empty],<ref name=continuum_features/>,[empty],[empty],[empty],<ref name=continuum_features/>
+Apache Gump,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AppVeyor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>http://www.appveyor.com/docs/installed-software#version-control-systems</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Bamboo,<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty]
+Buddy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BuildBot,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BuildMaster,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CABIE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CruiseControl,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CruiseControl.NET,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Distelli,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Drone,[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Jenkins-Hudson,[empty],[empty],[empty],[empty],[empty],<ref>https://wiki.jenkins-ci.org/display/JENKINS/Darcs+Plugin</ref>,[empty],[empty],<ref>https://wiki.jenkins-ci.org/display/JENKINS/PTC+Integrity+Plugin</ref>,[empty],[empty],<ref>https://wiki.jenkins-ci.org/display/JENKINS/PlasticSCM+Plugin</ref>,[empty],[empty],[empty],<ref>https://wiki.jenkins-ci.org/display/JENKINS/Surround+SCM+Plugin</ref>,<ref>https://wiki.jenkins-ci.org/display/JENKINS/Synergy+Plugin</ref>,<ref>https://wiki.jenkins-ci.org/display/JENKINS/Team+Concert+Plugin</ref>,[empty],<ref>https://wiki.jenkins-ci.org/display/JENKINS/Vault+Plugin</ref>,[empty]
+OpenMake Software Meister,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Semaphore (software),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TeamCity,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>https://plugins.jetbrains.com/plugin/8886-bazaar</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Team Foundation Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Vexor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

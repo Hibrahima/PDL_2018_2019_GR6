@@ -1,42 +1,43 @@
 IRC daemon,Creator/network,Basis,Programming language,First public release,Latest version (numeric 351),Software license
-Asuka<ref name="snircd_hp"/>,QuakeNet Dev Team,ircu,C,,,
-Bahamut<ref></ref>,DALnet,DreamForge  IRCD-Hybrid,C,1999<ref></ref>,bahamut-2.0.7,
-bIRCd<ref></ref>,DAMnet,DreamForge,C,1999,bIRCd-2.1.0rc4,
-beware ircd<ref></ref>,beware,from scratch,Delphi,,,
-Charybdis<ref></ref>,atheme.org (nenolod  jilles  dwr  gxti),ircd-ratbox  IRCD-Hybrid  ircu  ShadowIRCd,C,2005,charybdis-3.4.2,
-dancer-ircd,freenode,Hybrid 6,C,1999,,
-Elemental-IRCd<ref></ref>,<ref></ref>,ShadowIRCD,C,2007,6.6.2,
-DreamForge,DALnet,irc2.8.mu3,C,1994 (dal)  1997? (df),,
-Faerion IRC Server<ref></ref>,vhex,DreamForge,C  C++,2003,1.17.7.1<ref></ref>,
-FoxEye (ircd module),Andriy Grytsenko,from scratch,C,2011(draft)  2016(working),0.11.0,
-hyperion<ref>freenode: hyperion-ircd</ref>,freenode,dancer-ircd 1.0.35+pre2,C,2005,,
-IgniteIRCd<ref></ref>,Lloyd Dilley,ircd-hybrid 6.3.1,C,2004,,
-InspIRCd <ref></ref>,InspIRCd Development Team,from scratch,C++,2002,2.0.25<ref></ref>,
+Asuka<ref name="snircd_hp"/>,QuakeNet Dev Team,ircu,C,[empty],[empty],[empty]
+Bahamut<ref></ref>,DALnet,DreamForge  IRCD-Hybrid,C,1999<ref></ref>,bahamut-2.0.7,[empty]
+bIRCd<ref></ref>,DAMnet,DreamForge,C,1999,bIRCd-2.1.0rc4,[empty]
+beware ircd<ref></ref>,beware,from scratch,Delphi,[empty],[empty],[empty]
+Charybdis<ref></ref>,atheme.org (nenolod  jilles  dwr  gxti),ircd-ratbox  IRCD-Hybrid  ircu  ShadowIRCd,C,2005,charybdis-3.4.2,[empty]
+dancer-ircd,freenode,Hybrid 6,C,1999,[empty],[empty]
+Elemental-IRCd<ref></ref>,<ref></ref>,ShadowIRCD,C,2007,6.6.2,[empty]
+DreamForge,DALnet,irc2.8.mu3,C,1994 (dal)  1997? (df),[empty],[empty]
+Faerion IRC Server<ref></ref>,vhex,DreamForge,C  C++,2003,1.17.7.1<ref></ref>,[empty]
+FoxEye (ircd module),Andriy Grytsenko,from scratch,C,2011(draft)  2016(working),0.11.0,[empty]
+hyperion<ref>freenode: hyperion-ircd</ref>,freenode,dancer-ircd 1.0.35+pre2,C,2005,[empty],[empty]
+IgniteIRCd<ref></ref>,Lloyd Dilley,ircd-hybrid 6.3.1,C,2004,[empty],[empty]
+InspIRCd <ref></ref>,InspIRCd Development Team,from scratch,C++,2002,2.0.25<ref></ref>,[empty]
 ignitionServer<ref>The Ignition Project : ignitionServer</ref>,The Ignition Project,Pure-IRCD (VB6 version),Visual Basic,2004,<ref></ref>,</ref>}}
-IRCd<ref></ref>,Jarkko Oikarinen  IRCnet<ref></ref>,from scratch,C<ref>Source code</ref>,1988,2.11.2<ref>Release Notes</ref>,
+IRCd<ref></ref>,Jarkko Oikarinen  IRCnet<ref></ref>,from scratch,C<ref>Source code</ref>,1988,2.11.2<ref>Release Notes</ref>,[empty]
 ircd-hybrid<ref></ref>,ircd-hybrid Development Team <ref></ref> Rizon  OFTC  EFnet,irc2.8<ref name="ircw_hybrid"></ref>,C<ref name="ircw_hybrid" />,1997<ref name="ircw_hybrid" />,8.2.21<ref></ref>,<ref></ref>
-ircd-ratbox,Aaron Sethman  Lee Hardy  EFnet,Hybrid 7-rc1,C,2002,ircd-ratbox-3.0.10,
-ircd-seven,freenode,charybdis 3.1.x/trunk,C,—,stable,
-ircu<ref name="auto"></ref>,Undernet Coder Committee,irc2.7<ref></ref>,C<ref>ircu2.10.12.12 source code (tar.gz)</ref>,1991,u2.10.12.14<ref name="auto"/>,
+ircd-ratbox,Aaron Sethman  Lee Hardy  EFnet,Hybrid 7-rc1,C,2002,ircd-ratbox-3.0.10,[empty]
+ircd-seven,freenode,charybdis 3.1.x/trunk,C,—,stable,[empty]
+ircu<ref name="auto"></ref>,Undernet Coder Committee,irc2.7<ref></ref>,C<ref>ircu2.10.12.12 source code (tar.gz)</ref>,1991,u2.10.12.14<ref name="auto"/>,[empty]
 ithildin<ref></ref>,Chip Norkus,from scratch,C,2006,1.1<ref>Downloads - Ithildhin</ref>,</ref>}}
-kike<ref></ref>,Přemysl Janouch,from scratch,C,2015,0.9<ref></ref>,
-miniircd<ref></ref>,Joel Rosdahl,from scratch,Python,2003,1.1<ref></ref>,
-Nefarious IRCu,Evilnet Development  AfterNET,ircu2.10.12.14,C,2004,u2.10.12.14+Nefarious(2.0.0),
-ngIRCd<ref></ref>,Alex Barton,from scratch,C,2001<ref></ref>,ngircd-24<ref></ref>,
-OfficeIRC Server,Office IRC Inc  Paul Heinlein,from scratch,VB.NET,2006,2.2,
-Oragono,Daniel Oaks  Oragono Contributors,Ergonomadic,Go,2016,0.12.0,
-PleXusIRCd,Rizon  thaprince  static,Hybrid 7.2.3,C,2005,hybrid-7.2.3+plexus-3.0.1(20090612_0-523),
-ProvisionIRCd<ref></ref>,Sirius  Y4kuzi,from scratch,mSL,2006,2.2,
-pureIRCd,Dennis Fisch aka Diligent,from scratch,C,2002,,
-RockIRCd<ref></ref>,Mike Chambers,from scratch,QuickBASIC<ref>RockIRCd 1.0.0-testing source (.zip)</ref>,2009,1.0.0-testing,
-RubIRCd<ref name="rubircd"></ref>,Lloyd Dilley,from scratch,Ruby,2013,0.1a-maiden voyage,
-ShadowIRCd<ref name="shadowircd">ShadowIRCd </ref>,Taros  jdhore  jilles  nenolod,Charybdis<ref name=shadowircd />,C,2003,,
-snircd,QuakeNet,ircu2.10.12<ref name="snircd_source"/>,C<ref name="snircd_source"/>,,1.3.4a<ref name="snircd_hp"></ref>,
-solid-ircd,Toshi Morita  Juan Baez Gabriel Baez,Bahamut,C,2004<ref></ref>,solid-ircd 3.4.8,
-Synchronet IRCd<ref>ircd.js : The Synchronet IRCd Service</ref>,Randy E. Sommerfeld,from scratch,JavaScript,2003,SynchronetIRCd-1.3a(1.151),
-TR-IRCd <ref></ref>,Yusuf Iskenderoglu  Ekim Engin  Dimitris Ginosatiris  Maksut Cagil  Burak Cifter,Hybrid 7 and Bahamut,C,1999,,
-UltimateIRCd,ShadowRealm Creations,DreamForge 2.8,C,2001,</ref> (now unmaintained)}},
-UnrealIRCd<ref></ref>,UnrealIRCd Team,EliteIRCd (potvin)<ref>unrealircd.doc</ref>,C,1999,Unreal4.0.5<ref></ref>,
-Viagra IRCd<ref></ref>,Chris Schiffner,Titan,C,2003,,
-WeIRCd,Eloxoph IRC Network<ref name="weircd_hp"></ref>,from scratch,C,2007,,
-Pocosi<ref></ref>,Chris Williams  Hinrik Örn Sigurðsson,POE::Component::Server::IRC<ref></ref>,Perl,2003,,
+kike<ref></ref>,Přemysl Janouch,from scratch,C,2015,0.9<ref></ref>,[empty]
+miniircd<ref></ref>,Joel Rosdahl,from scratch,Python,2003,1.1<ref></ref>,[empty]
+Nefarious IRCu,Evilnet Development  AfterNET,ircu2.10.12.14,C,2004,u2.10.12.14+Nefarious(2.0.0),[empty]
+ngIRCd<ref></ref>,Alex Barton,from scratch,C,2001<ref></ref>,ngircd-24<ref></ref>,[empty]
+OfficeIRC Server,Office IRC Inc  Paul Heinlein,from scratch,VB.NET,2006,2.2,[empty]
+Oragono,Daniel Oaks  Oragono Contributors,Ergonomadic,Go,2016,0.12.0,[empty]
+PleXusIRCd,Rizon  thaprince  static,Hybrid 7.2.3,C,2005,hybrid-7.2.3+plexus-3.0.1(20090612_0-523),[empty]
+ProvisionIRCd<ref></ref>,Sirius  Y4kuzi,from scratch,mSL,2006,2.2,[empty]
+pureIRCd,Dennis Fisch aka Diligent,from scratch,C,2002,[empty],[empty]
+RockIRCd<ref></ref>,Mike Chambers,from scratch,QuickBASIC<ref>RockIRCd 1.0.0-testing source (.zip)</ref>,2009,1.0.0-testing,[empty]
+RubIRCd<ref name="rubircd"></ref>,Lloyd Dilley,from scratch,Ruby,2013,0.1a-maiden voyage,[empty]
+ShadowIRCd<ref name="shadowircd">ShadowIRCd </ref>,Taros  jdhore  jilles  nenolod,Charybdis<ref name=shadowircd />,C,2003,[empty],[empty]
+snircd,QuakeNet,ircu2.10.12<ref name="snircd_source"/>,C<ref name="snircd_source"/>,[empty],1.3.4a<ref name="snircd_hp"></ref>,[empty]
+solid-ircd,Toshi Morita  Juan Baez Gabriel Baez,Bahamut,C,2004<ref></ref>,solid-ircd 3.4.8,[empty]
+Synchronet IRCd<ref>ircd.js : The Synchronet IRCd Service</ref>,Randy E. Sommerfeld,from scratch,JavaScript,2003,SynchronetIRCd-1.3a(1.151),[empty]
+TR-IRCd <ref></ref>,Yusuf Iskenderoglu  Ekim Engin  Dimitris Ginosatiris  Maksut Cagil  Burak Cifter,Hybrid 7 and Bahamut,C,1999,[empty],[empty]
+UltimateIRCd,ShadowRealm Creations,DreamForge 2.8,C,2001,</ref> (now unmaintained)}},[empty]
+UnrealIRCd<ref></ref>,UnrealIRCd Team,EliteIRCd (potvin)<ref>unrealircd.doc</ref>,C,1999,Unreal4.0.5<ref></ref>,[empty]
+Viagra IRCd<ref></ref>,Chris Schiffner,Titan,C,2003,[empty],[empty]
+WeIRCd,Eloxoph IRC Network<ref name="weircd_hp"></ref>,from scratch,C,2007,[empty],[empty]
+Pocosi<ref></ref>,Chris Williams  Hinrik Örn Sigurðsson,POE::Component::Server::IRC<ref></ref>,Perl,2003,[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added]

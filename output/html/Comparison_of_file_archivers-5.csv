@@ -1,4 +1,4 @@
-,ZIP,TAR,gzip,bzip2,7z,xz,RAR,LHA/LZH,ACE,StuffIt,StuffIt X,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ
+[empty],ZIP,TAR,gzip,bzip2,7z,xz,RAR,LHA/LZH,ACE,StuffIt,StuffIt X,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ
 7-Zip,Yes,Yes,Yes[14],Yes[14],Yes,Yes[14],No,No,No,No,No,No,No,No,No,No,No,No,No
 ALZip[6],Yes,Yes,Yes,Yes,No,Unknown,No,No,No,No,No,No,No,No,No,Yes,Yes,Unknown,No
 Archive Manager,Yes,Yes,Yes,Yes,Yes,Yes,No[12],Yes,Unknown,Unknown,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,No,No
@@ -27,4 +27,4 @@ WinRAR,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
 WinZip,Yes,No,No,No,No,Unknown,No,Yes,No,No,No,No[3],No,Unknown,Yes,No,No,No,No
 Xarchiver,Yes,Yes,Yes,Yes,Yes,Unknown,No[11],Yes,No,Unknown,Unknown,Yes,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No
 ZipGenius,Yes,Yes[7],Yes[7],Yes[7],Yes,Unknown,No,Yes[8],No,No,No,No,No,No,Unknown,Yes[7],No,No,No
-,ZIP,TAR,GZ,BZ/BZ2,7z,xz,RAR,LHA/LZH,ACE,SIT,SITX,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ
+[empty],ZIP,TAR,GZ,BZ/BZ2,7z,xz,RAR,LHA/LZH,ACE,SIT,SITX,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ

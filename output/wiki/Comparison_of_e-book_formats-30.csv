@@ -1,22 +1,22 @@
 Format,Filename extension,DRM support,Image support,Table support,Sound support,Interactivity support,Word wrap support,Open standard,Embedded annotation support,Book- marking,Video support
-Comic Book Archive,.cbr  .cbz  .cb7  .cbt  .cba,?,,,,,,,,,
-DjVu,.djvu,?,,,,,,,,,
-DOC,.doc,?,,,,?,,,?,?,
-DOCX,.docx,?,,,,?,,,,?,
-EPUB (IDPF),.epub,,,,,,,,<ref name="depreader" group="f">Depends on the eReader application</ref>,<ref name="depreader" group="f">Depends on the eReader application</ref>,<ref group="f">With ePub 3</ref>
-FictionBook,.fb2,,,<ref group="f">Table support added in FictionBook V2.1. Not supported in V2.0</ref>,,,,,,?,?
-HTML,.html,,,,<ref group="f" name="html5">With HTML 5</ref>,,,,,,<ref group="f" name="html5" />
-iBooks,.ibook,,,,,,,,,,
-INF,.inf,,,,,?,,,<ref name="depreader" group="f">Depends on the eReader application</ref>,<ref name="depreader" group="f">Depends on the eReader application</ref>,
-Kindle,.azw,,,<ref group="f">Supported in all except 1st Generation Kindle. (Support level is as it is in mobipocket)</ref><ref></ref>,<ref group="f" name="iOS">Supported only in kindle for iPhone  iPod  iPad.</ref><ref name="amazon.com"></ref>,,,,,,<ref group="f" name="iOS"/><ref name="amazon.com"/>
-Microsoft Reader,.lit,,,?,,,,,?,,?
-Mobipocket,.prc  .mobi,,,,,,,,,,?
-Multimedia EBook,.exe,,,?,,,,,,,?
-Newton Book,.pkg,,,,,,,,,,
-eReader,.pdb,,,?,,,,,,,?
-Plain text,.txt,,,,,,,,,,
-Plucker,.pdb,,,,,,,,,,?
-Portable Document Format,.pdf,,,,,,<ref group="f">"Reflow" is implemented by some readers.</ref><ref></ref>,,,,<ref group="f">With Flash Embedded</ref>
-PostScript,.ps,,,?,,,,,?,?,?
-Tome Raider,.tr2  .tr3,,,?,,,,,?,?,?
-OpenXPS,.oxps  .xps,?,,,?,,,,?,?,?
+Comic Book Archive,.cbr  .cbz  .cb7  .cbt  .cba,?,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DjVu,.djvu,?,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DOC,.doc,?,[empty],[empty],[empty],?,[empty],[empty],?,?,[empty]
+DOCX,.docx,?,[empty],[empty],[empty],?,[empty],[empty],[empty],?,[empty]
+EPUB (IDPF),.epub,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="depreader" group="f">Depends on the eReader application</ref>,<ref name="depreader" group="f">Depends on the eReader application</ref>,<ref group="f">With ePub 3</ref>
+FictionBook,.fb2,[empty],[empty],<ref group="f">Table support added in FictionBook V2.1. Not supported in V2.0</ref>,[empty],[empty],[empty],[empty],[empty],?,?
+HTML,.html,[empty],[empty],[empty],<ref group="f" name="html5">With HTML 5</ref>,[empty],[empty],[empty],[empty],[empty],<ref group="f" name="html5" />
+iBooks,.ibook,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+INF,.inf,[empty],[empty],[empty],[empty],?,[empty],[empty],<ref name="depreader" group="f">Depends on the eReader application</ref>,<ref name="depreader" group="f">Depends on the eReader application</ref>,[empty]
+Kindle,.azw,[empty],[empty],<ref group="f">Supported in all except 1st Generation Kindle. (Support level is as it is in mobipocket)</ref><ref></ref>,<ref group="f" name="iOS">Supported only in kindle for iPhone  iPod  iPad.</ref><ref name="amazon.com"></ref>,[empty],[empty],[empty],[empty],[empty],<ref group="f" name="iOS"/><ref name="amazon.com"/>
+Microsoft Reader,.lit,[empty],[empty],?,[empty],[empty],[empty],[empty],?,[empty],?
+Mobipocket,.prc  .mobi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],?
+Multimedia EBook,.exe,[empty],[empty],?,[empty],[empty],[empty],[empty],[empty],[empty],?
+Newton Book,.pkg,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eReader,.pdb,[empty],[empty],?,[empty],[empty],[empty],[empty],[empty],[empty],?
+Plain text,.txt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Plucker,.pdb,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],?
+Portable Document Format,.pdf,[empty],[empty],[empty],[empty],[empty],<ref group="f">"Reflow" is implemented by some readers.</ref><ref></ref>,[empty],[empty],[empty],<ref group="f">With Flash Embedded</ref>
+PostScript,.ps,[empty],[empty],?,[empty],[empty],[empty],[empty],?,?,?
+Tome Raider,.tr2  .tr3,[empty],[empty],?,[empty],[empty],[empty],[empty],?,?,?
+OpenXPS,.oxps  .xps,?,[empty],[empty],?,[empty],[empty],[empty],?,?,?

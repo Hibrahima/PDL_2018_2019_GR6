@@ -2,7 +2,7 @@ Framework,Internet Explorer,Mozilla Firefox,Safari,Opera,Chrome
 AngularJS (1.3),8+ (9+),4+,5+,11+,30+
 Dojo,6+,3+<ref name="ReferenceA"></ref>,4<ref name="ReferenceA"/>,10.50+<ref name="ReferenceA"/>,3<ref name="ReferenceA"/>
 Ember.js,6+,3+,4+,10.6+,14+
-Enyo,8+<ref name="platforms.enyojs.com"></ref>,>4<ref name="platforms.enyojs.com"/>,>5<ref name="platforms.enyojs.com"/>,,>10<ref name="platforms.enyojs.com"/>
+Enyo,8+<ref name="platforms.enyojs.com"></ref>,>4<ref name="platforms.enyojs.com"/>,>5<ref name="platforms.enyojs.com"/>,[empty],>10<ref name="platforms.enyojs.com"/>
 Ext JS,6+,3.6+,4+,11+,10+<ref></ref>
 Google Web Toolkit,8+,1+,5+,9+,1+
 jQuery,6+<ref name="docs.jquery.com"></ref>,2+<ref name="docs.jquery.com"/>,3+<ref name="docs.jquery.com"/>,9+<ref name="docs.jquery.com"/>,1+<ref name="docs.jquery.com"/>
@@ -12,6 +12,6 @@ Prototype & script. aculo.us<ref name="addon" />,6+,1.5+,2.0.4+,9.25+,1+ (starti
 qooxdoo,6+,2+,3+,9+,2+
 SmartClient and SmartGWT,6+,1+,3+,9+,1+
 SproutCore,6+,3+,4+,9+,1+
-Wakanda,9+,4+,5+,,11+
+Wakanda,9+,4+,5+,[empty],11+
 ZK,6+,2.0+,3+,9+,2+
 Webix,8+<ref name="webix.com"></ref>,3+<ref name="webix.com"/>,4+<ref name="webix.com"/>,9+<ref name="webix.com"/>,1+<ref name="webix.com"/>

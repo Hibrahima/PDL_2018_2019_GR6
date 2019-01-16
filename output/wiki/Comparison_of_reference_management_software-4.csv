@@ -1,32 +1,32 @@
 Software,BibTeX,Copac,CSA,Endnote/Refer/BibIX,ISI,Medline,MODS XML,Ovid,PubMed,RIS,SciFinder,Other
-Aigaion,,,,,,,,,,,,
-Bebop,,,,,,,,,,,,
-BibBase,,,,,,,,,,,,
-BibDesk,,,,,,,,,,,,
-Biblioscape,,,,,,,,,,,,?
-BibSonomy,,,,,,,,,,,,
-Bibus,,,,,,,,,,,,
-Bookends,,,,,,,,,,,,
-Citavi,,,,,,,,,,,,
-CiteULike,,,,,,,,,,,,
-colwiz,,,,,,,,,,,,
-EndNote,,,,,,,,,,,,</ref>}}
-F1000Workspace,,,,,,,,,,,,
-JabRef,,,,,,,,,,,,
-KBibTeX,,,,,,,<ref name="bibutils"/>,,,,,
-Mendeley,,,,,,,,,,,,
-Paperpile,,,,,,,,,,,,
-Papers,,,,,,,,,,,,
-Pybliographer,,,,,,,,,,,,
-Qiqqa,,,,,,,,,,,,
-ReadCube,,,,,,,,,,,,
-refbase,,,,,,,,,,,,
-RefDB,,<ref name="bibutils"/>,,<ref name="bibutils"/>,<ref name="bibutils"/>,,,,,,<ref name="bibutils"/>,
-Reference Manager,,,,,,,,,,,,</ref> user-customizable}}
-Referencer,,,,,,,,,,,,
-RefWorks,,,,,,,,,,,,</ref>}}
-SciRef,,,,,,,,,,,,?
-Sente,,,,,,,,,,,,
-Wikindx,,<ref name="bibutils"/>,,,<ref name="bibutils"/>,,<ref name="bibutils"/>,,,,,
-WizFolio,,,,,,,,,,,,</ref>}}
-Zotero<ref name="zotero-supported-formats"></ref>,,<ref name="zotero-no-import">Zotero can import references directly from the database after which this format is named  although it cannot read the format itself.</ref>,<ref name="zotero-no-import"/>,,,,,,,,,, Endnote XML
+Aigaion,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bebop,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BibBase,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BibDesk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Biblioscape,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],?
+BibSonomy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bibus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bookends,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Citavi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CiteULike,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+colwiz,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+EndNote,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],</ref>}}
+F1000Workspace,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JabRef,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KBibTeX,[empty],[empty],[empty],[empty],[empty],[empty],<ref name="bibutils"/>,[empty],[empty],[empty],[empty],[empty]
+Mendeley,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Paperpile,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Papers,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pybliographer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Qiqqa,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReadCube,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+refbase,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RefDB,[empty],<ref name="bibutils"/>,[empty],<ref name="bibutils"/>,<ref name="bibutils"/>,[empty],[empty],[empty],[empty],[empty],<ref name="bibutils"/>,[empty]
+Reference Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],</ref> user-customizable}}
+Referencer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RefWorks,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],</ref>}}
+SciRef,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],?
+Sente,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Wikindx,[empty],<ref name="bibutils"/>,[empty],[empty],<ref name="bibutils"/>,[empty],<ref name="bibutils"/>,[empty],[empty],[empty],[empty],[empty]
+WizFolio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],</ref>}}
+Zotero<ref name="zotero-supported-formats"></ref>,[empty],<ref name="zotero-no-import">Zotero can import references directly from the database after which this format is named  although it cannot read the format itself.</ref>,<ref name="zotero-no-import"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],, Endnote XML

@@ -5,7 +5,7 @@ Bersirc[2],Jamie Frater  Nicholas Copeland,Free software,LGPL,GUI,C (Delphi orig
 BitchX,Colten Edwards,Free software,BSD,TUI  GUI,C
 ChatZilla,Mozilla Foundation,Free software,MPL  GPL  LGPL tri-license,GUI[Note 2],JavaScript  XUL
 Colloquy,Timothy Hatcher  Kiji Roshi,Desktop: free software  mobile: commercial,BSD: mobile  GPL: desktop,GUI,Objective-C
-ERC,,Free software,GPL,TUI  GUI,Emacs Lisp
+ERC,[empty],Free software,GPL,TUI  GUI,Emacs Lisp
 F-IRC,Folkert van Heusden,Free software,GPL,TUI,C++
 GrumpyChat[3],Petr Bena,Free software,LGPL,GUI,C++
 HexChat[4],Berke Viktor,Free software,GPL,TUI  GUI,C
@@ -24,16 +24,16 @@ Linkinus,Conceited Software,Commercial  15-day trial,Proprietary,GUI,Objective-C
 Mibbit,Jimmy Moore,Textual Adbar,Proprietary,Web,JavaScript frontend  Java backend
 mIRC,Khaled Mardam-Bey,Shareware 30-day trial[14],Proprietary,GUI,C/C++ (Borland C++ originally)[15]
 Nettalk,Nicolas Kruse,Freeware,Apache 2.0,GUI,Visual Basic
-Opera (until version 12.xx) [Note 3],,Freeware,Proprietary,GUI[Note 4],C++
-Pidgin,,Free software,GPL,GUI,C
-PIRCH,,Shareware,Proprietary,GUI,Delphi
+Opera (until version 12.xx) [Note 3],[empty],Freeware,Proprietary,GUI[Note 4],C++
+Pidgin,[empty],Free software,GPL,GUI,C
+PIRCH,[empty],Shareware,Proprietary,GUI,Delphi
 PJIRC,Philippe Detournay,Free software,GPL,GUI,Java
 Quassel,Manuel Nickschas  Marcus Eggenberger  Alexander von Renteln,Free software,GPL,TUI[Note 5]  GUI[Note 6],C++
 qwebirc,Chris Porter,Free software,GPL,Web,JavaScript front end  Python backend
 rcirc,Ryan Yeske,Free software,GPL,TUI,Emacs Lisp
 Smuxi,Mirco Bauer,Free software,GPL,GUI  TUI  server[Note 6],C#
 Snak,Kent Sorensen,Commercial,Proprietary,GUI,?
-Visual IRC,,Free software,GPL,GUI,?
+Visual IRC,[empty],Free software,GPL,GUI,?
 WeeChat,Sebastien Helleu,Free software,GPL,TUI  GUI[Note 7],C
-XChat (evolved into HexChat)[Note 8],,GPL; or proprietary for Windows,TUI  GUI,C
+XChat (evolved into HexChat)[Note 8],[empty],Unix/Linux: free software; Windows: commercial  30-day trial[16] (HexChat is free of charge),GPL; or proprietary for Windows,TUI  GUI,C
 Client,Primary developers,Distribution model,Software license,User interface,Programming language

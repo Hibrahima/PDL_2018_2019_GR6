@@ -1,92 +1,93 @@
-,Windows,macOS,Linux,iOS,BSD,Unix,AmigaOS,Other
-Ability Photopaint,,,,,,,,
-ACD Canvas,,,,,,,,
-ACDSee,,,,,,,,
-Acorn Image Editor,,,,,,,,
-Adobe Fireworks*,,,,,,,,
-Adobe Photoshop,,,,(iPad),,,,
-Adobe Photoshop Lightroom,,,,,,,,
-Affinity Photo,,,,(iPad),,,,
-Aperture,,,,,,,,
-Autodesk SketchBook Pro,,,,,,,,
-Artipic,,,,,,,,
-ArtRage,,,,,,,,
-Artweaver,,,,,,,,
-Bibble*,,,,,,,,
-Bloom Image Editor,,,,,,,,
-Brush Strokes Image Editor,,,,,,,,
-Capture One,,,,,,,,
-Chasys Draw IES,,,,,,,,
-CinePaint,,,,,,,,
-CodedColor PhotoStudio Pro,,,,,,,,
-Corel PaintShop Pro,,,,,,,,
-Corel Painter,,,,,,,,
-Corel Photo-Paint,,,,,,,,
-darktable,,,,,,,,
-Deluxe Paint*,,,,,,,,<ref name="os_1">Deluxe Paint runs on only AmigaOS  Atari ST  and DOS.</ref>
-DigiKam,,,,,,,,
-Erdas Imagine,,,,,,,,
-Fatpaint,,,,,,,,
-Fotografix,,,,,,,,
-F-Spot,,,,,,,,
-G'MIC,,,,,,,,
-GIMP,,,,,,,,
-GimPhoto,,,,,,,,
-GIMPshop,,,,,,,,
-GNU Paint,,,,,,,,
-GrafX2,,,,,,,,
-GraphicConverter,,,,,,,,
-GraphicsMagick,,,,,,,,
-gThumb,,,,,,,,
-HDR PhotoStudio,,,,,,,,
-Helicon Filter,,,,,,,,
-ImageJ,,,,,,,,
-ImageMagick,,,,,,,,
-iPhoto*,,,,,,,,
-IrfanView,,,,,,,,
-Iridient Developer,,,,,,,,
-Kolourpaint,,,,,,,,
-Krita,,,,,,,,
-LazPaint,,,,,,,,
-LiveQuartz,,,,,,,,
-MacPaint*,,,,,,,,<ref name="os_3">MacPaint was developed for the classic Mac OS.</ref>
-Microsoft Office Picture Manager*,,,,,,,,
-Microsoft Paint,,,,,,,,
-Microsoft Photo Editor*,,,,,,,,
-MyPaint,,,,,,,,
-OpenCanvas,,,,,,,,
-Paint.NET,,,,,,,,
-PC Paintbrush*,,,,,,,,<ref name="os_5">PC Paintbrush runs on only DOS.</ref>
-Pencil2D,,,,,,,,
-Phatch,,,,,,,,
-Photofinish*,,,,,,,,
-Photogenics,,,,,,,,
-PhotoLine,,,,,,,,
-PhotoPerfect*,,,,,,,,
-Photos,,,,,,,,
-Photo Raster,,,,,,,,
-Picasa*,,,,,,,,
-PicMaster,,,,,,,,
-Pinta,,,,,,,,
-PixBuilder Photo Editor,,,,,,,,
-Pixelmator,,,,,,,,
-Pixen,,,,,,,,
-Pixia,,,,,,,,
-PMview,,,,,,,,
-Project Dogwaffle,,,,,,,,
-QFX,,,,,,,,
-Rawstudio,,,,,,,,
-RawTherapee,,,,,,,,
-Seashore,,,,,,,,
-Serif PhotoPlus,,,,,,,,
-Shotwell,,,,,,,,
-Tux Paint,,,,,,,,
-TVPaint,,,,,,,,
-UFRaw,,,,,,,,
-Ulead PhotoImpact*,,,,,,,,
-Ultimate Paint*,,,,,,,,
-WinImages,,,,,,,,
-Xara Photo & Graphic Designer,,,,,,,,
-XnView,,,,,,,,
-XPaint,,,,,,,,
-Zoner Photo Studio,,,,,,,,
+[empty],Windows,macOS,Linux,iOS,BSD,Unix,AmigaOS,Other
+Ability Photopaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ACD Canvas,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ACDSee,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Acorn Image Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Adobe Fireworks*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Adobe Photoshop,[empty],[empty],[empty],(iPad),[empty],[empty],[empty],[empty]
+Adobe Photoshop Lightroom,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Affinity Photo,[empty],[empty],[empty],(iPad),[empty],[empty],[empty],[empty]
+Aperture,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Autodesk SketchBook Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Artipic,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ArtRage,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Artweaver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bibble*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bloom Image Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Brush Strokes Image Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Capture One,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Chasys Draw IES,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CinePaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CodedColor PhotoStudio Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Corel PaintShop Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Corel Painter,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Corel Photo-Paint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+darktable,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Deluxe Paint*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="os_1">Deluxe Paint runs on only AmigaOS  Atari ST  and DOS.</ref>
+DigiKam,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Erdas Imagine,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fatpaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fotografix,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+F-Spot,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+G'MIC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GIMP,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GimPhoto,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GIMPshop,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU Paint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GrafX2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GraphicConverter,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GraphicsMagick,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+gThumb,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HDR PhotoStudio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Helicon Filter,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ImageJ,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ImageMagick,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+iPhoto*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IrfanView,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Iridient Developer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Kolourpaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Krita,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LazPaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LiveQuartz,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MacPaint*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="os_3">MacPaint was developed for the classic Mac OS.</ref>
+Microsoft Office Picture Manager*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Paint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Photo Editor*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MyPaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenCanvas,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Paint.NET,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PC Paintbrush*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="os_5">PC Paintbrush runs on only DOS.</ref>
+Pencil2D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Phatch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photofinish*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photogenics,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PhotoLine,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PhotoPerfect*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photo Raster,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Picasa*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PicMaster,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pinta,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PixBuilder Photo Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pixelmator,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pixen,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pixia,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PMview,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Project Dogwaffle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QFX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rawstudio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RawTherapee,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Seashore,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Serif PhotoPlus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Shotwell,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tux Paint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TVPaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UFRaw,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ulead PhotoImpact*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ultimate Paint*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinImages,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xara Photo & Graphic Designer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XnView,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XPaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zoner Photo Studio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

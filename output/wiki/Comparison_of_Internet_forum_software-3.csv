@@ -1,22 +1,22 @@
-,MySQL,PostgreSQL,MSSQL,Oracle,SQLite,Firebird,Flat file
-bbPress<ref name=":2" />,,,,,,,
-Beehive Forum,,,,,,,
-Discourse,,,,,,,
-Discuz!,,,,,,,
-FluxBB,,,,,</ref>}},,
-FUDforum,,,,,,,
-Iko,,,,,,,
-Ikonboard,,,,,,,
-Invision Power Board,,,</ref>}},,,,
-kusaba,,,,,,,
-MyBB<ref name=":1" />,,,,,,,
-Phorum,,,,,,,
-phpBB<ref name="phpbbfeatures" />,,</ref><ref></ref>}},,,,,
-PunBB<ref name=":0" />,,,,,,,
-Simple Machines Forum,,,,,,,
-Syndie,(HSQLDB),,,,,,
-Thredded<ref name=thredded/>,,,,,,,
-UBB.threads,,,,,,,
-Vanilla Forums,,,,,,,
-vBulletin<ref name="vbfeatures" />,,,,,,,
-XenForo,,,,,,,
+[empty],MySQL,PostgreSQL,MSSQL,Oracle,SQLite,Firebird,Flat file
+bbPress<ref name=":2" />,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Beehive Forum,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Discourse,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Discuz!,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FluxBB,[empty],[empty],[empty],[empty],</ref>}},[empty],[empty]
+FUDforum,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Iko,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ikonboard,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Invision Power Board,[empty],[empty],</ref>}},[empty],[empty],[empty],[empty]
+kusaba,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MyBB<ref name=":1" />,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Phorum,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+phpBB<ref name="phpbbfeatures" />,[empty],</ref><ref></ref>}},[empty],[empty],[empty],[empty],[empty]
+PunBB<ref name=":0" />,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Simple Machines Forum,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Syndie,(HSQLDB),[empty],[empty],[empty],[empty],[empty],[empty]
+Thredded<ref name=thredded/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UBB.threads,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Vanilla Forums,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+vBulletin<ref name="vbfeatures" />,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XenForo,[empty],[empty],[empty],[empty],[empty],[empty],[empty]

@@ -1,17 +1,18 @@
 Name,Creator,First public release,Latest stable version,Latest release date,Cost  availability,License
-CACAO,Vienna University of Technology,,1.6.0<ref name="cacao-home"></ref>,4 September 2012<ref name="cacao-home"/>,,GPL version 2 or later<ref></ref>
-Eclipse OpenJ9 (formerly IBM J9),IBM,14 October 2001 Unrelated to [IBM's] Jikes RVM? If not completely  may share same start date. -->,0.8.0,15 March 2018<ref> AdoptOpenJDK|website=adoptopenjdk.net|language=en|access-date=2018-04-09}}</ref>,,Apache License 2.0<br />Eclipse Public License 2.0
-GCJ,GNU,6 September 1998,6.4 (Terminal),4 July 2017,,GPL version 2 or later  with the "libgcc exception"<ref></ref>
-HotSpot  OpenJDK edition,Sun Microsystems  Oracle,27 April 1999,,21 September 2017,,GPL version 2 only
-HotSpot  Oracle JDK edition,Sun Microsystems  Oracle,27 April 1999,,September 2017,,
-HotSpot  Java SE embedded edition,Sun Microsystems  Oracle,27 April 1999,,,,<ref name="se-embeddocs"/>
-HotSpot  Zero port,Gary Benson<ref></ref>,,,,,GPL version 2 only
-IKVM.NET,Jeroen Frijters,28 June 2004,7.0.4335.0,5 December 2011,,zlib License<ref></ref>
-JAmiga,Peter Werno  Joakim Nordström,19 May 2005<ref></ref>,1.2,6 January 2014,,GPL version 2 or later
-JamVM,Robert Lougher,13 March 2003,2.0.0,30 July 2014,,GPL version 2 or later
-Jato VM,Pekka Enberg and contributors<ref name="jatovm-readme"></ref>,,0.3<ref name="jatovm-home"></ref>,4 January 2012<ref name="jatovm-home"/>,,GPL version 2 only<ref name="jatovm-readme"/>
-JC virtual machine,Archie L. Cobbs,,1.4.7,13 November 2005,,LGPL version 2.1 or later
-Jikes RVM,IBM,14 October 2001,3.1.4<ref name=jikesrvm-files></ref>,18 February 2016<ref name=jikesrvm-files/>,,Eclipse Public License version 1.0<ref></ref>
-Kaffe,Transvirtual Technologies,1996,1.1.9,22 February 2008,,GPL version 2 or later<ref name="kaffe-readme"/>
-Mysaifu JVM,,16 April 2005<ref name="mysaifu-home"></ref>,0.4.8<ref name="mysaifu-home"/>,5 March 2010<ref name="mysaifu-home"/>,,GPL version 2 only<ref name="mysaifu-home"/>
-SableVM,Sable Research Group,,1.13,30 March 2007<ref></ref>,,LGPL version 2.1 or later
+CACAO,Vienna University of Technology,[empty],1.6.0<ref name="cacao-home"></ref>,4 September 2012<ref name="cacao-home"/>,[empty],GPL version 2 or later<ref></ref>
+Eclipse OpenJ9 (formerly IBM J9),IBM,14 October 2001 Unrelated to [IBM's] Jikes RVM? If not completely  may share same start date. -->,0.8.0,15 March 2018<ref> AdoptOpenJDK|website=adoptopenjdk.net|language=en|access-date=2018-04-09}}</ref>,[empty],Apache License 2.0<br />Eclipse Public License 2.0
+GCJ,GNU,6 September 1998,6.4 (Terminal),4 July 2017,[empty],GPL version 2 or later  with the "libgcc exception"<ref></ref>
+HotSpot  OpenJDK edition,Sun Microsystems  Oracle,27 April 1999,[empty],21 September 2017,[empty],GPL version 2 only
+HotSpot  Oracle JDK edition,Sun Microsystems  Oracle,27 April 1999,[empty],September 2017,[empty],[empty]
+HotSpot  Java SE embedded edition,Sun Microsystems  Oracle,27 April 1999,[empty],[empty],[empty],<ref name="se-embeddocs"/>
+HotSpot  Zero port,Gary Benson<ref></ref>,[empty],[empty],[empty],[empty],GPL version 2 only
+IKVM.NET,Jeroen Frijters,28 June 2004,7.0.4335.0,5 December 2011,[empty],zlib License<ref></ref>
+JAmiga,Peter Werno  Joakim Nordström,19 May 2005<ref></ref>,1.2,6 January 2014,[empty],GPL version 2 or later
+JamVM,Robert Lougher,13 March 2003,2.0.0,30 July 2014,[empty],GPL version 2 or later
+Jato VM,Pekka Enberg and contributors<ref name="jatovm-readme"></ref>,[empty],0.3<ref name="jatovm-home"></ref>,4 January 2012<ref name="jatovm-home"/>,[empty],GPL version 2 only<ref name="jatovm-readme"/>
+JC virtual machine,Archie L. Cobbs,[empty],1.4.7,13 November 2005,[empty],LGPL version 2.1 or later
+Jikes RVM,IBM,14 October 2001,3.1.4<ref name=jikesrvm-files></ref>,18 February 2016<ref name=jikesrvm-files/>,[empty],Eclipse Public License version 1.0<ref></ref>
+Kaffe,Transvirtual Technologies,1996,1.1.9,22 February 2008,[empty],GPL version 2 or later<ref name="kaffe-readme"/>
+Mysaifu JVM,[empty],16 April 2005<ref name="mysaifu-home"></ref>,0.4.8<ref name="mysaifu-home"/>,5 March 2010<ref name="mysaifu-home"/>,[empty],GPL version 2 only<ref name="mysaifu-home"/>
+SableVM,Sable Research Group,[empty],1.13,30 March 2007<ref></ref>,[empty],LGPL version 2.1 or later
+[added],[added],[added],[added],[added],[added],[added]

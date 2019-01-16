@@ -1,27 +1,27 @@
 Name,Filename casing,CRC,Filedate,Daylight saving,Character casing
-Beyond Compare,,,,,
-Compare++,,,,,
-diff,,,,,
-diff3,,,,,
-Eclipse (compare),,,,,
-Ediff,,,,,
-ExamDiff Pro,,,,,
-Far Manager (compare),,,,,
-fc,,,,,
-FileMerge (aka opendiff),,,,,
-Guiffy SureMerge,,,,,
-IntelliJ IDEA (compare),,,,,
-jEdit JDiff plugin,,,,,
-Kompare,,,,,
-Lazarus Diff,,,,,
-Meld,,,,,
-Notepad++ (compare),,,,,
-Perforce P4Merge,,,,,
-Pretty Diff,,,,,
-Tkdiff,,,,,
-Total Commander (compare),,,,(in synchronize only),
-vimdiff,,,,,
-WinDiff,,,,,
-WinMerge,,,,,
-UCC,,,,,
+Beyond Compare,[empty],[empty],[empty],[empty],[empty]
+Compare++,[empty],[empty],[empty],[empty],[empty]
+diff,[empty],[empty],[empty],[empty],[empty]
+diff3,[empty],[empty],[empty],[empty],[empty]
+Eclipse (compare),[empty],[empty],[empty],[empty],[empty]
+Ediff,[empty],[empty],[empty],[empty],[empty]
+ExamDiff Pro,[empty],[empty],[empty],[empty],[empty]
+Far Manager (compare),[empty],[empty],[empty],[empty],[empty]
+fc,[empty],[empty],[empty],[empty],[empty]
+FileMerge (aka opendiff),[empty],[empty],[empty],[empty],[empty]
+Guiffy SureMerge,[empty],[empty],[empty],[empty],[empty]
+IntelliJ IDEA (compare),[empty],[empty],[empty],[empty],[empty]
+jEdit JDiff plugin,[empty],[empty],[empty],[empty],[empty]
+Kompare,[empty],[empty],[empty],[empty],[empty]
+Lazarus Diff,[empty],[empty],[empty],[empty],[empty]
+Meld,[empty],[empty],[empty],[empty],[empty]
+Notepad++ (compare),[empty],[empty],[empty],[empty],[empty]
+Perforce P4Merge,[empty],[empty],[empty],[empty],[empty]
+Pretty Diff,[empty],[empty],[empty],[empty],[empty]
+Tkdiff,[empty],[empty],[empty],[empty],[empty]
+Total Commander (compare),[empty],[empty],[empty],(in synchronize only),[empty]
+vimdiff,[empty],[empty],[empty],[empty],[empty]
+WinDiff,[empty],[empty],[empty],[empty],[empty]
+WinMerge,[empty],[empty],[empty],[empty],[empty]
+UCC,[empty],[empty],[empty],[empty],[empty]
 Name,Filename casing,CRC,Filedate,Daylight saving,Character casing

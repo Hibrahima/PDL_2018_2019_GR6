@@ -1,5 +1,5 @@
 IDE,License,Windows,Linux,macOS,Other platforms,Debugger,GUI builder,Toolchain,Profiler,Code coverage,Autocomplete,Static code analysis,GUI-based design,Class browser,Latest stable release
-Eclipse w/ AonixADT<ref></ref>,,,,,FreeBSD  JVM  Solaris,,<ref name="Eclipse Qt Integration"></ref>,,,,,,,,December 2009
-GNAT Programming Studio,,,,,DragonFly BSD  FreeBSD  NetBSD  OpenBSD  Solaris,,<ref name="GtkAda User's Guide"></ref>,,,,,,,,June 2014
-SlickEdit,,,,,Solaris  Solaris SPARC  AIX  HP-UX,,,,,,,,,,October 2016
-Understand,,,,,Solaris,,,,,,,,,,December 2015
+Eclipse w/ AonixADT<ref></ref>,[empty],[empty],[empty],[empty],FreeBSD  JVM  Solaris,[empty],<ref name="Eclipse Qt Integration"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],December 2009
+GNAT Programming Studio,[empty],[empty],[empty],[empty],DragonFly BSD  FreeBSD  NetBSD  OpenBSD  Solaris,[empty],<ref name="GtkAda User's Guide"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],June 2014
+SlickEdit,[empty],[empty],[empty],[empty],Solaris  Solaris SPARC  AIX  HP-UX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],October 2016
+Understand,[empty],[empty],[empty],[empty],Solaris,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],December 2015

@@ -1,128 +1,129 @@
 Software,Collaborative software,Issue tracking system,Scheduling,Project Portfolio Management,Resource Management,Document Management,Workflow system,Reporting and Analyses
-2-plan,,,<ref name="2-plan" />,,,,,
-24SevenOffice,,,,,,,,
-Actionspace,,,,,,(Integrates with SharePoint),,
-AnyChart (AnyGantt),,,,,,,,
-Apache Allura,,,,,,,,
-Apache OFBiz,,,,,,,,
-Apache Bloodhound,,,,,,,,
-Asana,,,,,,,,
-Assembla,,,,,,,,
-Axosoft,,,,,,,,
-Basecamp,<ref name="basecamp" />,,,,<ref name="Dynamicwp" />,,,
-Calligra Plan,,,,,,,,
-CEITON,,,,,,,,
-Clarizen,,,,,,,,
-Collabtive,,,,,,,,
-Compuware Changepoint,,,,,,,,
-ConceptDraw Project,<ref name="conceptdrawcollaborate"/>,<ref name="conceptdrawtrack"/>,<ref name="conceptdrawschedule"/>,,,,,
-Concerto Project Management,,,,,,,,
-Copper Project,,,,,,,,
-dotProject,,,,,,,,
-DynaRoad,,,,,,,,
-Easy projects,,,,,,,,
-Eclipse PPM software,,,,,,,,
-Endeavour Software Project Management,,,,,,,,
-eGroupWare,,,,,,,,
-enQuire,,,,,,,,
-FastTrack Schedule,,,,,,,,
-Feng Office Community Edition,,,,,,,,
-FinancialForce.com,,,,,,,,
-FogBugz,,,,,,,,
-Fossil-scm,,,,,,,,
-Freedcamp,,,,,,,,
-GanttProject,,,,,,,,
-Genius Project,,,,,,,,
-Groupiful,,,,,,,,
-Group-Office,,,,,,,,
-GroveSite,,,,,,,,
-Hall.com,,,,,,,,
-Helix ALM,,,,,,,,
-HeySpace,,,,,,,,
-HP Project & Portfolio Software,,,,,,,,
-Huddle,,,,,,,,
-Hyperoffice,,,,,,,,
-iManageProject,,,,,,,,
-InLoox,,,,,,,,
-in-Step BLUE,,,,,,,,
-IRise,,,,,,,,
-Jira,,,,,,,,
-Launchpad,,,,,,,,
-LibrePlan,,,,,,,,
-LiquidPlanner,,,,,,,,
-LisaProject,,,,,,,,
-MacProject,,,,,,,,
-MantisBT,,,,,,,,
-Métier,,,,,,,,
-Microsoft Dynamics AX,,,,,,,,
-Microsoft Office Project Server,,,,,,,,
-Microsoft Project,,,,,,,,
-Microsoft SharePoint Server,,,,,,,,
-Microsoft Team Foundation Server,,,,,,,,
-Milestones Professional,,,,,,,,
-NetPoint,,,,,,,,
-NetSuite,,,,,,,,
-MyWorkPLAN,,,,,,,,
-O3Spaces,,,,,,,,
-OnePager Pro,,,,,,,,
-OmniPlan,,,,,,,,
-Open Workbench,,,,,,,,
-OpenProj,,,,,,,,
-OpenProject,,,,,,,,(Via OpenProject plug-ins)<ref></ref>
-Oracle Primavera EPPM (Primavera P6),,,,,,,,
-phpGroupWare,,,,,,,,
-PHProjekt,,,,,,,,
-Pivotal Tracker,,,,,,,,
-Plandora,,,,,,,,
-Planisware,,,,,,,,
-PLANTA Project,,,,,,,,
-Project Builder,,,,,,,,
-Project KickStart,,,,,,<ref name="projectkickstart DocumentManagement" />,<ref name="projectkickstart project_planning" />,<ref name="projectkickstart reports" />
-Project Team Builder,,,<ref name="Vanhoucke" />,<ref Name="Vanhoucke" />,<ref Name="Vanhoucke" />,,,<ref name="Vanhoucke" />
-ProjectLibre,(Enterprise ProjectLibre and PPMLibre under development)<ref name = devel2 /><ref name = devel1></ref>,,,(Enterprise ProjectLibre and PPMLibre under development)<ref name = devel2 /><ref name = devel1 />,,<ref></ref>,,
-ProjectLink,,,,,,,,
-ProjectManager.com,,,,,,,,
-Project.net,,,,,,,,
-Projector PSA,,,,,,,,
-Projectplace,,,,,,,,
-Projektron BCS,,,,,,,,
-ProjeQtOr,,,,,,,,
-Proliance,,,,,,,<ref></ref>,<ref></ref>
-Prolog,,,,,,,,
-Pyrus,,,,,,,,
-RationalPlan,,,,,,,,
-Realisor,,,,,,,,
-Redbooth,<ref name="Teambox_RWW" />,,,<ref name="Teambox_Pcworld" />,<ref name="Teambox_RWW" />,<ref name="Teambox_RWW" />,,
-Redmine,,,,,,,,
-Rillsoft Project & Integration Server,,,,,,,,
-SAP Business ByDesign,,,,,,,,
-Sciforma,,,,,,,,
-Scoro,,,,,,,,
-Severa,,,,,,,,
-Smartsheet,,,,,,,,
-Spider Project,,,,,,,,
-Streamtime Software,,,,,,,,
-TACTIC,,,,,,,,
-Talygen,,,,,,,,
-TaskJuggler,,,,,,,,
-Teamcenter,,,,,,,,
-TeamDynamixHE,,,,,,,,
-TeamLab,,,,,,,,
-Teamwork.com,,,,,,,,
-The Bug Genie,,,,,,,,
-Trac,,,,,,,,
-TrackerSuite.Net,,,,,,,,
-Traction TeamPage,,,,,,,,
-Trello,,,,,,,,
-Triskell,,,,,,,,
-Tuleap,,,,,,,,
-Twproject,,,,,,,,
-UniPhi,,,,,,,,
-VPMi,,,,,,,,
-web2project,,,,,,,,
-Workamajig,,,,,,,,
-Workfront,,<ref name="Dynamicwp" />,<ref name="Dynamicwp" />,<ref name="Dynamicwp" />,,,,
-WorkPLAN Enterprise,,,,,,,,
-workspace.com,,,,,,,,
-Wrike,,,,,,,,
-Zoho Projects,,,,,,,,
+2-plan,[empty],[empty],<ref name="2-plan" />,[empty],[empty],[empty],[empty],[empty]
+24SevenOffice,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Actionspace,[empty],[empty],[empty],[empty],[empty],(Integrates with SharePoint),[empty],[empty]
+AnyChart (AnyGantt),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Apache Allura,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Apache OFBiz,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Apache Bloodhound,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Asana,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Assembla,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Axosoft,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Basecamp,<ref name="basecamp" />,[empty],[empty],[empty],<ref name="Dynamicwp" />,[empty],[empty],[empty]
+Calligra Plan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CEITON,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Clarizen,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Collabtive,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Compuware Changepoint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ConceptDraw Project,<ref name="conceptdrawcollaborate"/>,<ref name="conceptdrawtrack"/>,<ref name="conceptdrawschedule"/>,[empty],[empty],[empty],[empty],[empty]
+Concerto Project Management,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Copper Project,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+dotProject,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DynaRoad,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Easy projects,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Eclipse PPM software,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Endeavour Software Project Management,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eGroupWare,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+enQuire,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FastTrack Schedule,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Feng Office Community Edition,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FinancialForce.com,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FogBugz,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fossil-scm,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Freedcamp,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GanttProject,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Genius Project,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Groupiful,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Group-Office,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GroveSite,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hall.com,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Helix ALM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HeySpace,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HP Project & Portfolio Software,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Huddle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hyperoffice,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+iManageProject,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+InLoox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+in-Step BLUE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Jira,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Launchpad,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LibrePlan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LiquidPlanner,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LisaProject,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MacProject,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MantisBT,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Métier,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Dynamics AX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Microsoft Office Project Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Project,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft SharePoint Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Team Foundation Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Milestones Professional,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NetPoint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NetSuite,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MyWorkPLAN,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+O3Spaces,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OnePager Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OmniPlan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Open Workbench,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenProj,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenProject,[empty],[empty],[empty],[empty],[empty],[empty],[empty],(Via OpenProject plug-ins)<ref></ref>
+Oracle Primavera EPPM (Primavera P6),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+phpGroupWare,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PHProjekt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pivotal Tracker,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Plandora,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Planisware,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PLANTA Project,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Project Builder,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Project KickStart,[empty],[empty],[empty],[empty],[empty],<ref name="projectkickstart DocumentManagement" />,<ref name="projectkickstart project_planning" />,<ref name="projectkickstart reports" />
+Project Team Builder,[empty],[empty],<ref name="Vanhoucke" />,<ref Name="Vanhoucke" />,<ref Name="Vanhoucke" />,[empty],[empty],<ref name="Vanhoucke" />
+ProjectLibre,(Enterprise ProjectLibre and PPMLibre under development)<ref name = devel2 /><ref name = devel1></ref>,[empty],[empty],(Enterprise ProjectLibre and PPMLibre under development)<ref name = devel2 /><ref name = devel1 />,[empty],<ref></ref>,[empty],[empty]
+ProjectLink,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ProjectManager.com,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Project.net,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Projector PSA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Projectplace,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Projektron BCS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ProjeQtOr,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Proliance,[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,<ref></ref>
+Prolog,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pyrus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RationalPlan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Realisor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Redbooth,<ref name="Teambox_RWW" />,[empty],[empty],<ref name="Teambox_Pcworld" />,<ref name="Teambox_RWW" />,<ref name="Teambox_RWW" />,[empty],[empty]
+Redmine,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rillsoft Project & Integration Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SAP Business ByDesign,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sciforma,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scoro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Severa,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Smartsheet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spider Project,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Streamtime Software,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TACTIC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Talygen,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TaskJuggler,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Teamcenter,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TeamDynamixHE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TeamLab,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Teamwork.com,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+The Bug Genie,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Trac,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TrackerSuite.Net,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Traction TeamPage,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Trello,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Triskell,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tuleap,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Twproject,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UniPhi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VPMi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+web2project,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Workamajig,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Workfront,[empty],<ref name="Dynamicwp" />,<ref name="Dynamicwp" />,<ref name="Dynamicwp" />,[empty],[empty],[empty],[empty]
+WorkPLAN Enterprise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+workspace.com,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Wrike,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zoho Projects,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

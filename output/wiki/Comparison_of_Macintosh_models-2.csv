@@ -1,16 +1,16 @@
 Model,USB,Gigabit Ethernet,AirPort Extreme,Bluetooth,Video interface,SD&nbsp;card slot,Keyboard and mouse,iSight/Facetime Camera,Remote IR&nbsp;receiver
-Mac mini<ref name="ministore"/>,,,,,HDMI and Thunderbolt 2,,,,
-iMac 21.5 in<ref name="imacstore"/>,,,,,Thunderbolt 3,,,,
-iMac 21.5 in Retina Display<ref name="imacstore"/>,,,,,Thunderbolt 3,,,,
-iMac 27 in<ref name="imacstore"/>,,,,,Thunderbolt 3,,,,
-Mac Pro Quad-Core<ref name="macprostore"/>,,,,,HDMI and Thunderbolt 2,,,,
-Mac Pro 6-Core<ref name="macprostore"/>,,,,,HDMI and Thunderbolt 2,,,,
-MacBook Air<ref name="macbookair" />,,,,,Thunderbolt 2,,,,
-MacBook 1.1 GHz,,,,,HDMI and VGA through USB-C adapter,,,,
-MacBook 1.2 GHz,,,,,HDMI and VGA through USB-C adapter,,,,
-MacBook Pro 13 in 2.0 GHz<ref name="macbookpro" />,,,,,Thunderbolt 3,,,,
-MacBook Pro 13 in 2.9 GHz<ref name="macbookpro" />,,,,,Thunderbolt 3,,,,
-MacBook Pro 15 in 2.6 GHz<ref name="macbookpro" />,,,,,Thunderbolt 3,,,,
-MacBook Pro 15 in 2.7 GHz<ref name="macbookpro" />,,,,,Thunderbolt 3,,,,
-MacBook Pro 13 in 2.7 GHz<ref name="macbookpro" />,,,,,HDMI and Thunderbolt 2,,,,
-MacBook Pro 15 in 2.2 GHz<ref name="macbookpro" />,,,,,HDMI and Thunderbolt 2,,,,
+Mac mini<ref name="ministore"/>,[empty],[empty],[empty],[empty],HDMI and Thunderbolt 2,[empty],[empty],[empty],[empty]
+iMac 21.5 in<ref name="imacstore"/>,[empty],[empty],[empty],[empty],Thunderbolt 3,[empty],[empty],[empty],[empty]
+iMac 21.5 in Retina Display<ref name="imacstore"/>,[empty],[empty],[empty],[empty],Thunderbolt 3,[empty],[empty],[empty],[empty]
+iMac 27 in<ref name="imacstore"/>,[empty],[empty],[empty],[empty],Thunderbolt 3,[empty],[empty],[empty],[empty]
+Mac Pro Quad-Core<ref name="macprostore"/>,[empty],[empty],[empty],[empty],HDMI and Thunderbolt 2,[empty],[empty],[empty],[empty]
+Mac Pro 6-Core<ref name="macprostore"/>,[empty],[empty],[empty],[empty],HDMI and Thunderbolt 2,[empty],[empty],[empty],[empty]
+MacBook Air<ref name="macbookair" />,[empty],[empty],[empty],[empty],Thunderbolt 2,[empty],[empty],[empty],[empty]
+MacBook 1.1 GHz,[empty],[empty],[empty],[empty],HDMI and VGA through USB-C adapter,[empty],[empty],[empty],[empty]
+MacBook 1.2 GHz,[empty],[empty],[empty],[empty],HDMI and VGA through USB-C adapter,[empty],[empty],[empty],[empty]
+MacBook Pro 13 in 2.0 GHz<ref name="macbookpro" />,[empty],[empty],[empty],[empty],Thunderbolt 3,[empty],[empty],[empty],[empty]
+MacBook Pro 13 in 2.9 GHz<ref name="macbookpro" />,[empty],[empty],[empty],[empty],Thunderbolt 3,[empty],[empty],[empty],[empty]
+MacBook Pro 15 in 2.6 GHz<ref name="macbookpro" />,[empty],[empty],[empty],[empty],Thunderbolt 3,[empty],[empty],[empty],[empty]
+MacBook Pro 15 in 2.7 GHz<ref name="macbookpro" />,[empty],[empty],[empty],[empty],Thunderbolt 3,[empty],[empty],[empty],[empty]
+MacBook Pro 13 in 2.7 GHz<ref name="macbookpro" />,[empty],[empty],[empty],[empty],HDMI and Thunderbolt 2,[empty],[empty],[empty],[empty]
+MacBook Pro 15 in 2.2 GHz<ref name="macbookpro" />,[empty],[empty],[empty],[empty],HDMI and Thunderbolt 2,[empty],[empty],[empty],[empty]

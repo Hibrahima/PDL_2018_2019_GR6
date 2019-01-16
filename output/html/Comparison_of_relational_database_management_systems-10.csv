@@ -1,44 +1,31 @@
-,Range,Hash,Composite (Range+Hash),List,Expression
-4th Dimension,?,?,?,?,?
-ADABAS,?,?,?,?,?
-Adaptive Server Enterprise,Yes,Yes,No,Yes,?
-Advantage Database Server,No,No,No,No,?
-Altibase,Yes,Yes,No,Yes,?
-Apache Derby,No,No,No,No,?
-ClustrixDB,Yes,No,No,No,No
-CUBRID,Yes,Yes,No,Yes,?
-IBM DB2,Yes,Yes,Yes,Yes,Yes
-Empress Embedded Database,No,No,No,No,?
-EXASolution,No,Yes,No,No,No
-Firebird,No,No,No,No,?
-HSQLDB,No,No,No,No,?
-H2,No,No,No,No,?
-Informix Dynamic Server,Yes,Yes,Yes,Yes,Yes
-Ingres,Yes,Yes,Yes,Yes,?
-InterBase,No,No,No,No,?
-Linter SQL RDBMS,Yes,No,No,Yes,No
-MariaDB,Yes,Yes,Yes,Yes,?
-MaxDB,No,No,No,No,?
-Microsoft Access (JET),No,No,No,No,?
-Microsoft Visual Foxpro,No,No,No,No,?
-Microsoft SQL Server,Yes,via computed column,via computed column,Yes,via computed column
-Microsoft SQL Server Compact (Embedded Database),No,No,No,No,?
-Mimer SQL,No,No,No,No,No
-MonetDB,No,No,No,No,No
-MySQL,Yes,Yes,Yes,Yes,?
-OpenBase SQL,?,?,?,?,?
-Oracle,Yes,Yes,Yes,Yes,via Virtual Columns
-Oracle Rdb,Yes,Yes,?,?,?
-OpenLink Virtuoso,Yes,Yes,Yes,Yes,Yes
-Pervasive PSQL,No,No,No,No,No
-Polyhedra DBMS,No,No,No,No,No
-PostgreSQL,Yes1,Yes1,Yes1,Yes1,Yes1
-Raima Database Manager,Yes2,Yes2,Yes2,No,?
-RDM Server,No,No,No,No,?
-SAP HANA,Yes,Yes,Yes,Yes,Yes
-solidDB,Yes,No,No,No,?
-SQL Anywhere,No,No,No,No,?
-SQLite,No,No,No,No,?
-Teradata,Yes,Yes,Yes,Yes,?
-UniVerse,Yes,Yes,Yes,Yes,?
-,Range,Hash,Composite (Range+Hash),List,Expression
+[empty],Native network encryption1,Brute-force protection,Enterprise directory compatibility,Password complexity rules2,Patch access3,Run unprivileged4,Audit,Resource limit,Separation of duties (RBAC)5,Security Certification,Attribute-Based Access Control (ABAC)
+4D,Yes (with SSL),?,Yes,?,Yes,Yes,?,?,?,?,?
+Adaptive Server Enterprise,Yes (optional; to pay),Yes,Yes (optional ?),Yes,Partial (need to register; depend on which product)[149],Yes,Yes,Yes,Yes,Yes (EAL4+ 1),?
+Advantage Database Server,Yes,No,No,No,Yes,Yes,No,No,Yes,?,?
+DB2,Yes,?,Yes (LDAP  Kerberos…),Yes,?,Yes,Yes,Yes,Yes,Yes (EAL4+6),?
+Empress Embedded Database,?,?,No,No,Yes,Yes,Yes,No,Yes,No,?
+EXASolution,No,No,Yes (LDAP),No,Yes,Yes,Yes,Yes,Yes,No,?
+Firebird,Yes,Yes[150],Yes (Windows trusted authenification),Yes (by custom plugin),Yes (no security page)[151],Yes,Yes[152],Yes,No7,?,?
+HSQLDB,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,?
+H2,Yes,Yes,?,No,?,Yes,?,Yes,Yes,No,?
+Informix Dynamic Server,Yes,?,Yes10,?10,Yes,Yes,Yes,Yes,Yes,?,Yes
+Linter SQL RDBMS,Yes (with SSL),Yes,Yes,Yes (length only),Yes,Yes,Yes,Yes,Yes,Yes,Yes
+MariaDB,Yes (SSL),No,Yes (with 5.2  but not on Windows servers),Yes[153][154],Yes[155],Yes,?,?,?8,No,?
+Microsoft SQL Server,Yes,?,Yes (Microsoft Active Directory),Yes,Yes,Yes,Yes (From 2008),Yes,Yes,Yes (EAL4+11),?
+Microsoft SQL Server Compact (Embedded Database),No (not relevant  only file permissions),No (not relevant),No (not relevant),No (not relevant),Yes,Yes (file access),Yes,Yes,No,?,?
+Mimer SQL,?,?,?,?,?,?,Yes,?,Yes,?,Yes
+MySQL,Yes (SSL with 4.0),No,Yes (with 5.5  but only in commercial edition),No,Partial (no security page)[156],Yes,?,?,?8,Yes,?
+OpenBase SQL,Yes,?,Yes (Open Directory  LDAP),No,?,?,?,?,?,?,?
+OpenLink Virtuoso,Yes,Yes,Yes,Yes (optional),Yes (optional),Yes,Yes (optional),Yes (optional),Yes,No,Yes (optional)
+Oracle,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes (EAL4+1),?
+Pervasive PSQL,Yes,?,No,No,Yes,Yes,Yes 12,No,No,No,?
+Polyhedra DBMS,Yes (with SSL. Optional),No,No,No,No,Yes,Yes 13,Yes,Yes 13,No,?
+PostgreSQL,Yes,Yes (for 9.1),Yes (LDAP  Kerberos…9),Yes (as of 9.0 with passwordcheck module),Yes[157],Yes,Limited  with triggers[158],Yes,Yes,Yes (EAL11),?
+Raima Database Manager,No,No,No,No,No,Yes,No,No,No,No,?
+RDM Server,Yes,No,No,No,No,Yes,Yes,No,Yes,No,?
+SAP HANA,?,?,?,?,?,?,?,?,?,?,?
+solidDB,No,No,Yes,No,No,Yes,Yes,No,No,No,No
+SQL Anywhere,Yes,?,Yes (Kerberos),Yes,?,Yes,Yes,No,Yes,Yes (EAL3+1 as Adaptive Server Anywhere),?
+SQLite,No (not relevant  only file permissions),No (not relevant),No (not relevant),No (not relevant),Partial (no security page)[159],Yes (file access),Yes,Yes,No,No,?
+Teradata,Yes,No,Yes (LDAP  Kerberos…),Yes,?,Yes,Yes,Yes,Yes,Yes,Yes
+[empty],Native network encryption1,Brute-force protection,Enterprise directory compatibility,Password complexity rules2,Patch access3,Run unprivileged4,Audit,Resource limit,Separation of duties (RBAC)5,Security Certification,Attribute-Based Access Control (ABAC)

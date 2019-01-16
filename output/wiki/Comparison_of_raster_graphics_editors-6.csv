@@ -1,75 +1,75 @@
-,RAW imports,BMP,GIF,JPEG,JPEG 2000,HD Photo,PNG,TIFF,PSD,PSP,XCF,PCX,ORA,HEIF
-Ability Photopaint,,,,,,,,,,,,,,
-ACD Canvas,,,,,,,,,,,,,,
-ACDSee (Win),,,,,,,,,,,,,,
-Acorn Image Editor,,,,,,,,,,,,,,
-Adobe Fireworks*,,,,,,,,,,,,
-Adobe Photoshop,,,,,<ref name="ft_1">Photoshop requires an optional plug-in from the installation disc to support JPEG 2000.</ref>,,,,,,,,,
-Adobe Photoshop Lightroom,,,<ref name="lr_p">Requires the Any File plug-in</ref>,,<ref name="lightroom-plugins.com"></ref>,,<ref name="lr_p" />,,<ref name="ft_2">To import and work with a multi-layered PSD file in Lightroom  the file must be saved in Photoshop with the Maximize PSD and PSB File Compatibility preference turned on.</ref>,,,,,
-Affinity Photo,,?,,,,?,,,,,,,,
-Autodesk SketchBook Pro,,,,,,,,,,,,,,
-Artipic,,,,,,,,,,,,,,
-ArtRage,,,,,,,,,,,,,,
-Artweaver,,,,,,,,,,,,,,
-Bibble*,,,,,,,,,,,,,,
-Brush Strokes Image Editor,,,,,,,,,,,,,,
-Capture One,,,,,,,,,,,,,,
-Chasys Draw IES,,,,,,,,,,,,,,
-CinePaint,,,,,,,,,,,,,,
-CodedColor PhotoStudio Pro,,,,,,,,,,,,,,
-Corel PaintShop Pro,,,,,,,,,<ref name="cpsp">No layer modes support</ref>,,,,,
-Corel Painter,,,,,,,,<ref name="ft_3">Corel Painter does not support TIFF with LZW compression.</ref>,,,,Import,,
-Corel Photo-Paint,,,,,,,,,,,,,,
-darktable,,,,,,,,,,,,,,
-Deluxe Paint*<ref name="ft_4">Deluxe Paint (and almost every other paint package) for versions 3.0 and later of AmigaOS can load and save any file format for which a datatype is registered on the system.</ref>,,,,,,,,,,,,,,
-DigiKam,,,,,,,,,,,,,,
-Erdas Imagine,,,,,,,,,,,,Import,,
-Fatpaint,,,,,,,,,,,,,,
-Fotografix,,,,,,,,,,,,,,
-GIMP,,,,,<ref>Native support added in version 2.8</ref>,<ref name="JPEG XR">Requires the JPEG XR plug-in</ref>,,,,,,,,
-GIMPshop,,,,,,,,,,,,,,
-GrafX2,,,,,,,,,,,,,,
-GraphicConverter,<ref name="ft_5">Many RAW images can be imported  but are reduced to 8 bits per color channel.</ref>,,,,,,,,,,<ref name="ft_6">GraphicConverter requires macOS or later with installed Image Magick application of the Fink package or any other distribution in order to support XCF.</ref>,,,
-HDR PhotoStudio,,,,,,,,,,,,,,
-Helicon Filter,,,Import,,,,,,,,,,,
-ImageMagick,,,,,,,,,,,,,,
-iPhoto*,,,,,,,,,,,,,,
-IrfanView,,,,,,,,,,,,
-Iridient Developer,,,,,,,,,,,,,,
-Kolourpaint,,,,,,,,,,,Import,,,
-Krita,,,,,,,,,,,,Import,,
-LiveQuartz,,,,,,,,,,,,,,
-LazPaint,,,,,,,,,,,,,,
-MacPaint*,,,,,,,,,,,,,,
-Microsoft Office Picture Manager*,,,,,,,,<ref name="ft_8">Microsoft Office Picture Manager and Paint.NET only support TIFF for viewing and editing of the first page.</ref>,,,,,,
-Microsoft Paint,,,<ref name="MS Paint Transparency">MS Paint doesn't support transparency in GIF or PNG</ref>,,,,<ref name="MS Paint Transparency"/>,,,,,,,
-Microsoft Photo Editor*,,,,,,,,,,,,Import,,
-OpenCanvas,,,,,,,,,<ref name="ft_9">PSD is supported only in openCanvas 4 Plus  not regular openCanvas 4.</ref>,,,,,
-Paint.NET,,,,,,<ref name="ft_10">Paint.NET 3.08 supports import/export of images in HD Photo lossy & lossless format via a file-type plug-in based on a Microsoft HD Photo specification; it expires on September 1  2007 or if the Paint.NET version is 3.20 or higher. The developers hope tentatively plan to implement full HD Photo support by version 3.20.</ref>,,<ref name="ft_11">The free plug-ins needed for JPEG 2000  PSD  and XCF support can be found on Paint.NET's website .</ref>,,,,,,
-PC Paintbrush*,,,,,,,,,,,,,,
-Photofinish*,,,,,,,,,,,,,,
-Photogenics,,,,,,,,,,,,,,
-PhotoLine,,,,,,,,,,,,,,
-PhotoPerfect*,,,,,,,,,,,,,,
-Photos,,,,,,,,,,,,,,
-Photo Raster,,,,,,,,,,,,,,
-Picasa*,,Import,Import,,,,Import,,Import,,,,,
-PicMaster,,,,,,,,,,,,,,
-PixBuilder Photo Editor,,,,,,,,,,,,,,
-Pixelmator,,,,,,,,,,,,,,
-Pixia,,,,,,,,,,,,,,
-PMview,,,,,,,,,,,,,,
-Project Dogwaffle,,,,,,,,,,,,,,
-QFX,,,,,,,,,,,,,,
-RawTherapee,,,,,,,,,,,,,,
-Seashore,,,,,,,,,,,,,,
-Serif PhotoPlus,,,,,,,,,,,,,,
-Tux Paint<ref name="ft_12">For the BMP  JPEG and PNG formats  the user is sandboxed in an interface that does not permit file system interaction  including viewing of filenames and the choice of a file's name  type  or location. Files are selected by thumbnails  and may only be loaded from one predetermined directory.</ref>,,,Import,Import,,,,,,,,,,
-TVPaint,,,,,,,,,,,,,,
-Ulead PhotoImpact*,,,,,,,,,,Import,,,,
-Ultimate Paint*,,,,,,,,,,,,,,
-WinImages,,,,,,,,,,,,,,
-Xara Photo & Graphic Designer,,,,,,,,,,,,,,
-XnView,,,,,,,,,,,Import,,,
-XPaint,,,,,,,,,,,,,,
-Zoner Photo Studio,,,,,,,,,,,,,,
+[empty],RAW imports,BMP,GIF,JPEG,JPEG 2000,HD Photo,PNG,TIFF,PSD,PSP,XCF,PCX,ORA,HEIF
+Ability Photopaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ACD Canvas,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ACDSee (Win),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Acorn Image Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Adobe Fireworks*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added],[added]
+Adobe Photoshop,[empty],[empty],[empty],[empty],<ref name="ft_1">Photoshop requires an optional plug-in from the installation disc to support JPEG 2000.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Adobe Photoshop Lightroom,[empty],[empty],<ref name="lr_p">Requires the Any File plug-in</ref>,[empty],<ref name="lightroom-plugins.com"></ref>,[empty],<ref name="lr_p" />,[empty],<ref name="ft_2">To import and work with a multi-layered PSD file in Lightroom  the file must be saved in Photoshop with the Maximize PSD and PSB File Compatibility preference turned on.</ref>,[empty],[empty],[empty],[empty],[empty]
+Affinity Photo,[empty],?,[empty],[empty],[empty],?,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Autodesk SketchBook Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Artipic,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ArtRage,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Artweaver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bibble*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Brush Strokes Image Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Capture One,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Chasys Draw IES,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CinePaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CodedColor PhotoStudio Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Corel PaintShop Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="cpsp">No layer modes support</ref>,[empty],[empty],[empty],[empty],[empty]
+Corel Painter,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="ft_3">Corel Painter does not support TIFF with LZW compression.</ref>,[empty],[empty],[empty],Import,[empty],[empty]
+Corel Photo-Paint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+darktable,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Deluxe Paint*<ref name="ft_4">Deluxe Paint (and almost every other paint package) for versions 3.0 and later of AmigaOS can load and save any file format for which a datatype is registered on the system.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DigiKam,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Erdas Imagine,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Import,[empty],[empty]
+Fatpaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fotografix,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GIMP,[empty],[empty],[empty],[empty],<ref>Native support added in version 2.8</ref>,<ref name="JPEG XR">Requires the JPEG XR plug-in</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GIMPshop,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GrafX2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GraphicConverter,<ref name="ft_5">Many RAW images can be imported  but are reduced to 8 bits per color channel.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="ft_6">GraphicConverter requires macOS or later with installed Image Magick application of the Fink package or any other distribution in order to support XCF.</ref>,[empty],[empty],[empty]
+HDR PhotoStudio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Helicon Filter,[empty],[empty],Import,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ImageMagick,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+iPhoto*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IrfanView,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added],[added]
+Iridient Developer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Kolourpaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Import,[empty],[empty],[empty]
+Krita,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Import,[empty],[empty]
+LiveQuartz,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LazPaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MacPaint*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Office Picture Manager*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="ft_8">Microsoft Office Picture Manager and Paint.NET only support TIFF for viewing and editing of the first page.</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Paint,[empty],[empty],<ref name="MS Paint Transparency">MS Paint doesn't support transparency in GIF or PNG</ref>,[empty],[empty],[empty],<ref name="MS Paint Transparency"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Photo Editor*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Import,[empty],[empty]
+OpenCanvas,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="ft_9">PSD is supported only in openCanvas 4 Plus  not regular openCanvas 4.</ref>,[empty],[empty],[empty],[empty],[empty]
+Paint.NET,[empty],[empty],[empty],[empty],[empty],<ref name="ft_10">Paint.NET 3.08 supports import/export of images in HD Photo lossy & lossless format via a file-type plug-in based on a Microsoft HD Photo specification; it expires on September 1  2007 or if the Paint.NET version is 3.20 or higher. The developers hope tentatively plan to implement full HD Photo support by version 3.20.</ref>,[empty],<ref name="ft_11">The free plug-ins needed for JPEG 2000  PSD  and XCF support can be found on Paint.NET's website .</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+PC Paintbrush*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photofinish*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photogenics,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PhotoLine,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PhotoPerfect*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photo Raster,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Picasa*,[empty],Import,Import,[empty],[empty],[empty],Import,[empty],Import,[empty],[empty],[empty],[empty],[empty]
+PicMaster,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PixBuilder Photo Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pixelmator,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pixia,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PMview,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Project Dogwaffle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QFX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RawTherapee,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Seashore,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Serif PhotoPlus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tux Paint<ref name="ft_12">For the BMP  JPEG and PNG formats  the user is sandboxed in an interface that does not permit file system interaction  including viewing of filenames and the choice of a file's name  type  or location. Files are selected by thumbnails  and may only be loaded from one predetermined directory.</ref>,[empty],[empty],Import,Import,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TVPaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ulead PhotoImpact*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Import,[empty],[empty],[empty],[empty]
+Ultimate Paint*,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinImages,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xara Photo & Graphic Designer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XnView,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Import,[empty],[empty],[empty]
+XPaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zoner Photo Studio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

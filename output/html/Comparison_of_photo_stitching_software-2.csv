@@ -1,38 +1,38 @@
 Name,HDR input (EXR  HDR  Logluv  etc.),Merging to HDR from LDR images,HDR output (EXR  HDR  Logluv  etc.),Tonemapping,Exposure fusion,Notes
-Panoweaver Standard / Professional[4],Yes,Yes,Yes,Yes,Yes,
+Panoweaver Standard / Professional[4],Yes,Yes,Yes,Yes,Yes,[empty]
 i2Align Quickage Express / Pro[5],No,Yes*,Yes*,No,No,*) Pro version only.
-Pixtra PanoStitcher,No,No,No,No,No,
-Pixtra OmniStitcher,No,No,No,No,No,
-QuickPHOTO[6],No,No,No,No,Yes,
-PhotoFit Harmony / Premium,No,No,No,No,No,
-PanoramaPlus X4,No,No,No,No,No,
-PanoramaBuilder 7.0 / PanoramaBuilder 7.0 Pro,No,No,No,No,No,
-360 Panorama Professional,No,No,No,No,No,
-VRstitcher Fisheye Pro,No,No,No,No,No,
-COOL 360,No,No,No,No,No,
-The Panorama Factory v5,No,No,No,No,No
-PixMaker Lite / Home / Business,No,No,No,No,No,
+Pixtra PanoStitcher,No,No,No,No,No,[empty]
+Pixtra OmniStitcher,No,No,No,No,No,[empty]
+QuickPHOTO[6],No,No,No,No,Yes,[empty]
+PhotoFit Harmony / Premium,No,No,No,No,No,[empty]
+PanoramaPlus X4,No,No,No,No,No,[empty]
+PanoramaBuilder 7.0 / PanoramaBuilder 7.0 Pro,No,No,No,No,No,[empty]
+360 Panorama Professional,No,No,No,No,No,[empty]
+VRstitcher Fisheye Pro,No,No,No,No,No,[empty]
+COOL 360,No,No,No,No,No,[empty]
+The Panorama Factory v5,No,No,No,No,No,[added]
+PixMaker Lite / Home / Business,No,No,No,No,No,[empty]
 PTAssembler,No,No,No,No,Yes,Exposure fusion with TuFuse or enfuse. Automatic detection of image stacks.
 PTgui / PTgui Pro,Yes*,Yes*,Yes*,Yes*,Yes*,Exposure fusion with enfuse or TuFuse. *) Pro version only.
 Autopano Pro / Giga / Server,Yes,Yes,Yes,Yes,Yes,Ceased trading September 2018
-Autostitch,No,No,No,No,No,
-Calico Panorama,No,No,No,No,No,
+Autostitch,No,No,No,No,No,[empty]
+Calico Panorama,No,No,No,No,No,[empty]
 Hugin,Yes,Yes,Yes,No,Yes,Exposure fusion with enfuse  automatic detection of image stacks.
-3DVista Stitcher 3.0,No,No,No,No,No,
-D Joiner,No,No,No,No,No,
-Panorama Maker 6,No,No,No,No,No,
-Photovista Panorama,No,No,No,No,No,
-PanoramaStudio,No,No,No,No,No,
-Stitcher Unlimited 2009[7],Yes,Yes,Yes,Yes,No,
-ADG Panorama Tools / Pro,No,No,No,No,No,
-Panorama Composer 3,No,No,No,No,No,
+3DVista Stitcher 3.0,No,No,No,No,No,[empty]
+D Joiner,No,No,No,No,No,[empty]
+Panorama Maker 6,No,No,No,No,No,[empty]
+Photovista Panorama,No,No,No,No,No,[empty]
+PanoramaStudio,No,No,No,No,No,[empty]
+Stitcher Unlimited 2009[7],Yes,Yes,Yes,Yes,No,[empty]
+ADG Panorama Tools / Pro,No,No,No,No,No,[empty]
+Panorama Composer 3,No,No,No,No,No,[empty]
 Image Composite Editor,No,No,No,No,No,Supports 16-bit camera raw input via WIC plugins
-Panorama Perfect,No,No,No,No,No,
-Photoshop,Yes,Yes,Yes,Yes,No,
+Panorama Perfect,No,No,No,No,No,[empty]
+Photoshop,Yes,Yes,Yes,Yes,No,[empty]
 AIPR Lite 1,No,No,No,Yes*,No,(*) color mapping around the seams allows to preserve the original photometric properties of the images
-Gigapan Stitch 1.0,No,No,No,No,No,
-PanoramaMaker,No,No,No,No,No,
-Panorama Stitcher,Yes,No,No,No,No,
-SharpStitch,Yes,No,No,No,No,
-Pano2VR / Pano2VR pro,Yes,No,Yes,No,No,
+Gigapan Stitch 1.0,No,No,No,No,No,[empty]
+PanoramaMaker,No,No,No,No,No,[empty]
+Panorama Stitcher,Yes,No,No,No,No,[empty]
+SharpStitch,Yes,No,No,No,No,[empty]
+Pano2VR / Pano2VR pro,Yes,No,Yes,No,No,[empty]
 Name,HDR input (EXR  HDR  Logluv  etc.),Merging to HDR from LDR images,HDR output (EXR  HDR  Logluv  etc.),Tonemapping,Exposure fusion,Notes

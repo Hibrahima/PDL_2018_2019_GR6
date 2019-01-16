@@ -1,20 +1,20 @@
 IDE,Developer,Latest stable release,Platform,License,Autocomplete,Debugger,Refactoring support,VCS Support
-Adobe Dreamweaver,Adobe Systems,-,Cross-platform,,,,,
-Aptana Studio,Aptana  Inc.,December 2013  3.5.0,Cross-platform,,,,,
-CodeLite,CodeLite,October 2015  9.0,Cross-platform,,,,,
-Codelobster,Codelobster,March 2018  5.14.5,Windows,,,,,
-Eclipse Che,Eclipse Foundation / Zend,4.7 / September 2  2016,Cross-platform,,,,,
-Eclipse PDT,Eclipse Foundation / Zend,5.2 / December 20  2017,Windows  Linux  macOS  FreeBSD  JVM  Solaris,,,,,
-Geany,Geany Team,1.27 / March 13  2016,Windows  Linux  macOS  FreeBSD  AIX  OpenBSD  Solaris  other Unix,,,,,
-HTML-Kit,Chami.com,292,Windows (all),,,,,
-KDevelop,KDE KDevelop Team,,Cross-platform,,,,,
-Komodo IDE / Edit,ActiveState,10.0.1 (June 2016),Cross-platform,,,,,
-NetBeans,Sun Microsystems / Oracle,9.0 / <ref></ref>,Cross-platform on Netbeans,,,,,
-PHPEclipse (Eclipse),PHPEclipse project team,1.2.2 / September 2009,Windows  Linux  macOS  FreeBSD  JVM  Solaris,,,,,
-PhpED Professional,NuSphere Corporation,17.17022 / June  2016,Windows,,,,,
-PHPEdit,WaterProof SARL,Windows,,,,,
-PhpStorm (IntelliJ IDEA),JetBrains,2018.3.1 / December  2018,Windows  Linux  macOS  FreeBSD  OpenBSD  Solaris,,,,,
-Quanta Plus,KDE Web Dev Team,3.5.8 / October 16  2007,Linux,,,,,
-RadPHP (formerly Delphi for PHP),Embarcadero Technologies,XE2 / August 30  2011,Windows,,,,,
-SlickEdit,SlickEdit,October 2016,Windows  Linux  macOS  AIX  HP-UX  Solaris,,,,,
-Zend Studio,Zend,10.6 / February 2014,Cross-platform,,,,,
+Adobe Dreamweaver,Adobe Systems,-,Cross-platform,[empty],[empty],[empty],[empty],[empty]
+Aptana Studio,Aptana  Inc.,December 2013  3.5.0,Cross-platform,[empty],[empty],[empty],[empty],[empty]
+CodeLite,CodeLite,October 2015  9.0,Cross-platform,[empty],[empty],[empty],[empty],[empty]
+Codelobster,Codelobster,March 2018  5.14.5,Windows,[empty],[empty],[empty],[empty],[empty]
+Eclipse Che,Eclipse Foundation / Zend,4.7 / September 2  2016,Cross-platform,[empty],[empty],[empty],[empty],[empty]
+Eclipse PDT,Eclipse Foundation / Zend,5.2 / December 20  2017,Windows  Linux  macOS  FreeBSD  JVM  Solaris,[empty],[empty],[empty],[empty],[empty]
+Geany,Geany Team,1.27 / March 13  2016,Windows  Linux  macOS  FreeBSD  AIX  OpenBSD  Solaris  other Unix,[empty],[empty],[empty],[empty],[empty]
+HTML-Kit,Chami.com,292,Windows (all),[empty],[empty],[empty],[empty],[empty]
+KDevelop,KDE KDevelop Team,[empty],Cross-platform,[empty],[empty],[empty],[empty],[empty]
+Komodo IDE / Edit,ActiveState,10.0.1 (June 2016),Cross-platform,[empty],[empty],[empty],[empty],[empty]
+NetBeans,Sun Microsystems / Oracle,9.0 / <ref></ref>,Cross-platform on Netbeans,[empty],[empty],[empty],[empty],[empty]
+PHPEclipse (Eclipse),PHPEclipse project team,1.2.2 / September 2009,Windows  Linux  macOS  FreeBSD  JVM  Solaris,[empty],[empty],[empty],[empty],[empty]
+PhpED Professional,NuSphere Corporation,17.17022 / June  2016,Windows,[empty],[empty],[empty],[empty],[empty]
+PHPEdit,WaterProof SARL,}},Windows,[empty],[empty],[empty],[empty],[empty]
+PhpStorm (IntelliJ IDEA),JetBrains,2018.3.1 / December  2018,Windows  Linux  macOS  FreeBSD  OpenBSD  Solaris,[empty],[empty],[empty],[empty],[empty]
+Quanta Plus,KDE Web Dev Team,3.5.8 / October 16  2007,Linux,[empty],[empty],[empty],[empty],[empty]
+RadPHP (formerly Delphi for PHP),Embarcadero Technologies,XE2 / August 30  2011,Windows,[empty],[empty],[empty],[empty],[empty]
+SlickEdit,SlickEdit,October 2016,Windows  Linux  macOS  AIX  HP-UX  Solaris,[empty],[empty],[empty],[empty],[empty]
+Zend Studio,Zend,10.6 / February 2014,Cross-platform,[empty],[empty],[empty],[empty],[empty]

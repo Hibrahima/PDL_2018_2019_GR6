@@ -1,6 +1,6 @@
 Dataset Name,Brief description,Preprocessing,Instances,Format,Default Task,Created (updated),Reference,Creator
-MovieTweetings,Movie rating dataset based on public and well-structured tweets,,~710.000,Text,Classification  regression,2018,[191],S. Dooms
-Twitter100k,Pairs of images and tweets,,100.000,Text and Images,Cross-media retrieval,2017,[192][193],Y. Hu  et al.
+MovieTweetings,Movie rating dataset based on public and well-structured tweets,[empty],~710.000,Text,Classification  regression,2018,[191],S. Dooms
+Twitter100k,Pairs of images and tweets,[empty],100.000,Text and Images,Cross-media retrieval,2017,[192][193],Y. Hu  et al.
 Sentiment140,Tweet data from 2009 including original text  time stamp  user and sentiment.,Classified using distant supervision from presence of emoticon in tweet.,1.578.627,Tweets  comma  separated values,Sentiment analysis,2009,[194][195],A. Go et al.
 ASU Twitter Dataset,Twitter network data  not actual tweets. Shows connections between a large number of users.,None.,11.316.811 users  85.331.846 connections,Text,Clustering  graph analysis,2009,[196][197],R. Zafarani et al.
 SNAP Social Circles: Twitter Database,Large Twitter network data.,Node features  circles  and ego networks.,1.768.149,Text,Clustering  graph analysis,2012,[198][199],J. McAuley et al.

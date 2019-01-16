@@ -1,16 +1,16 @@
 NMDC Client,FOSS,Software license,Active,Windows,Linux,Mac OS X,Other OS,GUI,CLI,Other UI,Programming language,Based on
-MLDonkey,Yes,GNU GPL,Yes,Yes,Yes,Yes,No,Yes,Yes,WebUI,OCaml  C  assembly,
-Shareaza,Yes,GNU GPL,Yes,Yes,No,No,No,Yes,Unknown,Unknown,C++,
-NeoModus Direct Connect,No,Proprietary Freeware,No,Yes,Yes,No,No,Yes,No,No,Visual Basic  C++,
-ShakesPeer,Yes,GNU GPL,No,No,No,Yes,No,Yes,No,No,C,
-Valknut,Yes,GNU GPL,No,No,Yes,No,FreeBSD,Yes,No,No,C++,
-DCTC,Yes,GNU GPL,No,,,,,No,No,Yes,C++,
-DC#,Yes,GNU GPL,No,Yes,No,No,No,Yes,No,No,C#,
-LDCC,Unknown,Unknown,No,No,Yes,No,No,No,No,Yes,C,
+MLDonkey,Yes,GNU GPL,Yes,Yes,Yes,Yes,No,Yes,Yes,WebUI,OCaml  C  assembly,[empty]
+Shareaza,Yes,GNU GPL,Yes,Yes,No,No,No,Yes,Unknown,Unknown,C++,[empty]
+NeoModus Direct Connect,No,Proprietary Freeware,No,Yes,Yes,No,No,Yes,No,No,Visual Basic  C++,[empty]
+ShakesPeer,Yes,GNU GPL,No,No,No,Yes,No,Yes,No,No,C,[empty]
+Valknut,Yes,GNU GPL,No,No,Yes,No,FreeBSD,Yes,No,No,C++,[empty]
+DCTC,Yes,GNU GPL,No,[empty],[empty],[empty],[empty],No,No,Yes,C++,[empty]
+DC#,Yes,GNU GPL,No,Yes,No,No,No,Yes,No,No,C#,[empty]
+LDCC,Unknown,Unknown,No,No,Yes,No,No,No,No,Yes,C,[empty]
 DCDM++,Yes,GNU GPL,No,Yes,No,No,No,Yes,No,No,C++,DC++
 fulDC,Yes,GNU GPL,No,Yes,No,No,No,Yes,No,No,C++,DC++
 RevConnect,Yes,GNU GPL,No,Yes,No,No,No,Yes,No,No,C++,DC++
 CzDC,Yes,GNU GPL,Yes,Yes,No,No,No,Yes,No,No,C++,DC++
 EiskaltDC,Yes,GNU GPL,No,No,Yes,Yes,FreeBSD,Yes,No,No,C++,Valknut
-ncdc,Yes,MIT Licence,Yes,No,Yes,Yes,FreeBSD,No,Yes,No,C,
+ncdc,Yes,MIT Licence,Yes,No,Yes,Yes,FreeBSD,No,Yes,No,C,[empty]
 NMDC Client,FOSS,Software license,Active,Windows,Linux,Mac OS X,Other OS,GUI,CLI,Other UI,Programming language,Based on

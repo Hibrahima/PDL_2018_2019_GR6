@@ -1,10 +1,10 @@
-,Protocol,Author  creator,First public release date,Latest stable version,Cost (USD),Software license,Programming language
-BeeBEEP <ref></ref>,BeeBEEP Protocol,Marco Mastroddi,2010,4.0.0 (),,,C++ and Qt
-Bit Chat,Bit Chat Protocol,Technitium,2011,4.5.1 (),<ref></ref>,,C#
-BORGChat,,Ionut Cioflan,2002,,<ref></ref>,,
-iChat,Bonjour IM Protocol,Apple Inc.,2003,5.0.3 (745)  (),, bundled with OS,,Likely Objective-C
-iptux,Windows Messenger service,Jally  ManPT  others,2008,0.51 (),<ref></ref>,,
-LinPopUp,Windows Messenger service,Jean-Marc Jacquet,2000,1.2.0 (Debian  ),<ref></ref>,,C
-Miranda IM,Windows Messenger service,Roland Rabien,2000,0.10.56 (),,,C/C++
-Pidgin<ref></ref>,,Mark Spencer  others,1998,2.11.0 (),,,C
-Qualia LAN Messenger,LAN Messenger protocol,Qualia Technologies,2010,1.2.37 (),<ref></ref>,,C++
+[empty],Protocol,Author  creator,First public release date,Latest stable version,Cost (USD),Software license,Programming language
+BeeBEEP <ref></ref>,BeeBEEP Protocol,Marco Mastroddi,2010,4.0.0 (),[empty],[empty],C++ and Qt
+Bit Chat,Bit Chat Protocol,Technitium,2011,4.5.1 (),<ref></ref>,[empty],C#
+BORGChat,[empty],Ionut Cioflan,2002,[empty],<ref></ref>,[empty],[empty]
+iChat,Bonjour IM Protocol,Apple Inc.,2003,5.0.3 (745)  (),, bundled with OS,[empty],Likely Objective-C
+iptux,Windows Messenger service,Jally  ManPT  others,2008,0.51 (),<ref></ref>,[empty],[empty]
+LinPopUp,Windows Messenger service,Jean-Marc Jacquet,2000,1.2.0 (Debian  ),<ref></ref>,[empty],C
+Miranda IM,Windows Messenger service,Roland Rabien,2000,0.10.56 (),[empty],[empty],C/C++
+Pidgin<ref></ref>,[empty],Mark Spencer  others,1998,2.11.0 (),[empty],[empty],C
+Qualia LAN Messenger,LAN Messenger protocol,Qualia Technologies,2010,1.2.39 (),<ref></ref>,[empty],C++

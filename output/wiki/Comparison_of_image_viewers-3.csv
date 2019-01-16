@@ -1,13 +1,13 @@
 Program,ARW<br />Sony,CR2<br />Canon,DNG<br />Adobe,NEF<br />Nikon,ORF<br />Olympus,PEF<br />Pentax,RAF<br />Fujifilm,SRW<br />Samsung,X3F<br />Sigma,Others,Notes
-ACDSee,,,,,,,,,,cRAW  CRW  DCR  ERF  HDR  MRW  RAW  RWL  sRAW,http://www.acdsee.com/en/support/file-formats
-Aperture,,,,,,,,,,CRW  MOS  RAW  FFF  3FR,https://www.apple.com/aperture/specs/raw.html
-digiKam,,,,,,,,,,Several,https://docs.kde.org/trunk4/en/extragear-graphics/digikam/using-fileformatsupport.htmlhttp://www.cybercom.net/~dcoffin/dcraw/
-F-Spot,,,,,,,,
-FastPictureViewer<br />(registered edition),,,,,,,,,,NRW  RW2  SR2  SRF  RWZ etc.,http://www.fastpictureviewer.com/formats/
-Geeqie,,,,,,,,
-IrfanView,,,,,,,,,,CRW  EEF  DCR  MRW  NRW  RW2  SRF,http://www.irfanview.com/main_formats.htm
-Phase One Media Pro,,,,,,,,
-Picasa,,,,,,,,,,3FR  CRW  DCR  KDC  MRW  NRW  RAW  RW2  SRF  SR2,https://support.google.com/picasa/answer/15625?hl=en
-Shotwell,,,,,,,,,,,Support "limited"  export 8-bit only http://yorba.org/shotwell/help/formats.html
-XnView and XnViewMP,,,,,,,,,CRW  RWZ and more,http://www.xnview.com/en/xnview/#formats
-Zoner Photo Studio,,,,,,,,,,3FR  CRW  ERF  KDC  MEF  MRW  RAW  RW2  RWZ  SR2  SRF,https://www.zoner.com/en/system-requirements
+ACDSee,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],cRAW  CRW  DCR  ERF  HDR  MRW  RAW  RWL  sRAW,http://www.acdsee.com/en/support/file-formats
+Aperture,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],CRW  MOS  RAW  FFF  3FR,https://www.apple.com/aperture/specs/raw.html
+digiKam,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Several,https://docs.kde.org/trunk4/en/extragear-graphics/digikam/using-fileformatsupport.htmlhttp://www.cybercom.net/~dcoffin/dcraw/
+F-Spot,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],CRW  MRW  RAW  SRF,[added],[added]
+FastPictureViewer<br />(registered edition),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],NRW  RW2  SR2  SRF  RWZ etc.,http://www.fastpictureviewer.com/formats/
+Geeqie,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],3FR  CRW  DCR  ERF  K25  KDC  MEF  MOS  MRW  PTX  R3D  RAW  SR2  SRF,[added],[added]
+IrfanView,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],CRW  EEF  DCR  MRW  NRW  RW2  SRF,http://www.irfanview.com/main_formats.htm
+Phase One Media Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],CRW  MOS  RAW,[added],[added]
+Picasa,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],3FR  CRW  DCR  KDC  MRW  NRW  RAW  RW2  SRF  SR2,https://support.google.com/picasa/answer/15625?hl=en
+Shotwell,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Support "limited"  export 8-bit only http://yorba.org/shotwell/help/formats.html
+XnView and XnViewMP,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],CRW  RWZ and more,http://www.xnview.com/en/xnview/#formats,[added]
+Zoner Photo Studio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],3FR  CRW  ERF  KDC  MEF  MRW  RAW  RW2  RWZ  SR2  SRF,https://www.zoner.com/en/system-requirements

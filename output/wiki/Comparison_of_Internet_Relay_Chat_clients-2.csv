@@ -1,38 +1,38 @@
 Client,Windows 7  Vista,XP  2000,NT 4.0,NT 3.x,Me  98,95,3.1x,ReactOS,macOS (Intel/PPC),OS 9,OS 8,System 7 (PPC/68k),BeOS  Haiku,OS/2  eCS,AmigaOS (68k),AmigaOS 4  MorphOS (PPC),DOS
-Bersirc,,,,,,,,,,,,,,,,,
-BitchX,name=bitchxinstall|group=Note}},<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,,,,,,,,,,,
-ChatZilla,,,,,,,,,,,,,,,,,
-Colloquy,,,,,,,,,,,,,,,,,
-degesch,,,,,,,,,,,,,,,,,
-ERC,,,,,,,,,,,,,,,,,
-HexChat,,(2.9.5),,,,,,,,,,,,,,,
-HydraIRC,,,,,,,,,,,,,,,,,
-IceChat,,,,,,,,,,,,,,,,,
-ircII,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,,,,,,,,,,,
-IRCjr,,name=swsvpkt|group=Note}},<ref name=swsvpkt group=Note />,,,,,,,,,,,,,,
-Ircle,,,,,,,,,<ref name=reqosx group=Note>Requires OS X v10.4.3 or later</ref>,,,,,,,,
-Irssi,,,,,,,,,,,,,,,,,
-jIRCii,,,,,,,,,,,,,,,,,
-KiwiIRC,,,,,,,,,,,,,,,,,
-Konversation,,,,,,,,,,,,,,,,,
-KVIrc,,,,,,,,<ref>Connect to the ReactOS IRC Channels</ref>,,,,,,<ref>2012-07-03: 4.2.0 Released!</ref>,,,
-LeafChat,,,,,,,,,,,,,,,,,
-LimeChat,,,,,,,,,,,,,,,,,
-Linkinus,,,,,,,,,<ref name=reqosx group=Note />,,,,,,,,
-Mibbit,,,,,,,,,,,,,,,,,
-mIRC,,,,,,,,,,,,,,,,,
-Nettalk,,,,,name=nowin95|group=Note}},,,,,,,,,,,,
-Opera,,,(10.10),,,,,<ref></ref>,<ref></ref>,,,,,,,,
-PIRCH,,,,,,,,,,,,,,,,,
-PJIRC,,,,,,,,,,,,,,,,,
-Quassel,,,,,,,,,,,,,,,,,
-qwebirc,,,,,,,,,,,,,,,,,
-rIRC,,,,,,,,,,,,,,,,,
-rcirc,,,,,,,,,,,,,,,,,
-Scrollback,,,,,,,,,,,,,,,,,
-Smuxi,,,,,,,,,,,,,,,,,
-Snak,,,,,,,,,,,,,,,,,
-Visual IRC,,,,,,,,,,,,,,,,,
-WeeChat,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,,,,,,,,,,,
-XChat,,,,,,,,,,,,,,,,,
+Bersirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitchX,name=bitchxinstall|group=Note}},<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ChatZilla,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Colloquy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+degesch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ERC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HexChat,[empty],(2.9.5),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HydraIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IceChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ircII,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCjr,[empty],name=swsvpkt|group=Note}},<ref name=swsvpkt group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ircle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=reqosx group=Note>Requires OS X v10.4.3 or later</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Irssi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+jIRCii,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KiwiIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Konversation,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KVIrc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>Connect to the ReactOS IRC Channels</ref>,[empty],[empty],[empty],[empty],[empty],<ref>2012-07-03: 4.2.0 Released!</ref>,[empty],[empty],[empty]
+LeafChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LimeChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linkinus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=reqosx group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mibbit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nettalk,[empty],[empty],[empty],[empty],name=nowin95|group=Note}},[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Opera,[empty],[empty],(10.10),[empty],[empty],[empty],[empty],<ref></ref>,<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PIRCH,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PJIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quassel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+qwebirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rcirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scrollback,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Smuxi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Snak,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Visual IRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WeeChat,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],<ref name=bitchxinstall group=Note />,<ref name=bitchxinstall group=Note />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Client,Windows 7  Vista,XP  2000,NT 4.0,NT 3.x,Me  98,95,3.1x,ReactOS,OS X (Intel/PPC),OS 9,OS 8,System 7 (PPC/68k),BeOS  Haiku,OS/2  eCS,AmigaOS (68k),AmigaOS 4  MorphOS (PPC),DOS

@@ -1,4 +1,4 @@
-,Authorize.Net AIM,Authorize.Net SIM,Barclaycard CPI,Barclaycard MPI,HSBC API,HSBC CPI,PayPal Standard
+[empty],Authorize.Net AIM,Authorize.Net SIM,Barclaycard CPI,Barclaycard MPI,HSBC API,HSBC CPI,PayPal Standard
 Apache OFBiz,Yes,No,No,No,No,No,Yes
 Batavi,No,No,No,No,No,No,No
 Bigcommerce,Yes,Yes,No,No,No,No,Yes
@@ -14,4 +14,4 @@ Shopify,Yes,Yes,No,Yes,No,No,Yes
 Virto Commerce,Yes,Yes,No,No,No,No,Yes
 WooCommerce,Yes,Yes,No,No,No,No,Yes
 Zen Cart,Yes,Yes,No,No,No,No,Yes
-,Authorize.Net AIM,Authorize.Net SIM,Barclaycard CPI,Barclaycard MPI,HSBC API,HSBC CPI,PayPal Standard
+[empty],Authorize.Net AIM,Authorize.Net SIM,Barclaycard CPI,Barclaycard MPI,HSBC API,HSBC CPI,PayPal Standard

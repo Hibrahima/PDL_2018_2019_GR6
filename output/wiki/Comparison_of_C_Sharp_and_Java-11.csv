@@ -1,11 +1,11 @@
 Fields and initialization,Java,C#
-Fields,
-Constants,,; but no support for constant passed parameters<ref name="final"/>
-Static (class) constructors,
-Instance constructors,
-Finalizers/destructors,
-Instance initializers,,; can be simulated with instance constructor
-Object initialization,
-Object initializers,
-Collection initializers,; can be simulated with methods initializers
-Array initializers,
+Fields,[empty],[added]
+Constants,[empty],; but no support for constant passed parameters<ref name="final"/>
+Static (class) constructors,[empty],[added]
+Instance constructors,[empty],[added]
+Finalizers/destructors,[empty],[added]
+Instance initializers,[empty],; can be simulated with instance constructor
+Object initialization,[empty],[added]
+Object initializers,[empty],[added]
+Collection initializers,; static varargs methods,[added]
+Array initializers,[empty],[added]

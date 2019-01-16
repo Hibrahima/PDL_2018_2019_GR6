@@ -1,7 +1,4 @@
 Dataset Name,Brief description,Preprocessing,Instances,Format,Default Task,Created (updated),Reference,Creator
-Stanford Sentiment Treebank,Positive and negative movie reviews,,11k,Text,Sentiment analysis,2005,[1],Bo Pang & Lillian Lee
-IMDB Reviews,Positive and negative movie reviews,,50k,Text,Sentiment analysis,2011,[2],Maas et al.
-Movie Review Data,Positive and negative movie reviews,,2k,Text,Sentiment analysis,2005,[3],Bo Pang & Lillian Lee
 Amazon reviews,US product reviews from Amazon.com.,None.,~ 82M,Text,Classification  sentiment analysis,2015,[159],McAuley et al.
 OpinRank Review Dataset,Reviews of cars and hotels from Edmunds.com and TripAdvisor respectively.,None.,42.230 / ~259.000 respectively,Text,Sentiment analysis  clustering,2011,[160][161],K. Ganesan et al.
 MovieLens,22.000.000 ratings and 580.000 tags applied to 33.000 movies by 240.000 users.,None.,~ 22M,Text,Regression  clustering  classification,2016,[162],GroupLens Research

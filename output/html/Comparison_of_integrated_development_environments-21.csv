@@ -7,9 +7,9 @@ Eclipse Che,Eclipse Foundation / Zend,4.7 / September 2  2016,Cross-platform,EPL
 Eclipse PDT,Eclipse Foundation / Zend,5.2 / December 20  2017,Windows  Linux  macOS  FreeBSD  JVM  Solaris,EPL,Yes,Yes,Yes,CVS  Git  Mercurial  SVN (via plugins)
 Geany,Geany Team,1.27 / March 13  2016,Windows  Linux  macOS  FreeBSD  AIX  OpenBSD  Solaris  other Unix,GPL,Yes,No,No,via plugins
 HTML-Kit,Chami.com,292,Windows (all),Proprietary,Unknown,No,Unknown,Unknown
-KDevelop,KDE KDevelop Team,5.2.3 (November 24  2017; 12 months ago (2017-11-24)) [±],Cross-platform,GPL,Yes,No,Unknown,CVS  Git  SVN
+KDevelop,KDE KDevelop Team,5.2.3 (November 24  2017; 13 months ago (2017-11-24)) [±],Cross-platform,GPL,Yes,No,Unknown,CVS  Git  SVN
 Komodo IDE / Edit,ActiveState,10.0.1 (June 2016),Cross-platform,Proprietary,Yes,Yes,Yes,Bazaar  CVS  Git  Mercurial  Perforce  SVN
-NetBeans,Sun Microsystems / Oracle,9.0 / July 29  2018; 4 months ago (2018-07-29)[38],Cross-platform on Netbeans,CDDL  GPL,Yes,Yes,Yes,CVS  Git  Mercurial  SVN
+NetBeans,Sun Microsystems / Oracle,9.0 / July 29  2018; 5 months ago (2018-07-29)[38],Cross-platform on Netbeans,CDDL  GPL,Yes,Yes,Yes,CVS  Git  Mercurial  SVN
 PHPEclipse (Eclipse),PHPEclipse project team,1.2.2 / September 2009,Windows  Linux  macOS  FreeBSD  JVM  Solaris,CPL,Yes,Yes,Unknown,Unknown
 PhpED Professional,NuSphere Corporation,17.17022 / June  2016,Windows,Proprietary,Yes,Yes,Unknown,CVS  SVN  any other Windows-shell integrated
 PHPEdit,WaterProof SARL,3.6.4 (April 9  2010; 8 years ago (2010-04-09)) [±],Windows,Proprietary,Yes,Yes,No,CVS  SVN

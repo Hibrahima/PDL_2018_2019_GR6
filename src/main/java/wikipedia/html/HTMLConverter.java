@@ -38,8 +38,7 @@ public class HTMLConverter implements Converter {
 	}
 
 	/**
-	 * Checks whether or not a character is a number
-	 * Used to process td text
+	 * Checks whether or not a character is a number Used to process td text
 	 * 
 	 * @param character the character to check
 	 * @return true if that charcacter is a number
@@ -51,8 +50,7 @@ public class HTMLConverter implements Converter {
 	}
 
 	/**
-	 * Checks whether or not a url exists
-	 * May throw HttpStatusException
+	 * Checks whether or not a url exists May throw HttpStatusException
 	 * 
 	 * @param url the url to check
 	 * @return true if the url exists
@@ -63,7 +61,7 @@ public class HTMLConverter implements Converter {
 			Jsoup.connect(url).get();
 			return true;
 		} catch (HttpStatusException e) {
-			System.out.println(Constants.CONSOLE_RED_COLOR+"[" + url + "] n'existe pas!");
+			System.out.println(Constants.CONSOLE_RED_COLOR + "[" + url + "] does not exist!");
 			return false;
 		}
 	}
@@ -89,9 +87,9 @@ public class HTMLConverter implements Converter {
 				Document doc = Jsoup.connect(Constants.EN_BASE_WIKIPEDIA_URL + url).get();
 				convertToCsv(doc, Constants.EN_BASE_WIKIPEDIA_URL, url, Constants.HTML_OUTPUT_DIR);
 			}
-			System.out.println("CSV serialization finished, "+number+" urls have been tested");
+			System.out.println("CSV serialization finished, " + number + " urls have been tested");
 		} catch (Exception e) {
-		
+
 		} finally {
 			try {
 				fr.close();
@@ -105,13 +103,14 @@ public class HTMLConverter implements Converter {
 	/**
 	 * Converts tables of a given url into a CSV-like file
 	 * 
-	 * @param doc the html representation of that page
-	 * @param baseUrl the base url to use to make api calls
+	 * @param doc       the html representation of that page
+	 * @param baseUrl   the base url to use to make api calls
 	 * @param pageTitle the title of the page
-	 * @param filePath the path for the files to be stored in
+	 * @param filePath  the path for the files to be stored in
 	 * @throws HttpStatusException if the page does not exist
 	 */
-	public void convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath) throws HttpStatusException {
+	public void convertToCsv(Document doc, String baseUrl, String pageTitle, String filePath)
+			throws HttpStatusException {
 		List<String> data = new ArrayList<>();
 		String line = "";
 		String filename;
@@ -127,8 +126,10 @@ public class HTMLConverter implements Converter {
 					for (int i = 0; i < currentTableTrs.size(); i++) {
 						Element currentTr = currentTableTrs.get(i);
 						Elements currentRowTds = currentTr.select("td");
+						Element currentTd;
 						for (int j = 0; j < currentRowTds.size(); j++) {
-							currentTdText = new StringBuilder(currentRowTds.get(j).text());
+							currentTd = currentRowTds.get(j);
+							currentTdText = new StringBuilder(currentTd.text());
 							currentTdText = processCurrentTDText(currentTdText);
 							if (j == currentRowTds.size() - 1)
 								line += currentTdText.toString();
@@ -136,13 +137,14 @@ public class HTMLConverter implements Converter {
 								line += currentTdText.toString() + separator;
 						}
 						if (line != "") {
+							line = processLine(line);
 							data.add(line);
 							line = "";
 						}
 					}
 					filename = this.filehandler.extractFilenameFromUrl(pageTitle, filenameCounter);
 					this.filehandler.write(filePath, filename, data);
-					System.out.println(Constants.CONSOLE_WHITE_COLOR+filename + " has been generated");
+					System.out.println(Constants.CONSOLE_WHITE_COLOR + filename + " has been generated");
 					filenameCounter++;
 					data.clear();
 				}
@@ -154,12 +156,21 @@ public class HTMLConverter implements Converter {
 
 	}
 
+	private String processLine(String line) {
+		StringBuilder sb = new StringBuilder(line);
+		for (int i = 0; i < sb.length(); i++) {
+			if (sb.charAt(i) == '\n') 
+				sb.setCharAt(i, ' ');
+		}
+		
+		return sb.toString();
+	}
+
 	/**
 	 * {@inheritDoc}
 	 */
 	@Override
 	public StringBuilder processCurrentTDText(StringBuilder tdText) {
-		tdText = new StringBuilder(tdText);
 		for (int k = 0; k < tdText.length(); k++) {
 			if (tdText.charAt(k) == separator) {
 				if (k > 0) {
@@ -174,11 +185,11 @@ public class HTMLConverter implements Converter {
 						}
 					}
 				}
-				if(k == tdText.length()-1)
-					tdText.setCharAt(k, separator);
+				if (k == tdText.length() - 1)
+					tdText.setCharAt(k, ' ');
 			}
 		}
-		
+
 		return tdText;
 	}
 

@@ -17,7 +17,7 @@ Nemo,No,No,No,No,Yes,Yes,Yes,No,No
 PathMinder,Yes,No,Yes,No,No,No,No,No,No
 PCManFM,No,Needs POSIX-compliant platform,Needs POSIX-compliant platform,Needs POSIX-compliant platform,Yes,Yes,Yes,No,Yes
 Ranger,No,No,No,Yes,Yes,Yes,Yes,No,No
-ROX-Filer,No,No,,,Yes,Yes,Yes,No,No
+ROX-Filer,No,No,[empty],[empty],Yes,Yes,Yes,No,No
 Thunar,No,No,No,No,Yes,Yes,Yes,No,No
 Total Commander,No,No,Yes,No,Yes,No,No,No,No
 Volkov Commander,No,Yes,Yes,No,No,No,No,No,No

@@ -1,24 +1,24 @@
 + List of languages and frameworks including regular expression support
-Language,Official website,Software license,Remarks
-ActionScript 3,ActionScript Technology Center,,
-C++11 (C++),C++ standards website,,Since ISO14822:2011(e)
-D,D,}},
-Go,Golang.org,,
-Haskell,Haskell.org,,Omitted in the language report  and in GHC's Hierarchical Libraries
-Java,Java,,REs are written as strings in source code: all backslashes must be doubled  harming readability.
-JavaScript (ECMAScript),ECMA-262,,Limited but REs are first-class citizens of the language with a specific /.../mod syntax.
-Julia,JuliaLang.org,,REs are part of the language core library using PCRE built-in and an optional wrapper for (C code) ICU is available.
-Lua,Lua.org,,Uses simplified  limited dialect; can be bound to more powerful library  like PCRE or an alternative parser like LPeg.
-Mathematica,Wolfram,Proprietary,
-.NET,MSDN,}},
-Nim,nim-lang.org,,Standard library includes PCRE-based re and nre modules  as well as various alternatives (ex. strutils  pegs (Parsing Expression Grammar matching)  strscans  parseutils  etc).
-Free Pascal (Object Pascal),www.freepascal.org,,Free Pascal 2.6+ ships with TRegExpr from Sorokin and two other regular expression libraries; See wiki.lazarus.freepascal.org/Regexpr.
-OCaml,Caml,,, the standard module is generally regarded as deprecated;<ref>https://stackoverflow.com/questions/3221067#comment3323649_3221067</ref> often recommended libraries are pcre (with full support for PCRE) and re (which is not as complete but claims better performance and provides frontends to popular syntaxes: PCRE  Perl  Posix  Emacs  shell globbing).
-Perl,Perl.com,,Full  central part of the language
-PHP,PHP.net,,Has two implementations  with PCRE being the more efficient in speed  functions
-POSIX C (C),libc/regex from BSD,BSD,According to regex(3)  available from at least 4.4BSD (if not earlier)
-Python,python.org,,Python has two major implementations  the built in re and the regex library.
-Ruby,ruby-doc.org,,Ruby 1.8 and 1.9 use different engines; 1.9 integrates Oniguruma.
-SAP ABAP,SAP.com,,
-Tcl,tcl.tk,,Tcl library doubles as a regular expression library.
-Wolfram Language,Wolfram Research,Proprietary; usable for free on a limited scale on the Wolfram Development platform.,
+Language
+ActionScript 3
+C++11 (C++)
+D
+Go
+Haskell
+Java
+JavaScript (ECMAScript)
+Julia
+Lua
+Mathematica
+.NET
+Nim
+Free Pascal (Object Pascal)
+OCaml
+Perl
+PHP
+POSIX C (C)
+Python
+Ruby
+SAP ABAP
+Tcl
+Wolfram Language

@@ -1,10 +1,10 @@
 Name,Tail-Call Optimization,Choice Point Elimination,Environment Trimming,Just-in-Time Indexing
-Ciao,,,,?
-ECLiPSe,,,,
-GNU Prolog,,,,?
-Jekejeke Prolog,,,,
-SICStus Prolog,,,,
-SWI-Prolog,,,,
-Visual Prolog,,,,
-XSB,,,,?
-YAP-Prolog,,,,
+Ciao,[empty],[empty],[empty],?
+ECLiPSe,[empty],[empty],[empty],[empty]
+GNU Prolog,[empty],[empty],[empty],?
+Jekejeke Prolog,[empty],[empty],[empty],[empty]
+SICStus Prolog,[empty],[empty],[empty],[empty]
+SWI-Prolog,[empty],[empty],[empty],[empty]
+Visual Prolog,[empty],[empty],[empty],[empty]
+XSB,[empty],[empty],[empty],?
+YAP-Prolog,[empty],[empty],[empty],[empty]

@@ -1,4 +1,6 @@
 C#,Visual Basic .NET
-
-
-
+<source lang=csharp> if (a == b) {    // equal  } </source>,<source lang=vbnet> If a = b Then    ' equal  End If </source>
+<source lang=csharp> if (a != b) {    // not equal  } </source> Or: <source lang=csharp> if (!(a == b)) {    // not equal  } </source>,<source lang=vbnet> If a <> b Then    ' not equal  End If </source> Or: <source lang=vbnet> If Not a = b Then    ' not equal  End If </source>
+<source lang=csharp> if (a == b & c == d | e == f) {    // non-short-circuiting boolean operators  } </source>,<source lang=vbnet> If a = b And c = d Or e = f Then    ' non-short-circuiting boolean operators  End If </source>
+<source lang=csharp> if (a == b && c == d || e == f) {    // short-circuiting boolean operators  } </source>,<source lang=vbnet> If a = b AndAlso c = d OrElse e = f Then    ' short-circuiting boolean operators  End If </source>
+[empty],[added]

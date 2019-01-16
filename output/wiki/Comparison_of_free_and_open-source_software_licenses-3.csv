@@ -1,56 +1,57 @@
 License and version,FSF approval <ref name="ref_FSF"></ref>,GPL (v3) compatibility <ref name="ref_HasToBeCompatibleWithGPLv3&GPLv2"></ref><ref name="ref_GPL-compatible_List"></ref><ref name="ref_GPL-Incompatible_List"></ref><ref name="ref_GPL-compatible"></ref><ref name="ref_GPL-compatible_previous_version_definition"></ref>,OSI approval <ref name="ref_OSI"></ref>,Debian approval <ref></ref><ref></ref>,Fedora approval <ref></ref>
-Academic Free License,,,,
-Affero General Public License 3.0,,,,
-Apache License 1.x,,,,
-Apache License 2.0,,<ref name="apache2"></ref>,,
-Apple Public Source License 1.x,<ref></ref>,,,
-Apple Public Source License 2.0,,,,
-Artistic License 1.0,<ref group="note">The original version of the Artistic License is defined as non-free because it is overly vague  not because of the substance of the license. The FSF encourages projects to use the Clarified Artistic License instead.</ref>,,,
-Artistic License 2.0,,,,
-Beerware License,<ref name="fsflist"></ref>,<ref name="fsflist" />,,,<ref></ref>
-Original BSD license,,,<ref name="bsdlic"></ref>,
-Modified BSD license,,,,
-Boost Software License,,,,
-CeCILL,,,,
-Common Development and Distribution License,,<ref name="fsf"></ref><ref></ref><ref></ref><ref>Are GPLv2 and CDDL incompatible? on hansenpartnership.com by James E.J. Bottomley "What the above analysis shows is that even though we presumed combination of GPLv2 and CDDL works to be a technical violation  there's no way actually to prosecute such a violation because we can’t develop a convincing theory of harm resulting. Because this makes it impossible to take the case to court  effectively it must be concluded that the combination of GPLv2 and CDDL  provided you’re following a GPLv2 compliance regime for all the code  is allowable." (23 February 2016)</ref><ref></ref><ref>GPL Violations Related to Combining ZFS and Linux on sfconservancy.org by Bradley M. Kuhn and Karen M. Sandler (February 25  2016)</ref>,,
-Common Public License,,,,
+Academic Free License,[empty],[empty],[empty],[empty],[added]
+Affero General Public License 3.0,[empty],[empty],[empty],[empty],[added]
+Apache License 1.x,[empty],[empty],[empty],[empty],[added]
+Apache License 2.0,[empty],<ref name="apache2"></ref>,[empty],[empty],[added]
+Apple Public Source License 1.x,<ref></ref>,[empty],[empty],[empty],[added]
+Apple Public Source License 2.0,[empty],[empty],[empty],[empty],[added]
+Artistic License 1.0,<ref group="note">The original version of the Artistic License is defined as non-free because it is overly vague  not because of the substance of the license. The FSF encourages projects to use the Clarified Artistic License instead.</ref>,[empty],[empty],[empty],[added]
+Artistic License 2.0,[empty],[empty],[empty],[empty],[added]
+Beerware License,<ref name="fsflist"></ref>,<ref name="fsflist" />,[empty],[empty],<ref></ref>
+Original BSD license,[empty],[empty],<ref name="bsdlic"></ref>,[empty],[added]
+Modified BSD license,[empty],[empty],[empty],[empty],[added]
+Boost Software License,[empty],[empty],[empty],[empty],[added]
+CeCILL,[empty],[empty],[empty],[empty],[added]
+Common Development and Distribution License,[empty],<ref name="fsf"></ref><ref></ref><ref></ref><ref>Are GPLv2 and CDDL incompatible? on hansenpartnership.com by James E.J. Bottomley "What the above analysis shows is that even though we presumed combination of GPLv2 and CDDL works to be a technical violation  there's no way actually to prosecute such a violation because we can’t develop a convincing theory of harm resulting. Because this makes it impossible to take the case to court  effectively it must be concluded that the combination of GPLv2 and CDDL  provided you’re following a GPLv2 compliance regime for all the code  is allowable." (23 February 2016)</ref><ref></ref><ref>GPL Violations Related to Combining ZFS and Linux on sfconservancy.org by Bradley M. Kuhn and Karen M. Sandler (February 25  2016)</ref>,[empty],[empty],[added]
+Common Public License,[empty],[empty],[empty],[empty],[added]
 Creative Commons Zero,<ref name="auto1"></ref>,<ref name="auto1"/>,<ref></ref>,<ref></ref><ref></ref>,<ref name="auto2"></ref>
-Creative Commons BY-SA 4.0,,<ref></ref>,{{?}},,{{?}}
-Cryptix General License,,,,
-Eclipse Public License,,,,
-Educational Community License,,<ref name="ecl2"></ref>,,
-Eiffel Forum License 2,,,,
-European Union Public Licence,,<ref name="eupl-compat" />,,,{{?}}
-GNU Affero General Public License,,<ref name="agplsection13"/><ref name="gplfsf">https://www.gnu.org/licenses/: "We use only licenses that are compatible with the GNU GPL for GNU software."</ref>,,
-GNU General Public License v2,,<ref group="note">But can be made compatible by upgrading to GPLv3 via the optional "or later" clause added in most GPLv2 license texts.</ref><ref name="gpl2gpl3comp"/>,,
-GNU General Public License v3,,<ref group="note">But not with GPLv2 without "or later" clause.</ref><ref name="gpl2gpl3comp"></ref>,,
-GNU Lesser General Public License,,,,
-GNU Free Documentation License,,<ref>https://lists.debian.org/debian-legal/2003/04/msg00258.html</ref>,<ref>https://spdx.org/licenses/</ref>,<ref></ref>
-IBM Public License,,,,
-Intel Open Source License,,,,
-ISC license,<ref></ref>,,,
-LaTeX Project Public License,,,,
-Microsoft Public License,,,,
-Microsoft Reciprocal License,,,,
-MIT license / X11 license,,,,
-Mozilla Public License 1.1,,,,
-Mozilla Public License 2.0,,<ref group="note">MPL 2.0 is GPL compatible unless marked "Incompatible with Secondary Licenses".</ref><ref></ref>,,
-NASA Open Source Agreement,,,,{{?}}
-Netscape Public License,,,,
-Open Software License,,,,
-OpenSSL license,,,,
-PHP License,,,,
-Python Software Foundation License 2.0.1; 2.1.1 and newer,,,,
-Q Public License,,,,
-Reciprocal Public License 1.5,,,,
-Sleepycat License,,,,
-Sun Industry Standards Source License,,,,
-Sun Public License,,,,
-Sybase Open Watcom Public License,,,,
-Unlicense,<ref></ref>,<ref name="auto1"/>,<ref></ref>,,<ref name="auto2"/>
-W3C Software Notice and License,,,,
-Do What The Fuck You Want To Public License (WTFPL),<ref group="note">Listed as WTFPL.</ref>,,<ref></ref>,
-XFree86 1.1 License,,<ref name="x"></ref>,,
-zlib/libpng license,,,,
-Zope Public License 1.0,,,,
-Zope Public License 2.0,,,,
+Creative Commons BY-SA 4.0,[empty],<ref></ref>,{{?}},[empty],{{?}}
+Cryptix General License,[empty],[empty],[empty],[empty],[added]
+Eclipse Public License,[empty],[empty],[empty],[empty],[added]
+Educational Community License,[empty],<ref name="ecl2"></ref>,[empty],[empty],[added]
+Eiffel Forum License 2,[empty],[empty],[empty],[empty],[added]
+European Union Public Licence,[empty],<ref name="eupl-compat" />,[empty],[empty],{{?}}
+GNU Affero General Public License,[empty],<ref name="agplsection13"/><ref name="gplfsf">https://www.gnu.org/licenses/: "We use only licenses that are compatible with the GNU GPL for GNU software."</ref>,[empty],[empty],[added]
+GNU General Public License v2,[empty],<ref group="note">But can be made compatible by upgrading to GPLv3 via the optional "or later" clause added in most GPLv2 license texts.</ref><ref name="gpl2gpl3comp"/>,[empty],[empty],[added]
+GNU General Public License v3,[empty],<ref group="note">But not with GPLv2 without "or later" clause.</ref><ref name="gpl2gpl3comp"></ref>,[empty],[empty],[added]
+GNU Lesser General Public License,[empty],[empty],[empty],[empty],[added]
+GNU Free Documentation License,[empty],<ref>https://lists.debian.org/debian-legal/2003/04/msg00258.html</ref>,<ref>https://spdx.org/licenses/</ref>,<ref></ref>,[added]
+IBM Public License,[empty],[empty],[empty],[empty],[added]
+Intel Open Source License,[empty],[empty],[empty],[empty],[added]
+ISC license,<ref></ref>,[empty],[empty],[empty],[added]
+LaTeX Project Public License,[empty],[empty],[empty],[empty],[added]
+Microsoft Public License,[empty],[empty],[empty],[empty],[added]
+Microsoft Reciprocal License,[empty],[empty],[empty],[empty],[added]
+MIT license / X11 license,[empty],[empty],[empty],[empty],[added]
+Mozilla Public License 1.1,[empty],[empty],[empty],[empty],[added]
+Mozilla Public License 2.0,[empty],<ref group="note">MPL 2.0 is GPL compatible unless marked "Incompatible with Secondary Licenses".</ref><ref></ref>,[empty],[empty],[added]
+NASA Open Source Agreement,[empty],[empty],[empty],{{?}},[added]
+Netscape Public License,[empty],[empty],[empty],[empty],[added]
+Open Software License,[empty],[empty],[empty],[empty],[added]
+OpenSSL license,[empty],[empty],[empty],[empty],[added]
+PHP License,[empty],[empty],[empty],[empty],[added]
+Python Software Foundation License 2.0.1; 2.1.1 and newer,[empty],[empty],[empty],[empty],[added]
+Q Public License,[empty],[empty],[empty],[empty],[added]
+Reciprocal Public License 1.5,[empty],[empty],[empty],[empty],[added]
+Sleepycat License,[empty],[empty],[empty],[empty],[added]
+Sun Industry Standards Source License,[empty],[empty],[empty],[empty],[added]
+Sun Public License,[empty],[empty],[empty],[empty],[added]
+Sybase Open Watcom Public License,[empty],[empty],[empty],[empty],[added]
+Unlicense,<ref></ref>,<ref name="auto1"/>,<ref></ref>,[empty],<ref name="auto2"/>
+W3C Software Notice and License,[empty],[empty],[empty],[empty],[added]
+Do What The Fuck You Want To Public License (WTFPL),<ref group="note">Listed as WTFPL.</ref>,[empty],<ref></ref>,[empty],[added]
+XFree86 1.1 License,[empty],<ref name="x"></ref>,[empty],[empty],[added]
+zlib/libpng license,[empty],[empty],[empty],[empty],[added]
+Zope Public License 1.0,[empty],[empty],[empty],[empty],[added]
+Zope Public License 2.0,[empty],[empty],[empty],[empty],[added]
+[added],[added],[added],[added],[added],[added]

@@ -1,7 +1,8 @@
 Software,Windows,Mac OS X,Linux,BSD,Unix,IIS,Apache,Notes
-Connectbeam,,,,,,,,none
-Dogear,,,,,,,,requires IBM WebSphere Application Server 6.1.0.13 for the web server
-Jumper 2.0,,,,,,,,none
-Knowledge Plaza,,,,,,,,No OS management required. Infrastructure-as-a-Service for on-premises installation.
-Licorize,,,,,,,,Written in Java 6  runs on Apache Tomcat and compatible servers.
-Scuttle,,,,,,,,none
+Connectbeam,[empty],[empty],[empty],[empty],[empty],[empty],[empty],none
+Dogear,[empty],[empty],[empty],[empty],[empty],[empty],[empty],requires IBM WebSphere Application Server 6.1.0.13 for the web server
+Jumper 2.0,[empty],[empty],[empty],[empty],[empty],[empty],[empty],none
+Knowledge Plaza,[empty],[empty],[empty],[empty],[empty],[empty],[empty],No OS management required. Infrastructure-as-a-Service for on-premises installation.
+Licorize,[empty],[empty],[empty],[empty],[empty],[empty],[empty],Written in Java 6  runs on Apache Tomcat and compatible servers.
+Scuttle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],none
+[added],[added],[added],[added],[added],[added],[added],[added],[added]

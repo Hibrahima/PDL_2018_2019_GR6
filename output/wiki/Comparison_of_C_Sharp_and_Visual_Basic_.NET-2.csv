@@ -1,8 +1,2 @@
 C#,Visual Basic .NET
-if (i<10) {
-    // condition is true 
-} else if (othercondition) { 
-    // condition is false and othercondition is true
-} else { 
-    // condition and othercondition are false 
-}
+if (i<10) {     // condition is true  } else if (othercondition) {      // condition is false and othercondition is true } else {      // condition and othercondition are false  },<source lang=vbnet> If condition Then    ' condition is true  ElseIf othercondition Then    ' condition is false and othercondition is true  Else    ' condition and othercondition false  End If </source>

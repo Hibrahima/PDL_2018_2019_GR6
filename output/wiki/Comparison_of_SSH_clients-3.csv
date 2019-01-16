@@ -1,12 +1,12 @@
 Name,Keyboard mapping,Session tabs,ZMODEM transfers,Find text in buffer,Mouse input support,Unicode support,URL hyperlinking,Public key authentication,Smart card support,Hardware encryption,FIPS 140-2 validation,Scripting,Shared Database,Auto-reconnect
-AbsoluteTelnet,,,,,,,,,,,,,,
-OpenSSH,,,,,,,,,,,,,,
-PACManager,,,,,,,,,,,,,,
-PuTTY,,,,,,,,,,,,,,
-SecureCRT,,,,,,,,,,,,,,
-SmartFTP,,,,,,,,,,,,,,
-Tera Term,,,,,,,,,,,,,,
-TN3270 Plus,,,,,,,,,,,,,,
-TtyEmulator,,,,,,,,,,,,,,
-Xshell,,,,,,,,,,,,,,
-ZOC,,,,,,,,,,,,,,
+AbsoluteTelnet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenSSH,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PACManager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PuTTY,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SecureCRT,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SmartFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tera Term,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TN3270 Plus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TtyEmulator,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xshell,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZOC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

@@ -1,38 +1,38 @@
 Name,License,Can reside in,Can boot from,Can boot
-ESP (UEFI),MBR,VBR,Floppy,Hard disk,Second Hard disk,Logical partitions,CD-ROM,Floppy,USB,Zip,LAN,MS-DOS,Windows 9x/Me,Windows NT series,Windows Vista/7/8/10,Linux,ReactOS,MenuetOS,*BSD,Mac&nbsp;OS&nbsp;X
-Acronis OS Selector,,,,,,,,,,,,,,,,,,,,,,
-AiR-Boot,,,,,,,,,,,,,,,,,,,,,,
-AKernelLoader,,,,,,,,,,,,,,,,,,,,,,
-Barebox,,,,,,,,,,,,,,,,,,,,,,
-BootIt Bare Metal (formerly BootIt Next Generation),,,,,,,,,,,,,,,,,,,,,,
-BootKey,,,,,,,,,,,,,,,,,,,,,,
-BootManager,,,,,,,,,,,,,,,,,,,,,,
-BootX (Apple),,,,,,,,,,,,,,,,,,,,,,
-BootX (Linux),,,,,,,,,,,,,,,,,,,,,,
-Darwin Boot Loader,,,,,,,,,,,,,,,,,,,,,,
-Das U-Boot,,,,,,,,,,,,,,,,,,,,,(FreeBSD),
-GAG,+,,(SafeBoot),,,,,,,,,,,,,,,,,,,
-GRUB Legacy,+,,,,,,,,,,,,,,,,,,,,,
-GNU GRUB,,,,,,,,,,,,,,,,,,,,,,
-GRUB4DOS,+,,,,,,,,,,,,,,,,,,,,,
-Gujin http://gujin.sourceforge.net/,,,,,,,,,,,,,,,,,,,,,,
-systemd-boot / Gummiboot,,,,,,,,,,,,,,,,,<ref name="gummiboot">Rod Smith  "Managing EFI Boot Loaders for Linux: Using gummiboot"  .</ref>,,,,,<ref name="gummiboot" />
-iBoot,,,,,,,,,,,,,,,,,,,,,,
-Libreboot,,,,,,,,,,,,,,,,,,,,,,
-LILO,,,,,,,,,,,,,,,,,,,,,(FreeBSD  PC-BSD  ...),
-loader(8),,,,,,,,,,,,,,,,,,,,,(FreeBSD  TrueOS),
-loadlin,+,,,,,,,,,,,,,,,,,,,,,
-MasterBooter,,,,,,,,,,,,,,,,,,,,,,
-NTLDR,,,,,,,,,,,,,,,,,,,,,,<ref>http://wiki.osx86project.org/wiki/index.php/Chain0</ref>
-OSL2000 Boot Manager,,,,,,,,,,,,,,,,,,,,,,
-PLoP Bootmanager,,,,,,,,,,,,,,,,,,,,,,
-RedBoot,mod +,,,,,,,,,,,,,,,,,,,,,
-rEFInd,/BSD license,,,,,,,,,,,,,,,,,,,,,
-Smart Boot Manager,+,,,,,,,,,,,,,,,,,,,,,
-SPFdisk,+,,,,,,,,,,,,,,,,,,,,,
-SYSLINUX,+,,,,,,,,,,,,,,,,,,,,,
-XOSL,,,,,,,,,,,,,,,,,,,,,,
-Windows Boot Manager,,,,,,,,,,,,,,,,,,,,,,
-FreeLoader (ReactOS Boot Loader),+,,,,,,,,,,,,,,,<ref>http://www.reactos.org/newsletter-37 - Freeloader can load Windows Server 2003 directly  as long as it is on a FAT32 partition</ref>,,,,,,
+ESP (UEFI),MBR,VBR,Floppy,Hard disk
+Acronis OS Selector,[empty],[empty],[empty],[empty]
+AiR-Boot,[empty],[empty],[empty],[empty]
+AKernelLoader,[empty],[empty],[empty],[empty]
+Barebox,[empty],[empty],[empty],[empty]
+BootIt Bare Metal (formerly BootIt Next Generation),[empty],[empty],[empty],[empty]
+BootKey,[empty],[empty],[empty],[empty]
+BootManager,[empty],[empty],[empty],[empty]
+BootX (Apple),[empty],[empty],[empty],[empty]
+BootX (Linux),[empty],[empty],[empty],[empty]
+Darwin Boot Loader,[empty],[empty],[empty],[empty]
+Das U-Boot,[empty],[empty],[empty],[empty]
+GAG,+,[empty],(SafeBoot),[empty]
+GRUB Legacy,+,[empty],[empty],[empty]
+GNU GRUB,[empty],[empty],[empty],[empty]
+GRUB4DOS,+,[empty],[empty],[empty]
+Gujin http://gujin.sourceforge.net/,[empty],[empty],[empty],[empty]
+systemd-boot / Gummiboot,[empty],[empty],[empty],[empty]
+iBoot,[empty],[empty],[empty],[empty]
+Libreboot,[empty],[empty],[empty],[empty]
+LILO,[empty],[empty],[empty],[empty]
+loader(8),[empty],[empty],[empty],[empty]
+loadlin,+,[empty],[empty],[empty]
+MasterBooter,[empty],[empty],[empty],[empty]
+NTLDR,[empty],[empty],[empty],[empty]
+OSL2000 Boot Manager,[empty],[empty],[empty],[empty]
+PLoP Bootmanager,[empty],[empty],[empty],[empty]
+RedBoot,mod +,[empty],[empty],[empty]
+rEFInd,/BSD license,[empty],[empty],[empty]
+Smart Boot Manager,+,[empty],[empty],[empty]
+SPFdisk,+,[empty],[empty],[empty]
+SYSLINUX,+,[empty],[empty],[empty]
+XOSL,[empty],[empty],[empty],[empty]
+Windows Boot Manager,[empty],[empty],[empty],[empty]
+FreeLoader (ReactOS Boot Loader),+,[empty],[empty],[empty]
 Name,Software license,Can reside in,Can boot from,Can boot
-ESP (UEFI),MBR,VBR,Floppy,Hard disk,Second hard disk,Logical partitions,CD-ROM,Floppy,USB,Zip,LAN,MS-DOS,Windows 9x/Me,Windows NT series,Windows Vista/7/8,Linux,ReactOS,MenuetOS,*BSD,Mac&nbsp;OS&nbsp;X
+ESP (UEFI),MBR,VBR,Floppy,Hard disk

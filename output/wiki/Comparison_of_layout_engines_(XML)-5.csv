@@ -1,4 +1,5 @@
-,Trident,Gecko,WebKit,KHTML,Presto,Prince XML,Antenna House
-DTD,,group=note}},<ref group="w"></ref>,,,,<ref group="a" name="ah-xslt"/>
-XML Schema<ref group="spec"></ref><ref group="spec"></ref><ref group="spec"></ref><ref group="spec"></ref>,,,rowspan="2",,rowspan="2",,<ref group="a" name="ah-xslt"/>
-RELAX NG<ref group="spec"></ref>,,<ref group="g"></ref>,,,<ref group="a" name="ah-xslt"/>
+[empty],Trident,Gecko,WebKit,KHTML,Presto,Prince XML,Antenna House
+DTD,[empty],group=note}},<ref group="w"></ref>,[empty],[empty],[empty],<ref group="a" name="ah-xslt"/>
+XML Schema<ref group="spec"></ref><ref group="spec"></ref><ref group="spec"></ref><ref group="spec"></ref>,[empty],[empty],rowspan="2",[empty],rowspan="2",[empty],<ref group="a" name="ah-xslt"/>
+RELAX NG<ref group="spec"></ref>,[empty],<ref group="g"></ref>,[empty],[empty],<ref group="a" name="ah-xslt"/>,[added],[added]
+[added],[added],[added],[added],[added],[added],[added],[added]

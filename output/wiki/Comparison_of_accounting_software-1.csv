@@ -1,16 +1,16 @@
 Package,License,Windows,Mac OS,Linux,Market focus,GL,AR/AP,DEB,$£€¥,OB,POS,EC,SOCT,PR,ERP,CRM,BI,HRM,Manf.<br />/BOM,SCM,IM—,RM,D/WM,MU,Multi<br />Co,Tax,Other Features,Structure,Language
-Adempiere,GPL,,,,Mid-market,,,,,,,,,,,,,,,,,,,,,,SaaS  Project Management  CRM.,Web-based and Client-server.,Java on JBoss  GlassFish  PostgreSQL  Oracle.
-Apache OFBiz,Apache License,,,,Small to mid-sized enterprises,,,,,,,,,,,,,,,,,,,,,,SaaS  Calendar  Webmail,Multi-User  Web Access  Cloud Hostable,Java
-Compiere,GPL2  other proprietary,,,,Mid-market,,,,,,,,,,,,,,,,,,,,,,MES,Web-based,Java EE
-Dolibarr,GPL,,,,Low to mid-market,,,,,,,,,,,,,,,,,,,,,,SaaS,Web-based,PHP
-GnuCash,GPL,,,,Personal and small enterprise,,,,,,,,,,,,,,,,,,,,,ltd,,Stand-alone,C  Scheme
-GNU Enterprise,GPL,,,,Mid to high end market,,,,,,,,,,,,,,,,,,,,,,,Web-based + stand-alone,Python
-iDempiere,GPL2,,,,Mid-market,,,,,,,,,,,,,,,,,,,,,,SaaS  Calendar  Project Management,Web-based and Client-server,Java on Jetty  OSGi  PostgreSQL  Oracle
-JFire,GPL,,,,All markets,,,,,,,,,,,,,,,,,,,,,,,Web-based  Stand-alone,Java
-LedgerSMB,GPL,,,,Mid-market,,,,,,,,,,,,,,,,,,,,,,SaaS  Light Manufacturing  Multi-language (40),,Web-based,Perl
-Ledger (CLI),BSD,,,,Personal and small enterprise,,,,,,,,,,,,,,,,,,,,,,Can be used with git,Plain text file-based,C++
-metasfresh,GPL2,,,,Mid-market,,,,,,,,,,,,,,,,,,,,,,SaaS  On-Premise,Web-based  Client-server,Java on Tomcat  PostgreSQL
-Openbravo,MPL derivative with badgeware clause,,,,Mid-market,,,,,,,,,,,,,,,,,,,,,,Project Management  Multi-language  Localized by country,Web-based  on-premises  Saas  On Demand,Java
-Postbooks,CPAL,,,,Low to mid-market,,,,,,,,,,,,,,,,,,,,,,Professional Services,Client-server,C++  Qt
-SQL-Ledger,GPL,,,,Mid-market,,,,,,,,,,,,,,,,,,,,,,,Web-based,Perl
-Tryton,GPL,,,,Low to mid-market,,,,,<ref></ref>,,<ref></ref>,,,,,,,<ref></ref>,,,,,<ref></ref>,<ref></ref>,,,Thin client & Web-based client - Server,Python
+Adempiere,GPL,[empty],[empty],[empty],Mid-market,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SaaS  Project Management  CRM.,Web-based and Client-server.,Java on JBoss  GlassFish  PostgreSQL  Oracle.
+Apache OFBiz,Apache License,[empty],[empty],[empty],Small to mid-sized enterprises,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SaaS  Calendar  Webmail,Multi-User  Web Access  Cloud Hostable,Java
+Compiere,GPL2  other proprietary,[empty],[empty],[empty],Mid-market,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MES,Web-based,Java EE
+Dolibarr,GPL,[empty],[empty],[empty],Low to mid-market,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SaaS,Web-based,PHP
+GnuCash,GPL,[empty],[empty],[empty],Personal and small enterprise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],ltd,[empty],Stand-alone,C  Scheme
+GNU Enterprise,GPL,[empty],[empty],[empty],Mid to high end market,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Web-based + stand-alone,Python
+iDempiere,GPL2,[empty],[empty],[empty],Mid-market,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SaaS  Calendar  Project Management,Web-based and Client-server,Java on Jetty  OSGi  PostgreSQL  Oracle
+JFire,GPL,[empty],[empty],[empty],All markets,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Web-based  Stand-alone,Java
+LedgerSMB,GPL,[empty],[empty],[empty],Mid-market,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SaaS  Light Manufacturing  Multi-language (40) ,Web-based,Perl
+Ledger (CLI),BSD,[empty],[empty],[empty],Personal and small enterprise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Can be used with git,Plain text file-based,C++
+metasfresh,GPL2,[empty],[empty],[empty],Mid-market,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SaaS  On-Premise,Web-based  Client-server,Java on Tomcat  PostgreSQL
+Openbravo,MPL derivative with badgeware clause,[empty],[empty],[empty],Mid-market,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Project Management  Multi-language  Localized by country,Web-based  on-premises  Saas  On Demand,Java
+Postbooks,CPAL,[empty],[empty],[empty],Low to mid-market,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Professional Services,Client-server,C++  Qt
+SQL-Ledger,GPL,[empty],[empty],[empty],Mid-market,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Web-based,Perl
+Tryton,GPL,[empty],[empty],[empty],Low to mid-market,[empty],[empty],[empty],[empty],<ref></ref>,[empty],<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty],<ref></ref>,<ref></ref>,[empty],[empty],Thin client & Web-based client - Server,Python

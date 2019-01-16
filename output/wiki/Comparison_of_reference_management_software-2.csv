@@ -1,31 +1,31 @@
 Software,Windows,Mac OS X,Linux,ChromeOS,BSD,Unix,iOS App,Android App,Windows App
-Aigaion,,,,,,,,,
-Bebop,,,,,,,,,
-BibBase,,,,,,,,,
-BibDesk,,,,,,,Third-party - PocketBib,,
-BibSonomy,,,,,,,,,
-Bibus,,,,,,,,,
-Bookends,,,,,,,,,
-Citavi,,,,,,,,,
-CiteULike,,,,,,,,,
-colwiz,,,,,,,,,
-EndNote,,,,,,,,,
-F1000Workspace,,,,,,,,,
-JabRef,,,,,,,,,
-KBibTeX,,,,,,,,,
-Mendeley,,,,,,,,,
-Paperpile,,,,,(requires Chrome),(requires Chrome),,,
-Papers,,,,,,,,- EZPaperz<ref></ref> or Aziz  Lite! <ref name="azizlite.ezbio.net"></ref>,
-Pybliographer,<ref name="gnome-python">The GUI requires gnome-python  which isn't available for Windows or .</ref>,<ref name="gnome-python"/>,,,,,,,
-Qiqqa,,,,,,,,,
-ReadCube,,,,,,,,,
-refbase,,,,,,,,,
-RefDB,,,,,,,,,
-Reference Manager,<ref>Reference Manager is not compatible with word 2010</ref>,,,,,,,,
-Referencer,,,,,,,,,
-RefWorks<ref></ref>,,,,,,,No - but is responsive,,
-SciRef,,,,,,,,,
-Sente,,,,,,,<ref>Support iOS versions</ref>,,
-Wikindx,,,,,,,,,
-WizFolio,,,,,,,,,
-Zotero,,,,,,,,- Aziz  Lite!<ref name="azizlite.ezbio.net"/>,
+Aigaion,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bebop,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BibBase,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BibDesk,[empty],[empty],[empty],[empty],[empty],[empty],Third-party - PocketBib,[empty],[empty]
+BibSonomy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bibus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bookends,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Citavi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CiteULike,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+colwiz,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+EndNote,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+F1000Workspace,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JabRef,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KBibTeX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mendeley,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Paperpile,[empty],[empty],[empty],[empty],(requires Chrome),(requires Chrome),[empty],[empty],[empty]
+Papers,[empty],[empty],[empty],[empty],[empty],[empty],[empty],- EZPaperz<ref></ref> or Aziz  Lite! <ref name="azizlite.ezbio.net"></ref>,[empty]
+Pybliographer,<ref name="gnome-python">The GUI requires gnome-python  which isn't available for Windows or .</ref>,<ref name="gnome-python"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Qiqqa,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReadCube,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+refbase,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RefDB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Reference Manager,<ref>Reference Manager is not compatible with word 2010</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Referencer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RefWorks<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],No - but is responsive,[empty],[empty]
+SciRef,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sente,[empty],[empty],[empty],[empty],[empty],[empty],<ref>Support iOS versions</ref>,[empty],[empty]
+Wikindx,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WizFolio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zotero,[empty],[empty],[empty],[empty],[empty],[empty],[empty],- Aziz  Lite!<ref name="azizlite.ezbio.net"/>,[empty]

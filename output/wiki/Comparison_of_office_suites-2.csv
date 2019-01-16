@@ -1,28 +1,29 @@
 Office suite,Windows,macOS,GNU/Linux,BSD,Unix
-Ability Office,,,,,
-Apache OpenOffice,,,,,
-Breadbox Office,,,,,
-Calligra Suite,,,,,
-Feng Office Community Edition,,,,,
-Gobe Productive,,,,,
-Google Apps for Work,,,,,
-IBM Lotus Symphony,,,,,
-iWork,(iCloud version),,(iCloud version),(iCloud version),(iCloud version)
-LibreOffice,,,,,
-Lotus SmartSuite,,,(with Wine),,
-MarinerPak,,,,,
-Microsoft Office,,(not all features available  e.g. Project  Visio  Access),(with Wine),,
-Microsoft Works,,(4.0; Classic only),(with Wine),,
-MobiSystems OfficeSuite,,,,,
-NeoOffice,,,,,
-ONLYOFFICE,,,,,
-SoftMaker Office,,,,(2006),
-StarOffice,,(Intel only),,,
-TeXmacs,,,,,
-TeamLab,,,,,
-ThinkFree Office,,,,,
-Tiki Wiki CMS Groupware,,,,,
-WordPerfect Office,,,(Ver. 2000),,
-WPS Office (Kingsoft Office),,,,,
-Zoho Office Suite,,,,,
+Ability Office,[empty],[empty],[empty],[empty],[empty]
+Apache OpenOffice,[empty],[empty],[empty],[empty],[empty]
+Breadbox Office,[empty],[empty],[empty],[empty],[empty]
+Calligra Suite,[empty],[empty],[empty],[empty],[empty]
+Feng Office Community Edition,[empty],[empty],[empty],[empty],[empty]
+Gobe Productive,[empty],[empty],[empty],[empty],[empty]
+Google Apps for Work,[empty],[empty],[empty],[empty],[empty]
+IBM Lotus Symphony,[empty],[empty],[empty],[empty],[empty]
+iWork,(iCloud version),[empty],(iCloud version),(iCloud version),(iCloud version)
+LibreOffice,[empty],[empty],[empty],[empty],[empty]
+Lotus SmartSuite,[empty],[empty],(with Wine),[empty],[empty]
+MarinerPak,[empty],[empty],[empty],[empty],[empty]
+Microsoft Office,[empty],(not all features available  e.g. Project  Visio  Access),(with Wine),[empty],[empty]
+Microsoft Works,[empty],(4.0; Classic only),(with Wine),[empty],[empty]
+MobiSystems OfficeSuite,[empty],[empty],[empty],[empty],[empty]
+NeoOffice,[empty],[empty],[empty],[empty],[empty]
+ONLYOFFICE,[empty],[empty],[empty],[empty],[empty]
+SoftMaker Office,[empty],[empty],[empty],(2006),[empty]
+StarOffice,[empty],(Intel only),[empty],[empty],[empty]
+TeXmacs,[empty],[empty],[empty],[empty],[empty]
+TeamLab,[empty],[empty],[empty],[empty],[empty]
+ThinkFree Office,[empty],[empty],[empty],[empty],[empty]
+Tiki Wiki CMS Groupware,[empty],[empty],[empty],[empty],[empty]
+WordPerfect Office,[empty],[empty],(Ver. 2000),[empty],[empty]
+WPS Office (Kingsoft Office),[empty],[empty],[empty],[empty],[empty]
+Zoho Office Suite,[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added]
 Office suite,Windows,macOS,GNU/Linux,BSD,Unix

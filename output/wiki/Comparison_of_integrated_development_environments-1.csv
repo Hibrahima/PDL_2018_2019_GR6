@@ -1,6 +1,6 @@
 IDE,License,Windows,Linux,macOS,Other platforms,Debugger,GUI builder,Profiler,Static code analysis,MXML,Export to Mobile
-Adobe Animate<br />Formerly Adobe Flash Professional,,,,,JVM,,,,,,
-Flash Builder,,,,,JVM,,,,,,
-FlashDevelop,,,,,,,,,,,
-IntelliJ IDEA,,,,,FreeBSD  OpenBSD  Solaris,,,,,,
-Powerflasher FDT,,,,,JVM,,,,,,
+Adobe Animate<br />Formerly Adobe Flash Professional,[empty],[empty],[empty],[empty],JVM,[empty],[empty],[empty],[empty],[empty],[empty]
+Flash Builder,[empty],[empty],[empty],[empty],JVM,[empty],[empty],[empty],[empty],[empty],[empty]
+FlashDevelop,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IntelliJ IDEA,[empty],[empty],[empty],[empty],FreeBSD  OpenBSD  Solaris,[empty],[empty],[empty],[empty],[empty],[empty]
+Powerflasher FDT,[empty],[empty],[empty],[empty],JVM,[empty],[empty],[empty],[empty],[empty],[empty]

@@ -1,62 +1,63 @@
 Software,Creates?,Modifies?,Mounts?,Restores?,Extracts?,Burns?,Input,Output,OS,License,Last_Update_Release
-7-Zip,,,,,,{{?}},CramFS  DMG  FAT  HFS  MBR  NTFS  ISO  SquashFS  UDF  VHD  WIM<ref>http://www.7-zip.org/</ref>,WIM,Windows  Linux  Mac OS
-AcetoneISO,,,,,,{{?}},CD  DVD  ISO  BIN  MDF  IMG  NRG  CUE  TOC  DMG,CD  DVD  ISO  BIN,Linux,
-Acronis True Image,,,,,,{{?}},TIB  VHD,TIB  VHD,Windows,
-Alcohol 120%,,,,,,{{?}},ISO  B5T  B6T  BWT  CCD  CDI  CUE  MDS  NRG  ISZ,MDS/MDF  ISO,Windows,
-Alcohol 52% FE,,,,,,{{?}},ISO,,Windows,
-AnyDVD HD,,,,,,{{?}},,ISO,Windows,
-Archive Manager,,,,,,{{?}},ISO,,Unix-like,
-Ashampoo Burning Studio,,,,,,{{?}},ISO  BIN/CUE,ISO  BIN/CUE,Windows,
-BlindWrite,,,,,,{{?}},B5T  B6T  BWA  BWI  BWS  BWT  CUE/BIN  ISO  MDS/MDF,B5T  B6T  BWA  BWI  BWS  BWT  CUE/BIN  ISO  MDS/MDF,Windows,
-Brasero,,,,,,{{?}},ISO  CUE,CD  DVD,Linux,
-Burnatonce,,,,,,{{?}},ISO  CUE  TOC,,Windows,
-CDBurnerXP,,,,,,{{?}},ISO  MDS/MDF  NRG  BIN/CUE,ISO  MDS/MDF,Windows,
-CDemu,,,,,,{{?}},CSO  ECM  GBI  GZ  XZ  ISZ  DMG  ISO  UDF  NRG  CDI  CCD  SUB  IMG  CUE/BIN  TOC  B5T  B6T  MDS  MDX  CIF  C2D  DAA,,Linux,
-genisoimage,,,,,,{{?}},,,Linux <br />Unix,
-isoinfo,,,,,,{{?}},,,Unix <br /> Linux <br />Amiga<br />Windows <br /> Mac OS X,
-mkisofs,,,,,,{{?}},,,Unix <br /> Linux <br />Amiga<br />Windows <br /> Mac OS X,
-CDRoller,,,,,,{{?}},ISO,ISO,Windows,
-CDRWIN,,,,,,{{?}},CUE  BIN,CUE  BIN,Windows,
-CloneCD,,,,,,{{?}},,ISO  UFD  IMG (CloneCD),Windows,
-CloneDVD,,,,,,{{?}},ISO,ISO,Windows,
-CopyCatX,,,,,,{{?}},DMG,DMG,Mac OS X,
-Daemon Tools,,,,</ref>}},,{{?}},BIN+CUE  B5T  B6T  BWT  CCD  CDI  ISO  ISZ  MDF+MDS  MDX  NRG  VHD  VMDK and TrueCrypt,ISO  MDS+MDF  MDX – VHD and TrueCrypt in Ultra edition,Windows,
-DeepBurner,,,,,,{{?}},ISO,ISO,Windows,
-Disco,,,,,,{{?}},CDR  ISO  DMG,CDR  ISO  DMG,Mac OS X,
-DiscJuggler,,,,,,{{?}},CDI  ISO,CDI,Windows,
-Disk Utility,,,,,,{{?}},DMG  ISO,DMG  ISO,Mac OS X,
-DiskImageMounter,,,,,,{{?}},DMG  ISO,DMG  ISO,Mac OS X,
-DVD Shrink,,,,,,{{?}},ISO  NRG  IMG  MDS/Ixx,ISO,Windows,
-Exact Audio Copy,,,,,,{{?}},CUE,CUE/audio file types,Windows,
-Furius ISO Mount,,,,,,{{?}},ISO  IMG  BIN  MDF  NRG,,Linux,
-Image for Windows,,,,,,{{?}},TBI  VHD  VMDK,TBI  VHD  VMDK,Windows,
-ImgBurn,,,,,,{{?}},APE  BIN  CDI  CDR  CUE  DI (Atari Disk Image)  DVD  FLAC  GCM  GI  IBQ  IMG  ISO  LST  MDS  NRG  PDI  UDI  WV,ISO  IMG  BIN/CUE,Windows,
-InfraRecorder,,,,,,{{?}},ISO,ISO,Windows,
-ISO Master<ref name="ISO Master Homepage" /> <ref name="ISO Master Debian" />,,,,,,{{?}},ISO,ISO,Linux,
-ISO Recorder,,,,,,{{?}},ISO,ISO,Windows,
-IsoBuster,,,,,,{{?}},<ref name="IsoBuster-image-file-support" />DAO  TAO  ISO  BIN  IMG  CCD  CIF  FCD  NRG  GCD  P01  C2D  CUE  CDI  CD  GI  PXI  MDS/MDF  VC4/000  B5T/B5I  B6T/B6I  DMG  IBP/IBQ  NCD  FLP  E01/S01/Ex01  RMG  UDF  DSK  VMDK  IBADR/IBDAT  DD  XISO  XBX  IMAGE  VHD  VHDX  DC42<ref name="IsoBuster-dc42" />  WBFS  512E  1KN  2KN  4KN  8KN  16KN  32KN  64KN<ref name="IsoBuster-*Kn-Support" />,ISO  TAO  BIN  CUE  IBADR/IBDAT  DSK  1KN  2KN  4KN  8KN  16KN  32KN  64KN<ref name="IsoBuster-*Kn-Support" />  IBP and IBQ,Windows,
-IsoCreator,,,,,,{{?}},,ISO,Windows,
-K3b,,,,,,{{?}},ISO,,Unix-like,
-libguestfs,,,,,,{{?}},raw  qcow2  VMDK  VHD,raw  qcow2  VMDK  VHD,Linux,
-Loop device<ref></ref>,,,,,,{{?}},Raw image,,Linux  FreeBSD,
-MagicISO,,,,,,Supported by both MagicISO and MagicDisc: ISO  BIN/CUE  IMA/IMG  CIF  NRG  IMG/CCD  MDF/MDS  VCD  VaporCD  P01/MD1/XA  VC4/000  VDI  C2D  BWI/BWT  CDI  TAO/DAO  PDI.<ref name=magicisofeatures /><ref name="miso-magicdisc-overview" /> Supported by MagicISO only: DMG  FLP  DSK  BFI  BIF  WBT<ref name=magicisofeatures />,ISO  BIN/CUE  UIF  NRG  DMG<ref name="miso-convert" />,Windows,<ref></ref>
-mount,,,,,,{{?}},ISO,,Linux,
-Nero Multimedia Suite,,,,,,{{?}},ISO  NRG,ISO  NRG,Windows,
-Nero Burning ROM,,,,,,{{?}},ISO  NRG,ISO  NRG,Windows,
-Nero Linux,,,,,,{{?}},ISO  NRG,ISO  NRG,Linux,
-Norton Ghost,,,,,,{{?}},GHO  GHS  VMDK  V2I  IV2I  PQI,GHO  GHS  VMDK,Windows,
-OSFmount,,,,,,{{?}},IMG  DD  ISO  BIN/CUE  00n  NRG  SDI  AFF(v3)  AFM  AFD  VMDK  E01  S01  VHD,,Windows,
-Partimage,,,,,,{{?}},Compressed file system image: Ext2  Ext3  Reiserfs  FAT16  FAT32  HPFS  JFS  Xfs  UFS  HFS and NTFS,Ext2  Ext3  Reiserfs  FAT16  FAT32  HPFS  JFS  Xfs  UFS  HFS and NTFS,Linux,
-PeaZip,,,,,,{{?}},DMG  ISO  VHD  WIM<ref></ref>,,Windows  Linux,
-Roxio Creator<ref name="Roxio Creator" />,,,,,,{{?}},ISO  C2D  BIN/CUE  GI,ISO  GI,Windows,
-Roxio Toast<ref name="Roxio Toast" />,,,,,,{{?}},ISO  BIN/CUE  IMG  DMG  CDR  NRG,,Mac OS X,
-UltraISO,,,,,,{{?}},BIN/CUE  BWI/BWT/B5T/B5I/B6T/B6I  C2D  CDI  CIF  DAA  DMG  FCD  G2D  GCD/GI  IMA  IMG/CCD  IML  ISO/ISZ  LCD  MDF/MDS  NCD  NRG  P01/MD1/XA  PDI  PXI  TAO/DAO  UIF  VaporCD  VC4/000  VCD  VDI  XMD/XMF <ref>http://www.ezbsystems.com/ultraiso/history.htm</ref>,BIN/CUE  CCD/IMG/SUB  ISO/ISZ  MDF/MDS  NRG,Windows
-Virtual CloneDrive,,,,,,{{?}},ISO  BIN  IMG  UDF  DVD  CCD,,Windows,
-Virtual CD-ROM Control Panel,,,,,,{{?}},ISO,,Windows,
-VirtualDrive Pro,,,,,,{{?}},,,Windows,
-WADK,,,,,,{{?}},WIM  WSM,WIM  WSM,Windows NT,
-WinCDEmu,,,,,,{{?}},ISO  BIN  NRG  MDS/MDF  CCD  IMG,,Windows,
-Windows Explorer,,?,,,{?,{{?}},url = https://blogs.msdn.microsoft.com/b8/2011/08/30/accessing-data-in-iso-and-vhd-files/|website = blogs.msdn.microsoft.com|access-date = 2016-02-21}}</ref> VHD<ref></ref>,VHD,Windows NT,
-WinRAR,,,,,,{{?}},ISO,,Windows,
-WinZip,,,,,,{{?}},ISO,,Windows,
-Software,Creates?,Modifies?,Mounts?,Restores?,Extracts?,,Input?,Output?,OS,License,
+7-Zip,[empty],[empty],[empty],[empty],[empty],{{?}},CramFS  DMG  FAT  HFS  MBR  NTFS  ISO  SquashFS  UDF  VHD  WIM<ref>http://www.7-zip.org/</ref>,WIM,Windows  Linux  Mac OS,18.05 <abbr>01/05/2018</abbr>,[added]
+AcetoneISO,[empty],[empty],[empty],[empty],[empty],{{?}},CD  DVD  ISO  BIN  MDF  IMG  NRG  CUE  TOC  DMG,CD  DVD  ISO  BIN,Linux,[empty],[added]
+Acronis True Image,[empty],[empty],[empty],[empty],[empty],{{?}},TIB  VHD,TIB  VHD,Windows,[empty],[added]
+Alcohol 120%,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  B5T  B6T  BWT  CCD  CDI  CUE  MDS  NRG  ISZ,MDS/MDF  ISO,Windows,[empty],[added]
+Alcohol 52% FE,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,[empty],Windows,[empty],[added]
+AnyDVD HD,[empty],[empty],[empty],[empty],[empty],{{?}},[empty],ISO,Windows,[empty],[added]
+Archive Manager,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,[empty],Unix-like,[empty],[added]
+Ashampoo Burning Studio,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  BIN/CUE,ISO  BIN/CUE,Windows,[empty],[added]
+BlindWrite,[empty],[empty],[empty],[empty],[empty],{{?}},B5T  B6T  BWA  BWI  BWS  BWT  CUE/BIN  ISO  MDS/MDF,B5T  B6T  BWA  BWI  BWS  BWT  CUE/BIN  ISO  MDS/MDF,Windows,[empty],[added]
+Brasero,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  CUE,CD  DVD,Linux,[empty],[added]
+Burnatonce,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  CUE  TOC,[empty],Windows,[empty],[added]
+CDBurnerXP,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  MDS/MDF  NRG  BIN/CUE,ISO  MDS/MDF,Windows,[empty],[added]
+CDemu,[empty],[empty],[empty],[empty],[empty],{{?}},CSO  ECM  GBI  GZ  XZ  ISZ  DMG  ISO  UDF  NRG  CDI  CCD  SUB  IMG  CUE/BIN  TOC  B5T  B6T  MDS  MDX  CIF  C2D  DAA,[empty],Linux,[empty],[added]
+genisoimage,[empty],[empty],[empty],[empty],[empty],{{?}},[empty],[empty],Linux <br />Unix,[empty],[added]
+isoinfo,[empty],[empty],[empty],[empty],[empty],{{?}},[empty],[empty],Unix <br /> Linux <br />Amiga<br />Windows <br /> Mac OS X,[empty],[added]
+mkisofs,[empty],[empty],[empty],[empty],[empty],{{?}},[empty],[empty],Unix <br /> Linux <br />Amiga<br />Windows <br /> Mac OS X,[empty],[added]
+CDRoller,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,ISO,Windows,[empty],[added]
+CDRWIN,[empty],[empty],[empty],[empty],[empty],{{?}},CUE  BIN,CUE  BIN,Windows,[empty],[added]
+CloneCD,[empty],[empty],[empty],[empty],[empty],{{?}},[empty],ISO  UFD  IMG (CloneCD),Windows,[empty],[added]
+CloneDVD,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,ISO,Windows,[empty],[added]
+CopyCatX,[empty],[empty],[empty],[empty],[empty],{{?}},DMG,DMG,Mac OS X,[empty],[added]
+Daemon Tools,[empty],[empty],[empty],</ref>}},[empty],{{?}},BIN+CUE  B5T  B6T  BWT  CCD  CDI  ISO  ISZ  MDF+MDS  MDX  NRG  VHD  VMDK and TrueCrypt,ISO  MDS+MDF  MDX – VHD and TrueCrypt in Ultra edition,Windows,[empty],[added]
+DeepBurner,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,ISO,Windows,[empty],[added]
+Disco,[empty],[empty],[empty],[empty],[empty],{{?}},CDR  ISO  DMG,CDR  ISO  DMG,Mac OS X,[empty],[added]
+DiscJuggler,[empty],[empty],[empty],[empty],[empty],{{?}},CDI  ISO,CDI,Windows,[empty],[added]
+Disk Utility,[empty],[empty],[empty],[empty],[empty],{{?}},DMG  ISO,DMG  ISO,Mac OS X,[empty],[added]
+DiskImageMounter,[empty],[empty],[empty],[empty],[empty],{{?}},DMG  ISO,DMG  ISO,Mac OS X,[empty],[added]
+DVD Shrink,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  NRG  IMG  MDS/Ixx,ISO,Windows,[empty],[added]
+Exact Audio Copy,[empty],[empty],[empty],[empty],[empty],{{?}},CUE,CUE/audio file types,Windows,[empty],[added]
+Furius ISO Mount,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  IMG  BIN  MDF  NRG,[empty],Linux,[empty],[added]
+Image for Windows,[empty],[empty],[empty],[empty],[empty],{{?}},TBI  VHD  VMDK,TBI  VHD  VMDK,Windows,[empty],[added]
+ImgBurn,[empty],[empty],[empty],[empty],[empty],{{?}},APE  BIN  CDI  CDR  CUE  DI (Atari Disk Image)  DVD  FLAC  GCM  GI  IBQ  IMG  ISO  LST  MDS  NRG  PDI  UDI  WV,ISO  IMG  BIN/CUE,Windows,[empty],[added]
+ImgDrive,[empty],[empty],[empty],[empty],no,CCD  ISO  ISZ  NRG,ISO,Windows,1.7.2 12/08/2018,[added],[added]
+InfraRecorder,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,ISO,Windows,[empty],[added]
+ISO Master<ref name="ISO Master Homepage" /> <ref name="ISO Master Debian" />,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,ISO,Linux,[empty],[added]
+ISO Recorder,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,ISO,Windows,[empty],[added]
+IsoBuster,[empty],[empty],[empty],[empty],[empty],{{?}},<ref name="IsoBuster-image-file-support" />DAO  TAO  ISO  BIN  IMG  CCD  CIF  FCD  NRG  GCD  P01  C2D  CUE  CDI  CD  GI  PXI  MDS/MDF  VC4/000  B5T/B5I  B6T/B6I  DMG  IBP/IBQ  NCD  FLP  E01/S01/Ex01  RMG  UDF  DSK  VMDK  IBADR/IBDAT  DD  XISO  XBX  IMAGE  VHD  VHDX  DC42<ref name="IsoBuster-dc42" />  WBFS  512E  1KN  2KN  4KN  8KN  16KN  32KN  64KN<ref name="IsoBuster-*Kn-Support" />,ISO  TAO  BIN  CUE  IBADR/IBDAT  DSK  1KN  2KN  4KN  8KN  16KN  32KN  64KN<ref name="IsoBuster-*Kn-Support" />  IBP and IBQ,Windows,[empty],[added]
+IsoCreator,[empty],[empty],[empty],[empty],[empty],{{?}},[empty],ISO,Windows,[empty],[added]
+K3b,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,[empty],Unix-like,[empty],[added]
+libguestfs,[empty],[empty],[empty],[empty],[empty],{{?}},raw  qcow2  VMDK  VHD,raw  qcow2  VMDK  VHD,Linux,[empty],[added]
+Loop device<ref></ref>,[empty],[empty],[empty],[empty],[empty],{{?}},Raw image,[empty],Linux  FreeBSD,[empty],[added]
+MagicISO,[empty],[empty],[empty],[empty],[empty],Supported by both MagicISO and MagicDisc: ISO  BIN/CUE  IMA/IMG  CIF  NRG  IMG/CCD  MDF/MDS  VCD  VaporCD  P01/MD1/XA  VC4/000  VDI  C2D  BWI/BWT  CDI  TAO/DAO  PDI.<ref name=magicisofeatures /><ref name="miso-magicdisc-overview" /> Supported by MagicISO only: DMG  FLP  DSK  BFI  BIF  WBT<ref name=magicisofeatures />,ISO  BIN/CUE  UIF  NRG  DMG<ref name="miso-convert" />,Windows,<ref></ref>,5.5 (build 281) 2/21/2010,[added]
+mount,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,[empty],Linux,[empty],[added]
+Nero Multimedia Suite,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  NRG,ISO  NRG,Windows,[empty],[added]
+Nero Burning ROM,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  NRG,ISO  NRG,Windows,[empty],[added]
+Nero Linux,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  NRG,ISO  NRG,Linux,[empty],[added]
+Norton Ghost,[empty],[empty],[empty],[empty],[empty],{{?}},GHO  GHS  VMDK  V2I  IV2I  PQI,GHO  GHS  VMDK,Windows,[empty],[added]
+OSFmount,[empty],[empty],[empty],[empty],[empty],{{?}},IMG  DD  ISO  BIN/CUE  00n  NRG  SDI  AFF(v3)  AFM  AFD  VMDK  E01  S01  VHD,[empty],Windows,[empty],[added]
+Partimage,[empty],[empty],[empty],[empty],[empty],{{?}},Compressed file system image: Ext2  Ext3  Reiserfs  FAT16  FAT32  HPFS  JFS  Xfs  UFS  HFS and NTFS,Ext2  Ext3  Reiserfs  FAT16  FAT32  HPFS  JFS  Xfs  UFS  HFS and NTFS,Linux,[empty],[added]
+PeaZip,[empty],[empty],[empty],[empty],[empty],{{?}},DMG  ISO  VHD  WIM<ref></ref>,[empty],Windows  Linux,[empty],[added]
+Roxio Creator<ref name="Roxio Creator" />,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  C2D  BIN/CUE  GI,ISO  GI,Windows,[empty],[added]
+Roxio Toast<ref name="Roxio Toast" />,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  BIN/CUE  IMG  DMG  CDR  NRG,[empty],Mac OS X,[empty],[added]
+UltraISO,[empty],[empty],[empty],[empty],[empty],{{?}},BIN/CUE  BWI/BWT/B5T/B5I/B6T/B6I  C2D  CDI  CIF  DAA  DMG  FCD  G2D  GCD/GI  IMA  IMG/CCD  IML  ISO/ISZ  LCD  MDF/MDS  NCD  NRG  P01/MD1/XA  PDI  PXI  TAO/DAO  UIF  VaporCD  VC4/000  VCD  VDI  XMD/XMF <ref>http://www.ezbsystems.com/ultraiso/history.htm</ref>,BIN/CUE  CCD/IMG/SUB  ISO/ISZ  MDF/MDS  NRG,Windows,9.7.1.3519 24/01/2018,[added]
+Virtual CloneDrive,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  BIN  IMG  UDF  DVD  CCD,[empty],Windows,[empty],[added]
+Virtual CD-ROM Control Panel,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,[empty],Windows,[empty],[added]
+VirtualDrive Pro,[empty],[empty],[empty],[empty],[empty],{{?}},[empty],[empty],Windows,[empty],[added]
+WADK,[empty],[empty],[empty],[empty],[empty],{{?}},WIM  WSM,WIM  WSM,Windows NT,[empty],[added]
+WinCDEmu,[empty],[empty],[empty],[empty],[empty],{{?}},ISO  BIN  NRG  MDS/MDF  CCD  IMG,[empty],Windows,[empty],[added]
+Windows Explorer,[empty],?,[empty],[empty],{?,{{?}},url = https://blogs.msdn.microsoft.com/b8/2011/08/30/accessing-data-in-iso-and-vhd-files/|website = blogs.msdn.microsoft.com|access-date = 2016-02-21}}</ref> VHD<ref></ref>,VHD,Windows NT,[empty],[added]
+WinRAR,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,[empty],Windows,[empty],[added]
+WinZip,[empty],[empty],[empty],[empty],[empty],{{?}},ISO,[empty],Windows,[empty],[added]
+Software,Creates?,Modifies?,Mounts?,Restores?,Extracts?,[empty],Input?,Output?,OS,License,[empty]

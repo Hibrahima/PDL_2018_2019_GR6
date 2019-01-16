@@ -1,60 +1,60 @@
 Name,Creator,Initial public release,Predecessor,Current stable version,Release date,Cost  availability,Preferred license<ref name="license" group="g"/>,Target system type
-AIX,IBM,1986,UNIX System V Release 3,7.2,2015  October 5,,,Server  NAS  workstation
-Android,Android  Inc.  Google,2008,Linux,9.0 Pie,2018  August 6,,,Smartphone  tablet computer  education
-AmigaOS classic,Commodore International  Haage & Partner  Hyperion Entertainment,1985,TRIPOS (as the disk operating component of AmigaOS),3.9 BB2,2002  March 20,,, open source clone available under AROS Public License,Workstation  personal computer
-AmigaOS 4,Hyperion Entertainment,2004,AmigaOS classic,4.1 Final Edition,2014,,,Workstation  personal computer
-Chrome OS,Google,2009,Gentoo<ref></ref>,70.0.3538.76,2018  October 26,,: Google OS Terms of Service,Chromebook
-DragonFly BSD,Matthew Dillon,2003,FreeBSD,5.2.2,2018  June 18,,,Server  workstation  NAS  embedded
-FreeBSD,The FreeBSD Project,1993,386BSD,12.0,2018  December 11,,,Server  workstation  NAS  embedded
-Genode,Genode Labs,2008,None,18.05<ref></ref>,2018  May,,,Desktop  Embedded  Server
-GhostBSD,Eric Turgeon,2009,FreeBSD,10.1,2015  September 13,,,Desktop  workstation
-eComStation,Serenity Systems  Mensys BV,2001,OS/2,2.1,2011,business edition $290.00}},,Server  workstation  personal computer
-EPOC32,Psion PLC,1996,,ER5,1999,,,PDA
-GNU/Linux,Notable contributors include: Richard Stallman for GNU Project and Linus Torvalds for Linux and the Unixes they emulated; Red Hat  Debian Project See: Comparison of Linux distributions and Linux Kernel#Development,1991 (kernel)  See: Comparison of Linux distributions and History of Linux,None,4.19 (kernel),2018  October 22 (kernel),,(kernel),See: Comparison of Linux distributions
-Haiku,Haiku Inc.,2009,BeOS R5,R1/Beta,2018  September 29,,,Personal computer
-HP-UX,Hewlett-Packard,1983,UNIX System V,11i v3 Update 16,2017  May,,,Server
-IBM i,IBM,1988,OS/400,7.3,2016  April 15,,,Server
-Inferno,Bell Labs,1997,Plan 9,Fourth Edition,2009  June 30,,,NAS  server  embedded
-iOS,Apple Inc.,2007,macOS,12.1,2018  October 30,,higher level API layers; open source core system (ARM versions): APSL  GNU GPL  others,Smartphone  music player  tablet computer
-IRIX,SGI,1988,UNIX System V,6.5.30,2006,,,Server  workstation
-Classic Mac OS,Apple Inc.,1984,None<ref name="Lisa" group="g"/><ref name="Mac" group="g"/>,9.2.2,2000,,,Workstation  personal computer
-MVS,IBM,1972,OS/360,MVS/ESA SP - JES3 Version 5 R2.2,1995  September 29,,,IBM mainframe
-macOS,Apple Inc.,2001,NeXTSTEP  BSD,10.14.1 Mojave,2018  October 30,,higher level API layers; open source core system (Intel-PowerPC versions): APSL  GNU GPL  others,Workstation  personal computer  embedded
-macOS Server,Apple Inc.,2001,NeXTSTEP  BSD,10.12 / September 20  2016,2016  September 20,,higher level API layers; open source core system (Intel-PowerPC versions): APSL  GNU GPL  others,Server
-MPE,HP,1974,None,MPE-V,1988,,,Server
-MCP,Unisys,1961,None,CP OS 17.0,2015  April,,,Server
-MPE/XL,HP,1987,MPE,7.5,2002,,,Server
-MINIX 3,Andrew S. Tanenbaum,2005,Minix2,3.3.0,2014,,,Workstation
-NetBSD,The NetBSD Project,1993,386BSD,8.0,2018  July 17,,,NAS  server  workstation  embedded
-NetWare,Novell,1985,S-Net,6.5 SP8,2009  May 6,(one-user)}},,Server
-NeXTSTEP,NeXT,1989,Unix,3.3,1995,,,Workstation
-OpenBSD,The OpenBSD Project,1995,NetBSD 1.0,6.4,2018  October 18,,,Server  NAS  workstation  embedded
-OpenIndiana,Many  based on software developed by Sun Microsystems and many others,2010,OpenSolaris,,2017  May 3<ref></ref>,,,Server  workstation
-OpenVMS,DEC (now VSI),1977,RSX-11M,8.4-2L2,2017  July 10,,,Server  workstation
-OS/360,IBM,1966,None,Operating System/360 R21.8,1972  August,,,IBM mainframe
-OS/390,IBM,1995,MVS,OS/390 Version 2 R10,2000  September 29,,,IBM mainframe
-OS 2200,Unisys,1967 as Exec 8e,Exec 8  OS 1100,CP OS 16 (Exec 49.2),2015  February 27,,,Server
-OS/2,IBM and Microsoft,1987,Windows 3.x,4.52,2001,}},,Personal computer  server
-Plan 9,Bell Labs,1993,Unix,Fourth Edition,2003 (except for minor later updates),,,Workstation  server  embedded  HPC
-QNX,QNX Software Systems,1982,Unix  POSIX,7.0.0,2017  March,,,Automotive  medical  smartphones  consumer  industrial  embedded  safety
-Solaris,Sun  Oracle Corporation,1992,SunOS,11.4,2018  August 28,</ref>)}},,Server  workstation
-Symbian,Symbian Ltd.,1998,EPOC32,9.5,2009,,,Phones
-Symbian platform,Symbian Foundation,2010 (initially 1998 as Symbian),Symbian,3.0.4,2010,,,embedded
-Windows Server (NT family),Microsoft,1993,OS/2  Windows 3.x and MS-DOS,Windows Server 2019 (Version 10.0.17763),2018  October 2,,; Source-available,Server  NAS  embedded
+AIX,IBM,1986,UNIX System V Release 3,7.2,2015  October 5,[empty],[empty],Server  NAS  workstation
+Android,Android  Inc.  Google,2008,Linux,9.0 Pie,2018  August 6,[empty],[empty],Smartphone  tablet computer  education
+AmigaOS classic,Commodore International  Haage & Partner  Hyperion Entertainment,1985,TRIPOS (as the disk operating component of AmigaOS),3.9 BB2,2002  March 20,[empty],, open source clone available under AROS Public License,Workstation  personal computer
+AmigaOS 4,Hyperion Entertainment,2004,AmigaOS classic,4.1 Final Edition,2014,[empty],[empty],Workstation  personal computer
+Chrome OS,Google,2009,Gentoo<ref></ref>,70.0.3538.76,2018  October 26,[empty],: Google OS Terms of Service,Chromebook
+DragonFly BSD,Matthew Dillon,2003,FreeBSD,5.2.2,2018  June 18,[empty],[empty],Server  workstation  NAS  embedded
+FreeBSD,The FreeBSD Project,1993,386BSD,12.0,2018  December 11,[empty],[empty],Server  workstation  NAS  embedded
+Genode,Genode Labs,2008,None,18.05<ref></ref>,2018  May,[empty],[empty],Desktop  Embedded  Server
+GhostBSD,Eric Turgeon,2009,FreeBSD,10.1,2015  September 13,[empty],[empty],Desktop  workstation
+eComStation,Serenity Systems  Mensys BV,2001,OS/2,2.1,2011,business edition $290.00}},[empty],Server  workstation  personal computer
+EPOC32,Psion PLC,1996,[empty],ER5,1999,[empty],[empty],PDA
+GNU/Linux,Notable contributors include: Richard Stallman for GNU Project and Linus Torvalds for Linux and the Unixes they emulated; Red Hat  Debian Project See: Comparison of Linux distributions and Linux Kernel#Development,1991 (kernel)  See: Comparison of Linux distributions and History of Linux,None,4.19 (kernel),2018  October 22 (kernel),[empty],(kernel),See: Comparison of Linux distributions
+Haiku,Haiku Inc.,2009,BeOS R5,R1/Beta,2018  September 29,[empty],[empty],Personal computer
+HP-UX,Hewlett-Packard,1983,UNIX System V,11i v3 Update 16,2017  May,[empty],[empty],Server
+IBM i,IBM,1988,OS/400,7.3,2016  April 15,[empty],[empty],Server
+Inferno,Bell Labs,1997,Plan 9,Fourth Edition,2009  June 30,[empty],[empty],NAS  server  embedded
+iOS,Apple Inc.,2007,macOS,12.1,2018  October 30,[empty],higher level API layers; open source core system (ARM versions): APSL  GNU GPL  others,Smartphone  music player  tablet computer
+IRIX,SGI,1988,UNIX System V,6.5.30,2006,[empty],[empty],Server  workstation
+Classic Mac OS,Apple Inc.,1984,None<ref name="Lisa" group="g"/><ref name="Mac" group="g"/>,9.2.2,2000,[empty],[empty],Workstation  personal computer
+MVS,IBM,1972,OS/360,MVS/ESA SP - JES3 Version 5 R2.2,1995  September 29,[empty],[empty],IBM mainframe
+macOS,Apple Inc.,2001,NeXTSTEP  BSD,10.14.1 Mojave,2018  October 30,[empty],higher level API layers; open source core system (Intel-PowerPC versions): APSL  GNU GPL  others,Workstation  personal computer  embedded
+macOS Server,Apple Inc.,2001,NeXTSTEP  BSD,10.12 / September 20  2016,2016  September 20,[empty],higher level API layers; open source core system (Intel-PowerPC versions): APSL  GNU GPL  others,Server
+MPE,HP,1974,None,MPE-V,1988,[empty],[empty],Server
+MCP,Unisys,1961,None,CP OS 17.0,2015  April,[empty],[empty],Server
+MPE/XL,HP,1987,MPE,7.5,2002,[empty],[empty],Server
+MINIX 3,Andrew S. Tanenbaum,2005,Minix2,3.3.0,2014,[empty],[empty],Workstation
+NetBSD,The NetBSD Project,1993,386BSD,8.0,2018  July 17,[empty],[empty],NAS  server  workstation  embedded
+NetWare,Novell,1985,S-Net,6.5 SP8,2009  May 6,(one-user)}},[empty],Server
+NeXTSTEP,NeXT,1989,Unix,3.3,1995,[empty],[empty],Workstation
+OpenBSD,The OpenBSD Project,1995,NetBSD 1.0,6.4,2018  October 18,[empty],[empty],Server  NAS  workstation  embedded
+OpenIndiana,Many  based on software developed by Sun Microsystems and many others,2010,OpenSolaris,[empty],2017  May 3<ref></ref>,[empty],[empty],Server  workstation
+OpenVMS,DEC (now VSI),1977,RSX-11M,8.4-2L2,2017  July 10,[empty],[empty],Server  workstation
+OS/360,IBM,1966,None,Operating System/360 R21.8,1972  August,[empty],[empty],IBM mainframe
+OS/390,IBM,1995,MVS,OS/390 Version 2 R10,2000  September 29,[empty],[empty],IBM mainframe
+OS 2200,Unisys,1967 as Exec 8e,Exec 8  OS 1100,CP OS 16 (Exec 49.2),2015  February 27,[empty],[empty],Server
+OS/2,IBM and Microsoft,1987,Windows 3.x,4.52,2001,}},[empty],Personal computer  server
+Plan 9,Bell Labs,1993,Unix,Fourth Edition,2003 (except for minor later updates),[empty],[empty],Workstation  server  embedded  HPC
+QNX,QNX Software Systems,1982,Unix  POSIX,7.0.0,2017  March,[empty],[empty],Automotive  medical  smartphones  consumer  industrial  embedded  safety
+Solaris,Sun  Oracle Corporation,1992,SunOS,11.4,2018  August 28,</ref>)}},[empty],Server  workstation
+Symbian,Symbian Ltd.,1998,EPOC32,9.5,2009,[empty],[empty],Phones
+Symbian platform,Symbian Foundation,2010 (initially 1998 as Symbian),Symbian,3.0.4,2010,[empty],[empty],embedded
+Windows Server (NT family),Microsoft,1993,OS/2  Windows 3.x and MS-DOS,Windows Server 2019 (Version 10.0.17763),2018  October 2,[empty],; Source-available,Server  NAS  embedded
 Windows (NT family),Microsoft,1993,OS/2  Windows 9x and MS-DOS,Windows 10 (Version 1809),2018  October 9,</ref>}},; Source-available,Workstation  personal computer  media center  Tablet PC  embedded
-Windows (classic 9x family),Microsoft,1995,MS-DOS  Windows NT 3.5,Windows Me (Win 4.90.3000),2000,,,Personal computer  media center
-RISC iX,Acorn Computers,1988,BSD 4.3,1.21c,1993,,,Workstation
-RISC OS,Acorn Computers,1987,Arthur  also the BBC Master OS,3.71,1997,,,Education  personal computer
-RISC OS 4,RISCOS Ltd  Pace plc,1999,RISC OS,4.39,2004,,,Education  personal computer
-RISC OS 5,Castle Technology  RISC OS Open,2002,RISC OS 4,5.24<ref></ref>,2015,,,Education  personal computer
-RISC OS 6,RISCOS Ltd,2006,RISC OS 4,6.20,2009,,,Education  personal computer
-ZETA,yellowTAB,2005,BeOS R5,1.5,2007,,,Personal computer  media center  workstation
-STOP 6  XTS-400,BAE Systems,2003,STOP 5  XTS-300,6.5,2008  August,60.000|2008}}+; bundled with XTS hardware and OEM licensed,,Server  workstation
-ReactOS,ReactOS development team,1996,Windows NT,0.4.8,2018  April 14,,,Workstation  personal computer
-TrueOS,PC-BSD Software,2006,FreeBSD<ref name="PC-BSD" group="g"/>,10.1<ref></ref>,2014  November 16,,,Personal computer  workstation  server
-VxWorks,Wind River Systems,1987,VRTX,7,2014 March,,,Embedded Real-time systems
-z/OS,IBM,2000,OS/390,Version 2.3 (V2R3),2017  September 29,,,IBM mainframe
-z/VSE,IBM,2007,VSE/ESA,6.2,2017  December 1,,,IBM mainframe
-z/VM,IBM,2000,VM,6.4,2016  November 11,,,IBM mainframe
-HP NonStop,HP,1974,Guardian,H06.24/J06.13,2012,,,HP Nonstop Servers
+Windows (classic 9x family),Microsoft,1995,MS-DOS  Windows NT 3.5,Windows Me (Win 4.90.3000),2000,[empty],[empty],Personal computer  media center
+RISC iX,Acorn Computers,1988,BSD 4.3,1.21c,1993,[empty],[empty],Workstation
+RISC OS,Acorn Computers,1987,Arthur  also the BBC Master OS,3.71,1997,[empty],[empty],Education  personal computer
+RISC OS 4,RISCOS Ltd  Pace plc,1999,RISC OS,4.39,2004,[empty],[empty],Education  personal computer
+RISC OS 5,Castle Technology  RISC OS Open,2002,RISC OS 4,5.24<ref></ref>,2015,[empty],[empty],Education  personal computer
+RISC OS 6,RISCOS Ltd,2006,RISC OS 4,6.20,2009,[empty],[empty],Education  personal computer
+ZETA,yellowTAB,2005,BeOS R5,1.5,2007,[empty],[empty],Personal computer  media center  workstation
+STOP 6  XTS-400,BAE Systems,2003,STOP 5  XTS-300,6.5,2008  August,60.000|2008}}+; bundled with XTS hardware and OEM licensed,[empty],Server  workstation
+ReactOS,ReactOS development team,1996,Windows NT,0.4.8,2018  April 14,[empty],[empty],Workstation  personal computer
+TrueOS,PC-BSD Software,2006,FreeBSD<ref name="PC-BSD" group="g"/>,10.1<ref></ref>,2014  November 16,[empty],[empty],Personal computer  workstation  server
+VxWorks,Wind River Systems,1987,VRTX,7,2014 March,[empty],[empty],Embedded Real-time systems
+z/OS,IBM,2000,OS/390,Version 2.3 (V2R3),2017  September 29,[empty],[empty],IBM mainframe
+z/VSE,IBM,2007,VSE/ESA,6.2,2017  December 1,[empty],[empty],IBM mainframe
+z/VM,IBM,2000,VM,6.4,2016  November 11,[empty],[empty],IBM mainframe
+HP NonStop,HP,1974,Guardian,H06.24/J06.13,2012,[empty],[empty],HP Nonstop Servers
 Name,Creator,Initial public release,Predecessor,Current stable version,Release date,Cost  availability,Preferred license<ref name="license" group="g"/>,Target system type

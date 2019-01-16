@@ -1,9 +1,10 @@
 +Other features
-Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
-Non-intrusive incoming calls,<ref>Android 5.0 Lollipop: More Than Just Material Design </ref> or 3rd party software<ref>OmniROM | New Features for OmniROM - OmniROM </ref>,<ref>CallBar updated for jailbroken devices running iOS 8 </ref>,,,,<ref>Non-intrusive call feature </ref>,?
-Non-intrusive notifications,<ref></ref>,<ref name=Notification_Center></ref>,,<ref></ref> except Calendar Reminders<ref>Create  edit  or delete an appointment | Windows Phone 7 . microsoft.com</ref>,<ref></ref>,?,?,?
-Move apps to external storage,<ref></ref>,,<ref name="blogs.windows.com"/>,,,
-Remote Frame Buffer (RFB) protocol,<ref></ref>,<ref>Screens VNC - Access Your Computer From Anywhere </ref>,?,?,?,?,?
-Screencast on device,No <ref>Android Issue 19374: recording of screen for screencast software options </ref> 3rd party software like LineageOS ScreenCast <ref>CyanogenMod ScreenCast Screen Recorder Review & How to Install! ~ AndroidRootz.com | Source for Android Rooting  ROMS  Tricks and More! </ref> AOKP or OmniROM<ref>Screen Recording Can Now Be Baked Into Custom Android ROMS (KitKat Only) </ref>,<ref>New iOS 9 ReplayKit will screen record gameplay & app videos without need for Mac or third-party SDK &#124; 9to5Mac </ref>,,,,
-Screencast over USB,over USB <ref name="http://developer.android.com/about/versions/kitkat.html"/> for prior versions root required for 3rd party app<ref>androidscreencast – Desktop app to control an android device remotely – Google Project Hosting . Code.google.com. Retrieved on 2012-07-03.</ref>,on OS X<ref>Apple makes it easy for devs (and others) to screencast iOS apps with OS X Yosemite | 9to5Mac </ref>,<ref></ref>,,,?
-Screen share,<ref></ref><ref></ref><ref>Android Issue 78993: Screen Share </ref>,,,<ref>BlackBerry™ Q10 Video Screen Share - Verizon Wireless </ref>,,
+Feature
+Non-intrusive incoming calls
+Non-intrusive notifications
+Move apps to external storage
+Remote Frame Buffer (RFB) protocol
+Screencast on device
+Screencast over USB
+Screen share
+[added]

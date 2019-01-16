@@ -1,55 +1,56 @@
-,OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
-Acoustica,,,,,,,,,,,W64
-Ardour,<ref></ref>,<ref>In development</ref>,,,,,,,,,W64
-Audacity,,,,,,,,,,,AMR
-AudioDesk,,,,,,,,,,,SDII (native)
-Audiotool,,,,,,,,,,,
-Audition,,,(unsupported since CS5),,,,,,,,AU  IFF  RAW/PCM  SMP  VOC  VOX  WMA
-BIAS Peak,,,,,,,,,,,
-Cubase,,,,,,,,,,,WMA  W64
-Diamond Cut ART,,,,,,,,,,,
-Digital Performer,,,,,,,,,,,SDII (native)
-Ecasound,,,,,,,,,,,
-FL Studio,,,,,,,,,,,XI  REX  REX2
-GarageBand,,,<ref name="GarageBand MIDI">Import only  Version 2 or higher.</ref>,,,,,,,,
-Goldwave,,,,,,,,,,,Windows Media Audio  AU  Monkey's Audio  VOX  mat  snd  voc
-Harrison Mixbus,,,,,,,,,,,AIFC  NeXT AU/SND  Headerless RAW  PAF  IFF/SVX  Sphere Nist WAV  IRCAM SF  VOC  W64  MAT4  MAT5  PVF  Fasttracker 2 XI  HMM Tool Kit HTK  CAF  SD2
-,OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
-Jokosher,,,,,,,,,,,
-Kristal,,,,,,,,,,,
-Live,,,,,,,,,,,SDII (Mac OS X Only)
-LMMS,,,,,,,,,,,AU  DS  RAW  SPX  VOC. Can also open .flp files
-Logic Express/Studio,,,,,,,,,,,
-Mixcraft,,,,,,,,,,,
-mp3DirectCut,,,,,,,,,,,
-MuLab,,,,,,,,,,,
-MusE,,,,,,,,,,,
-N-Track,,,,,,,,,,,WMA  EDL  WAV64
-Nuendo,,,,,,,,,,,
-NU-Tech,,,,,,,,,,,
-Podium,,,,,,,,,,,
-Pro Tools,<ref name="Protools_Support">with DV Toolkit or DigiTranslator addons</ref>,<ref name="Protools_Support"/>,,,,,,(7.4),,,SDII (Mac OS X Only)
-Qtractor,,,,,,,,,,,CAF  HTK  IFF/8SVX  MAT4/5  PAF  PVF  RAW  SDII  SDS  SF  VOC  W64  XI
-REAPER,,,,,,,,,,,APE  BWF  MOOG  W64  WavPack
-Reason,,,,,,,,,,,SF2  ReFill
-Record,,,,,,,,,,,SF2  ReFill
-,OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
-Renoise,,,,,,,,,,,MP4  MP4A  CAF  SFZ
-RiffWorks,,,,,,,,,,,
-Rosegarden,,,<ref></ref>,,,,,,,,Csound  Mup  MuxicXML  h2song<ref></ref>
-Samplitude,,,,,,,,,,,WMA  RealAudio
-SONAR,,,,,,,,,,,W64  CAF  SDII  AU
-Sound Forge,,,,,,,,,,,SWF (open only)  RealAudio & RealVideo (export only)  WMA and WMV  AVI  AIF  SND  MPEG-1 and MPEG-2  AU  DIG  IVC  PCA  W64  FRG  VOX  AA3  OMA  CDA  AC-3 studio (save only)  RAW
-Soundbooth,,,,,,,,,,,
-Soundscape 32,,,,,,,,,,,
-SoX,,,,,External LAME,,,,,,AU and other audio file formats
-SpectraLayers,,,,,,,,,,,.caf  .alac  RAW/PCM  .rm  .au  .snd  AVI  MXF  MP1  MP2  MP4  MKV  Quicktime  .vob  .wmv  WMA
-Studio One,,,,,,,,,,,OpenTL  BWF  RF64  PreSonus Capture Session  Steinberg Cubase Track Archive  Steinberg Sequel Project  Kristal Audio Engine Project<ref></ref>
-Sweep,,,,,,,,,,,Various versions of WAV (integer  floating point  GSM  and compressed formats); Microsoft PCM  A-law and u-law formats; AIFC and RIFX; various AU/SND formats (Sun/NeXT  Dec AU  G721 and G723 ADPCM); RAW header-less PCM files; Amiga IFF/8SVX/16SV PCM files; Ensoniq PARIS (.PAF); Apple's Core Audio Format (CAF) and others.
-Total Recorder,,,,,,,,,,,PCM (uncompressed)  WMA  Monkey's Audio (APE).
-Tracktion,,,,,,,,,,,
-Traverso,,,,,,,,,,,WavPack
-WaveLab,,,,,,,,,,,AU  MP2  RAW
-WavePad,,,,,,,,,,,import midi  Sun AU  MPEG4 audio  GSM  RAW  Dialogic VOX  AMR Narrowband  Musepack  Monkey's Audio Codec  others
-WaveSurfer,,,,,,,,,,,Import: AU  CSL  SD Export: AU
-,OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
+[empty],OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
+Acoustica,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],W64
+Ardour,<ref></ref>,<ref>In development</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],W64
+Audacity,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],AMR
+AudioDesk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SDII (native)
+Audiotool,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Audition,[empty],[empty],(unsupported since CS5),[empty],[empty],[empty],[empty],[empty],[empty],[empty],AU  IFF  RAW/PCM  SMP  VOC  VOX  WMA
+BIAS Peak,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cubase,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],WMA  W64
+Diamond Cut ART,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Digital Performer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SDII (native)
+Ecasound,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FL Studio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],XI  REX  REX2
+GarageBand,[empty],[empty],<ref name="GarageBand MIDI">Import only  Version 2 or higher.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Goldwave,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Windows Media Audio  AU  Monkey's Audio  VOX  mat  snd  voc
+Harrison Mixbus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],AIFC  NeXT AU/SND  Headerless RAW  PAF  IFF/SVX  Sphere Nist WAV  IRCAM SF  VOC  W64  MAT4  MAT5  PVF  Fasttracker 2 XI  HMM Tool Kit HTK  CAF  SD2
+[empty],OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
+Jokosher,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Kristal,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Live,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SDII (Mac OS X Only)
+LMMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],AU  DS  RAW  SPX  VOC. Can also open .flp files
+Logic Express/Studio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mixcraft,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mp3DirectCut,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MuLab,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MusE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+N-Track,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],WMA  EDL  WAV64
+Nuendo,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NU-Tech,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Podium,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pro Tools,<ref name="Protools_Support">with DV Toolkit or DigiTranslator addons</ref>,<ref name="Protools_Support"/>,[empty],[empty],[empty],[empty],[empty],(7.4),[empty],[empty],SDII (Mac OS X Only)
+Qtractor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],CAF  HTK  IFF/8SVX  MAT4/5  PAF  PVF  RAW  SDII  SDS  SF  VOC  W64  XI
+REAPER,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],APE  BWF  MOOG  W64  WavPack
+Reason,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SF2  ReFill
+Record,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SF2  ReFill
+[empty],OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others
+Renoise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MP4  MP4A  CAF  SFZ
+RiffWorks,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rosegarden,[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],Csound  Mup  MuxicXML  h2song<ref></ref>
+Samplitude,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],WMA  RealAudio
+SONAR,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],W64  CAF  SDII  AU
+Sound Forge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SWF (open only)  RealAudio & RealVideo (export only)  WMA and WMV  AVI  AIF  SND  MPEG-1 and MPEG-2  AU  DIG  IVC  PCA  W64  FRG  VOX  AA3  OMA  CDA  AC-3 studio (save only)  RAW
+Soundbooth,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Soundscape 32,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SoX,[empty],[empty],[empty],[empty],External LAME,[empty],[empty],[empty],[empty],[empty],AU and other audio file formats
+SpectraLayers,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],.caf  .alac  RAW/PCM  .rm  .au  .snd  AVI  MXF  MP1  MP2  MP4  MKV  Quicktime  .vob  .wmv  WMA
+Studio One,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],OpenTL  BWF  RF64  PreSonus Capture Session  Steinberg Cubase Track Archive  Steinberg Sequel Project  Kristal Audio Engine Project<ref></ref>
+Sweep,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Various versions of WAV (integer  floating point  GSM  and compressed formats); Microsoft PCM  A-law and u-law formats; AIFC and RIFX; various AU/SND formats (Sun/NeXT  Dec AU  G721 and G723 ADPCM); RAW header-less PCM files; Amiga IFF/8SVX/16SV PCM files; Ensoniq PARIS (.PAF); Apple's Core Audio Format (CAF) and others.
+Total Recorder,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],PCM (uncompressed)  WMA  Monkey's Audio (APE).
+Tracktion,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Traverso,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],WavPack
+WaveLab,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],AU  MP2  RAW
+WavePad,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],import midi  Sun AU  MPEG4 audio  GSM  RAW  Dialogic VOX  AMR Narrowband  Musepack  Monkey's Audio Codec  others
+WaveSurfer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Import: AU  CSL  SD Export: AU
+[empty],OMF,AAF,MIDI,WAV,MP3,AAC,Ogg,REX2,AIFF,FLAC,Others

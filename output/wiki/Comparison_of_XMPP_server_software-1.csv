@@ -1,13 +1,13 @@
 RFC,Description,Status,ejabberd,iChat Server,jabberd14,jabberd2,Metronome,Openfire,Prosody,Sun Java System Instant Messaging Server,Tigase
-RFC 3920,XMPP Core,,<ref name="ejabberd-features"></ref>,,<ref name="jabberd14-features"></ref>,<ref name="jabberd2-featers"></ref>,,<ref name="openfire-features"></ref>,,,<ref name="tigase-features"></ref>
-RFC 3921,XMPP IM,,<ref name="ejabberd-features" />,,<ref name="jabberd14-features" />,<ref name="jabberd2-featers" />,,<ref name="openfire-features" />,,,<ref name="tigase-features" />
-RFC 3922,XMPP CPIM,<ref name="xsf-rfc"></ref>,,,,,,,,,
-RFC 3923,XMPP E2E,<ref name="xsf-rfc"/>,,,,,,,,,
-RFC 4854,XMPP URN,<ref name="xsf-rfc"/>,,,,,,,,,
-RFC 4979,XMPP ENUM,<ref name="xsf-rfc"/>,,,,,,,,,
-RFC 5122,XMPP URI,<ref name="xsf-rfc"/>,,,,,,,,,
-RFC 6120,XMPP Core,<ref name="xsf-rfc"/>,<ref name="ejabberd-protocols"/>,,,,,/Partial <ref name="OF-630"></ref>,,,<ref name="tigase-features" />
-RFC 6121,XMPP IM,<ref name="xsf-rfc"/>,<ref name="ejabberd-protocols"/>,,,,,/Partial <ref name="OF-628"></ref>,,,<ref name="tigase-features"/>
-RFC 6122,XMPP AF,,<ref name="ejabberd-protocols"/>,,,,,<ref name="Openfire-Protocol-Support"></ref>,,,
-RFC 7395,XMPP WebSockets,Proposed,<ref name="docs-ejabberd-xmpp"></ref>,<ref name="apple-developers-help-messaging"></ref>,,,<ref name="redacted  github-repository"></ref>,/Plugin<ref name="openfire-blog-websockets"></ref>,<ref name="Prosody-modules"></ref>,,<ref name="Tigase-server-features"></ref><ref name="tigase-docs-websockets"></ref>
-RFC 7622,XMPP AF,<ref name="xsf-rfc"/>,,,,,,,,,
+RFC 3920,XMPP Core,[empty],<ref name="ejabberd-features"></ref>,[empty],<ref name="jabberd14-features"></ref>,<ref name="jabberd2-featers"></ref>,[empty],<ref name="openfire-features"></ref>,[empty],[empty],<ref name="tigase-features"></ref>
+RFC 3921,XMPP IM,[empty],<ref name="ejabberd-features" />,[empty],<ref name="jabberd14-features" />,<ref name="jabberd2-featers" />,[empty],<ref name="openfire-features" />,[empty],[empty],<ref name="tigase-features" />
+RFC 3922,XMPP CPIM,<ref name="xsf-rfc"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RFC 3923,XMPP E2E,<ref name="xsf-rfc"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RFC 4854,XMPP URN,<ref name="xsf-rfc"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RFC 4979,XMPP ENUM,<ref name="xsf-rfc"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RFC 5122,XMPP URI,<ref name="xsf-rfc"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RFC 6120,XMPP Core,<ref name="xsf-rfc"/>,<ref name="ejabberd-protocols"/>,[empty],[empty],[empty],[empty],/Partial <ref name="OF-630"></ref>,[empty],[empty],<ref name="tigase-features" />
+RFC 6121,XMPP IM,<ref name="xsf-rfc"/>,<ref name="ejabberd-protocols"/>,[empty],[empty],[empty],[empty],/Partial <ref name="OF-628"></ref>,[empty],[empty],<ref name="tigase-features"/>
+RFC 6122,XMPP AF,[empty],<ref name="ejabberd-protocols"/>,[empty],[empty],[empty],[empty],<ref name="Openfire-Protocol-Support"></ref>,[empty],[empty],[empty]
+RFC 7395,XMPP WebSockets,Proposed,<ref name="docs-ejabberd-xmpp"></ref>,<ref name="apple-developers-help-messaging"></ref>,[empty],[empty],<ref name="redacted  github-repository"></ref>,/Plugin<ref name="openfire-blog-websockets"></ref>,<ref name="Prosody-modules"></ref>,[empty],<ref name="Tigase-server-features"></ref><ref name="tigase-docs-websockets"></ref>
+RFC 7622,XMPP AF,<ref name="xsf-rfc"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

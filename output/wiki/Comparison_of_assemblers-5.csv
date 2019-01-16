@@ -1,3 +1,3 @@
 Assembler,License,Instruction set,Host platform
-IBM AIX assembler,,POWER,IBM AIX
-vasm,,PowerPC,various
+IBM AIX assembler,[empty],POWER,IBM AIX
+vasm,[empty],PowerPC,various

@@ -1,24 +1,24 @@
-Shell,Pipes,Command substitution,Process substitution,Subshells,TCP/UDP connections as streams,Keystroke stacking
-Bourne shell,,,,,,<ref name="xautomation">xautomation and xdotool can be used to generate keystrokes under X Window System; or a program can be run in a pseudoterminal to be able to control it (as with the expect tool).</ref>
-POSIX shell,,,,,,<ref name="xautomation"/>
-bash (v4.0),,,,,,<ref name="xautomation"/>
-csh,,,,,,<ref name="xautomation"/>
-tcsh,,,,,,<ref name="xautomation"/>
-Hamilton C shell,,,,,,?
-Scsh,,?,?,?,,<ref name="xautomation"/>
-ksh (ksh93t+),,Yes ($(…) and ${<space>…;})}},,,,<ref name="xautomation"/>
-pdksh,,,,,,<ref name="xautomation"/>
-zsh,,,,,,<ref name="xautomation"/>
-ash,,,,,,<ref name="xautomation"/>
-CCP,,,,,,
-COMMAND.COM,,,,(only under DR-DOS multitasker via COMMAND.COM /T),,
-OS/2 CMD.EXE,,,,?,,
-Windows CMD.EXE,,,,,,
-4DOS,,,?,(via %@EXECSTR[] and %@EXEC[]  or via SET /M  ESET /M and UNSET /M and %@MASTER[…]),,(via KEYSTACK and KSTACK)<ref name="4DOS_8.00_HELP"></ref>
-4OS2,,?,?,?,,(via KEYSTACK)
-TCC (formerly 4NT),,,?,(via %@EXECSTR[] and %@EXEC[]),(via FTP  TFTP  FTPS  SFTP  HTTP  HTTPS and IFTP  client only),(via KEYSTACK)
-PowerShell,,,,,,?
-rc,,,Yes (via: <{cmd} if system supports /dev/fd/''<n>'')}},,,?
-BeanShell,,?,?,?,,?
-VMS DCL,,,,,,
-fish,,(...),</ref>}},,,<ref name="xautomation"/>
+Shell,Secure (password) prompt,Encrypted variables/ parameters,File/directory passwords,Execute permission,Untrusted script blocking,Restricted shell subset,Safe data subset
+Bourne shell,<ref name="tty">The shell can use the stty utility to suppress echoing of typed characters to the screen. This requires multiple steps: 1. reading the current echo state  2. switching echo off  3. reading the input  4. switching echo state back to the original state.</ref>,[empty],?,<ref name="hashbang">The execute permission is enforced by a separate program  the program loader  by refusing to invoke the interpreter (possibly a shell) specified by the script's hashbang. The interpreter does not enforce the execute permission if invoked directly as the program loader would  with the file as an argument; this only requires read permission  as does piping the file as input to the interpreter  in which case the interpreter cannot see the execute permission.</ref>,[empty],[empty],[empty]
+POSIX shell,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
+bash (v4.0),[empty],[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
+csh,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
+tcsh,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
+Hamilton C shell,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scsh,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
+ksh (ksh93t+),<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
+pdksh,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
+zsh,[empty],[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
+ash,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],[empty],[empty]
+CCP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+COMMAND.COM,(only under DR-DOS  prompts for password if file/directory is protected),[empty],(only under DR-DOS via \dirname;dirpwd\filename;filepwd syntax)<ref name="drpwd">Under DR-DOS the password separator for file and directory passwords is a semicolon. This is also supported under 4DOS for as long as the command does not support include lists. Under 4DOS  the password separator must be doubled for all commands supporting include lists in order to distinguish passwords from include lists. Commands not supporting include lists accept both forms. DR-DOS 7.02 and higher optionally accept a doubled semicolon as well  so that doubled semicolons work under both COMMAND.COM and 4DOS regardless of the command executed.</ref>,(only under DR-DOS  if files are password-protected for read and/or execute permission)<ref name="drexec">DR-DOS supports file passwords for read/write/delete and optionally execute permissions. Files are not protected by default  but the system can be set up so that f.e. batch scripts require a password to read.</ref>,[empty],[empty],[empty]
+OS/2 CMD.EXE,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Windows CMD.EXE,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+4DOS,(via INPUT /P or INKEY /P)<ref name="input/p">INPUT /P and INKEY /P echoes back asterisks for each typed character</ref>,[empty],(only under DR-DOS via \dirname;;dirpwd\filename;;filepwd syntax)<ref name="drpwd"/>,(only under DR-DOS  if files are password-protected for read and/or execute permission)<ref name="drexec"/>,[empty],[empty],[empty]
+4OS2,?,[empty],[empty],[empty],[empty],[empty],[empty]
+TCC (formerly 4NT),(via INPUT /P  INKEY /P or QUERYBOX /P)<ref name="input/p"/>,[empty],[empty],[empty],[empty],[empty],[empty]
+PowerShell,<ref>Read-Host -AsSecureString reads a string of characters from the input device into an encrypted string  one character at a time thus ensuring that there is no memory image of the clear text which could be gleaned from scanning memory  or from crash dumps  memory dumps  paging files  log files or similar.</ref>,[empty],[empty],<ref>PowerShell script files (.ps1 files) are by default associated with the Notepad editor  not with the PowerShell execution engine. Invoking a .ps1 file will launch Notepad rather than executing the script.</ref>,<ref name="microsoft1"></ref>,<ref>Startup scripts per computer/user can import modules and expose a subset the commands/functions available in the modules.</ref>,<ref></ref>
+rc,<ref name="tty" />,[empty],?,<ref name="hashbang"/>,[empty],<ref></ref>,[empty]
+BeanShell,?,?,?,?,?,?,?
+VMS DCL,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+fish,[empty],[empty],?,<ref name="hashbang"/>,[empty],[empty],?

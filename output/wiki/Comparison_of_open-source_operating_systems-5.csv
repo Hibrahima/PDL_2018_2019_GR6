@@ -1,30 +1,30 @@
 Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN
-Linux,netfilter iptables/nftables,,,,,,,,,,
-FreeBSD,IPFW2  IPFilter  PF,,,,,,,,,,
-OpenBSD,PF,,,,,,,,,,
-NetBSD,IPFilter  NPF  PF,,,,,,,,,,
-DragonFly BSD,IPFW2  PF,,,,,,,,,,
-OpenSolaris  illumos,IPFilter,,,,,,,,,,
-AuroraUX,IPFilter,,,,,,,,,,
-Darwin  OpenDarwin,IPFW,,,,,,,,,,
-MINIX,,,,,,,,,,,
-FreeDOS,,,,,,,,,,,
-Genode,software IP routing,,,,,,,,,,
-Haiku,None,,,,,,,,,,
-KolibriOS,None,,,,,,,,,,
-MenuetOS,None,,,,,,,,,,
-GNU,netfilter iptables/nftables (with Linux-libre and Linux kernel),,,,,,,,,,
-ReactOS,,,,,,,,,,,
-L4  Fiasco  Pistachio,,,,,,,,,,,
-Plan 9,ipmux,,,,,,,,,,
-AROS,,,,,,,,,,,
-Syllable,,,,,,,,,,,
-Inferno,ipmux,,,,,,,,,,
-FreeRTOS,,,,,,,,,,,
-eCos,,,,,,,,,,,
-RTEMS,,,,,,,,,,,
-HelenOS,,,,,,,,,,,
-E/OS,,,,,,,,,,,,V2 OS
-K42
-UnixLite -->
+Linux,netfilter iptables/nftables,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeBSD,IPFW2  IPFilter  PF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenBSD,PF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NetBSD,IPFilter  NPF  PF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DragonFly BSD,IPFW2  PF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenSolaris  illumos,IPFilter,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AuroraUX,IPFilter,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Darwin  OpenDarwin,IPFW,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MINIX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeDOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Genode,software IP routing,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Haiku,None,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KolibriOS,None,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MenuetOS,None,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU,netfilter iptables/nftables (with Linux-libre and Linux kernel),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReactOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Plan 9,ipmux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AROS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Syllable,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Inferno,ipmux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eCos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RTEMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HelenOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+E/OS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+K42,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+UnixLite -->,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
 Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN

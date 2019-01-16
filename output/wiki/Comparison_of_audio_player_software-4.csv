@@ -1,28 +1,28 @@
 Audio player,ReplayGain,Tag mass,Tag flexible<ref group="featurenotes" name="flextag">Flexible tagging is the ability to read or write custom tags  apart from the default ones like title  album and date. Users can use custom tags to provide additional information to media files. Custom tags work via ID3v2.4 (via the TXXX tag field)  Vorbis comments and APEv2.</ref>,Time stretch,Pitch shift,A-B repeat,Bookmark,Auto resume,Shutdown on play complete,Archive ability
-AIMP,,<ref group="featurenotes" name="aimptag">Through use of the Advanced Tag Editor.</ref>,,,,,,,,
-Amarok,,,,,,<ref group="featurenotes">Through plugin: http://www.kde-apps.org/content/show.php/Repeat+A+B?content=45993&PHPSESSID=a86dadfbbaf38573a7287e13947745e7</ref>,,,,
-Audacious,,,,,,,,,,
-Audion,,,,,,,,,,
-cmus,,,,,,,,,,
-Cog,,,,,,,,,,
-Clementine,,,,,,,,,,
-Exaile,,,<ref></ref>,,,<ref name="plugin" />,<ref name="plugin" />,,<ref name="plugin" />,
-foobar2000,,,,<ref name="plugin" />,<ref name="plugin" />,<ref name="plugin" />,<ref name="plugin" />,,<ref name="plugin" />,
-iTunes,,,,,,,,,,
-JRiver Media Center,,,,,,<ref group="featurenotes">Through plugin: http://www.kde-apps.org/content/show.php/Repeat+A+B?content=45993&PHPSESSID=a86dadfbbaf38573a7287e13947745e7</ref>,,,,
-JuK,,,,,,,,,,
-MediaMonkey,,,,<ref name="plugin" />,<ref name="plugin" />,<ref name="plugin" />,<ref name="plugin" />,,,
-MPXPLAY,,,,,,,,,,
-MusicBee,,,,,,,,,,
-Musicmatch Jukebox,,<ref group="featurenotes" name="Paid version only">Paid version only</ref>,,,,,,,,
-musikCube,,,,,,,,,,
-Quod Libet,,,,<ref group="featurenotes" name="ql_audio_pitch_speed_plugin">Through Audio Pitch  Speed plugin</ref>,<ref group="featurenotes" name="ql_audio_pitch_speed_plugin"/>,,,,,
-Rhapsody,,,,,,,,,,
-Rhythmbox,,,,,,,,,,
-Sonique,,,,,,,,,,
-Spotify,,,,,,,,,,
-Winamp,,,,,,,,,,
-XMMS,,,,,,,,,,
-XMPlay,,,,,,,,,,
-Zinf,,,,,,,,,,
+AIMP,[empty],<ref group="featurenotes" name="aimptag">Through use of the Advanced Tag Editor.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Amarok,[empty],[empty],[empty],[empty],[empty],<ref group="featurenotes">Through plugin: http://www.kde-apps.org/content/show.php/Repeat+A+B?content=45993&PHPSESSID=a86dadfbbaf38573a7287e13947745e7</ref>,[empty],[empty],[empty],[empty]
+Audacious,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Audion,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+cmus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cog,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Clementine,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Exaile,[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+foobar2000,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+iTunes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JRiver Media Center,[empty],[empty],[empty],[empty],[empty],<ref group="featurenotes">Through plugin: http://www.kde-apps.org/content/show.php/Repeat+A+B?content=45993&PHPSESSID=a86dadfbbaf38573a7287e13947745e7</ref>,[empty],[empty],[empty],[empty]
+JuK,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MediaMonkey,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MPXPLAY,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MusicBee,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Musicmatch Jukebox,[empty],<ref group="featurenotes" name="Paid version only">Paid version only</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+musikCube,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quod Libet,[empty],[empty],[empty],<ref group="featurenotes" name="ql_audio_pitch_speed_plugin">Through Audio Pitch  Speed plugin</ref>,<ref group="featurenotes" name="ql_audio_pitch_speed_plugin"/>,[empty],[empty],[empty],[empty],[empty]
+Rhapsody,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rhythmbox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sonique,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spotify,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Winamp,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XMMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XMPlay,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zinf,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Audio player,ReplayGain,Tag mass,Tag flexible,Time stretch,Pitch shift,A-B repeat,Bookmark,Auto resume,Shutdown on play complete,Archive ability

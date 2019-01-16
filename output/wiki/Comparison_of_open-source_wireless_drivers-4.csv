@@ -1,24 +1,24 @@
 Driver,802.11,Bus interface,WEP,WPA,WPA2,Monitor mode,Master mode,Ad-Hoc mode
-acx,802.11a?  802.11b  802.11g,Cardbus  PCI,,?,?,?,?,
-an,802.11b,Cardbus  PCI  ISA,,?,?,?,?,
+acx,802.11a?  802.11b  802.11g,Cardbus  PCI,[empty],?,?,?,?,[empty]
+an,802.11b,Cardbus  PCI  ISA,[empty],?,?,?,?,[empty]
 arl,N/A,ISA,?,?,?,?,?,?
-ath,802.11a  802.11b  802.11g  802.11n,Cardbus  PCI  Mini PCI,,,,,,
-awi,N/A,PC Card,?,?,?,?,,
-bwi,802.11b  802.11g,Cardbus  PCI,,,,,,
+ath,802.11a  802.11b  802.11g  802.11n,Cardbus  PCI  Mini PCI,[empty],[empty],[empty],[empty],[empty],[empty]
+awi,N/A,PC Card,?,?,?,?,[empty],[empty]
+bwi,802.11b  802.11g,Cardbus  PCI,[empty],[empty],[empty],[empty],[empty],[empty]
 cnw,N/A,Cardbus,?,?,?,?,?,?
-ipw,802.11b,Mini PCI,,,,,,
-iwi,802.11a  802.11b  802.11g,Mini PCI,,,,,,
-iwn,802.11a  802.11b  802.11g  802.11n,Mini PCI,,,,,,
-malo,802.11b  802.11g,PCI,,,,,,
-mwl,802.11a  802.11b  802.11g  802.11n,PCI,,,,,,
-ral,802.11a  802.11b  802.11g,Cardbus  PCI  Mini PCI,,,,,,
-ray,N/A,PC Card,?,?,?,,,
-rum,802.11a  802.11b  802.11g,USB,,,,,,
-run,802.11a  802.11b  802.11g,USB,,,,,,
-uath,802.11b  802.11g,USB,,,,,,
-upgt,802.11b  802.11g,USB,,,,,,
-ural,802.11b  802.11g,USB,,,,,,
-urtw,802.11b  802.11g,USB,,,,,,
-wi,802.11b,PC Card  Cardbus  PCI,,(since 8.0),(since 8.0),(since 8.0?),,
-wpi,802.11a  802.11b  802.11g,Mini PCI,,,,,,
-zyd,802.11b  802.11g,USB,,,,,,
+ipw,802.11b,Mini PCI,[empty],[empty],[empty],[empty],[empty],[empty]
+iwi,802.11a  802.11b  802.11g,Mini PCI,[empty],[empty],[empty],[empty],[empty],[empty]
+iwn,802.11a  802.11b  802.11g  802.11n,Mini PCI,[empty],[empty],[empty],[empty],[empty],[empty]
+malo,802.11b  802.11g,PCI,[empty],[empty],[empty],[empty],[empty],[empty]
+mwl,802.11a  802.11b  802.11g  802.11n,PCI,[empty],[empty],[empty],[empty],[empty],[empty]
+ral,802.11a  802.11b  802.11g,Cardbus  PCI  Mini PCI,[empty],[empty],[empty],[empty],[empty],[empty]
+ray,N/A,PC Card,?,?,?,[empty],[empty],[empty]
+rum,802.11a  802.11b  802.11g,USB,[empty],[empty],[empty],[empty],[empty],[empty]
+run,802.11a  802.11b  802.11g,USB,[empty],[empty],[empty],[empty],[empty],[empty]
+uath,802.11b  802.11g,USB,[empty],[empty],[empty],[empty],[empty],[empty]
+upgt,802.11b  802.11g,USB,[empty],[empty],[empty],[empty],[empty],[empty]
+ural,802.11b  802.11g,USB,[empty],[empty],[empty],[empty],[empty],[empty]
+urtw,802.11b  802.11g,USB,[empty],[empty],[empty],[empty],[empty],[empty]
+wi,802.11b,PC Card  Cardbus  PCI,[empty],(since 8.0),(since 8.0),(since 8.0?),[empty],[empty]
+wpi,802.11a  802.11b  802.11g,Mini PCI,[empty],[empty],[empty],[empty],[empty],[empty]
+zyd,802.11b  802.11g,USB,[empty],[empty],[empty],[empty],[empty],[empty]

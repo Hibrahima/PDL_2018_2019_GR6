@@ -1,1 +1,8 @@
 C#,Visual Basic .NET
+<source lang=csharp> if (object.ReferenceEquals(a  b)) {    // variables refer to the same instance  } </source>,<source lang=vbnet> If a Is b Then 'Can also be written as If Object.ReferenceEquals(a  b) Then    ' variables refer to the same instance  End If </source>
+<source lang=csharp> if (!object.ReferenceEquals(a  b)) {    // variables do not refer to the same instance  } </source>,<source lang=vbnet> If a IsNot b Then    ' variables do not refer to the same instance  End If </source>
+<source lang=csharp> if (a == b) {    // instances are equivalent  } </source>,<source lang=vbnet> If a = b Then    ' instances are equivalent  End If </source>
+<source lang=csharp> if (a != b) {    // not equivalent  } </source>,<source lang=vbnet> If a <> b Then    ' not equivalent  End If </source>
+<source lang=csharp> var type = typeof(int); </source>,<source lang=vbnet> Dim type = GetType(Integer) </source>
+<source lang=csharp> if (a is b) {    // types of a and b are compatible  } </source>,<source lang=vbnet> If TypeOf a Is b Then    ' types of a and b are compatible  End If </source>
+<source lang=csharp> if (!(a is b)) {    // types of a and b are not compatible  } </source>,<source lang=vbnet> If Not TypeOf a Is b Then    ' types of a and b are not compatible  End If </source>

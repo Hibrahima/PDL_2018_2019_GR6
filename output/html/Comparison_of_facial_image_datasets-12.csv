@@ -1,6 +1,6 @@
 Dataset Name,Brief description,Preprocessing,Instances,Format,Default Task,Created (updated),Reference,Creator
-Web of Science Dataset,Hierarchical Datasets for Text Classification,None.,46.985,Text,2017,[214][215],K. Kowsari et al.
-Legal Case Reports,Federal Court of Australia cases from 2006 to 2009.,None.,4.000,Text,2012,[216][217],F. Galgani et al.
+Web of Science Dataset,Hierarchical Datasets for Text Classification,None.,46.985,Text,Classification  Categorization,2017,[214][215],K. Kowsari et al.
+Legal Case Reports,Federal Court of Australia cases from 2006 to 2009.,None.,4.000,Text,Summarization  citation analysis,2012,[216][217],F. Galgani et al.
 Blogger Authorship Corpus,Blog entries of 19.320 people from blogger.com.,Blogger self-provided gender  age  industry  and astrological sign.,681.288,Text,Sentiment analysis  summarization  classification,2006,[218][219],J. Schler et al.
 Social Structure of Facebook Networks,Large dataset of the social structure of Facebook.,None.,100 colleges covered,Text,Network analysis  clustering,2012,[220][221],A. Traud et al.
 Dataset for the Machine Comprehension of Text,Stories and associated questions for testing comprehension of text.,None.,660,Text,Natural language processing  machine comprehension,2013,[222][223],M. Richardson et al.

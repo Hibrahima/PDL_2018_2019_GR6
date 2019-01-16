@@ -1,25 +1,25 @@
 Server,BSD,Solaris,Linux,Mac OS X,Windows
-AnswerX,,,,,
-BIND,,,,,
-Microsoft DNS,,,,,
-djbdns,,,,,
-Dnsmasq,,,,,
-Simple DNS Plus,,,,,
-NSD,,,,,
-Knot DNS,,,,,
-PowerDNS,,http://www.solaris4you.dk/dnsservSS.html,,,
-MaraDNS,,http://www.solaris4you.dk/dnsservSS.html,,,
-pdnsd,,<ref> "pdnsd was started on Linux  and has since been ported to FreeBSD (and Cygwin and Darwin). 90% of the source code should be easily portable to POSIX- and BSD-compatible systems  provided that those systems support the POSIX threads (pthreads). The rest might need OS-specific rewrites."</ref>,,,
-Nominum ANS,,,,,
-Nominum Vantio,,,,,
-Posadis,,,,,http://posadis.sourceforge.net/
-Unbound,,,,,
-Cisco Network Registrar,,,,,
-dnrd,,,,,
-gdnsd,,,,,
-YADIFA,,,,,
-yaku-ns,,,,,
-DNS Blast,,,,,
-Secure64 DNS Authority,,,,,
-Secure64 DNS Cache,,,,,
-Technitium DNS Server,,,,,
+AnswerX,[empty],[empty],[empty],[empty],[empty]
+BIND,[empty],[empty],[empty],[empty],[empty]
+Microsoft DNS,[empty],[empty],[empty],[empty],[empty]
+djbdns,[empty],[empty],[empty],[empty],[empty]
+Dnsmasq,[empty],[empty],[empty],[empty],[empty]
+Simple DNS Plus,[empty],[empty],[empty],[empty],[empty]
+NSD,[empty],[empty],[empty],[empty],[empty]
+Knot DNS,[empty],[empty],[empty],[empty],[empty]
+PowerDNS,[empty],http://www.solaris4you.dk/dnsservSS.html,[empty],[empty],[empty]
+MaraDNS,[empty],http://www.solaris4you.dk/dnsservSS.html,[empty],[empty],[empty]
+pdnsd,[empty],<ref> "pdnsd was started on Linux  and has since been ported to FreeBSD (and Cygwin and Darwin). 90% of the source code should be easily portable to POSIX- and BSD-compatible systems  provided that those systems support the POSIX threads (pthreads). The rest might need OS-specific rewrites."</ref>,[empty],[empty],[empty]
+Nominum ANS,[empty],[empty],[empty],[empty],[empty]
+Nominum Vantio,[empty],[empty],[empty],[empty],[empty]
+Posadis,[empty],[empty],[empty],[empty],http://posadis.sourceforge.net/
+Unbound,[empty],[empty],[empty],[empty],[empty]
+Cisco Network Registrar,[empty],[empty],[empty],[empty],[empty]
+dnrd,[empty],[empty],[empty],[empty],[empty]
+gdnsd,[empty],[empty],[empty],[empty],[empty]
+YADIFA,[empty],[empty],[empty],[empty],[empty]
+yaku-ns,[empty],[empty],[empty],[empty],[empty]
+DNS Blast,[empty],[empty],[empty],[empty],[empty]
+Secure64 DNS Authority,[empty],[empty],[empty],[empty],[empty]
+Secure64 DNS Cache,[empty],[empty],[empty],[empty],[empty]
+Technitium DNS Server,[empty],[empty],[empty],[empty],[empty]

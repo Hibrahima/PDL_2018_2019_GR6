@@ -2,27 +2,27 @@ Name,ATA,SATA,SCSI,USB 3.0,USB 2.0,USB 1.1,FireWire,PCMCIA/PC card,AGP,Nvidia of
 Linux,Yes,Yes,Yes,Yes 2.6.31+[17],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes nv(2d only)  nouveau(3d with mesa),OSS  ALSA,V4L V4L2
 FreeBSD,Yes,Yes,Yes,Yes 8.2+,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes
 OpenBSD,Yes,Yes,Yes,Yes 5.7+,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes[18],2d only[18],2d only[19],Yes,Yes
-NetBSD,Yes,Yes,Yes,No 7.1[20],Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,,,,Yes,Yes
-DragonFly BSD,Yes,Yes,Yes,Yes[21],Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,,,,Yes,
-OpenSolaris  illumos,Yes,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,,,,Yes,V4L2
-AuroraUX,Yes,Yes,Yes,,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,,,,Yes,
-Darwin  OpenDarwin,Yes,Yes,Yes,Yes,,Yes,,,,No,No,No,No,No,,,,,
-MINIX,,,,,,,,,,No,No,No,No,No,,,,,
-FreeDOS,Yes,Yes,Yes,No,No[22],No[22],No,,Yes,No,No,No,No,No,No,No,No,Yes,No
+NetBSD,Yes,Yes,Yes,No 7.1[20],Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,[empty],[empty],[empty],Yes,Yes
+DragonFly BSD,Yes,Yes,Yes,Yes[21],Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,[empty],[empty],[empty],Yes,[empty]
+OpenSolaris  illumos,Yes,Yes,Yes,[empty],Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,[empty],[empty],[empty],Yes,V4L2
+AuroraUX,Yes,Yes,Yes,[empty],Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,[empty],[empty],[empty],Yes,[empty]
+Darwin  OpenDarwin,Yes,Yes,Yes,Yes,[empty],Yes,[empty],[empty],[empty],No,No,No,No,No,[empty],[empty],[empty],[empty],[empty]
+MINIX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],No,No,No,No,No,[empty],[empty],[empty],[empty],[empty]
+FreeDOS,Yes,Yes,Yes,No,No[22],No[22],No,[empty],Yes,No,No,No,No,No,No,No,No,Yes,No
 Genode,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No
-Haiku,Yes,Yes,Yes,,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes
-KolibriOS,Yes,Yes,No,,Yes,Yes,,No,No,No,No,No,No,No,,,,Yes,No
-MenuetOS,Yes,No,No,,Yes,Yes,,No,No,No,No,No,No,No,,,,Yes,Yes
-GNU,Yes,Yes[Note 1],Yes[Note 1],,Yes[Note 1],Yes[Note 1],Yes[Note 1],Yes[Note 1],Yes,No[Note 2],No[Note 2],No[Note 2],No[Note 2],No[Note 2],No[Note 3],No[Note 3],Yes[Note 1],Yes[Note 1],Yes[Note 1]
-ReactOS,Yes,Yes,Yes,,Yes[23],Yes[23],No,No,Yes,No,No,No,No,No,,,,Yes,
-L4  Fiasco  Pistachio,,,,,,,,,,No,No,No,No,No,,,,,
-Plan 9,Yes,Yes,Yes,,Yes,Yes,,Yes,Yes,No,No,No,No,No,,,,Yes,Yes
-AROS,Yes,,,,,,,,Yes,No,No,No,own,No,,,2D only,,
-Syllable,Yes,Yes,,,Yes,Yes,,,Yes,No,No,No,No,No,,,,Yes,
-Inferno,Yes,No,Yes,,No,No,No,Yes,Yes,No,No,No,No,No,,,,Yes,
-FreeRTOS,,,,,,,,,,No,No,No,No,No,,,,,
-eCos,Yes,Yes,,,Yes,Yes,,,,No,No,No,No,No,,,,,
-RTEMS,Yes,,,,,,,Yes,,No,No,No,No,No,,,,,
-HelenOS,Yes,Yes,No,,No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No
-E/OS,Yes,Yes,Yes,,No[6],Yes,Yes,Yes,No,No,No,No,No,No,,,,Yes,Yes
+Haiku,Yes,Yes,Yes,[empty],Yes,Yes,Yes,No,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes
+KolibriOS,Yes,Yes,No,[empty],Yes,Yes,[empty],No,No,No,No,No,No,No,[empty],[empty],[empty],Yes,No
+MenuetOS,Yes,No,No,[empty],Yes,Yes,[empty],No,No,No,No,No,No,No,[empty],[empty],[empty],Yes,Yes
+GNU,Yes,Yes[Note 1],Yes[Note 1],[empty],Yes[Note 1],Yes[Note 1],Yes[Note 1],Yes[Note 1],Yes,No[Note 2],No[Note 2],No[Note 2],No[Note 2],No[Note 2],No[Note 3],No[Note 3],Yes[Note 1],Yes[Note 1],Yes[Note 1]
+ReactOS,Yes,Yes,Yes,[empty],Yes[23],Yes[23],No,No,Yes,No,No,No,No,No,[empty],[empty],[empty],Yes,[empty]
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],No,No,No,No,No,[empty],[empty],[empty],[empty],[empty]
+Plan 9,Yes,Yes,Yes,[empty],Yes,Yes,[empty],Yes,Yes,No,No,No,No,No,[empty],[empty],[empty],Yes,Yes
+AROS,Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],Yes,No,No,No,own,No,[empty],[empty],2D only,[empty],[empty]
+Syllable,Yes,Yes,[empty],[empty],Yes,Yes,[empty],[empty],Yes,No,No,No,No,No,[empty],[empty],[empty],Yes,[empty]
+Inferno,Yes,No,Yes,[empty],No,No,No,Yes,Yes,No,No,No,No,No,[empty],[empty],[empty],Yes,[empty]
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],No,No,No,No,No,[empty],[empty],[empty],[empty],[empty]
+eCos,Yes,Yes,[empty],[empty],Yes,Yes,[empty],[empty],[empty],No,No,No,No,No,[empty],[empty],[empty],[empty],[empty]
+RTEMS,Yes,[empty],[empty],[empty],[empty],[empty],[empty],Yes,[empty],No,No,No,No,No,[empty],[empty],[empty],[empty],[empty]
+HelenOS,Yes,Yes,No,[empty],No,Yes,No,No,No,No,No,No,No,No,No,No,No,Yes,No
+E/OS,Yes,Yes,Yes,[empty],No[6],Yes,Yes,Yes,No,No,No,No,No,No,[empty],[empty],[empty],Yes,Yes
 Name,ATA,SATA,SCSI,USB 3.0,USB 2.0,USB 1.1,FireWire,PCMCIA/PC card,AGP,Nvidia official driver IA-32,Nvidia official driver IA-64,Nvidia official driver AMD64,ATI official driver x86,ATI official driver x86-64,ATI r200 free software driver,ATI r300 free software driver,Nvidia free software driver,Audio,TV tuner  video editing  or webcam

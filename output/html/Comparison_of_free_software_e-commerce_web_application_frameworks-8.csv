@@ -1,11 +1,11 @@
-,HTML catalog,Meta tagging,RSS feeds,SEO URLs,Site map  XML,GoodRelations RDFa
+[empty],HTML catalog,Meta tagging,RSS feeds,SEO URLs,Site map  XML,GoodRelations RDFa
 Apache OFBiz,Yes,Yes,No,Yes,Yes,No
 Batavi,Yes,Yes,No,Yes,No,No
 Bigcommerce,Yes,Yes,Yes,Yes,Yes,No
 Drupal Commerce,Yes,Yes,Yes,Yes,Yes,Yes
 KonaKart,Yes,Yes,Yes,Yes,No,No
 LemonStand,?,?,?,?,?,?
-Magento,Yes,Yes,Yes,Yes[33],Yes,No
+Magento,Yes,Yes,Yes,Yes[34],Yes,No
 nopCommerce,Yes,Yes,Yes,Yes,Yes,No
 osCommerce,No,No,free add-on,Yes,free add-on,Yes
 pimcore,Yes,Yes,Yes,Yes,Yes,Yes
@@ -15,5 +15,5 @@ Shopify,Yes,Yes,Yes,Yes,Yes,Yes - added manually
 SupaDupa,Yes,Yes,No,Yes,Yes,No
 Virto Commerce,Yes,Yes,No,Yes,Yes,No
 WooCommerce,Yes,Yes,Yes,Yes,Yes,Yes
-Zen Cart,free add-on  printable price list,Yes,free add-on[34],free add-on,free add-on,No
-,HTML catalog,Meta tagging,RSS feeds,SEO URLs,Site map  XML,GoodRelations RDFa
+Zen Cart,free add-on  printable price list,Yes,free add-on[35],free add-on,free add-on,No
+[empty],HTML catalog,Meta tagging,RSS feeds,SEO URLs,Site map  XML,GoodRelations RDFa

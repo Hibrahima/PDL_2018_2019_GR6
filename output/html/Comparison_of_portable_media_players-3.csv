@@ -1,17 +1,17 @@
 Product,Manufacturer,Web browser,Wireless synching,Ad hoc,On-demand,Web radio/TV
-Archos 5  7,Archos,Opera,,,,
-Archos 604 WiFi  704 WiFi,Archos,Opera 8.5,file browsing,No,No,
+Archos 5  7,Archos,Opera,[empty],[empty],[empty],[empty]
+Archos 604 WiFi  704 WiFi,Archos,Opera 8.5,file browsing,No,No,[empty]
 Archos 605 WiFi  705 WiFi,Archos,Opera 9,file browsing,No,Content Portals,Yes
-Archos PMA400,Archos,Opera,via FTP,Yes,No,
-Cowon Q5W,Cowon,IE Mobile,,,,Yes (using Flash-based Internet Radio sites)
+Archos PMA400,Archos,Opera,via FTP,Yes,No,[empty]
+Cowon Q5W,Cowon,IE Mobile,[empty],[empty],[empty],Yes (using Flash-based Internet Radio sites)
 Ibiza Rhapsody,Haier,Minimo,Yes,No,Rhapsody,radio only
 iPod Touch,Apple Inc.,Webkit,Yes,Yes,iTunes  Spotify,Yes
-Samsung Galaxy Player,Samsung,Webkit,,,Android Marketplace,
-Sansa Connect,SanDisk,No,,,Yahoo! Music,
+Samsung Galaxy Player,Samsung,Webkit,[empty],[empty],Android Marketplace,[empty]
+Sansa Connect,SanDisk,No,[empty],[empty],Yahoo! Music,[empty]
 Sony PSP,Sony,NetFront,Yes,Yes,PlayStation Store,Yes
-Sony Walkman X Series,Sony,NetFront,No,Yes,,Yes
+Sony Walkman X Series,Sony,NetFront,No,Yes,[empty],Yes
 ZEN X-Fi,Creative,No,media server,No,Creative MediaBox,No
-Zune 4  8,Microsoft,No,Yes,Yes,Zune Marketplace,
-Zune 30,Microsoft,No,Yes,Yes,Zune Marketplace,
-Zune 80  120,Microsoft,No,Yes,Yes,Zune Marketplace,
-Zune HD,Microsoft,IE Mobile 6,Yes,Yes,Zune Marketplace,
+Zune 4  8,Microsoft,No,Yes,Yes,Zune Marketplace,[empty]
+Zune 30,Microsoft,No,Yes,Yes,Zune Marketplace,[empty]
+Zune 80  120,Microsoft,No,Yes,Yes,Zune Marketplace,[empty]
+Zune HD,Microsoft,IE Mobile 6,Yes,Yes,Zune Marketplace,[empty]

@@ -1,11 +1,11 @@
 Other software,GUI,CLI,Other,Programming language,Based on
-ADCCore,,,,C#,CoreDC
-DCBouncer,,,,C++,
-DC-Hublink,,,,Visual Basic,
-DCWatch,,,,Java  Lua,Embla
-Embla,,,,Java,
-FlowLib,,,,C#,
-NetChatLink,,,,Object Pascal (Delphi),
-Announcer Bot,,,,Lua,
-Certmanager,,,,wxLua,
+ADCCore,[empty],[empty],[empty],C#,CoreDC
+DCBouncer,[empty],[empty],[empty],C++,[empty]
+DC-Hublink,[empty],[empty],[empty],Visual Basic,[empty]
+DCWatch,[empty],[empty],[empty],Java  Lua,Embla
+Embla,[empty],[empty],[empty],Java,[empty]
+FlowLib,[empty],[empty],[empty],C#,[empty]
+NetChatLink,[empty],[empty],[empty],Object Pascal (Delphi),[empty]
+Announcer Bot,[empty],[empty],[empty],Lua,[empty]
+Certmanager,[empty],[empty],[empty],wxLua,[empty]
 ADC hub,GUI,CLI,Other,Programming language,Based on

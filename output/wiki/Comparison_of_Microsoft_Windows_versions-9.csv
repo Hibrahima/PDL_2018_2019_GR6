@@ -1,4 +1,4 @@
-,FAT12,FAT16,FAT32,HPFS,ISO 9660,NTFS,UDF
-Windows 95,,,(OSR2 or above),,,,
-Windows 98,,,,,,,(1.5  read)
-Windows Me,,,,,,,(1.5  read)
+[empty],FAT12,FAT16,FAT32,HPFS,ISO 9660,NTFS,UDF
+Windows 95,[empty],[empty],(OSR2 or above),[empty],[empty],[empty],[empty]
+Windows 98,[empty],[empty],[empty],[empty],[empty],[empty],(1.5  read)
+Windows Me,[empty],[empty],[empty],[empty],[empty],[empty],(1.5  read)

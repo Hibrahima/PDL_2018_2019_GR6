@@ -1,23 +1,24 @@
-,PHP,Perl,Python,Ruby,JavaScript,ActionScript,PL/SQL,Transact-SQL,Tcl,Haskell
-Ddoc,,,,,,,,,,
-Document! X,,,,,,,,,,
-Doxygen,,,,,,,,,,
-Epydoc,,,,,,,,,,
-Haddock,,,,,,,,,,
-HeaderDoc,,,,,,,,,,
-Imagix 4D,,,,,,,,,,
-Javadoc,,,,,,,,,,
-JSDoc,,,,,,,,,,
-JsDoc Toolkit,,,,,,,,,,
-Natural Docs,Partial,,Partial,Partial,Partial,,Partial,,Partial,
-NDoc,,,,,,,,,,
-perldoc,,,,,,,,,,
-phpDocumentor,,,,,,,,,,
-pydoc,,,,,,,,,,
-RDoc,,,,,,,,,,
-ROBODoc,,,,,,Partial,,,,
-Sphinx,with Plugin,,,with Plugin,,,,,,
-Visual Expert,,,,,,,<ref name="Visual Expert for Oracle"></ref>,<ref name="Visual Expert for SQL Server"></ref>,,
-VSdocman,,,,,,,,,,
-YARD,,,,,,,,,,
-,PHP,Perl,Python,Ruby,JavaScript,ActionScript,PL/SQL,Transact-SQL,Tcl,Haskell
+[empty],PHP,Perl,Python,Ruby,JavaScript,ActionScript,PL/SQL,Transact-SQL,Tcl,Haskell
+Ddoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Document! X,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Doxygen,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Epydoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Haddock,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HeaderDoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Imagix 4D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Javadoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JSDoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JsDoc Toolkit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Natural Docs,Partial,[empty],Partial,Partial,Partial,[empty],Partial,[empty],Partial,[empty]
+NDoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+pdoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+perldoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+phpDocumentor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+pydoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RDoc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ROBODoc,[empty],[empty],[empty],[empty],[empty],Partial,[empty],[empty],[empty],[empty]
+Sphinx,with Plugin,[empty],[empty],with Plugin,[empty],[empty],[empty],[empty],[empty],[empty]
+Visual Expert,[empty],[empty],[empty],[empty],[empty],[empty],<ref name="Visual Expert for Oracle"></ref>,<ref name="Visual Expert for SQL Server"></ref>,[empty],[empty]
+VSdocman,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+YARD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[empty],PHP,Perl,Python,Ruby,JavaScript,ActionScript,PL/SQL,Transact-SQL,Tcl,Haskell

@@ -1,20 +1,20 @@
 Driver,Chipset,Integration,Non-free firmware required[note 1],License,Original/Primary developer,Development
-acx,Texas Instruments ACX100/ACX111,Separate project,Yes,BSD,,Reverse engineering
-an,Aironet 4500/4800  Cisco Aironet 340/350  Xircom Wireless Ethernet,Integrated,On Device,BSD,Bill Paul (FreeBSD),
-arl,Aironet Arlan 655,Integrated / Removed in 8.0,On Device,BSD,,
+acx,Texas Instruments ACX100/ACX111,Separate project,Yes,BSD,[empty],Reverse engineering
+an,Aironet 4500/4800  Cisco Aironet 340/350  Xircom Wireless Ethernet,Integrated,On Device,BSD,Bill Paul (FreeBSD),[empty]
+arl,Aironet Arlan 655,Integrated / Removed in 8.0,On Device,BSD,[empty],[empty]
 ath,Atheros AR5210/ AR5211/ AR5212/ AR5416 /AR9130 /AR9160 /AR9280 /AR9285 /AR9287 (and derivatives),Integrated,No,BSD,Originally by Atheros via Sam Leffler (FreeBSD); supported by the community,Documentation based
-awi,AMD PCnetMobile,Integrated / Removed in 8.0,On Device,BSD,Bill Sommerfeld (NetBSD) and Atsushi Onoe (NetBSD),
+awi,AMD PCnetMobile,Integrated / Removed in 8.0,On Device,BSD,Bill Sommerfeld (NetBSD) and Atsushi Onoe (NetBSD),[empty]
 bwi,Broadcom BCM43xx/4318,Integrated since 8.0,Yes,BSD,Sepherosa Ziehau (DragonFly BSD)  Andrew Thompson (FreeBSD)  Sam Leffler (FreeBSD),Ported from DragonFly BSD
 bwn,Broadcom BCM43xx/4318 v4 firmware,Integrated since 8.1,Yes,BSD,Weongyo Jeong,?
-cnw,Netwave AirSurfer,Integrated / Removed in 8.0,On Device,BSD,Imported from NetBSD,
+cnw,Netwave AirSurfer,Integrated / Removed in 8.0,On Device,BSD,Imported from NetBSD,[empty]
 ipw,Intel PRO/Wireless 2100,Integrated,Yes,BSD,Damien Bergamini (OpenBSD/ FreeBSD),Reverse engineering
 iwi,Intel PRO/Wireless 2200BG/ 2225BG/ 2915ABG,Integrated,Yes,BSD,Damien Bergamini (OpenBSD/ FreeBSD),Reverse engineering
-iwm,Intel Dual Band Wireless-AC 3160 / 3165 / 7260 / 7265 / 8260,?,?,,?,?
-iwn,Integrated since 8.0 / Available for 7.1 and above as separate patch,Yes,BSD,Damien Bergamini  Benjamin Close  Sam Leffler (OpenBSD/ FreeBSD),Reverse engineering
-malo,Marvell 88W8335,Integrated,Yes,BSD,Weongyo Jeong (FreeBSD)  Sam Leffler (FreeBSD),
+iwm,Intel Dual Band Wireless-AC 3160 / 3165 / 7260 / 7265 / 8260,?,?,[empty],?,?
+iwn,Intel PRO/Wireless 4965 ABGN/ 5100/ 5300/ 5350/ 1000 Intel Centrino 6000/ 6150/ 6200/ 6205/ 6230/ 6250/ 6300,Integrated since 8.0 / Available for 7.1 and above as separate patch,Yes,BSD,Damien Bergamini  Benjamin Close  Sam Leffler (OpenBSD/ FreeBSD),Reverse engineering
+malo,Marvell 88W8335,Integrated,Yes,BSD,Weongyo Jeong (FreeBSD)  Sam Leffler (FreeBSD),[empty]
 mwl,Marvell 88W8363,Integrated since 8.0,Yes[40],BSD,Sam Leffler (FreeBSD),?
 ral,Ralink Technology RT2500/ RT2501/ RT2600/RT3090/RT3592,Integrated,On Device,BSD,Damien Bergamini (OpenBSD/ FreeBSD),Based on partial documentation
-ray,Raytheon Raylink/Webgear Aviator,Integrated / Removed in 8.0,On Device,BSD,Imported from NetBSD,
+ray,Raytheon Raylink/Webgear Aviator,Integrated / Removed in 8.0,On Device,BSD,Imported from NetBSD,[empty]
 rsu,Realtek RTL8188SU/RTL8192SU,Integrated since 10.0,Yes,BSD,Damien Bergamini (OpenBSD)  Imported from OpenBSD by Rui Paulo,?
 rum,Ralink RT2501USB/ RT2601USB,Integrated,No[41],BSD,Niall O'Higgins and Damien Bergamini,Based on partial documentation
 run,Ralink RT2700U/ RT2800U/ RT3000U,Integrated since 8.1,No[41],BSD,Damien Bergamini (OpenBSD)  Imported from OpenBSD by Akinori Furukoshi,Based on partial documentation

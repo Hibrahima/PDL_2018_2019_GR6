@@ -1,24 +1,25 @@
-,Text,Binary
-Ddoc,,
-Document! X,,
-Doxygen,,
-Epydoc,,
-Haddock,,
-HeaderDoc,,
-Imagix 4D,,
-Javadoc,,
-JSDoc,,
-JsDoc Toolkit,,
-mkd,,
-Natural Docs,,
-NDoc,,
-perldoc,,
-phpDocumentor,,
-pydoc,,
-RDoc,,
-ROBODoc,,
-Sphinx,,
-Visual Expert,,
-VSdocman,,
-YARD,,
-,Text,Binary
+[empty],Text,Binary
+Ddoc,[empty],[empty]
+Document! X,[empty],[empty]
+Doxygen,[empty],[empty]
+Epydoc,[empty],[empty]
+Haddock,[empty],[empty]
+HeaderDoc,[empty],[empty]
+Imagix 4D,[empty],[empty]
+Javadoc,[empty],[empty]
+JSDoc,[empty],[empty]
+JsDoc Toolkit,[empty],[empty]
+mkd,[empty],[empty]
+Natural Docs,[empty],[empty]
+NDoc,[empty],[empty]
+pdoc,[empty],[empty]
+perldoc,[empty],[empty]
+phpDocumentor,[empty],[empty]
+pydoc,[empty],[empty]
+RDoc,[empty],[empty]
+ROBODoc,[empty],[empty]
+Sphinx,[empty],[empty]
+Visual Expert,[empty],[empty]
+VSdocman,[empty],[empty]
+YARD,[empty],[empty]
+[empty],Text,Binary

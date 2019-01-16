@@ -1,37 +1,37 @@
 BitTorrent client,Windows,macOS,Linux,BSD,iOS,Android,Other
-ABC,,,,,,,
-Acquisition,,,,,,,
-BitComet,,,,,,,
-BitLet,,,,,,,
-BitLord,,,,,,,
-BitTornado,,,,,,,
-BitTorrent,,,,,,<ref></ref>,
-BitTyrant,,,,,,,
-Blog Torrent,,,,,,,
-Deluge,,,,,,,
-FlashGet,,,,,,,
-Folx,,,,,,,
-Free Download Manager,,,,,,,
+ABC,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Acquisition,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitComet,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitLet,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitLord,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTornado,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitTorrent,[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+BitTyrant,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Blog Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Deluge,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FlashGet,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Folx,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Free Download Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Frostwire,<ref name="frostwire-dl"></ref>,<ref name="frostwire-dl" />,<ref name="frostwire-dl" />,<ref name="frostwire-dl" />,<ref name="frostwire-dl" />,<ref name="frostwire-dl" />,</ref> Solaris  OS/2  eComStation}}<ref></ref>
-KGet,,,,,,,
-KTorrent,,,,,,,
-LimeWire,,,,,,,
-Meerkat Bittorrent Client,,,,,,,
-Miro,,,,,,,
-MLDonkey,,,,,,,
-µTorrent,,,,,,<ref></ref>,
-OneSwarm,,,,,,,
-Opera 12,<ref name="bitness" group="Note">x86-32 and x86-64builds available</ref>,,<ref name="bitness" group="Note" />,<ref name="bitness" group="Note" />,,,
+KGet,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LimeWire,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Meerkat Bittorrent Client,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Miro,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MLDonkey,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+µTorrent,[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+OneSwarm,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Opera 12,<ref name="bitness" group="Note">x86-32 and x86-64builds available</ref>,[empty],<ref name="bitness" group="Note" />,<ref name="bitness" group="Note" />,[empty],[empty],[empty]
 qBittorrent,<ref name="qbittorrent"></ref>,<ref name="qbittorrent" />,<ref name="qbittorrent" />,<ref name="qbittorrent" />,<ref name="qbittorrent" />,<ref></ref>,<ref name="qbittorrent" />
-rTorrent,, through Cygwin<ref></ref>,,,,,,
-Shareaza,,,,,,,
-SymTorrent,,,,,,,
-Tixati,,,,,,,
-Tomato Torrent,,,,,,,
-Tonido,,,,,,,
-TorrentFlux,,,,,,,
-Transmission,<ref name="bitness" group="Note" />,,,,, through Cydia,,
-Tribler,,,,,,,
-Vuze,,,,,,<ref></ref>,
-Xunlei,,,,,,,
+rTorrent,, through Cygwin<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Shareaza,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SymTorrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tixati,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tomato Torrent,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tonido,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TorrentFlux,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Transmission,<ref name="bitness" group="Note" />,[empty],[empty],[empty],, through Cydia,[empty],[empty]
+Tribler,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Vuze,[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+Xunlei,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Name,Windows,Mac OS X,Linux,BSD,iOS,Android,Other

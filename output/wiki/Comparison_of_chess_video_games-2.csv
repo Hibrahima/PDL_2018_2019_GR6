@@ -1,29 +1,30 @@
-,included chess engine(s),Can open/save PGN,Can import UCI<ref>Universal Chess Interface</ref> engines,Levels,3D or Animated pieces,Variants,Multiplayer
-Aquarium,Crafty  Delfi  Rybka  Spike,,,multivariation<ref>The GUI will take a second or third best move from the engine.</ref>  uci_elo<ref>Universal Chess Interface</ref>,,Chess960,
-Battle Chess,n/a,,,,,,
-Battle Chess: Game of Kings,n/a,,,,,,
-Battle vs. Chess,Fritz,,,levels 1-9,,,
-Chessaria: The Tactical Adventure,n/a,,,,,,
-''Chess Assistant,Dragon  Rybka,,,multivariation  uci_elo<ref>Universal Chess Interface</ref>,,Chess960,
-Chessbase,Fritz,,,uci_elo<ref>Universal Chess Interface</ref> for analysis but no timed games,,Chess960,
-Chessmaster,The King,,,Personalities with Elo ratings,,,no longer supported
-Chess Titans,n/a,,,,,,
-ChessV,,,,,,,
-Combat Chess,Rebel,,,,,,
-Fritz,Rybka  earlier Pandix or Fritz,,,Friend Mode<ref>The GUI will adjust the level of play during each game based on how well you are playing.</ref>  Handicap and Fun<ref>You can select the Elo rating and style that the engine will play.</ref>  uci_elo<ref>Universal Chess Interface</ref>,,Chess960,
-Fritz and Chesster,Koenig Schwarz,,,,,
-GNOME Chess,,,,,,
-GNU Chess,GNU chess,,,,,Knightmate  Capablanca  Gothic  Shatranj  Courier  Cylinder  Berolina,
-Hiarcs Chess Explorer,Hiarcs,,,uci_elo<ref>Universal Chess Interface</ref>,,,
-Chessbase Houdini,Houdini,,,Friend Mode<ref>The GUI will adjust the level of play during each game based on how well you are playing.</ref>  Handicap and Fun<ref>You can select the Elo rating and style that the engine will play.</ref>  uci_elo<ref>Universal Chess Interface</ref>,,Chess960,
-Chessbase Junior,Junior,,,Friend Mode  Handicap and Fun  uci_elo<ref>Universal Chess Interface</ref>,,Chess960,
-Chessbase Komodo,Komodo,,,Friend Mode<ref>The GUI will adjust the level of play during each game based on how well you are playing.</ref>  Handicap and Fun<ref>You can select the Elo rating and style that the engine will play.</ref>  uci_elo<ref>Universal Chess Interface</ref>,,Chess960,
-Playchess,none,,,Other players have Elo rating,,Chess960,
-Play Magnus,Glaurung,,,can choose Magnus' age,,,
-Pure Chess,n/a,,,,,,
-pyChess,Pychess engine  Stockfish,,,,,,
-Chessbase Rybka,Rybka,,,Friend Mode  Handicap and Fun  uci_elo<ref>Universal Chess Interface</ref>,,Chess960,
-Shredder UCI GUI,Shredder,,,uci_elo<ref>Universal Chess Interface</ref>,,Chess960,
-SMIRF,,,,,,Chess960  Capablanca  Capablanca Random  Embassy  Janus,
-Wii Chess,Loop Express,,,,,,
-Winboard/xBoard,Crafty,,via UCI2WB,,,Knightmate  Capablanca  Gothic  Shatranj  Courier  Cylinder  Berolina,
+[empty],included chess engine(s),Can open/save PGN,Can import UCI<ref>Universal Chess Interface</ref> engines,Levels,3D or Animated pieces,Variants,Multiplayer
+Aquarium,Crafty  Delfi  Rybka  Spike,[empty],[empty],multivariation<ref>The GUI will take a second or third best move from the engine.</ref>  uci_elo<ref>Universal Chess Interface</ref>,[empty],Chess960,[empty]
+Battle Chess,n/a,[empty],[empty],[empty],[empty],[empty],[empty]
+Battle Chess: Game of Kings,n/a,[empty],[empty],[empty],[empty],[empty],[empty]
+Battle vs. Chess,Fritz,[empty],[empty],levels 1-9,[empty],[empty],[empty]
+Chessaria: The Tactical Adventure,Chessaria AICE,[empty],[empty],[empty],[empty],[empty],[empty]
+''Chess Assistant,Dragon  Rybka,[empty],[empty],multivariation  uci_elo<ref>Universal Chess Interface</ref>,[empty],Chess960,[empty]
+Chessbase,Fritz,[empty],[empty],uci_elo<ref>Universal Chess Interface</ref> for analysis but no timed games,[empty],Chess960,[empty]
+Chessmaster,The King,[empty],[empty],Personalities with Elo ratings,[empty],[empty],no longer supported
+Chess Titans,n/a,[empty],[empty],[empty],[empty],[empty],[empty]
+ChessV,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Combat Chess,Rebel,[empty],[empty],[empty],[empty],[empty],[empty]
+Fritz,Rybka  earlier Pandix or Fritz,[empty],[empty],Friend Mode<ref>The GUI will adjust the level of play during each game based on how well you are playing.</ref>  Handicap and Fun<ref>You can select the Elo rating and style that the engine will play.</ref>  uci_elo<ref>Universal Chess Interface</ref>,[empty],Chess960,[empty]
+Fritz and Chesster,Koenig Schwarz,[empty],[empty],[empty],[empty],[empty],[added]
+GNOME Chess,[empty],[empty],[empty],[empty],[empty],[empty],[added]
+GNU Chess,GNU chess,[empty],[empty],[empty],[empty],Knightmate  Capablanca  Gothic  Shatranj  Courier  Cylinder  Berolina,[empty]
+Hiarcs Chess Explorer,Hiarcs,[empty],[empty],uci_elo<ref>Universal Chess Interface</ref>,[empty],[empty],[empty]
+Chessbase Houdini,Houdini,[empty],[empty],Friend Mode<ref>The GUI will adjust the level of play during each game based on how well you are playing.</ref>  Handicap and Fun<ref>You can select the Elo rating and style that the engine will play.</ref>  uci_elo<ref>Universal Chess Interface</ref>,[empty],Chess960,[empty]
+Chessbase Junior,Junior,[empty],[empty],Friend Mode  Handicap and Fun  uci_elo<ref>Universal Chess Interface</ref>,[empty],Chess960,[empty]
+Chessbase Komodo,Komodo,[empty],[empty],Friend Mode<ref>The GUI will adjust the level of play during each game based on how well you are playing.</ref>  Handicap and Fun<ref>You can select the Elo rating and style that the engine will play.</ref>  uci_elo<ref>Universal Chess Interface</ref>,[empty],Chess960,[empty]
+Playchess,none,[empty],[empty],Other players have Elo rating,[empty],Chess960,[empty]
+Play Magnus,Glaurung,[empty],[empty],can choose Magnus' age,[empty],[empty],[empty]
+Pure Chess,n/a,[empty],[empty],[empty],[empty],[empty],[empty]
+pyChess,Pychess engine  Stockfish,[empty],[empty],[empty],[empty],[empty],[empty]
+Chessbase Rybka,Rybka,[empty],[empty],Friend Mode  Handicap and Fun  uci_elo<ref>Universal Chess Interface</ref>,[empty],Chess960,[empty]
+Shredder UCI GUI,Shredder,[empty],[empty],uci_elo<ref>Universal Chess Interface</ref>,[empty],Chess960,[empty]
+SMIRF,[empty],[empty],[empty],[empty],[empty],Chess960  Capablanca  Capablanca Random  Embassy  Janus,[empty]
+Wii Chess,Loop Express,[empty],[empty],[empty],[empty],[empty],[empty]
+Winboard/xBoard,Crafty,[empty],via UCI2WB,[empty],[empty],Knightmate  Capablanca  Gothic  Shatranj  Courier  Cylinder  Berolina,[empty]
+[added],[added],[added],[added],[added],[added],[added],[added]

@@ -1,29 +1,29 @@
 Audio player,Video playback,Outbound streaming,Skinnable,Media database,Gapless audio decoding,Visualizer,Remote controllable,Intelligent playlists from database (based on criteria)
-AIMP,,,,,,,,
-Amarok,<ref group="featurenotes">Basic function with NMM</ref>,,<ref group="featurenotes">Context Browser uses CSS.</ref>,,,,,
-Audacious,,,,,,,,
-Audion,,,,,,,,
-cmus,,,,,,,,
-Cog,,,,,,,,
-Clementine,,,,,,,,
-Exaile,,,,,,,<ref></ref>,
-foobar2000,,<ref name="plugin">Plugin available.</ref>,<ref group="featurenotes">UIs may be switched. Shares Windows' themes by default. Additionally  a plugin (foo_looks) can skin foobar2000.</ref>,,,,<ref name="plugin" />,
-iTunes,,,<ref name="plugin">Plugin available.</ref>,,,,,
-JRiver Media Center,,,,,,,,
-JuK,,,,,,,<ref group="featurenotes">Using DCOP</ref>,
-MediaMonkey,,<ref name="plugin" />,,,,,<ref name="plugin" />,
-MPXPLAY,(with MMC v2.00a),,,,,,(also LCD ability),
-Music Player Daemon,,,,,,,,
-MusicBee,,,,,,,,
-Musicmatch Jukebox,,,,,,,,
-musikCube,,,,,,<ref name="plugin" />,,
-Quod Libet,,,,,,,,
-Rhapsody,,,,,,,,
-Rhythmbox,,,,,,,,
-Sonique,<ref name="plugin" />,,,,,,,
-Spotify,,,,,,,(via app),
-Winamp,,,,,,,,
-XMMS,<ref name="plugin" />,<ref name="plugin" />,,,<ref name="plugin" />,,,
-XMPlay,<ref name="plugin" />,<ref name="plugin" />,,,,,,
-Zinf,,,,,,,,
+AIMP,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Amarok,<ref group="featurenotes">Basic function with NMM</ref>,[empty],<ref group="featurenotes">Context Browser uses CSS.</ref>,[empty],[empty],[empty],[empty],[empty]
+Audacious,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Audion,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+cmus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cog,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Clementine,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Exaile,[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+foobar2000,[empty],[empty],<ref group="featurenotes">UIs may be switched. Shares Windows' themes by default. Additionally  a plugin (foo_looks) can skin foobar2000.</ref>,[empty],[empty],[empty],[empty],[empty]
+iTunes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JRiver Media Center,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JuK,[empty],[empty],[empty],[empty],[empty],[empty],<ref group="featurenotes">Using DCOP</ref>,[empty]
+MediaMonkey,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MPXPLAY,(with MMC v2.00a),[empty],[empty],[empty],[empty],[empty],(also LCD ability),[empty]
+Music Player Daemon,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MusicBee,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Musicmatch Jukebox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+musikCube,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quod Libet,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rhapsody,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rhythmbox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sonique,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spotify,[empty],[empty],[empty],[empty],[empty],[empty],(via app),[empty]
+Winamp,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XMMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XMPlay,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zinf,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Audio player,Video playback,Outbound streaming,Skinnable,Media database,Gapless audio decoding,Visualizer,Remote controllable,Intelligent playlists from database (based on criteria)

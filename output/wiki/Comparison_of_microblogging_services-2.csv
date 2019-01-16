@@ -1,8 +1,10 @@
 Service,Tagging,Groups,Conversation,Private,Private following list,RSS,Atom,Bookmarklet
-Tumblr,,,,,,,,
-Facebook,,,,,,,,
-Google+,,,,,,<ref name="twitterGoogle"></ref>,<ref name="twitterGoogle"/>,
-identi.ca,,,,,,,,<ref>Identi.ca bookmarklet </ref>
-Twitter,,,,,,<ref name="twitterv1.1"></ref>,<ref name="twitterv1.1"/>,
-Mastodon,,,,,,,,
-micro.blog,,,,,,,,
+Tumblr,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Facebook,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Google+,[empty],[empty],[empty],[empty],[empty],<ref name="twitterGoogle"></ref>,<ref name="twitterGoogle"/>,[empty]
+identi.ca,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>Identi.ca bookmarklet </ref>
+Twitter,[empty],[empty],[empty],[empty],[empty],<ref name="twitterv1.1"></ref>,<ref name="twitterv1.1"/>,[empty]
+Mastodon,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added]
+Misskey,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+micro.blog,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

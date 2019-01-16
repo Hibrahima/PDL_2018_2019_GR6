@@ -3,7 +3,7 @@ Audio compression format,ACM,DirectShow,QuickTime,GStreamer,FFmpeg,Media Foundat
 AAC,Yes,Yes (ffdshow  Monogram[47]),Yes,Yes (GStreamer FFmpeg plug-in),Yes,Yes
 AC3,Yes,Yes (ffdshow),Yes (Perian),Yes (GStreamer FFmpeg plug-in),Yes,Yes
 ALS,?,?,?,?,?,?
-AMR,No,No,Yes (GStreamer Ugly Plug-ins),Yes,Yes
+AMR,No,No,Yes [48] [49],Yes (GStreamer Ugly Plug-ins),Yes,Yes
 ALAC,Yes,Yes (ffdshow),Yes,Yes (GStreamer FFmpeg plug-in),Yes,Yes
 aptX,?,?,?,?,Yes,?
 ATRAC3,Yes (ffdshow),Yes (ffdshow),Yes (Perian),Yes (GStreamer FFmpeg plug-in),Yes,Yes (ffdshow)

@@ -4,4 +4,4 @@ Dogear,No,Yes,?,Yes,Yes,Yes,?,?,?,The Lotus Connection Suite with Dogear runs on
 Jumper 2.0,No,Yes,HTTPS optionally available,Yes,Yes,Yes,Yes,Yes,Yes,LDAP integration is available
 Knowledge Plaza,Yes,Yes,HTTPS with high-grade 256-bit AES,Yes,Yes,Yes,Yes,Yes,Yes,none
 Licorize,Yes,Yes,HTTPS is available,Yes,Yes,Yes,Yes,Yes,No,none
-Scuttle,No,Yes,HTTPS optionally available [1],No,Yes,No,Yes,?,,none
+Scuttle,No,Yes,HTTPS optionally available [1],No,Yes,No,Yes,?,[empty],none

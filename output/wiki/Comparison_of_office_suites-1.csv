@@ -1,29 +1,29 @@
 Software Name,Developer,First public release,Predecessor,Latest Stable version / (Date),Operating system,Price in USD,License,Microsoft Office (.doc  .xls) support,Microsoft Office Open XML support,OpenDocument support,Portable Document Format support
-Ability Office,Ability Plus Software,1995,—,6.00,Windows,,,,,,Export
-Apache OpenOffice,Apache Software Foundation,2012 May,OpenOffice.org  <br />StarOffice,,Windows  macOS  Linux  BSD  Unix  Solaris/Illumos,,,,Import-only,,
-Breadbox Office,Breadbox Computer Company,1990,—,4.1.3.0,DOS  Windows,,,,,,
-Calligra Suite,KDE,2011,KOffice,,Windows  macOS  Linux  BSD  Solaris/Illumos,,,Import,Import,,Export<ref name="os">Not included in this office suite  but provided in the Desktop Environment.</ref>
-Feng Office Community Edition,Feng Office,2007,—,1.6.1,Fully online,,,,,,
-GobeProductive,Gobe Software,1998,—,3.04 / 2.01,Windows  BeOS,,,,,,
-G Suite (formerly Google Apps for Work),Google,2006,Writely,2014,Fully online,,,,,,
-Google Docs,Google,2006,Writely,2014,Fully online,,,,<ref></ref>,,
-IBM Lotus Symphony,IBM,2007,IBM Workplace (based on OpenOffice.org),3.0.1,Windows  Linux  macOS,,,,Import<ref></ref>,,Export
-iWork,Apple Inc.,2005,AppleWorks<ref name="iWork_05"></ref>,Pages 6.0 / Numbers 4.0 / Keynote 7.0 (2016),macOS,,,,Import,,Export
-LibreOffice,The Document Foundation formerly Sun Microsystems and Go-oo,2010 September,OpenOffice.org  Go-oo <br />StarOffice,,Windows  macOS  Linux  BSD  Unix  Solaris/Illumos,,,,,,
-Lotus SmartSuite,IBM,1992 <ref>Release date of Lotus SmartSuite from http://www.findarticles.com/p/articles/mi_m3563/is_n7_v9/ai_14346979</ref>,—,9.8,Windows  OS/2,,,,,,
-MarinerPak,Mariner Software,1996,—,10.0,Classic Mac OS  Mac OS X,,,Import,,,
-Microsoft Office,Microsoft,1990 (Macintosh)  1992 (Windows),Microsoft Word<br />Microsoft Excel<br />Microsoft PowerPoint,2016 (16.0) (Windows) <br />2016 (15.4.0) (macOS),Windows  macOS,,,,<ref>File format reference for Word 2013  PowerPoint 2013  and Excel 2013</ref>,,
-Microsoft Works (Discontinued in 2009),Microsoft,1986,—,Discontinued,Windows  Macintosh,Discontinued,,,,,
-MobiSystems,2004,—,Android  iOS  Windows<ref></ref>,,,,,,
-NeoOffice,Planamesa Software,2005-06-02,based on OpenOffice.org re-coded for macOS,3.2,macOS,,,,,,
-ShareOffice,ShareMethods,2007 May,—,—,Fully online,,,,,,
-StarOffice a.k.a. Oracle Open Office,Sun Microsystems for 10 years  Oracle for 1 year,1995,StarWriter,9.0,Windows  macOS  Linux  BSD  Unix  Solaris/Illumos,,,,With free plugins,,
-SoftMaker Office,SoftMaker,1987 (for DOS)  1994 (for Windows)<ref></ref>,—,2016 (Windows:  <ref></ref> Linux: <ref></ref>) <br /> Office HD for Android:  <br /> Office Mobile for Android:  <ref></ref><br /> 2010 (Windows Mobile  Windows CE) <br /> 2006 (Handheld PC),Windows  Linux  Android  Windows Mobile  Windows CE  Pocket PC),,,,,, only ODT export  no Import<ref name="ct">c't 14/2018 https://www.heise.de/ct/ausgabe/2018-14-LibreOffice-6-0-gegen-SoftMaker-Office-2018-fuer-Linux-4084433.html</ref>,Export
-OnlyOffice,Ascensio Systems,2010,—,—,Fully online,,,,,,
-TeXmacs,Joris van der Hoeven,1996?,—,2012,Windows  macOS  Linux  BSD  Unix,,,,,,
-ThinkFree Office,Haansoft,1998,—,3.5,Mac OS X v10.4  Windows  Linux  Fully online,,,,,<ref>ThinkFree on Ubuntu</ref><ref></ref>,
-Tiki Wiki CMS Groupware,Tiki Software Community Association,2002,—,12.2 LTS  9.8 LTS and 6.14 LTS,Fully online,,,search,search,search,Export and search
-WordPerfect Office,Corel,1991,WordPerfect (1982),,Windows,,,,,,Some versions
-WPS Office (Kingsoft Office),Kingsoft,1988,—,Windows  Linux  Android  iOS,,,,,With free add-in<ref>How to compatible with ODF documents in WPS Office</ref><ref>OpenXML/ODF Translator Add-in for Office</ref>,Export in all versions; Import with subscription only
-Zoho Office Suite,Zoho Corp.,2005,—,,Fully online,,,,,,
+Ability Office,Ability Plus Software,1995,—,6.00,Windows,[empty],[empty],[empty],[empty],[empty],Export
+Apache OpenOffice,Apache Software Foundation,2012 May,OpenOffice.org  <br />StarOffice,[empty],Windows  macOS  Linux  BSD  Unix  Solaris/Illumos,[empty],[empty],[empty],Import-only,[empty],[empty]
+Breadbox Office,Breadbox Computer Company,1990,—,4.1.3.0,DOS  Windows,[empty],[empty],[empty],[empty],[empty],[empty]
+Calligra Suite,KDE,2011,KOffice,[empty],Windows  macOS  Linux  BSD  Solaris/Illumos,[empty],[empty],Import,Import,[empty],Export<ref name="os">Not included in this office suite  but provided in the Desktop Environment.</ref>
+Feng Office Community Edition,Feng Office,2007,—,1.6.1,Fully online,[empty],[empty],[empty],[empty],[empty],[empty]
+GobeProductive,Gobe Software,1998,—,3.04 / 2.01,Windows  BeOS,[empty],[empty],[empty],[empty],[empty],[empty]
+G Suite (formerly Google Apps for Work),Google,2006,Writely,2014,Fully online,[empty],[empty],[empty],[empty],[empty],[empty]
+Google Docs,Google,2006,Writely,2014,Fully online,[empty],[empty],[empty],<ref></ref>,[empty],[empty]
+IBM Lotus Symphony,IBM,2007,IBM Workplace (based on OpenOffice.org),3.0.1,Windows  Linux  macOS,[empty],[empty],[empty],Import<ref></ref>,[empty],Export
+iWork,Apple Inc.,2005,AppleWorks<ref name="iWork_05"></ref>,Pages 7.3 / Numbers 5.3 / Keynote 8.3 (),macOS  iOS  online,[empty],[empty],[empty],Import,[empty],Export
+LibreOffice,The Document Foundation formerly Sun Microsystems and Go-oo,2010 September,OpenOffice.org  Go-oo <br />StarOffice,[empty],Windows  macOS  Linux  BSD  Unix  Solaris/Illumos,[empty],[empty],[empty],[empty],[empty],[empty]
+Lotus SmartSuite,IBM,1992 <ref>Release date of Lotus SmartSuite from http://www.findarticles.com/p/articles/mi_m3563/is_n7_v9/ai_14346979</ref>,—,9.8,Windows  OS/2,[empty],[empty],[empty],[empty],[empty],[empty]
+MarinerPak,Mariner Software,1996,—,10.0,Classic Mac OS  Mac OS X,[empty],[empty],Import,[empty],[empty],[empty]
+Microsoft Office,Microsoft,1990 (Macintosh)  1992 (Windows),Microsoft Word<br />Microsoft Excel<br />Microsoft PowerPoint,2016 (16.0) (Windows) <br />2016 (15.4.0) (macOS),Windows  macOS,[empty],[empty],[empty],<ref>File format reference for Word 2013  PowerPoint 2013  and Excel 2013</ref>,[empty],[empty]
+Microsoft Works (Discontinued in 2009),Microsoft,1986,—,Discontinued,Windows  Macintosh,Discontinued,[empty],[empty],[empty],[empty],[empty]
+MobiSystems OfficeSuite,MobiSystems,2004,—,Android version: 9.4.12687<ref></ref> iOS version: 5.9.10<ref></ref> Windows version: 2.20.12301.0<ref></ref>,Android  iOS  Windows<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+NeoOffice,Planamesa Software,2005-06-02,based on OpenOffice.org re-coded for macOS,3.2,macOS,[empty],[empty],[empty],[empty],[empty],[empty]
+ShareOffice,ShareMethods,2007 May,—,—,Fully online,[empty],[empty],[empty],[empty],[empty],[empty]
+StarOffice a.k.a. Oracle Open Office,Sun Microsystems for 10 years  Oracle for 1 year,1995,StarWriter,9.0,Windows  macOS  Linux  BSD  Unix  Solaris/Illumos,[empty],[empty],[empty],With free plugins,[empty],[empty]
+SoftMaker Office,SoftMaker,1987 (for DOS)  1994 (for Windows)<ref></ref>,—,2016 (Windows:  <ref></ref> Linux: <ref></ref>) <br /> Office HD for Android:  <br /> Office Mobile for Android:  <ref></ref><br /> 2010 (Windows Mobile  Windows CE) <br /> 2006 (Handheld PC),Windows  Linux  Android  Windows Mobile  Windows CE  Pocket PC),[empty],[empty],[empty],[empty],, only ODT export  no Import<ref name="ct">c't 14/2018 https://www.heise.de/ct/ausgabe/2018-14-LibreOffice-6-0-gegen-SoftMaker-Office-2018-fuer-Linux-4084433.html</ref>,Export
+OnlyOffice,Ascensio Systems,2010,—,—,Fully online,[empty],[empty],[empty],[empty],[empty],[empty]
+TeXmacs,Joris van der Hoeven,1996?,—,2012,Windows  macOS  Linux  BSD  Unix,[empty],[empty],[empty],[empty],[empty],[empty]
+ThinkFree Office,Haansoft,1998,—,3.5,Mac OS X v10.4  Windows  Linux  Fully online,[empty],[empty],[empty],[empty],<ref>ThinkFree on Ubuntu</ref><ref></ref>,[empty]
+Tiki Wiki CMS Groupware,Tiki Software Community Association,2002,—,12.2 LTS  9.8 LTS and 6.14 LTS,Fully online,[empty],[empty],search,search,search,Export and search
+WordPerfect Office,Corel,1991,WordPerfect (1982),[empty],Windows,[empty],[empty],[empty],[empty],[empty],Some versions
+WPS Office (Kingsoft Office),Kingsoft,1988,—,10.2 2018,Windows  Linux  Android  iOS,[empty],[empty],[empty],[empty],With free add-in<ref>How to compatible with ODF documents in WPS Office</ref><ref>OpenXML/ODF Translator Add-in for Office</ref>,Export in all versions; Import with subscription only
+Zoho Office Suite,Zoho Corp.,2005,—,[empty],Fully online,[empty],[empty],[empty],[empty],[empty],[empty]
 Software Name,Developer,First public release,Predecessor,Latest Stable version / (Date),Operating system,Price in USD,License,Microsoft Office (.doc  .xls...) support,Microsoft Office Open XML support,OpenDocument Support,Portable Document Format support

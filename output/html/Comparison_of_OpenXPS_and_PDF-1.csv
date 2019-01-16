@@ -7,7 +7,7 @@ Latest standardised version,Ecma International Standard ECMA-388 — Open XML Pa
 Language type,Markup language (XML)[5][6],PDF is a database of objects that may be created from PostScript or generated directly by an application.
 XML schema representation,XML Schema (W3C) (XSD) and RELAX NG (ISO/IEC 19757-2)[7],N/A
 Compression format,ZIP[5][6][8],LZW for both text and images; JPEG  JPEG 2000  and RLE for images only[9]
-Container structure,Open Packaging Conventions (ISO/IEC 29500-2:2008)[5][6],
+Container structure,Open Packaging Conventions (ISO/IEC 29500-2:2008)[5][6],[empty]
 3D graphic content,X3D (ISO/IEC 19775/19776)[10],U3D (Standard ECMA-363)[11][12]
 Full file content compression,Yes[13],Compression of collections of objects[14]
 Fast page by page download from web servers,Yes[13],Yes[13]

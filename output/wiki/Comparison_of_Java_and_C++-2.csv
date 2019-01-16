@@ -1,2 +1,7 @@
 C++,Java
-<source lang="cpp">a.x = 5; // modifies the object a</source>,<source lang="java">a.x = 5; // modifies the object referenced by a</source>
+<source lang="cpp"> const Foo *a; // it is not possible to modify the object              // pointed to by a through a</source>,<source lang="java"> final Foo a; // a declaration of a "final" reference:             // it is possible to modify the object               // but the reference will constantly point              // to the first object assigned to it</source>
+<source lang="cpp">a = new Foo();</source>,<source lang="java">a = new Foo(); // Only in constructor</source>
+<source lang="cpp">a->x = 5; // ILLEGAL</source>,<source lang="java">a.x = 5; // LEGAL  the object's members can still be modified // unless explicitly declared final in the declaring class</source>
+<source lang="cpp">Foo *const b = new Foo(); // a declaration of a "const" pointer</source>,<source lang="java">final Foo b = new Foo(); // a declaration of a "final" reference</source>
+<source lang="cpp">b = new Foo(); // ILLEGAL  it is not allowed to re-bind it</source>,<source lang="java">b = new Foo(); // ILLEGAL  it is not allowed to re-bind it</source>
+<source lang="cpp">b->x = 5; // LEGAL  the object can still be modified</source>,<source lang="java">b.x = 5; // LEGAL  the object can still be modified</source>

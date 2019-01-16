@@ -1,7 +1,8 @@
 Name,Mac OS X,Mac OS classic,Windows,Cygwin,BSD,Linux,Solaris,Java,OpenVMS,z/OS,AmigaOS,AIX,HPUX,iOS: iPhone  iPod Touch,webOS,Android
-Apache MINA SSHD,,,,,,,,,,,,,,,,
-Copssh,,,,,,,,,,,,,,,,
-CrushFTP Server,,,,,,,,,,,,,,,,
-Dropbear,,,,,,,,,,,,,,,,
-lsh,,,,,,,,,,,,,,,,??
-OpenSSH,,,,,,,,,,,,,,,,
+Apache MINA SSHD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Copssh,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CrushFTP Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dropbear,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+lsh,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],??
+OpenSSH,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]

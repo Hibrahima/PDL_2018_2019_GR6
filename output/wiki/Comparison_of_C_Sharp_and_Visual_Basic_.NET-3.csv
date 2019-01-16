@@ -1,1 +1,5 @@
 C#,Visual Basic .NET
+<source lang=csharp> for (int i = 0; i < number; ++i) {    // loop from zero up to one less than number  } </source>,<source lang=vbnet> For i As Integer = 0 To number - 1    ' loop from zero up to one less than number  Next </source>
+<source lang=csharp> for (int i = number; i >= 0; --i) {    // loops from number down to zero  } </source>,<source lang=vbnet> For i As Integer = number To 0 Step -1    ' loops from number down to zero  Next </source>
+<source lang=csharp> for (int i = 0; i <= 20; i += 2) {    // loops from 0 to 20 by 2's  } </source>,<source lang=vbnet> For i As Integer = 0 To 20 Step 2    ' loops from 0 to 20 by 2's  Next </source>
+<source lang=csharp> break; //breaks out of a loop </source>,<source lang=vbnet> Exit For 'breaks out of a for loop </source> <source lang=vbnet> Exit While 'breaks out of a while loop </source> <source lang=vbnet> Exit Do 'breaks out of a do loop </source>

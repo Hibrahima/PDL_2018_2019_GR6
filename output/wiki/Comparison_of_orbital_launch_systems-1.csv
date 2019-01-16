@@ -1,108 +1,108 @@
 Vehicle,Origin,Manufacturer,Payload mass to … (kg),Launches,Date of flight
-LEO,GTO,Other,First,Latest
-Alpha,,Firefly Aerospace,<ref></ref>,,to SSO,,2019<ref name=spacenews-20180806></ref>,
-Angara 1.2,,Khrunichev,<ref name="khru_angara"></ref>,,to SSO,,2020<ref name=Vorochko></ref></ref>}},
-Angara A5,,Khrunichev,<ref name="khru_angara" />,with KVTK with Briz-M <ref name="khru_angara" />,,,2014,2014
-Antares 230,,NG Innovation,<ref name=gunter-antares></ref>,,to SSO,<ref name="gsp-antares230"></ref>,2016,2018
-Ariane 5 ECA,,EADS Astrium,<ref name="ariane5-manual"></ref>,<ref name=sfn-20170602></ref></ref>}},,<ref name="gsp-ariane5"></ref>,2002,2018
-Ariane 6 A62,,ArianeGroup,<ref name="ariane6-manual"></ref>,<ref name=ariane6-manual />,to SSO to HEO to TLI <ref name=ariane6-manual />,,2020<ref name=sfn20160813></ref><ref name=gunter-ariane6></ref>,
-Ariane 6 A64,,ArianeGroup,<ref name=ariane6-manual />,+ <ref name=ariane6-manual />,to SSO}} to GEO to HEO to TLI <ref name=ariane6-manual />,,2021–2022<ref name=sfn20160813 /> (),
-Atlas V 401,,ULA,<ref name="GSP-AtlasV"></ref>,,to SSO,<ref name="GSP-AtlasV"/>,2002,2018
-Atlas V 411,,ULA,<ref name="GSP-AtlasV"/>,,to SSO,<ref name="GSP-AtlasV"/>,2006,2018
-Atlas V 421,,ULA,<ref name="GSP-AtlasV"/>,,to SSO,<ref name="GSP-AtlasV"/>,2007,2017
-Atlas V 431,,ULA,<ref name="GSP-AtlasV"/>,,to SSO,<ref name="GSP-AtlasV"/>,2005,2016
-Atlas V 501,,ULA,<ref name="GSP-AtlasV"/>,,to SSO 1.500 to GEO,<ref name="GSP-AtlasV"/>,2010,2015
-Atlas V 511,,ULA,<ref name="GSP-AtlasV"/>,,to SSO 1.750 to GEO,,,
-Atlas V 521,,ULA,<ref name="GSP-AtlasV"/>,,to SSO 2.760 to GEO,<ref name="GSP-AtlasV"/>,2003,2004
-Atlas V 531,,ULA,<ref name="GSP-AtlasV"/>,,to SSO 3.250 to GEO,<ref name="GSP-AtlasV"/>,2010,2013
-Atlas V 541,,ULA,<ref name="GSP-AtlasV"/>,,to SSO 3.730 to GEO,<ref name="GSP-AtlasV"/>,2011,2018
-Atlas V 551,,ULA,<ref name="GSP-AtlasV"/>,,to SSO 3.960 to GEO,<ref name="GSP-AtlasV"/>,2006,2018
-Atlas V 552,,ULA,<ref name=FAA></ref>,,,,2020<ref name=Bigelow-20160411></ref>,
-Atlas V N22<ref></ref> (for Starliner),,ULA,<ref></ref>,,,,2019<ref></ref>,
-Beta,,Firefly Aerospace,<ref></ref>,,to SSO,,<ref name=spacenews-20180806 />,
-BFR (fully reusable),,SpaceX,+<ref name=SpaceX-20180917></ref>,,to TMI<ref name=grush-20180917></ref>,,2022<ref></ref>,
-Bloostar,,Zero 2 Infinity,<ref name="Bloostar-PUG"></ref>,,to SSO<ref name="Bloostar-PUG"/>,,2019<ref name="Bloostar-Test"></ref>,
-Chetak,,Bellatrix Aerospace<ref name=Bellatrix-Aerospace></ref><ref name=researchmatters-20170707></ref>,,,to SSO<ref name=Bellatrix-Aerospace-Chetak></ref>,,2023<ref name=Forbes-Bellatrix-Aerospace></ref>,
-Cyclone-4M,,Yuzhnoye <br /> Yuzhmash,<ref name="spaceq-20170314"></ref>,<ref name="GSP-Cyclone"></ref>,to SSO<ref name="spaceq-20170314" />,,2020<ref name="spaceq-20170314" />,
-Delta IV M+(4.2),,ULA,<ref name=d4ppg/>,,to polar,<ref name="GSP-Delta4"/>,2002,2016
-Delta IV M+(5.4),,ULA,<ref name=d4ppg/>,,to polar,<ref name="GSP-Delta4"/>,2009,2017
-Delta IV Heavy,,ULA,<ref name=d4ppg></ref>,,to polar to TLI to TMI,<ref name="GSP-Delta4"></ref>,2004,2018
-Electron,,Rocket Lab,<ref name=rocketlab-electron></ref>,,to SSO,<ref name="gsp-electron"></ref>,2017,2018
-Epsilon,,IHI<ref name=IHIAERO></ref>,<ref name="IHI_Epsilon"></ref>,,to SSO,<ref name=gunter-epsilon></ref>,2013,2018
-Eris,,Gilmour Space Technologies,<ref name=gilmour-leo></ref>,,,,2020<ref name=gilmour-leo />,
-Falcon 9 Full Thrust (partially reusable),,SpaceX,–15.960<ref></ref>,<ref name="spacex-capabilities" /></ref>}},to polar<ref></ref>,<ref name=gsp-falcon9-ft></ref><ref name=gsp-falcon9-b5></ref></ref>}},2015,2018
-(expended),,SpaceX,<ref name="spacex-capabilities"></ref></ref>}},<ref name=koenigsmann-iac-2018 />–8.300<ref name="spacex-capabilities" />,to TMI,<ref name=gsp-falcon9-ex></ref>,2017,2018
-Falcon Heavy (partially reusable),,SpaceX,<ref name=reusable-capability></ref>–57.000<ref></ref>,<ref name="spacex-capabilities"/>–10.000,,<ref name="gsp-falcon-heavy"></ref>,2018,2018
-Falcon Heavy (expended),,SpaceX,<ref name="spacex-capabilities"/>,+<ref name=koenigsmann-iac-2018 />,to TMI,,,
-GSLV Mk II,,ISRO,<ref name=GSLV-ISRO />,<ref name="FL20180829"></ref>,,<ref name=gunter-gslv></ref>,2010,2018
-GSLV Mk III,,ISRO,<ref name="GSLV3-ISRO"></ref>,,,<ref name=gunter-gslv3></ref>,2017</ref>}},2018
-H-IIA 202,,Mitsubishi,<ref name="MHI-H2A"></ref>,<ref name="MHI-H2A" />,to SSO}} <ref name="MHI-H2A" />,<ref name="GSP-H2A"></ref>,2001,2018
-H-IIA 204,,Mitsubishi,,<ref name="MHI-H2A" />,,<ref name="GSP-H2A"/>,2006,2017
-H-IIB,,Mitsubishi,(ISS)<ref name="MHI-Fleet"></ref>,,,<ref name="GSP-H2B"></ref>,2009,2018
-H3,,Mitsubishi,,<ref name="MHI-Fleet" />,to SSO<ref name="JAXA-20150702"></ref>,,2020<ref name="JAXA-20150702" /><ref name=glenn-dual></ref>,
-Hyperbola-1,,i-Space,<ref name=spacenews-20180515></ref>,,,,2019<ref name=spacenews-20180515 />,
-Hyperbola-3,,i-Space,<ref name=spacenews-20180515 />,,,,2021<ref name=spacenews-20180515 />,
-Kuaizhou 1/1A,,ExPace,<ref name=gunter-kz1></ref>,,,<ref name=gunter-kz1/>,2013,2018
-Kuaizhou 11,,ExPace,<ref name=csf-kz11></ref>,,to SSO<ref name=csr-kuaizhou />,,2019<ref></ref>,
-Kuaizhou 21,,ExPace,<ref name=chinadaily-20171225></ref>,,,,2025<ref name=csr-kuaizhou></ref>,
-KSLV-2,,KARI,at 600–800 km<ref name="kari-kslv" />,,,,2021<ref name="kari-kslv"></ref>,
-LauncherOne,,Virgin Orbit,<ref name=sfn-20180831></ref>,,to SSO<ref></ref>,,2019<ref name=us-com />,
-Long March 2C,,CALT,,with CTS2,to SSO with YZ-1S<ref></ref>,<ref name=cz-2></ref>,1982,2018
-Long March 2D,,SAST,,,to SSO,<ref name=cz-2 />,1992,2018
-Long March 2F,,CALT,,,,<ref name=cz-2 />,1999,2016
-Long March 3A,,CALT,<ref name="LM3AUserManual"></ref>,,to SSO,<ref name=cz-3></ref>,1994,2018
-Long March 3B/E,,CALT,<ref name="LM3AUserManual" />,,to SSO,<ref name=cz-3 />,2007,2018
-Long March 3C,,CALT,<ref name="LM3AUserManual" />,,to SSO,<ref name=cz-3 />,2008,2016
-Long March 4B,,SAST,<ref name=cz-4 />,,to SSO,<ref name=cz-4></ref>,1999,2018
-Long March 4C,,SAST,<ref name=cz-4c></ref>,,to SSO,<ref name=cz-4c />,2006,2018
-Long March 5,,CALT,<ref name="longmarch5"></ref>,,to SSO<ref name=cz-5></ref> to TLI<ref name=lm5-jdse /> to TMI<ref name=lm5-jdse></ref>,<ref></ref>,2016,2017
-Long March 6,,SAST,,,to SSO<ref name="longmarch6"></ref>,<ref name=cz-6></ref>,2015,2017
-Long March 7,,CALT,<ref name="longmarch7"></ref>,,to SSO,,2016<ref name="spacechina-20160625"></ref>,2017
-Long March 8 (partially reusable)<ref name=spacenews-20180705 />,,CALT,<ref name=cz-8></ref>,,to SSO,,2021<ref name=spacenews-20180705 />,
-Long March 9<ref name=avweek-20130913></ref>,,CALT,<ref name=popmech-china-heavy></ref>,<ref name=xn-20180702></ref>,to TLI<ref name=popmech-china-heavy /> to TMI<ref name=spacenews-20180705></ref>,,2028<ref name=xn-20180919></ref>–2030<ref name=spacenews-20180705 />,
-Long March 11,,CALT,<ref></ref>,,to SSO,<ref name=cz-11></ref>,2015,2018
-Minotaur I,,NG Innovation,<ref name=osc20120228></ref>,,,<ref name=gsp-minotaur1></ref>,2000,2013
-Minotaur IV,,NG Innovation,<ref></ref>,,,<ref name=gsp-minotaur4></ref>,2010,2017
-Minotaur V,,NG Innovation,,<ref name=gsp-minotaur4 />,to HCO,<ref name=gsp-minotaur4 />,2013,2013
-Minotaur-C (Taurus)<ref></ref>,,NG Innovation,<ref name="taurus-factsheet"></ref>,,to SSO,<ref name="gsp-taurus"></ref>,1994,2017
-Miura 5,,PLD Space,<ref name=spacenews-miura5></ref>,,,0,2021<ref name=spacenews-miura5 />,
-New Glenn,}},Blue Origin,<ref name=spacenews-20170308></ref>,,,,2021<ref></ref>,
-New Line 1 (partially reusable)<ref name=popsci-20171218 />,,LinkSpace,,,}} to SSO<ref name=popsci-20171218 />,,2020<ref name=popsci-20171218></ref>,
-OmegA,}},NG Innovation,,<ref name=ng-omega></ref>,to GEO<ref name=ng-omega />,,2021<ref name=ng-omega />,
-OS-M1,,OneSpace,<ref name=spacetechasia-20180705 />,,to SSO,,2018<ref name=spacetechasia-20180705></ref></ref>}},
-Pegasus,,NG Innovation,<ref name=gsp-pegasus></ref>,,,<ref name=gsp-pegasus /><ref name="Pegasus"></ref>,1990,2016
-Prime,,Orbex,<ref></ref>,,to SSO<ref name=spacenews-prime></ref>,,2021<ref name=spacenews-prime />,
-Proton-M / M+,,Khrunichev,(M+)<ref name="proton-performance"></ref> (M)<ref name="Proton-M"></ref>,(M+) (M),,<ref></ref><ref></ref><ref name="proton-m-briz-m"></ref>,2001,2018
-PSLV-CA,,ISRO,<ref name="GSP-PSLV"/>,,to SSO,<ref name="GSP-PSLV"/>,2007,2018
-PSLV-XL,,ISRO,<ref name="GSP-PSLV"/>,,to SSO to TMI<ref name="Arunan2015"></ref>,<ref name="GSP-PSLV"></ref>,2008,2018
-Rokot,,Khrunichev,<ref name=GSP-Rokot></ref>,,to SSO,<ref name=GSP-Rokot />,1990,2018<ref name=interfax-20180823></ref>
-Safir,,Iranian Space Agency,<ref name=gsp-safir />,,,<ref name=gsp-safir></ref>,2008,2015
-Shavit,,IAI,<ref></ref>,,,<ref name=GSP-Shavit></ref>,1988,2016
-Simorgh,,Iranian Space Agency,<ref name=gsp-simorgh />,,,<ref name=gsp-simorgh></ref>,2017,2017
-Space Launch System Block 1 with ICPS,,NASA / Boeing (core) NG Innovation (SRBs),<ref name=NASA-SLS></ref>,,to TLI<ref name=NASA-SLS />,,2020<ref name=2020-slip></ref>,
-SLS Block 1B with EUS,,NASA / Boeing NG Innovation,<ref name=slsfact-20171011></ref>,,to TLI<ref name=NASA-SLS />,,2024<ref name=nsf-20180911></ref>,
-SLS Block 2 with EUS and advanced boosters,,NASA / Boeing NG Innovation,<ref name=creech-2014></ref>,,to HCO<ref name=NASA-SLS />,,2029<ref name=nsf-20170406></ref>,
-Soyuz-FG,,TsSKB-Progress,<ref name="Soyuz-FG"></ref>,,,<ref name="GSP-Soyuz-FG"></ref><ref name=GSP-Soyuz-Fregat />,2001,2018
-Soyuz-2.1a,,TsSKB-Progress,from Baikonur<ref name="soyuz-2-1 launch vehicle"></ref>,,,<ref name=GSP-Soyuz-2.1a></ref><ref name=GSP-Soyuz-Fregat></ref><ref name=GSP-Soyuz-Ikar-Volga />,2006,2018
-Soyuz-2.1b,,TsSKB-Progress,from Baikonur<ref name="soyuz-2-1 launch vehicle"/>,<ref name="soyuz-rocket"></ref>,,<ref name=GSP-Soyuz-2.1b></ref><ref name=GSP-Soyuz-Fregat />,2006,2018
-Soyuz ST-A,,TsSKB-Progress Arianespace,from Kourou<ref></ref>,with Fregat<ref name=Soyuz-ST></ref>,,<ref name=GSP-Soyuz-Fregat />,2011,2017
-Soyuz ST-B,,TsSKB-Progress Arianespace,from Kourou<ref name="soyuz-2 launch vehicle"></ref>,with Fregat<ref name=Soyuz-ST />,to SSO<ref></ref>,<ref name=GSP-Soyuz-Fregat />,2011,2018
-Soyuz-2-1v,,TsSKB-Progress,<ref name=GSP-Soyuz-2-1v />,,to SSO,<ref name=GSP-Soyuz-2-1v></ref>,2013,2018
-Soyuz-5,,TsSKB-Progress RSC Energia,<ref name=soyuz-5-perf></ref>,,to GEO,,2022<ref name=soyuz-5-project></ref><ref name=tass-20180123 />,
-Soyuz-5 super-heavy derivative,,TsSKB-Progress RSC Energia,–115.000<ref name=tass-20180123></ref>,,to TLI<ref name=energia-5v/>,,2028<ref name=energia-5v></ref>,
-SS-520,,IHI Aerospace,<ref name=gsp-ss520></ref>,,,<ref></ref>,2017<ref></ref>,2018
-SSLV,,ISRO,<ref name="GSP-SSLV"></ref>,,to SSO,,2019<ref name=pietrobon-india></ref>,
-Unha,,KCST,<ref></ref>,,,<ref name=GSP-Unha></ref>,2009,2016
-Vector-R,,Vector Space Systems,<ref name=vector-space-com></ref>,,,,2019<ref name=us-com></ref>,
-Vector-H,,Vector Space Systems,<ref name=gsp-vector></ref>,,,,2019<ref name=gsp-vector />,
-Vega,,ESA / ASI,<ref></ref>,,to SSO<ref name=vega-manual></ref>,<ref name=GSP-Vega></ref>,2012,2018
-Vega C,,ESA / ASI,<ref name=avio-vega-c></ref>,,,,2019<ref name=avio-vega-c />,
-Vega E,,ESA / ASI,<ref></ref>,,,,2024<ref></ref>,
-Vulcan / Centaur,,ULA,}}<ref name=ULA-20180927></ref>,}}<ref name=ULA-20180927 />,}} to GEO<ref name=ULA-20180927 /><ref name=ULA-20150505></ref>,,2021<ref name="spacenews-vulcan"></ref>,
-Vulcan / ACES,,ULA,}}<ref name=d4ppg /><ref></ref>,}},}} to TLI,,2023<ref name=ULA-2016-052></ref>,
-Zenit-3F,,Yuzhnoye,,,to GEO<ref></ref>,<ref name=GSP-Zenit3></ref>,2011,2017
-Zenit-3SL,,Yuzhmash RSC Energia,<ref name=GSP-Zenit3 />,,,<ref name=GSP-Zenit3 />,1999,2014
-Zenit-3SLB / 3M,,Yuzhmash RSC Energia,,<ref name=GSP-Zenit3 />,,<ref name=GSP-Zenit3 />,2008,2013
-Zero,,Interstellar Technologies,,,to SSO<ref name=spacenews-zero />,,2020<ref name=spacenews-zero></ref>,
-Zhuque-1,,LandSpace,<ref name=spacenews-20180802></ref>,,to SSO,<ref name=nsf-20181027></ref>,2018<ref name=nsf-20181027 />,2018
-Zhuque-2,,LandSpace,<ref name=spacenews-20180710></ref>,,to SSO,,2020<ref name=viasatellite-20180718></ref>,
+LEO,GTO,Other,First,Latest,[added]
+Alpha,[empty],Firefly Aerospace,<ref></ref>,[empty],to SSO
+Angara 1.2,[empty],Khrunichev,<ref name="khru_angara"></ref>,[empty],to SSO
+Angara A5,[empty],Khrunichev,<ref name="khru_angara" />,with KVTK with Briz-M <ref name="khru_angara" />,[empty]
+Antares 230,[empty],NG Innovation,<ref name=gunter-antares></ref>,[empty],to SSO
+Ariane 5 ECA,[empty],EADS Astrium,<ref name="ariane5-manual"></ref>,<ref name=sfn-20170602></ref></ref>}},[empty]
+Ariane 6 A62,[empty],ArianeGroup,<ref name="ariane6-manual"></ref>,<ref name=ariane6-manual />,to SSO to HEO to TLI <ref name=ariane6-manual />
+Ariane 6 A64,[empty],ArianeGroup,<ref name=ariane6-manual />,+ <ref name=ariane6-manual />,to SSO}} to GEO to HEO to TLI <ref name=ariane6-manual />
+Atlas V 401,[empty],ULA,<ref name="GSP-AtlasV"></ref>,[empty],to SSO
+Atlas V 411,[empty],ULA,<ref name="GSP-AtlasV"/>,[empty],to SSO
+Atlas V 421,[empty],ULA,<ref name="GSP-AtlasV"/>,[empty],to SSO
+Atlas V 431,[empty],ULA,<ref name="GSP-AtlasV"/>,[empty],to SSO
+Atlas V 501,[empty],ULA,<ref name="GSP-AtlasV"/>,[empty],to SSO 1.500 to GEO
+Atlas V 511,[empty],ULA,<ref name="GSP-AtlasV"/>,[empty],to SSO 1.750 to GEO
+Atlas V 521,[empty],ULA,<ref name="GSP-AtlasV"/>,[empty],to SSO 2.760 to GEO
+Atlas V 531,[empty],ULA,<ref name="GSP-AtlasV"/>,[empty],to SSO 3.250 to GEO
+Atlas V 541,[empty],ULA,<ref name="GSP-AtlasV"/>,[empty],to SSO 3.730 to GEO
+Atlas V 551,[empty],ULA,<ref name="GSP-AtlasV"/>,[empty],to SSO 3.960 to GEO
+Atlas V 552,[empty],ULA,<ref name=FAA></ref>,[empty],[empty]
+Atlas V N22<ref></ref> (for Starliner),[empty],ULA,<ref></ref>,[empty],[empty]
+Beta,[empty],Firefly Aerospace,<ref></ref>,[empty],to SSO
+BFR (fully reusable),[empty],SpaceX,+<ref name=SpaceX-20180917></ref>,[empty],to TMI<ref name=grush-20180917></ref>
+Bloostar,[empty],Zero 2 Infinity,<ref name="Bloostar-PUG"></ref>,[empty],to SSO<ref name="Bloostar-PUG"/>
+Chetak,[empty],Bellatrix Aerospace<ref name=Bellatrix-Aerospace></ref><ref name=researchmatters-20170707></ref>,[empty],[empty],to SSO<ref name=Bellatrix-Aerospace-Chetak></ref>
+Cyclone-4M,[empty],Yuzhnoye <br /> Yuzhmash,<ref name="spaceq-20170314"></ref>,<ref name="GSP-Cyclone"></ref>,to SSO<ref name="spaceq-20170314" />
+Delta IV M+(4.2),[empty],ULA,<ref name=d4ppg/>,[empty],to polar
+Delta IV M+(5.4),[empty],ULA,<ref name=d4ppg/>,[empty],to polar
+Delta IV Heavy,[empty],ULA,<ref name=d4ppg></ref>,[empty],to polar to TLI to TMI
+Electron,[empty],Rocket Lab,<ref name=rocketlab-electron></ref>,[empty],to SSO
+Epsilon,[empty],IHI<ref name=IHIAERO></ref>,<ref name="IHI_Epsilon"></ref>,[empty],to SSO
+Eris,[empty],Gilmour Space Technologies,<ref name=gilmour-leo></ref>,[empty],[empty]
+Falcon 9 Full Thrust (partially reusable),[empty],SpaceX,–15.960<ref></ref>,<ref name="spacex-capabilities" /></ref>}},to polar<ref></ref>
+(expended),[empty],SpaceX,<ref name="spacex-capabilities"></ref></ref>}},<ref name=koenigsmann-iac-2018 />–8.300<ref name="spacex-capabilities" />,to TMI
+Falcon Heavy (partially reusable),[empty],SpaceX,<ref name=reusable-capability></ref>–57.000<ref></ref>,<ref name="spacex-capabilities"/>–10.000,[empty]
+Falcon Heavy (expended),[empty],SpaceX,<ref name="spacex-capabilities"/>,+<ref name=koenigsmann-iac-2018 />,to TMI
+GSLV Mk II,[empty],ISRO,<ref name=GSLV-ISRO />,<ref name="FL20180829"></ref>,[empty]
+GSLV Mk III,[empty],ISRO,<ref name="GSLV3-ISRO"></ref>,[empty],[empty]
+H-IIA 202,[empty],Mitsubishi,<ref name="MHI-H2A"></ref>,<ref name="MHI-H2A" />,to SSO}} <ref name="MHI-H2A" />
+H-IIA 204,[empty],Mitsubishi,[empty],<ref name="MHI-H2A" />,[empty]
+H-IIB,[empty],Mitsubishi,(ISS)<ref name="MHI-Fleet"></ref>,[empty],[empty]
+H3,[empty],Mitsubishi,[empty],<ref name="MHI-Fleet" />,to SSO<ref name="JAXA-20150702"></ref>
+Hyperbola-1,[empty],i-Space,<ref name=spacenews-20180515></ref>,[empty],[empty]
+Hyperbola-3,[empty],i-Space,<ref name=spacenews-20180515 />,[empty],[empty]
+Kuaizhou 1/1A,[empty],ExPace,<ref name=gunter-kz1></ref>,[empty],[empty]
+Kuaizhou 11,[empty],ExPace,<ref name=csf-kz11></ref>,[empty],to SSO<ref name=csr-kuaizhou />
+Kuaizhou 21,[empty],ExPace,<ref name=chinadaily-20171225></ref>,[empty],[empty]
+KSLV-2,[empty],KARI,at 600–800 km<ref name="kari-kslv" />,[empty],[empty]
+LauncherOne,[empty],Virgin Orbit,<ref name=sfn-20180831></ref>,[empty],to SSO<ref></ref>
+Long March 2C,[empty],CALT,[empty],with CTS2,to SSO with YZ-1S<ref></ref>
+Long March 2D,[empty],SAST,[empty],[empty],to SSO
+Long March 2F,[empty],CALT,[empty],[empty],[empty]
+Long March 3A,[empty],CALT,<ref name="LM3AUserManual"></ref>,[empty],to SSO
+Long March 3B/E,[empty],CALT,<ref name="LM3AUserManual" />,[empty],to SSO
+Long March 3C,[empty],CALT,<ref name="LM3AUserManual" />,[empty],to SSO
+Long March 4B,[empty],SAST,<ref name=cz-4 />,[empty],to SSO
+Long March 4C,[empty],SAST,<ref name=cz-4c></ref>,[empty],to SSO
+Long March 5,[empty],CALT,<ref name="longmarch5"></ref>,[empty],to SSO<ref name=cz-5></ref> to TLI<ref name=lm5-jdse /> to TMI<ref name=lm5-jdse></ref>
+Long March 6,[empty],SAST,[empty],[empty],to SSO<ref name="longmarch6"></ref>
+Long March 7,[empty],CALT,<ref name="longmarch7"></ref>,[empty],to SSO
+Long March 8 (partially reusable)<ref name=spacenews-20180705 />,[empty],CALT,<ref name=cz-8></ref>,[empty],to SSO
+Long March 9<ref name=avweek-20130913></ref>,[empty],CALT,<ref name=popmech-china-heavy></ref>,<ref name=xn-20180702></ref>,to TLI<ref name=popmech-china-heavy /> to TMI<ref name=spacenews-20180705></ref>
+Long March 11,[empty],CALT,<ref></ref>,[empty],to SSO
+Minotaur I,[empty],NG Innovation,<ref name=osc20120228></ref>,[empty],[empty]
+Minotaur IV,[empty],NG Innovation,<ref></ref>,[empty],[empty]
+Minotaur V,[empty],NG Innovation,[empty],<ref name=gsp-minotaur4 />,to HCO
+Minotaur-C (Taurus)<ref></ref>,[empty],NG Innovation,<ref name="taurus-factsheet"></ref>,[empty],to SSO
+Miura 5,[empty],PLD Space,<ref name=spacenews-miura5></ref>,[empty],[empty]
+New Glenn,}},Blue Origin,<ref name=spacenews-20170308></ref>,[empty],[empty]
+New Line 1 (partially reusable)<ref name=popsci-20171218 />,[empty],LinkSpace,[empty],[empty],}} to SSO<ref name=popsci-20171218 />
+OmegA,}},NG Innovation,[empty],<ref name=ng-omega></ref>,to GEO<ref name=ng-omega />
+OS-M1,[empty],OneSpace,<ref name=spacetechasia-20180705></ref>,[empty],to SSO
+Pegasus,[empty],NG Innovation,<ref name=gsp-pegasus></ref>,[empty],[empty]
+Prime,[empty],Orbex,<ref></ref>,[empty],to SSO<ref name=spacenews-prime></ref>
+Proton-M / M+,[empty],Khrunichev,(M+)<ref name="proton-performance"></ref> (M)<ref name="Proton-M"></ref>,(M+) (M),[empty]
+PSLV-CA,[empty],ISRO,<ref name="GSP-PSLV"/>,[empty],to SSO
+PSLV-XL,[empty],ISRO,<ref name="GSP-PSLV"/>,[empty],to SSO to TMI<ref name="Arunan2015"></ref>
+Rokot,[empty],Khrunichev,<ref name=GSP-Rokot></ref>,[empty],to SSO
+Safir,[empty],Iranian Space Agency,<ref name=gsp-safir />,[empty],[empty]
+Shavit,[empty],IAI,<ref></ref>,[empty],[empty]
+Simorgh,[empty],Iranian Space Agency,<ref name=gsp-simorgh />,[empty],[empty]
+Space Launch System Block 1 with ICPS,[empty],NASA / Boeing (core) NG Innovation (SRBs),<ref name=NASA-SLS></ref>,[empty],to TLI<ref name=NASA-SLS />
+SLS Block 1B with EUS,[empty],NASA / Boeing NG Innovation,<ref name=slsfact-20171011></ref>,[empty],to TLI<ref name=NASA-SLS />
+SLS Block 2 with EUS and advanced boosters,[empty],NASA / Boeing NG Innovation,<ref name=creech-2014></ref>,[empty],to HCO<ref name=NASA-SLS />
+Soyuz-FG,[empty],TsSKB-Progress,<ref name="Soyuz-FG"></ref>,[empty],[empty]
+Soyuz-2.1a,[empty],TsSKB-Progress,from Baikonur<ref name="soyuz-2-1 launch vehicle"></ref>,[empty],[empty]
+Soyuz-2.1b,[empty],TsSKB-Progress,from Baikonur<ref name="soyuz-2-1 launch vehicle"/>,<ref name="soyuz-rocket"></ref>,[empty]
+Soyuz ST-A,[empty],TsSKB-Progress Arianespace,from Kourou<ref></ref>,with Fregat<ref name=Soyuz-ST></ref>,[empty]
+Soyuz ST-B,[empty],TsSKB-Progress Arianespace,from Kourou<ref name="soyuz-2 launch vehicle"></ref>,with Fregat<ref name=Soyuz-ST />,to SSO<ref></ref>
+Soyuz-2-1v,[empty],TsSKB-Progress,<ref name=GSP-Soyuz-2-1v />,[empty],to SSO
+Soyuz-5,[empty],TsSKB-Progress RSC Energia,<ref name=soyuz-5-perf></ref>,[empty],to GEO
+Soyuz-5 super-heavy derivative,[empty],TsSKB-Progress RSC Energia,–115.000<ref name=tass-20180123></ref>,[empty],to TLI<ref name=energia-5v/>
+SS-520,[empty],IHI Aerospace,<ref name=gsp-ss520></ref>,[empty],[empty]
+SSLV,[empty],ISRO,<ref name="GSP-SSLV"></ref>,[empty],to SSO
+Unha,[empty],KCST,<ref></ref>,[empty],[empty]
+Vector-R,[empty],Vector Space Systems,<ref name=vector-space-com></ref>,[empty],[empty]
+Vector-H,[empty],Vector Space Systems,<ref name=gsp-vector></ref>,[empty],[empty]
+Vega,[empty],ESA / ASI,<ref></ref>,[empty],to SSO<ref name=vega-manual></ref>
+Vega C,[empty],ESA / ASI,<ref name=avio-vega-c></ref>,[empty],[empty]
+Vega E,[empty],ESA / ASI,<ref></ref>,[empty],[empty]
+Vulcan / Centaur,[empty],ULA,}}<ref name=ULA-20180927></ref>,}}<ref name=ULA-20180927 />,}} to GEO<ref name=ULA-20180927 /><ref name=ULA-20150505></ref>
+Vulcan / ACES,[empty],ULA,}}<ref name=d4ppg /><ref></ref>,}},}} to TLI
+Zenit-3F,[empty],Yuzhnoye,[empty],[empty],to GEO<ref></ref>
+Zenit-3SL,[empty],Yuzhmash RSC Energia,<ref name=GSP-Zenit3 />,[empty],[empty]
+Zenit-3SLB / 3M,[empty],Yuzhmash RSC Energia,[empty],<ref name=GSP-Zenit3 />,[empty]
+Zero,[empty],Interstellar Technologies,[empty],[empty],to SSO<ref name=spacenews-zero />
+Zhuque-1,[empty],LandSpace,<ref name=spacenews-20180802></ref>,[empty],to SSO
+Zhuque-2,[empty],LandSpace,<ref name=spacenews-20180710></ref>,[empty],to SSO

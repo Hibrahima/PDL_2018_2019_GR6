@@ -19,7 +19,7 @@ GeoMedia,Viewer(s),No,Yes,No,No,No,CLIX,Yes,KML
 JUMP GIS,Yes,Yes,Java,Java,Java,Java,Java,No,No
 Kosmo,Yes,Yes,Java,Java,Java,Java,Java,No,No
 LandSerf,No,No,Java,Java,Java,Java,Java,No,No
-MapDotNet,No,No,Yes,No,No,No,No,Yes
+MapDotNet,No,No,Yes,No,No,No,No,Yes,[added]
 Manifold System,No,No,Yes,No,No,No,No,Yes,No
 Microsoft MapPoint,Discontinued,No,Yes,No,No,No,No,Yes,No
 Pitney Bowes MapInfo Pro,Viewer(s),No,Yes,No,No,No,Yes,Yes,No

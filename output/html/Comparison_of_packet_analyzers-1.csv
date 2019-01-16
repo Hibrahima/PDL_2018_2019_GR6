@@ -1,11 +1,11 @@
-,Creator,Latest release,User interface,Software license,Cost
-Analyze This,Comoe Networks,,Web GUI,N/A,?
+[empty],Creator,Latest release,User interface,Software license,Cost
+Analyze This,Comoe Networks,[empty],Web GUI,N/A,?
 Cain and Abel,Massimiliano Montoro,4.9.56 / April 7  2014,GUI,Freeware,Free
 Capsa,Colasoft,11.1 / April 24  2018 (2018-04-24)[1],GUI,Proprietary,$0-$995  depending on version[2]
 Carnivore,Federal Bureau of Investigation,?,?,N/A,?
 Charles Web Debugging Proxy,Karl van Randow,4.1.4 / July 10  2017,GUI,?,$30-$50 (Free Trial)
-Clarified Analyzer,Clarified Networks,,GUI,Proprietary,Non-free
-Clusterpoint Network Traffic Surveillance System,Clusterpoint,,web GUI,Proprietary,?
+Clarified Analyzer,Clarified Networks,[empty],GUI,Proprietary,Non-free
+Clusterpoint Network Traffic Surveillance System,Clusterpoint,[empty],web GUI,Proprietary,?
 CommView,TamoSoft,6.5,GUI,Proprietary,$299-$599  $149 1 year subscription
 dSniff,Dug Song,2.3 / December 17  2000[3],CLI,BSD License,Free
 EtherApe,Juan Toledo,0.9.14 / February 6  2016[4],GUI,GNU General Public License,Free
@@ -17,7 +17,7 @@ Microsoft Message Analyzer,Microsoft,1.4 / October 28  2016 [8],GUI,Proprietary,
 Microsoft Network Monitor,Microsoft,3.4 / June 24  2010,GUI,Proprietary,Free
 netsniff-ng,Daniel Borkmann,0.6.2 / November 7  2016,CLI,GNU General Public License,Free
 ngrep,Jordan Ritter,1.45 (11/18/06),CLI,BSD-style,Free
-Observer,Viavi Solutions (formerly Network Instruments),,GUI,Proprietary,Price on request
+Observer,Viavi Solutions (formerly Network Instruments),[empty],GUI,Proprietary,Price on request
 OmniPeek (formerly AiroPeek  EtherPeek),Savvius (formerly WildPackets),11.1 / November  2017,GUI,Proprietary,$1194-$5994  depending on version[9]
 SteelCentral Transaction Analyzer,OPNET Technologies/Riverbed Technology,17.0.T-PL1 / June 9  2014[10],GUI,Proprietary,Non-free
 snoop,Sun Microsystems,Solaris 10 / December 11  2006,CLI,CDDL,Free

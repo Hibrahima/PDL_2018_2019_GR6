@@ -1,33 +1,33 @@
 Editor,WYSIWYG,FTP Upload,WebDAV Upload,Server-side scripting,Shared editing,Spell checking,Templates,Templates Update Sync,Page Preview,Form Handler
-Amaya,,,,,,,<ref>Amaya homepage on templates</ref>,,,
-Aptana,,,,(via plugins),,,(i.e. Snippets),,,
-Arachnophilia,,,,,,,,,,
-Bluefish,,,,,,,,,,
-BlueGriffon,,(add-on)<ref>Bluegriffon's FireFTP ads shortcut to FTP client</ref>,,,,,(via commercial proprietary add-on)<ref>Bluegriffon's commercial proprietary One click templates add-on</ref>,,,
-Brackets,"Live Preview" in-browser,(via extension),,,,(via extension),(via extension),,,
-Claris Homepage,,,,,,,,,,
-Codelobster,,,,,,,,,,
-CoffeeCup HTML Editor,,,,,,,,,,
-Dreamweaver,,,,,,,,,,
-EZGenerator,,,,,,,,,,
-Freeway,,,,,,,,,,
-GoLive,,,,,,,,,,
-HTML-Kit,,,,,,,,,,
-KompoZer,,,,,,,,,,
-LibreOffice,,,,,,,,,,
-Maqetta,,?,?,?,?,?,?,?,,?
-Microsoft Expression Web,,,,,,,,,,
-Microsoft FrontPage,,,,,,,,,,
-Microsoft SharePoint Designer,,,,,,,,,,
-Microsoft Visual Web Developer,,,,,,,,,,
-Mobirise,,,,,,,,,,
-Web Architect,,,,,,,,,,
-Nvu,,,,,,,,,,
-openElement,,,,,,,,,,
-OpenOffice.org,,,,,,,,,,
-oXygenXML Editor,(more like WYSIWYM),and SFTP,,,,,,,(via XSLT to browser),maybe  depends on type.
-Quanta Plus,,,(cvs instead),,,,,,,
-RocketCake,,,,,,,,,,
-SeaMonkey Composer,,,,,,,,,,
-TOWeb,,,,,,,,,,
+Amaya,[empty],[empty],[empty],[empty],[empty],[empty],<ref>Amaya homepage on templates</ref>,[empty],[empty],[empty]
+Aptana,[empty],[empty],[empty],(via plugins),[empty],[empty],(i.e. Snippets),[empty],[empty],[empty]
+Arachnophilia,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bluefish,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BlueGriffon,[empty],(add-on)<ref>Bluegriffon's FireFTP ads shortcut to FTP client</ref>,[empty],[empty],[empty],[empty],(via commercial proprietary add-on)<ref>Bluegriffon's commercial proprietary One click templates add-on</ref>,[empty],[empty],[empty]
+Brackets,"Live Preview" in-browser,(via extension),[empty],[empty],[empty],(via extension),(via extension),[empty],[empty],[empty]
+Claris Homepage,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Codelobster,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CoffeeCup HTML Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dreamweaver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+EZGenerator,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Freeway,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GoLive,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HTML-Kit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KompoZer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LibreOffice,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Maqetta,[empty],?,?,?,?,?,?,?,[empty],?
+Microsoft Expression Web,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft FrontPage,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft SharePoint Designer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Visual Web Developer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mobirise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Web Architect,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nvu,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+openElement,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenOffice.org,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+oXygenXML Editor,(more like WYSIWYM),and SFTP,[empty],[empty],[empty],[empty],[empty],[empty],(via XSLT to browser),maybe  depends on type.
+Quanta Plus,[empty],[empty],(cvs instead),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RocketCake,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SeaMonkey Composer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TOWeb,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Editor,WYSIWYG,FTP Upload,WebDAV Upload,Server-side scripting,Shared editing,Spell checking,Templates,Templates Update Sync,Page Preview,Form Handler

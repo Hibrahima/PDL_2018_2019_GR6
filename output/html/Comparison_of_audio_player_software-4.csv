@@ -6,12 +6,12 @@ Audion,?,?,?,?,?,?,?,?,?,?
 cmus,Yes,No,No,No,No,No,No,Yes,No,No
 Cog,?,?,?,?,?,?,?,?,?,?
 Clementine,Yes,Yes,No,No,No,?,No,No,No,No
-Exaile,Yes,Yes,Yes[20],No,No,Yes[19],Yes[19],Yes,Yes[19],No
-foobar2000,Yes,Yes,Yes,Yes[19],Yes[19],Yes[19],Partial[19],Yes,Partial[19],Yes
+Exaile,Yes,Yes,Yes[18],No,No,Yes[a],Yes[a],Yes,Yes[a],No
+foobar2000,Yes,Yes,Yes,Yes[a],Yes[a],Yes[a],Partial[a],Yes,Partial[a],Yes
 iTunes,Yes,Yes,No,No,No,No,Yes,Yes,No,No
 JRiver Media Center,Yes,Yes,Yes,Yes,Yes,Yes[featurenotes 8],Yes,Yes,Yes,No
 JuK,?,?,?,?,?,?,?,?,?,?
-MediaMonkey,Yes,Yes,Yes,Partial[19],Partial[19],Partial[19],Partial[19],Yes,Yes,?
+MediaMonkey,Yes,Yes,Yes,Partial[a],Partial[a],Partial[a],Partial[a],Yes,Yes,?
 MPXPLAY,?,?,?,?,?,?,?,?,?,?
 MusicBee,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes
 Musicmatch Jukebox,?,Partial[featurenotes 9],?,No,No,?,?,?,?,?

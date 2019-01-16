@@ -1,46 +1,44 @@
-,Temporary table,Materialized view
-4th Dimension,,
-ADABAS,,
-Adaptive Server Enterprise,1,- see precomputed result sets
-Advantage Database Server,,(only common views)
-Altibase,,(only common views)
-Apache Derby,,
-ClustrixDB,,
-CUBRID,,
-DB2,,
-Empress Embedded Database,,
-EXASolution,,
-Firebird,,(only common views)
-HSQLDB,,
-H2,,(only common views)
-Informix Dynamic Server,,2
-Ingres,,
-InterBase,,
-Linter SQL RDBMS,,
-LucidDB,,
-MariaDB,,4
-MaxDB,,
-Microsoft Access (JET),,
-Microsoft Visual Foxpro,,
-Microsoft SQL Server,,
-Microsoft SQL Server Compact (Embedded Database),,
-Mimer SQL,,
-MonetDB,,
-MySQL,,4
-OpenBase SQL,,
-Oracle,,
-Oracle Rdb,,
-OpenLink Virtuoso,,
-Pervasive PSQL,,
-Polyhedra DBMS,,(only common views)
-PostgreSQL,,5
-Raima Database Manager,,
-RDM Server,,
-SAP HANA,,
-solidDB,,(only common views)
-SQL Anywhere,,
-SQLite,,
-Teradata,,
-UniData,,
-UniVerse,,
-,Temporary table,Materialized view
+[empty],R-/R+ tree,Hash,Expression,Partial,Reverse,Bitmap,GiST,GIN,Full-text,Spatial,FOT,Duplicate index prevention
+4th Dimension,[empty],Cluster,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ADABAS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Adaptive Server Enterprise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Advantage Database Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Apache Derby,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty]
+ClustrixDB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CUBRID,[empty],[empty],<ref name="CUBRID 9.0 release"></ref>,<ref name="CUBRID 9.0 release"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DB2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty]
+Empress Embedded Database,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+EXASolution,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Firebird,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty]
+HSQLDB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+H2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,<ref></ref>,[empty],[empty]
+Informix Dynamic Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty]
+Ingres,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+InterBase,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linter SQL RDBMS10,[empty],temporary indexes for equality joins,for some scalar functions like LOWER and UPPER,[empty],[empty],[empty],[empty],[empty],<ref></ref>,<ref></ref>,[empty],[empty]
+LucidDB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MariaDB,Aria and MyISAM tables and  since v10.2.2  InnoDB tables only<ref name="SPATIAL INDEX"></ref>,MEMORY <ref name="mdb_indices"></ref> InnoDB 5 tables only,PERSISTENT virtual columns only<ref></ref>,[empty],[empty],[empty],[empty],[empty],<ref name="mdb_ft"></ref>,Aria and MyISAM tables and  since v10.2.2  InnoDB tables only<ref name="SPATIAL INDEX"/>,[empty],[empty]
+MaxDB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Access (JET),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty]
+Microsoft Visual Foxpro,[empty],[empty],[empty],[empty],2,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft SQL Server,Spatial Indexes,4,3,[empty],on Computed columns3,Bitmap filter index for Star Join Query,[empty],[empty],<ref></ref>,<ref></ref>,[empty],[empty]
+Microsoft SQL Server Compact (Embedded Database),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty]
+Mimer SQL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MonetDB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MySQL,Spatial Indexes<ref></ref>,MEMORY  Cluster (NDB)  InnoDB 5 tables only,<ref></ref>,[empty],[empty],[empty],[empty],[empty],MyISAM tables<ref name="Bugs"></ref> and  since v5.6.4  InnoDB tables<ref></ref>,MyISAM tables<ref name="Creating Spatial Indexes"></ref> and  since v5.7.5  InnoDB tables<ref></ref>,[empty],[empty]
+OpenLink Virtuoso,[empty],Cluster,[empty],[empty],[empty],[empty],[empty],[empty],[empty],(Commercial only),[empty],[empty]
+Oracle,11,Cluster Tables,[empty],6,[empty],[empty],[empty],[empty],<ref></ref>,<ref></ref>,[empty],<ref>Oracle / PLSQL: ORA-01408 Error Message</ref>
+Oracle Rdb,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pervasive PSQL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Polyhedra DBMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PostgreSQL,[empty],[empty],[empty],[empty],7,[empty],[empty],[empty],<ref></ref>,PostGIS<ref></ref>,[empty],[empty]
+Raima Database Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RDM Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SAP HANA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+solidDB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SQL Anywhere,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SQLite,<ref>The SQLite R*Tree Module</ref>,[empty],<ref>SQLite Expression Indexes</ref>,[empty],[empty],[empty],[empty],[empty],<ref>SQLite FTS3 Extension</ref>,SpatiaLite<ref></ref>,[empty],[empty]
+SQream DB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Teradata,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty]
+UniVerse,[empty],[empty],3,3,3,[empty],[empty],[empty],[empty],<ref>geospatial</ref>,[empty],[empty]
+[empty],R-/R+ tree,Hash,Expression,Partial,Reverse,Bitmap,GiST,GIN,Full-text,Spatial,FOT,Duplicate index prevention

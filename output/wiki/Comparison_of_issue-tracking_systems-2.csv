@@ -1,40 +1,40 @@
 System,Documentation integration/generation  reporting,Test planning integration,Customizable workflow,Unicode support,Custom fields,SLA<ref name="ReferenceSLA">System supports service level agreement management</ref>,Plugin API<ref name="ReferenceAPI">System has a plugin API to allow integration with other products</ref>,Multiple projects,Full-text search,Indexed full-text search,Indexed file search
-Apache Bloodhound,, integrated wiki,,,,,,,(as of 0.6),,<ref></ref> uses Whoosh,
-Assembla Tickets,, Wiki syntax  email notification  linking to Subversion commits  document manager  charts  reports  notifications,,,,,,,,,,
-Axosoft,, Team Wiki  Burndown  GitHub and TortoiseSVN integration  dashboards  custom reports for OnPremises  e-mail notifications and alerts  customer portal  RSS,,,,,,,,,,
-Bugzilla,, reporting: integrated reports and charts  scheduled reports by mail,<ref></ref>,,,,,,,<ref></ref>,When using MySQL MyISAM<ref></ref> or Oracle Database<ref></ref> but not PostgreSQL<ref></ref>,
-Debbugs,,,,,,,,,,,
-Faveo Helpdesk,, Integrated Social Media  In-built Knowledge Base and Reporting,,,,,,,,,,
-FogBugz,, Integrated wiki,,,,,,<ref></ref>,,<ref></ref>,<ref></ref>,<ref></ref>
-Fossil,, Integrated Wiki in addition to integrated versioned project documentation via web ui.,,,,,,,<ref></ref>,<ref></ref>,,
-FusionForge,, integrated Mediawiki  discussion forums  news blogs  email integration  export to CSV  reporting graphs,,,,,,,,,,
-GLPI,, Contains a proprietary knowledge base of sorts,,,,,,,,,,
-GNATS,,,,,,,,,,,
-HP Quality Center,,,,,,,,,,,
-IBM Rational ClearQuest,, reporting: integrated charts and interface to Crystal Reports,,,,,,,,<ref></ref>,uses Solr and Lucene,
-IBM Rational Team Concert,,,,,,,,,,,
-Jira,, Dashboard with reporting widgets (Open Social) Excel  Word  customizable charts  Confluence (Enterprise wiki),<ref></ref>,,,,,<ref></ref>,,<ref name="JIRA - Performing Text Searches" ></ref>,Uses Lucene<ref name="JIRA - Performing Text Searches" />,<ref></ref>
-Liberum Help Desk,,,,,,,,,,,
-MantisBT,, Integration of MediaWiki  DokuWiki  XWiki,,,,,,,,<ref></ref>,,<ref></ref>
-Microsoft Dynamics CRM,, reporting: integrated charts and reports  export to Excel  Mail Merge,,,,,,,,,,
-org-mode,, org-mode has built-in export to HTML  Latex  .md and literate programming capabilities for multiple languages in a single document,,,,,,,,,,
-OTRS,, Advanced reporting  configurable dashboards,,,,,,,,,,
-Phabricator,, integrated wiki and limited burn down charts,,,,,,,,,,
-Pivotal Tracker,, real time collaborative story backlog  integrated reports  email notification,,,,,,,,,,
-Redmine,, integrated wiki  discussion forums  news blogs  email integration  calendars  Gantt Charts  RSS  export to PDF  export to Excel/CSV,<ref>Hudson</ref>,,,,<ref>Commercial plugin available (Redmine Reporting)</ref>,,,<ref></ref>,, when using PostgreSQL<ref>Free plugin available (Redmine PostgreSQL Search)</ref>,<ref></ref>
-Request Tracker,, MediaWiki<ref></ref>,,,,,<ref>Needs a third-party extension (RT-Extension-SLA)</ref>,<ref>RT can be extended through Perl extensions  see for example RTX:: modules on MetaCPAN.org</ref>,,<ref name="Best Practical: What's New in 4: Fast full-text searching"></ref>,<ref name="Best Practical: What's New in 4: Fast full-text searching" />,
-Roundup,, wiki can be integrated or linked,,,,,,<ref></ref>,,<ref></ref>,with issues<ref></ref>,
-StarTeam,,<ref>Borland</ref>,,,,,,,,,
-Supportworks,- Integrated reporting wizard  customizable PHP reporting tool  dashboard  optional interface with Crystal Reports  export to Microsoft Excel/CSV  knowledge base  optional asset management tool,,,,,,<ref>5005 API exists but is undocumented</ref>,,,,
-SysAid,- LDAP/Email/Calendar integration  integrated Asset Management  integrated reporting  SSO  custom fields  export to CSV/PDF  KB,,,,,,,,,,
-Team Foundation Server,- workflow definitions  process documentation,,,,,,,,,,
-Teamwork,,,,,,,,,<ref></ref>,Uses Lucene,
-TestTrack,- Advanced reporting  integrated charts  export to Excel  workflow with triggers,,,,,,,,,,
-The Bug Genie,, integrated wiki,,,,,,,,,,
-Trac,, integrated wiki,<ref></ref>,,,,,<ref></ref>,<ref></ref>,,<ref></ref>,
-TrackerSuite.Net,. Dashboards. Graphical reports. Integration with Crystal Reports. Reports can be exported to Microsoft Excel.,,,,,,,,,,
-Tuleap,, Kanban boards  Scrum planning and burndown charts  pies  Gantt  barrs  cardwall  Document Manager with approval workflow and fine grained permissions  wikis,,,,,,,,with plugin fulltext,with plugin fulltext,
-Usersnap,. Dashboards  Help Center.,,, via Tags.,,,, available for enterprise plans,,,,,
-Wrike,, real-time customized reports  export to Excel  scheduled reports by mail  alerts  discussions  Gantt charts,,,,,,,,,,,
-YouTrack,: Wiki syntax  custom workflow  custom issue attributes  notifications (email  jabber  RSS  etc.)  email integration  reports  export to HTML and CSV  integration with VCSs.,<ref></ref>,,,,,<ref></ref>,,<ref></ref>,(Uses Lucene),
+Apache Bloodhound,, integrated wiki,[empty],[empty],[empty],[empty],[empty],[empty],(as of 0.6),[empty],<ref></ref> uses Whoosh,[empty]
+Assembla Tickets,, Wiki syntax  email notification  linking to Subversion commits  document manager  charts  reports  notifications,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Axosoft,, Team Wiki  Burndown  GitHub and TortoiseSVN integration  dashboards  custom reports for OnPremises  e-mail notifications and alerts  customer portal  RSS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bugzilla,, reporting: integrated reports and charts  scheduled reports by mail,<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,When using MySQL MyISAM<ref></ref> or Oracle Database<ref></ref> but not PostgreSQL<ref></ref>,[empty]
+Debbugs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Faveo Helpdesk,, Integrated Social Media  In-built Knowledge Base and Reporting,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FogBugz,, Integrated wiki,[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],<ref></ref>,<ref></ref>,<ref></ref>
+Fossil,, Integrated Wiki in addition to integrated versioned project documentation via web ui.,[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,<ref></ref>,[empty],[empty]
+FusionForge,, integrated Mediawiki  discussion forums  news blogs  email integration  export to CSV  reporting graphs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GLPI,, Contains a proprietary knowledge base of sorts,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNATS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HP Quality Center,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IBM Rational ClearQuest,, reporting: integrated charts and interface to Crystal Reports,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,uses Solr and Lucene,[empty]
+IBM Rational Team Concert,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Jira,, Dashboard with reporting widgets (Open Social) Excel  Word  customizable charts  Confluence (Enterprise wiki),<ref></ref>,[empty],[empty],[empty],[empty],<ref></ref>,[empty],<ref name="JIRA - Performing Text Searches" ></ref>,Uses Lucene<ref name="JIRA - Performing Text Searches" />,<ref></ref>
+Liberum Help Desk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MantisBT,, Integration of MediaWiki  DokuWiki  XWiki,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],<ref></ref>
+Microsoft Dynamics CRM,, reporting: integrated charts and reports  export to Excel  Mail Merge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+org-mode,, org-mode has built-in export to HTML  Latex  .md and literate programming capabilities for multiple languages in a single document,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OTRS,, Advanced reporting  configurable dashboards,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Phabricator,, integrated wiki and limited burn down charts,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pivotal Tracker,, real time collaborative story backlog  integrated reports  email notification,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Redmine,, integrated wiki  discussion forums  news blogs  email integration  calendars  Gantt Charts  RSS  export to PDF  export to Excel/CSV,<ref>Hudson</ref>,[empty],[empty],[empty],<ref>Commercial plugin available (Redmine Reporting)</ref>,[empty],[empty],<ref></ref>,, when using PostgreSQL<ref>Free plugin available (Redmine PostgreSQL Search)</ref>,<ref></ref>
+Request Tracker,, MediaWiki<ref></ref>,[empty],[empty],[empty],[empty],<ref>Needs a third-party extension (RT-Extension-SLA)</ref>,<ref>RT can be extended through Perl extensions  see for example RTX:: modules on MetaCPAN.org</ref>,[empty],<ref name="Best Practical: What's New in 4: Fast full-text searching"></ref>,<ref name="Best Practical: What's New in 4: Fast full-text searching" />,[empty]
+Roundup,, wiki can be integrated or linked,[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],<ref></ref>,with issues<ref></ref>,[empty]
+StarTeam,[empty],<ref>Borland</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Supportworks,- Integrated reporting wizard  customizable PHP reporting tool  dashboard  optional interface with Crystal Reports  export to Microsoft Excel/CSV  knowledge base  optional asset management tool,[empty],[empty],[empty],[empty],[empty],<ref>5005 API exists but is undocumented</ref>,[empty],[empty],[empty],[empty]
+SysAid,- LDAP/Email/Calendar integration  integrated Asset Management  integrated reporting  SSO  custom fields  export to CSV/PDF  KB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Team Foundation Server,- workflow definitions  process documentation,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Teamwork,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,Uses Lucene,[empty]
+TestTrack,- Advanced reporting  integrated charts  export to Excel  workflow with triggers,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+The Bug Genie,, integrated wiki,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Trac,, integrated wiki,<ref></ref>,[empty],[empty],[empty],[empty],<ref></ref>,<ref></ref>,[empty],<ref></ref>,[empty]
+TrackerSuite.Net,. Dashboards. Graphical reports. Integration with Crystal Reports. Reports can be exported to Microsoft Excel.,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tuleap,, Kanban boards  Scrum planning and burndown charts  pies  Gantt  barrs  cardwall  Document Manager with approval workflow and fine grained permissions  wikis,[empty],[empty],[empty],[empty],[empty],[empty],[empty],with plugin fulltext,with plugin fulltext,[empty]
+Usersnap,. Dashboards  Help Center.,[empty],, via Tags.,[empty],[empty],, available for enterprise plans,[empty],[empty],[empty],[empty],[empty]
+Wrike,, real-time customized reports  export to Excel  scheduled reports by mail  alerts  discussions  Gantt charts ,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+YouTrack,: Wiki syntax  custom workflow  custom issue attributes  notifications (email  jabber  RSS  etc.)  email integration  reports  export to HTML and CSV  integration with VCSs.,<ref></ref>,[empty],[empty],[empty],[empty],<ref></ref>,[empty],<ref></ref>,(Uses Lucene),[empty]
 System,Dynamic documentation integration/generation,Test planning integration,Customizable workflow,Unicode support,Custom fields,SLA<ref name="ReferenceSLA"/>,Plugin API<ref name="ReferenceAPI"/>,Multiple projects,Full-text search,Indexed full-text search,Indexed file search

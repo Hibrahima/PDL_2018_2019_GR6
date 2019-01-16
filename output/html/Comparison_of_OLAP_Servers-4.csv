@@ -1,5 +1,5 @@
 OLAP Server,Real Time,Write-back,Partitioning,Usage Based Optimizations,Load Balancing and Clustering
-Apache Kylin,No,No,Yes,Yes,Yes
+Apache Kylin,Developing,No,Yes,Yes,Yes
 Druid,Yes,?,Yes,Yes,Yes
 Essbase,Yes,Yes,Yes,Yes,Yes
 IBM Cognos BI,Yes,No,Yes,Yes,?

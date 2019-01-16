@@ -1,32 +1,32 @@
-,Data compression,Shell integration,Password protection,Multiple volumes,Self extraction,File repairing,Batch conversion,Unicode file /<br />directory names,Encryption,Filename Encryption
-7-Zip,,,,,,,,,,
-ALZip,,,,,,,,,,
-Archive Manager,,,,,,,,,,
-Archive Utility,,,,,,,,,,
-ARJ,,,,,,,,,,
-Ark,,,,,,,,,,
-B1 Free Archiver,,,,,,,,,,
-BetterZip,,,,,,,,,,
-bsdtar/libarchive,,,,,,,,,,
-Commander One,,,,,,,,,,for 7z
-CRAX Commander,,,,,,,,,,
-Disk ARchiver,,,,,,,,,,
-Filzip,,,,,,,,,,
-FreeArc,,,,,,,,,,
-GNU tar,,,,,,Separate,,,,
-iArchiver,,,,,,,,,,
-Info-ZIP,,,,,,,,,Weak,
-KGB Archiver,,Not enabled by default,,,,,,,,
-PeaZip,,,,,,,,,,
-PKZIP,,,,,Separate,Separate,,,,
-PowerArchiver,,,,,,,,,,
-StuffIt,,,,,,,,,,
-The Unarchiver,,some formats,,,,,,,,
-TUGZip,,,,,,,,,,
-WinAce,,,,,,,,,,
-WinRAR and RAR,,,,,,,,,,
-WinZip,,,,,,,,,,
-XAD,,,,,,,,,,
-Xarchiver,,,,,,,,,,
-ZipGenius,,,,,,,,,,
-,Data compression,Shell integration,Password protection,Multiple volumes,Self extraction,File repairing,Batch conversion,Unicode file /<br />directory names,Encryption,Filename Encryption
+[empty],Data compression,Shell integration,Password protection,Multiple volumes,Self extraction,File repairing,Batch conversion,Unicode file /<br />directory names,Encryption,Filename Encryption
+7-Zip,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ALZip,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Archive Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Archive Utility,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ARJ,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ark,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+B1 Free Archiver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BetterZip,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+bsdtar/libarchive,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Commander One,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],for 7z
+CRAX Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Disk ARchiver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Filzip,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeArc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU tar,[empty],[empty],[empty],[empty],[empty],Separate,[empty],[empty],[empty],[empty]
+iArchiver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Info-ZIP,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Weak,[empty]
+KGB Archiver,[empty],Not enabled by default,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PeaZip,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PKZIP,[empty],[empty],[empty],[empty],Separate,Separate,[empty],[empty],[empty],[empty]
+PowerArchiver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+StuffIt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+The Unarchiver,[empty],some formats,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TUGZip,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinAce,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinRAR and RAR,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinZip,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XAD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xarchiver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZipGenius,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[empty],Data compression,Shell integration,Password protection,Multiple volumes,Self extraction,File repairing,Batch conversion,Unicode file /<br />directory names,Encryption,Filename Encryption

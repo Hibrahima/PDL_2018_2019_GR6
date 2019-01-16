@@ -1,42 +1,42 @@
 System,Creator,License,Implementation language(s),Back end,Launch date,Refs
-Apache Bloodhound,Apache Software Foundation,,Python,MySQL  PostgreSQL  SQLite,2012,<ref></ref>
-Assembla Tickets,Assembla,Proprietary  hosted. Available for free for open source projects,Ruby,MySQL,2008,
-Axosoft,Axosoft LLC,,C#  .NET,SQL Server,2002,
-Bugzilla,Mozilla Foundation,,Perl,MySQL  Oracle  PostgreSQL  SQLite,1998-09-19,
-Debbugs,Debian,,Perl,Flat file  Berkeley DB indexes,Between 1994 and 1999<ref group="notes">Debian's bug tracking system was in place as soon as 1994 according to Ian Jackson's Debbugs webpage. However  Debbugs  as a generic ITS engine  was only uploaded to Debian as version 1 in January 1999.</ref>,
-Faveo Helpdesk,Ladybird Web Solution,,PHP,MySQL,2015,
+Apache Bloodhound,Apache Software Foundation,[empty],Python,MySQL  PostgreSQL  SQLite,2012,<ref></ref>
+Assembla Tickets,Assembla,Proprietary  hosted. Available for free for open source projects,Ruby,MySQL,2008,[empty]
+Axosoft,Axosoft LLC,[empty],C#  .NET,SQL Server,2002,[empty]
+Bugzilla,Mozilla Foundation,[empty],Perl,MySQL  Oracle  PostgreSQL  SQLite,1998-09-19,[empty]
+Debbugs,Debian,[empty],Perl,Flat file  Berkeley DB indexes,Between 1994 and 1999<ref group="notes">Debian's bug tracking system was in place as soon as 1994 according to Ian Jackson's Debbugs webpage. However  Debbugs  as a generic ITS engine  was only uploaded to Debian as version 1 in January 1999.</ref>,[empty]
+Faveo Helpdesk,Ladybird Web Solution,[empty],PHP,MySQL,2015,[empty]
 FogBugz,Fog Creek Software,Saas,ASP on Windows  PHP on macOS  FreeBSD  and Linux,SQL Server  MySQL,2000,<ref></ref>
-Fossil,D. Richard Hipp,,C,SQLite,2006,
-FusionForge,Various (open source contributors),,PHP,PostgreSQL,2009-02,
-GLPI,INDEPNET,,PHP,MySQL,2003-11-17,
-GNATS,Free Software Foundation,,C  Web Front-end In Perl,Text files with custom daemon/search engine,1992,
-HP Quality Center,Hewlett-Packard  formerly Mercury Interactive,,.NET (client)  Java (server),Oracle  SQL Server,1995,
-IBM Rational ClearQuest,Rational Software,,kernel: executables for several platforms; hooks: Perl and Visual Basic,IBM DB2  Oracle  SQL Server  Access  Sybase ASA,1998,
-IBM Rational Team Concert,Rational Software,,kernel: Java; API: Java,IBM DB2  Oracle  SQL Server  Apache Derby,2008,
-Jira,Atlassian,Proprietary. Free community licenses for open source and academic projects,Java,MySQL  PostgreSQL  Oracle  SQL Server,2002,
-Launchpad,Canonical Ltd.,,JavaScript  Python,PostgreSQL,2004-01,
-Liberum Help Desk,Doug Luxem,,ASP,SQL Server  Access,2000,
-MantisBT,Various (open source contributors),,PHP,ADOdb (MySQL  PostgreSQL  SQL Server  etc.),2000,
-Microsoft Dynamics CRM,Microsoft,,.NET,Microsoft SQL Server,2003,
-OpenProject,OpenProject Foundation e.V.,,Ruby  JavaScript,MySQL  PostgreSQL  MariaDB,2010,
-org-mode,Carsten Dominik,,Emacs,Flat file,2003,
-OTRS,OTRS,,Perl  JavaScript,MySQL  PostgreSQL  Oracle  SQL Server,2002,
-Phabricator,Facebook,,PHP,,2010,
-Pivotal Tracker,Pivotal Labs,Proprietary  free version for public projects  non-profits and academic institutions,Ruby,Ruby on Rails  MySQL  Memcached,2008,
-Redmine,Jean-Philippe Lang,,Ruby,MySQL  PostgreSQL  SQLite,2006,
-Request Tracker,Best Practical Solutions  LLC,,Perl,MySQL  PostgreSQL  Oracle  SQLite,1999-10-13,
-Roundup,Ka-Ping Yee  Richard Jones,,Python,SQLite  MySQL  PostgreSQL  Berkeley DB,2001,
-StarTeam,originally Starbase Corporation  currently Borland,,C++  Java  etc.,SQL Server recommended  Oracle  DB2 supported,,
-Supportworks,Hornbill Systems,,C++ and PHP,SQL Server  MySQL  Oracle  Sybase,1994<ref name="HORNBILL1998"></ref>,
-SysAid,SysAid Technologies,,C#  Java,Derby  Microsoft SQL Server  MySQL  Oracle,2002,
-Team Foundation Server,Microsoft,,.NET,MS SQL Server 2005 & 2008,2005,
-TestTrack,Seapine Software,,C++  Qt4  JavaScript,Oracle  PostgreSQL  SQL Server  SQLite,1996,
-The Bug Genie,Various (open source contributors),,PHP,MySQL  PostgreSQL  SQL Server,2003-09-11,
-Trac,Edgewall Software,,Python,SQLite  PostgreSQL  MySQL,2006-10-01,
-TrackerSuite.Net,Automation Centre,,C#,SQL Server  SQL Server Express,2006,
-Tuleap,enalean,,php,LAMP  MySQL,2011,
-Twproject,Open Lab,Proprietary  some parts LGPL,Java,all relational (uses Hibernate),2003,
-Usersnap,Usersnap GmbH,,Python  JavaScript,MongoDB,,2013,
-Wrike,Wrike  Inc.,,Java,PostgreSQL,2006,
-YouTrack,JetBrains s.r.o.,Proprietary  stand-alone and hosted  free version  free for open source projects,Java  MPS-based DSLs,JetBrains DB,2009,
+Fossil,D. Richard Hipp,[empty],C,SQLite,2006,[empty]
+FusionForge,Various (open source contributors),[empty],PHP,PostgreSQL,2009-02,[empty]
+GLPI,INDEPNET,[empty],PHP,MySQL,2003-11-17,[empty]
+GNATS,Free Software Foundation,[empty],C  Web Front-end In Perl,Text files with custom daemon/search engine,1992,[empty]
+HP Quality Center,Hewlett-Packard  formerly Mercury Interactive,[empty],.NET (client)  Java (server),Oracle  SQL Server,1995,[empty]
+IBM Rational ClearQuest,Rational Software,[empty],kernel: executables for several platforms; hooks: Perl and Visual Basic,IBM DB2  Oracle  SQL Server  Access  Sybase ASA,1998,[empty]
+IBM Rational Team Concert,Rational Software,[empty],kernel: Java; API: Java,IBM DB2  Oracle  SQL Server  Apache Derby,2008,[empty]
+Jira,Atlassian,Proprietary. Free community licenses for open source and academic projects,Java,MySQL  PostgreSQL  Oracle  SQL Server,2002,[empty]
+Launchpad,Canonical Ltd.,[empty],JavaScript  Python,PostgreSQL,2004-01,[empty]
+Liberum Help Desk,Doug Luxem,[empty],ASP,SQL Server  Access,2000,[empty]
+MantisBT,Various (open source contributors),[empty],PHP,ADOdb (MySQL  PostgreSQL  SQL Server  etc.),2000,[empty]
+Microsoft Dynamics CRM,Microsoft,[empty],.NET,Microsoft SQL Server,2003,[empty]
+OpenProject,OpenProject Foundation e.V.,[empty],Ruby  JavaScript,MySQL  PostgreSQL  MariaDB,2010,[empty]
+org-mode,Carsten Dominik,[empty],Emacs,Flat file,2003,[empty]
+OTRS,OTRS,[empty],Perl  JavaScript,MySQL  PostgreSQL  Oracle  SQL Server,2002,[empty]
+Phabricator,Facebook,[empty],PHP,[empty],2010,[empty]
+Pivotal Tracker,Pivotal Labs,Proprietary  free version for public projects  non-profits and academic institutions,Ruby,Ruby on Rails  MySQL  Memcached,2008,[empty]
+Redmine,Jean-Philippe Lang,[empty],Ruby,MySQL  PostgreSQL  SQLite,2006,[empty]
+Request Tracker,Best Practical Solutions  LLC,[empty],Perl,MySQL  PostgreSQL  Oracle  SQLite,1999-10-13,[empty]
+Roundup,Ka-Ping Yee  Richard Jones,[empty],Python,SQLite  MySQL  PostgreSQL  Berkeley DB,2001,[empty]
+StarTeam,originally Starbase Corporation  currently Borland,[empty],C++  Java  etc.,SQL Server recommended  Oracle  DB2 supported,[empty],[empty]
+Supportworks,Hornbill Systems,[empty],C++ and PHP,SQL Server  MySQL  Oracle  Sybase,1994<ref name="HORNBILL1998"></ref>,[empty]
+SysAid,SysAid Technologies,[empty],C#  Java,Derby  Microsoft SQL Server  MySQL  Oracle,2002,[empty]
+Team Foundation Server,Microsoft,[empty],.NET,MS SQL Server 2005 & 2008,2005,[empty]
+TestTrack,Seapine Software,[empty],C++  Qt4  JavaScript,Oracle  PostgreSQL  SQL Server  SQLite,1996,[empty]
+The Bug Genie,Various (open source contributors),[empty],PHP,MySQL  PostgreSQL  SQL Server,2003-09-11,[empty]
+Trac,Edgewall Software,[empty],Python,SQLite  PostgreSQL  MySQL,2006-10-01,[empty]
+TrackerSuite.Net,Automation Centre,[empty],C#,SQL Server  SQL Server Express,2006,[empty]
+Tuleap,enalean,[empty],php,LAMP  MySQL,2011,[empty]
+Twproject,Open Lab,Proprietary  some parts LGPL,Java,all relational (uses Hibernate),2003,[empty]
+Usersnap,Usersnap GmbH,[empty],Python  JavaScript,MongoDB ,2013,[empty]
+Wrike,Wrike  Inc.,[empty],Java,PostgreSQL,2006,[empty]
+YouTrack,JetBrains s.r.o.,Proprietary  stand-alone and hosted  free version  free for open source projects,Java  MPS-based DSLs,JetBrains DB,2009,[empty]
 System,Creator,License,Implementation language(s),Back end,Launch date,Refs

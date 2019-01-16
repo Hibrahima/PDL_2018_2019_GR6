@@ -1,25 +1,26 @@
 Client,IP to Country,Protocol Obfuscation<ref group="N" name=obfuscation>Compatible with the implementation of official eMule.</ref>,Handles files >4GB,Chat<ref group="N" name=chat>It refers to client to client chat.</ref>,Buddy list,Send FILERATING tags to servers,EndGame,AICH,L2HAC <ref group="N" name=L2HAC>LowID to HighID Automatic Callback.</ref>,Secure User ID,Global Searches,UPnP port mapping<ref group="N" name=upnp>Automatically configure port forwarding (requires Router with UPnP support)</ref>,Intelligent Chunk Selection,Lancast,HideOS / SotN
-aMule,,,,,,,,,,,,<ref group="N">UPnP does not work on Windows version</ref>,,,
-eMule,Official,,,,,,,,,,,,,,,
-Osp,,,,,,,,,,,,,,,
-AnalyZZUL,,,,,,,,,,,,,,,
-beba,,,,,,,,,,,,,,,
-Magic Angel,,,,,,,,,,,,,,,
-Mephisto,,,,,,,,,,,,,,,
-MorphXT,,,,,,,,,,,,,,,
-NeoMule,,,,,,,,,,,,,,,
-ScarAngel,,,,,,,,,,,,,,,
-SharkX,,,,,,,,,,,,,,,
-Sivka,,,,,,,,,,,,,,,
-Spike2,,,,,,,,,,,,,,,
-StulleMule,,,,,,,,,,,,,,,
-Xtreme,,,,,,,,,,,,,,,
-X-Ray,,,,,,,,,,,,,,,
-ZZUL,,,,,,,,,,,,,,,
-ZZUL BastarD,,,,,,,,,,,,,,,
-eMule Plus,,,,,,,,,,,,,,,
-Lphant,,,,,,,,,,,,,,,
-MLDonkey,,,,,,,,,,,,,,,
-Shareaza,,,,,,,,,,,,,,,
-xMule,,,,,,,,,,,,,,,
+aMule,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group="N">UPnP does not work on Windows version</ref>,[empty],[empty],[empty]
+eMule,Official,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Osp,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AnalyZZUL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+beba,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Magic Angel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mephisto,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MorphXT,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NeoMule,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ScarAngel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SharkX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sivka,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Spike2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+StulleMule,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xtreme,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+X-Ray,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZZUL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZZUL BastarD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eMule Plus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Lphant,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MLDonkey,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Shareaza,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+xMule,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Client,IP to Country,Protocol Obfuscation<ref group="N" name=obfuscation />,Handles files >4GB,Chat<ref group="N" name=chat>It refers to client to client chat.</ref>,Buddy list,Send FILERATING tags to servers,EndGame,AICH,L2HAC <ref group="N" name=L2HAC />,Secure User ID,Global Searches,UPnP port mapping<ref group="N" name=upnp />,Intelligent Chunk Selection,Lancast,HideOS / SotN
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]

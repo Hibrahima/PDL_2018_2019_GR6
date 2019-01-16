@@ -7,5 +7,5 @@ Kyma,Carla Scaletti,Realtime audio synthesis  hardware control  acoustic researc
 Max/MSP,Miller Puckette,Realtime audio + video synthesis  hardware control  GUI design,1980s (mid),2017-05-30,v7.3.4,Non-free,Proprietary,Graphical,Mature
 Pure Data,Miller Puckette,Realtime synthesis  hardware control  acoustic research,1990s,2018-01-07,v0.48-1,Free,BSD-like,Graphical,Mature
 Reaktor,Native Instruments,Realtime synthesis  hardware control  GUI design,1996,2017-08-16,6.2,Non-free,Proprietary,Graphical,Mature
-SuperCollider,James McCartney,Realtime synthesis  live coding  algorithmic composition  acoustic research  all-purpose programming language,1996-03,2018-04-08,v3.9.3,Free,GPL,Document,Mature
+SuperCollider,James McCartney,Realtime synthesis  live coding  algorithmic composition  acoustic research  all-purpose programming language,1996-03,2018-11-25,v3.10.0,Free,GPL,Document,Mature
 Sporth,Paul Batchelor,Sound design  algorithmic composition  live coding  embedded systems,2015,2016-05,-,Free,MIT,Document,Immature

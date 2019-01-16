@@ -1,20 +1,22 @@
 Implementation,brainpoolP256r1 (26)<ref name=rfc7027>RFC 7027</ref>,brainpoolP384r1 (27)<ref name=rfc7027/>,brainpoolP512r1 (28)<ref name=rfc7027/>,X25519 <ref name="draft-ietf-tls-rfc4492bis"></ref>,Curve448 <ref name="draft-ietf-tls-curve25519"></ref>,M221 Curve2213 <ref name="draft-josefsson-tls-additional-curves"></ref>,E222 <ref name="draft-josefsson-tls-additional-curves"/>,Curve1174 <ref name="draft-josefsson-tls-additional-curves"/>,E382 <ref name="draft-josefsson-tls-additional-curves"/>,M383 <ref name="draft-josefsson-tls-additional-curves"/>,Curve383187 <ref name="draft-josefsson-tls-additional-curves"/>,Curve41417 Curve3617 <ref name="draft-josefsson-tls-additional-curves"/>,M511 Curve511187 <ref name="draft-josefsson-tls-additional-curves"/>,E521 <ref name="draft-josefsson-tls-additional-curves"/>
-BearSSL<ref name="bearssl-ec"/>,,,,,,,,,,,,,,
-Botan,<ref name="Botan 1.11.5"></ref>,<ref name="Botan 1.11.5"/>,<ref name="Botan 1.11.5"/>,<ref name="Botan 1.11.12"/>,,,,,,,,,,
-BoringSSL,,,,,,,,,,,,,,
-CryptoComply,,,,,,,,,,,,,,
-GnuTLS,,,,<ref name="GnuTLS 3.5.0"></ref>,,,,,,,,,,
-JSSE,,,,,,,,,,,,,,
-LibreSSL,<ref name="OpenBSD5.6"/>,<ref name="OpenBSD5.6"/>,<ref name="OpenBSD5.6"/>,<ref name=libressl-2.5.1></ref>,,,,,,,,,,
-MatrixSSL,,,,<ref name="MatrixSSL 4.0 changelog"></ref>,,,,,,,,,,
-mbed TLS,<ref name=polarssl_1_3_1></ref>,<ref name=polarssl_1_3_1/>,<ref name=polarssl_1_3_1/>,<ref name=polarssl_1_3_3></ref>,<ref name="mbedtls-2.9.0"></ref>,,,,,,,,,
-NSS,<ref name="nss_brainpool"></ref>,<ref name="nss_brainpool"/>,<ref name="nss_brainpool"/>,<ref name=nss_curve25519></ref>,,,,,,,,,,
-OpenSSL,<ref name="openssl-1.0.2-note"/>,<ref name="openssl-1.0.2-note"/>,<ref name="openssl-1.0.2-note"/>,<ref name="openssl-1.1.0x-changelog"></ref><ref name="openssl-x25519-github-tracker"></ref>,<ref name="openssl-1.1.1x-changelog"></ref><ref name="openssl-X448-github-tracker"></ref>,,,,,,,,,
-RomSTL,,,,,,,,,,,,,,
-RSA BSAFE,,,,,,,,,,,,,,
-rustls,,,,,,,,,,,,,,
-SChannel Vista/2008  7/2008R2  8/2012  8.1/2012R2  10,,,,,,,,,,,,,,
-Secure Transport,,,,,,,,,,,,,,
-wolfSSL,,,,<ref name="wolfssl-3.4.6"></ref>,,,,,,,,,,
-Erlang/OTP SSL application,,,,,,,,,,,,,,
+BearSSL<ref name="bearssl-ec"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Botan,<ref name="Botan 1.11.5"></ref>,<ref name="Botan 1.11.5"/>,<ref name="Botan 1.11.5"/>,<ref name="Botan 1.11.12"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BoringSSL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CryptoComply,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GnuTLS,[empty],[empty],[empty],<ref name="GnuTLS 3.5.0"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JSSE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LibreSSL,<ref name="OpenBSD5.6"/>,<ref name="OpenBSD5.6"/>,<ref name="OpenBSD5.6"/>,<ref name=libressl-2.5.1></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MatrixSSL,[empty],[empty],[empty],<ref name="MatrixSSL 4.0 changelog"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mbed TLS,<ref name=polarssl_1_3_1></ref>,<ref name=polarssl_1_3_1/>,<ref name=polarssl_1_3_1/>,<ref name=polarssl_1_3_3></ref>,<ref name="mbedtls-2.9.0"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NSS,<ref name="nss_brainpool"></ref>,<ref name="nss_brainpool"/>,<ref name="nss_brainpool"/>,<ref name=nss_curve25519></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenSSL,<ref name="openssl-1.0.2-note"/>,<ref name="openssl-1.0.2-note"/>,<ref name="openssl-1.0.2-note"/>,<ref name="openssl-1.1.0x-changelog"></ref><ref name="openssl-x25519-github-tracker"></ref>,<ref name="openssl-1.1.1x-changelog"></ref><ref name="openssl-X448-github-tracker"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RomSTL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RSA BSAFE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rustls,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SChannel Vista/2008  7/2008R2  8/2012  8.1/2012R2  10,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Secure Transport,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+wolfSSL,[empty],[empty],[empty],<ref name="wolfssl-3.4.6"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Erlang/OTP SSL application,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
 Implementation,brainpoolP256r1 (26),brainpoolP384r1 (27),brainpoolP512r1 (28),Curve25519,Curve448,M221 Curve2213,E222,Curve1174,E382,M383,Curve383187,Curve41417 Curve3617,M511 Curve511187,E521 <ref name="draft-josefsson-tls-additional-curves"/>

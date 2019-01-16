@@ -1,26 +1,26 @@
 Camera model,Camera line,Manufacturer,Introduced,Weight,MOS/Sync,Noise Level
-Eyemo 71K,Eyemo,Bell and Howell,1925,,MOS,N/A
+Eyemo 71K,Eyemo,Bell and Howell,1925,[empty],MOS,N/A
 Arriflex 35-2C,Arriflex 35-II,Arri,1964,, with empty magazine,MOS,N/A
 Arriflex 35BL-1,Arriflex 35BL,Arri,1972,, with empty magazine,Sync,26 dB
-Panaflex-X,Panaflex,Panavision,1974,,Sync,<24 dB
+Panaflex-X,Panaflex,Panavision,1974,[empty],Sync,<24 dB
 Arriflex 35BL-2,Arriflex 35BL,Arri,1975,, with empty magazine,Sync,26 dB
 Panaflex Gold II,Panaflex,Panavision,1976,, with short eyepiece,Sync,<24 dB
 Arriflex 35BL-3,Arriflex 35BL,Arri,1980,, with empty magazine,Sync,22 dB
 Arriflex 35-3C,Arriflex 35-III,Arri,1982,;   with empty magazine,MOS,N/A
-Moviecam SuperAmerica,Moviecam SuperAmerica,Moviecam,1984,,Sync,20 dB
+Moviecam SuperAmerica,Moviecam SuperAmerica,Moviecam,1984,[empty],Sync,20 dB
 Arriflex 35BL-4,Arriflex 35BL,Arri,1986,, with empty magazine,Sync,22 dB
-Panaflex Platinum,Panaflex,Panavision,1986,,Sync,<22 dB
-Panaflex Panastar II,Panaflex Panastar,Panavision,1987,,MOS,N/A
+Panaflex Platinum,Panaflex,Panavision,1986,[empty],Sync,<22 dB
+Panaflex Panastar II,Panaflex Panastar,Panavision,1987,[empty],MOS,N/A
 Arriflex 35BL-4s,Arriflex 35BL,Arri,1988,, with empty magazine,Sync,20 dB
 Arriflex 535,Arriflex 535,Arri,1990,, body only;   with finder;   with finder and empty magazine,Sync,19 dB
-Moviecam Compact,Moviecam Compact,Moviecam,1990,,Sync,<20 dB
+Moviecam Compact,Moviecam Compact,Moviecam,1990,[empty],Sync,<20 dB
 Arriflex 535B,Arriflex 535,Arri,1992,, with empty magazine,Sync,19 dB
 Arriflex 435,Arriflex 435,Arri,1995,, without magazine,MOS,N/A
 Arriflex 435ES,Arriflex 435,Arri,1995,, without magazine,MOS,N/A
-Moviecam SL,Moviecam SL,Moviecam,1995,,Sync,25 dB
+Moviecam SL,Moviecam SL,Moviecam,1995,[empty],Sync,25 dB
 Aaton 35-III,Aaton 35,Aaton,1997,, with full magazine and onboard battery,Sync,30 dB (4 perf)  26 dB (3 perf)
-Panaflex Millennium,Panaflex Millennium,Panavision,1997,,Sync,<19 dB
-Panaflex Millennium XL,Panaflex Millennium,Panavision,1999,,Sync,<23 dB
+Panaflex Millennium,Panaflex Millennium,Panavision,1997,[empty],Sync,<19 dB
+Panaflex Millennium XL,Panaflex Millennium,Panavision,1999,[empty],Sync,<23 dB
 Arricam LT,Arricam,Arri,2000,, body only;   with finder,Sync,<24 dB
 Arricam ST,Arricam,Arri,2000,, body only;   with finder,Sync,<20 dB
 Arriflex 435 Advanced,Arriflex 435,Arri,2001,, without magazine,MOS,N/A
@@ -28,3 +28,4 @@ Aaton 35-3P,Aaton 35,Aaton,2002,, with full magazine and onboard battery,Sync,30
 Arriflex 235,Arriflex 235,Arri,2004,, with viewfinder,MOS,N/A
 Arriflex 435 Xtreme,Arriflex 435,Arri,2004,, without magazine,MOS,N/A
 Aaton Penelope,Aaton Penelope,Aaton,2008,, with full magazine and onboard battery,Sync,23 dB (3 perf)  22 dB (2 perf)
+[added],[added],[added],[added],[added],[added],[added]

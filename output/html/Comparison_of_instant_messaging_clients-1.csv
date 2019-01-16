@@ -1,51 +1,51 @@
 Client,Toolkits or SDKs,File transfer,Editing sent messages,Proxy server,Graphical emoticons,Unicode (UTF-8),Built-in games,Themes  skins,Plugin system,Third party add-ons,Scripting,Message logging,Voice messaging,Voice mail,Webcam,Offline,Cloud backup,Remote desktop assistance,Whiteboard,RTL texting
-Adium,Cocoa,Yes,?,?,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,,?,?
-AIM,W32/Cocoa,Yes,?,Yes/No[a],Yes,Yes,No,Yes/No[a],Yes/No[a],Yes/No[a],No,Yes,Yes/No[a],No,Yes/No[a],Yes/No[a],,No,No
-aMSN,Tcl/Tk,Yes,?,http  socks5  msn gateway,Yes,Yes,Partial,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,,No,No
-Ayttm,GTK2,No,?,http  socks4/5,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Partial,Partial,,No,No
-BitlBee,N/A,Yes,?,Yes,No,Yes,No,N/A,Yes,No,No,N/A,?,?,No,Yes,,?,?
-Bombus,Java ME,Yes,?,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,,No,?
-Centericq,ncurses,Partial,?,?,No,?,No,Yes,Yes,?,Yes,Yes,No,No,No,Yes,,?,?
-climm,line based,Yes,?,?,N/A,Yes,No,Yes,No,No,Yes,Yes,N/A,N/A,N/A,Yes,,No,?
-Coccinella,Tcl/Tk,Yes,?,http  socks4/5,Yes,Yes,Yes,Yes,Yes,?,No,Yes,Yes,No,No,Yes,,Yes,?
-Discord,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,TTS,Yes,Partial,No,No,No,Plug-in[97]
-eBuddy,No,Partial,?,?,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,,No,?
-Empathy,GTK3,Yes,?,?,Yes,Yes,No,Yes,?,?,No,Yes,Yes,Yes,Yes,Yes,,Yes,?
-Facebook Messenger,?,Yes,No,?,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,,No,Yes
-Fire,Cocoa,Yes,?,?,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,?,?,?,?,,?,?
-Gadu-Gadu,Qt,Yes,?,?,Yes,Yes,No,?,No,Yes,No,Yes,Yes,?,?,Yes,,No,?
-Gajim,GTK2,Yes,?,http,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,?,Yes,Yes,,No,Yes
-Google Talk,W32,Yes,No,?,Partial,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Third party plugin,Yes,,No,Yes
-IBM Lotus Sametime,Yes,Yes,?,?,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,available,Yes,Yes,,Yes,?
-ICQ,W32,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,,No,Yes
-IMVU,?,No,?,?,Yes,Yes,Partial,Yes,No,Partial[b],No,Yes,No,?,No,Yes,,?,?
-Jitsi,Java,Yes,?,Yes,Yes,Yes,No,?,Yes,?,?,Yes,Yes,Yes,Yes,Yes,,?,?
-Kadu,Qt,Yes,?,Yes,Yes,Yes,No,Partial,Yes,Yes,Partial,Yes,Yes,No,No,Yes,,No,?
-Kopete,Qt/KDE,Yes,?,No,Yes,Yes,No,Yes,Yes,Yes,With plugin,Yes,Yes,No,Yes,Yes,,No,Yes
-Line,Line SDK,?,No,?,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,?,Yes,,Yes,?
-Messages,Cocoa,Yes,?,?,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,?,Yes,Yes,,Partial[c],?
-MCabber,Curses,No,?,?,No,Yes,No,?,?,No,?,Yes,No,No,No,Yes,,No,?
-Miranda IM,W32,Yes,?,Yes  socks4/5  http(s),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial[c],No,Partial[c],Yes,,Yes,Yes
-Palringo,?,No,?,?,Yes,?,No,Yes,No,No,No,No,Yes,No,Partial (picture capture only),?,,No,?
-Paltalk,N/A,Yes,?,?,Yes,No,Yes,Yes,No,No,No,Yes,Yes,?,Yes,Yes,No,No,?
-Pidgin,GTK2,Partial,No,Yes  http  socks4/5,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Partial (XMPP in Linux),No,Yes (XMPP in Linux),Yes,,Partial,Yes
-Psi,Qt,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Partial (Linux & Unix),No,Partial (Linux & Unix),Yes,,Yes,Yes
-QIP,W32  VCL,Yes,?,Yes  http(s)  socks4/4A/5,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,,No,?
-QuteCom,Qt,Yes,?,?,Yes,Yes,No,Yes,No,No,?,?,?,?,Yes,?,,?,?
-Ring,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,,?,?
-Riot.im,?,Yes,Partial,?,Yes,Yes,?,Yes,?,?,?,Yes,Yes,?,Yes,Yes,,No,No
-Skype,Qt/KDE  W32,Yes,Yes,Yes,Yes,Partial,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,,Yes/No[c][a],Yes
-Surespot,?,Yes,?,?,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,,?,?
-Tencent QQ,W32,Yes,?,?,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,,Yes,?
-Telegram,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Partial,Yes,Only un-encrypted messages,Yes,Yes
-Tkabber,Tcl/Tk,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,,Yes,No
-Tox,Many [d],Yes,?,Yes,Yes,Yes,Up to clients [d],Up to clients [d],Up to clients [d],Up to clients [d],Up to clients [d],Yes,Yes,No,Yes,Partial [98],,No,Yes
-Trillian,W32  Cocoa,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,?,Yes,Yes,,?,Yes
-WhatsApp,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,?,Yes,,No,Yes
-Wickr,No,Yes,?,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,,No,?
-Windows Live Messenger,W32,Yes,?,Yes  http  socks4/5,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,Yes,Yes
-Wire,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No[99],No,Yes
-Xfire,W32,Yes,?,?,No,Yes,No,Yes,Partial,Yes,No,Yes,Yes,No,No,No,,No,?
-Yahoo! Messenger,W32  Cocoa  GTK,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,,Partial,Yes
-Yuilop,?,Yes,?,No,Yes,?,No,No,No,No,?,Yes,Yes,No,No,Yes,,Partial,?
+Adium,Cocoa,Yes,?,?,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,[empty],?,?,[added]
+AIM,W32/Cocoa,Yes,?,Yes/No[a],Yes,Yes,No,Yes/No[a],Yes/No[a],Yes/No[a],No,Yes,Yes/No[a],No,Yes/No[a],Yes/No[a],[empty],No,No,[added]
+aMSN,Tcl/Tk,Yes,?,http  socks5  msn gateway,Yes,Yes,Partial,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,[empty],No,No,[added]
+Ayttm,GTK2,No,?,http  socks4/5,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Partial,Partial,[empty],No,No,[added]
+BitlBee,N/A,Yes,?,Yes,No,Yes,No,N/A,Yes,No,No,N/A,?,?,No,Yes,[empty],?,?,[added]
+Bombus,Java ME,Yes,?,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,Yes,[empty],No,?,[added]
+Centericq,ncurses,Partial,?,?,No,?,No,Yes,Yes,?,Yes,Yes,No,No,No,Yes,[empty],?,?,[added]
+climm,line based,Yes,?,?,N/A,Yes,No,Yes,No,No,Yes,Yes,N/A,N/A,N/A,Yes,[empty],No,?,[added]
+Coccinella,Tcl/Tk,Yes,?,http  socks4/5,Yes,Yes,Yes,Yes,Yes,?,No,Yes,Yes,No,No,Yes,[empty],Yes,?,[added]
+Discord,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,TTS,Yes,Partial,No,No,No,Plug-in[96]
+eBuddy,No,Partial,?,?,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,Yes,[empty],No,?,[added]
+Empathy,GTK3,Yes,?,?,Yes,Yes,No,Yes,?,?,No,Yes,Yes,Yes,Yes,Yes,[empty],Yes,?,[added]
+Facebook Messenger,?,Yes,No,?,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,[empty],No,Yes,[added]
+Fire,Cocoa,Yes,?,?,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,?,?,?,?,[empty],?,?,[added]
+Gadu-Gadu,Qt,Yes,?,?,Yes,Yes,No,?,No,Yes,No,Yes,Yes,?,?,Yes,[empty],No,?,[added]
+Gajim,GTK2,Yes,?,http,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,?,Yes,Yes,[empty],No,Yes,[added]
+Google Talk,W32,Yes,No,?,Partial,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Third party plugin,Yes,[empty],No,Yes,[added]
+IBM Lotus Sametime,Yes,Yes,?,?,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,available,Yes,Yes,[empty],Yes,?,[added]
+ICQ,W32,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,[empty],No,Yes,[added]
+IMVU,?,No,?,?,Yes,Yes,Partial,Yes,No,Partial[b],No,Yes,No,?,No,Yes,[empty],?,?,[added]
+Jitsi,Java,Yes,?,Yes,Yes,Yes,No,?,Yes,?,?,Yes,Yes,Yes,Yes,Yes,[empty],?,?,[added]
+Kadu,Qt,Yes,?,Yes,Yes,Yes,No,Partial,Yes,Yes,Partial,Yes,Yes,No,No,Yes,[empty],No,?,[added]
+Kopete,Qt/KDE,Yes,?,No,Yes,Yes,No,Yes,Yes,Yes,With plugin,Yes,Yes,No,Yes,Yes,[empty],No,Yes,[added]
+Line,Line SDK,?,No,?,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,?,Yes,[empty],Yes,?,[added]
+Messages,Cocoa,Yes,?,?,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,?,Yes,Yes,[empty],Partial[c],?,[added]
+MCabber,Curses,No,?,?,No,Yes,No,?,?,No,?,Yes,No,No,No,Yes,[empty],No,?,[added]
+Miranda IM,W32,Yes,?,Yes  socks4/5  http(s),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Partial[c],No,Partial[c],Yes,[empty],Yes,Yes,[added]
+Palringo,?,No,?,?,Yes,?,No,Yes,No,No,No,No,Yes,No,Partial (picture capture only),?,[empty],No,?,[added]
+Paltalk,N/A,Yes,?,?,Yes,No,Yes,Yes,No,No,No,Yes,Yes,?,Yes,Yes,No,No,?,[added]
+Pidgin,GTK2,Partial,No,Yes  http  socks4/5,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Partial (XMPP in Linux),No,Yes (XMPP in Linux),Yes,[empty],Partial,Yes,[added]
+Psi,Qt,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Partial (Linux & Unix),No,Partial (Linux & Unix),Yes,[empty],Yes,Yes,[added]
+QIP,W32  VCL,Yes,?,Yes  http(s)  socks4/4A/5,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,[empty],No,?,[added]
+QuteCom,Qt,Yes,?,?,Yes,Yes,No,Yes,No,No,?,?,?,?,Yes,?,[empty],?,?,[added]
+Ring,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,[empty],?,?,[added]
+Riot.im,?,Yes,Partial,?,Yes,Yes,?,Yes,?,?,?,Yes,Yes,?,Yes,Yes,[empty],No,No,[added]
+Skype,Qt/KDE  W32,Yes,Yes,Yes,Yes,Partial,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,[empty],Yes/No[c][a],Yes,[added]
+Surespot,?,Yes,?,?,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,Yes,[empty],?,?,[added]
+Tencent QQ,W32,Yes,?,?,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,[empty],Yes,?,[added]
+Telegram,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,Partial,Yes,Only un-encrypted messages,Yes,Yes,[added]
+Tkabber,Tcl/Tk,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,[empty],Yes,No,[added]
+Tox,Many [d],Yes,?,Yes,Yes,Yes,Up to clients [d],Up to clients [d],Up to clients [d],Up to clients [d],Up to clients [d],Yes,Yes,No,Yes,Partial [97],[empty],No,Yes,[added]
+Trillian,W32  Cocoa,Yes,?,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,?,Yes,Yes,[empty],?,Yes,[added]
+WhatsApp,No,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,?,Yes,[empty],No,Yes,[added]
+Wickr,No,Yes,?,Yes,No,Yes,No,No,No,No,No,No,Yes,No,Yes,Yes,[empty],No,?,[added]
+Windows Live Messenger,W32,Yes,?,Yes  http  socks4/5 ,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,[empty],Yes,Yes,[added]
+Wire,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,Yes,Yes,Yes,Yes,Yes,No[98],No,Yes,[added]
+Xfire,W32,Yes,?,?,No,Yes,No,Yes,Partial,Yes,No,Yes,Yes,No,No,No,[empty],No,?,[added]
+Yahoo! Messenger,W32  Cocoa  GTK,Yes,?,?,Yes,Yes,Yes,Yes,Yes,Yes,?,Yes,Yes,Yes,Yes,Yes,[empty],Partial,Yes,[added]
+Yuilop,?,Yes,?,No,Yes,?,No,No,No,No,?,Yes,Yes,No,No,Yes,[empty],Partial,?,[added]
 Client,Toolkits or SDKs,File transfer,Editing sent messages,Proxy server,Graphical emoticons,Unicode (UTF-8),Built-in games,Themes  skins,Plugin system,Third party add-ons,Scripting,Message logging,Voice messaging,Voice mail,Webcam support,Offline messaging,Cloud backup,Remote desktop assistance,Whiteboard,RTL texting

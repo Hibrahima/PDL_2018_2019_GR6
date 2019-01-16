@@ -1,5 +1,6 @@
 +Peripheral support
-Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
-Bluetooth keyboard,;<ref name="Android Issue 1147: RFE: Support for external keyboard  mouse"></ref> previous versions via 3rd party software<ref>KeyPro – Bluetooth keyboard manager   12/09/09</ref>,<ref></ref>,<ref></ref>,<ref name="Matthew Sutton"></ref>,,<ref>Tablet needs a working Bluetooth keyboard </ref><ref>Bluetooth keyboard does not work in Android applications </ref>
-USB keyboard,<ref name="Android Issue 1147: RFE: Support for external keyboard  mouse"/>,<ref name="ilounge1"/>,some devices<ref></ref>,<ref name="Matthew Sutton"/>,,?
-Interchangeable external memory cards,<ref></ref>,,<ref></ref>,<ref></ref>,<ref></ref>,
+Feature
+Bluetooth keyboard
+USB keyboard
+Interchangeable external memory cards
+[added]

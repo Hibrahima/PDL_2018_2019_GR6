@@ -22,4 +22,4 @@ SChannel 8.1/2012R2  10,Yes,Yes,Yes,Yes,No,Yes,Yes[208],No,No,No,No,No,Yes[207],
 Secure Transport,Yes,Yes,Unknown,No,No,Yes,No,No,No,No,No,No,No,No,Unknown
 wolfSSL,Yes,Yes,Yes[149],Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,No,Unknown
 Erlang/OTP SSL application,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Unknown
-Implementation,Secure Renegotiation,Server Name Indication,ALPN,Certificate Status Request,OpenPGP,Supplemental Data,Session Ticket,Keying Material Exporter,Maximum Fragment Length,Truncated HMAC,Encrypt-then-MAC,TLS Fallback SCSV,Extended Master Secret,ClientHello Padding
+Implementation,Secure Renegotiation,Server Name Indication,ALPN,Certificate Status Request,OpenPGP,Supplemental Data,Session Ticket,Keying Material Exporter,Maximum Fragment Length,Truncated HMAC,Encrypt-then-MAC,TLS Fallback SCSV,Extended Master Secret,ClientHello Padding,[added]

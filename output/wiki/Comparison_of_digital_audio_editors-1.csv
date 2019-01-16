@@ -1,35 +1,35 @@
 Digital audio editor,Creator / developer,Software license,Microsoft Windows,MacOS,Linux,iOS,Android,Network storage,External hardware
-ACID Pro,Magix,,,,,,,,
-Ardour,The Ardour Community,,,,,,,NFS,
-AudioDesk,Mark of the Unicorn,,,,,,,,
-Audition,Adobe Systems,,,,,,,,
-Cubase,Steinberg,,,,,,,,Requires hardware dongle
-Digital Performer,Mark of the Unicorn,,,,,,,,
-FL Studio,Image-Line,,,,,,,,
-GarageBand,Apple,,,,,,,,
-Harrison Mixbus,Harrison Consoles,,,,,,,NFS,
-Kristal,Kreatives,(Freeware),,,,,,,
-Live,Ableton,,,,,,,,
-LMMS,Tobias Doerffel,,,,,,,NFS,
-Logic Pro,Apple,,(last version: 5.5.1),,,,,,
-Mixcraft,Acoustica,,,,,,,,
-mp3DirectCut,Martin Pesch,Freeware,,,,,,,
-MuLab,MuTools,,,,,,,,
-MultitrackStudio,Bremmers Audio Design,,,,,,,,
-MusE,MuseE,,,,,,,NFS,
-n-Track,Fasoft,,,,,,,,
-Nuendo,Steinberg,,,,,,,,
-Podium,Zynewave,/ Freemium,,,,,,,
-Pro Tools,Avid,,,,,,,MediaNet (proprietary),
-Qtractor,Qtractor,,,,,,,NFS,
-REAPER,Cockos,,,,(pre-beta),,,,
-Reason,Propellerhead Software,,,,,,,,
-Record,Propellerhead Software,,,,,,,,
-Renoise,Renoise Team,,,,,,,,
-Rosegarden,Rosegarden,,,,,,,NFS,
-Samplitude/Sequoia,Magix,,,,,,,,
-Sonar,Cakewalk,,Discontinued,,,,,,
-Soundscape 32,Mackie,,,,,,,,External 2U rack unit
-Studio One,PreSonus,,,,,,,SoundCloud,
-Tracktion,Tracktion Software Inc,,,,,,,,
-Digital audio editor,Creator / developer,Software license,Microsoft Windows,MacOS,Linux,iOS,,Network storage,External hardware
+ACID Pro,Magix,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ardour,The Ardour Community,[empty],[empty],[empty],[empty],[empty],[empty],NFS,[empty]
+AudioDesk,Mark of the Unicorn,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Audition,Adobe Systems,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cubase,Steinberg,[empty],[empty],[empty],[empty],[empty],[empty],[empty],Requires hardware dongle
+Digital Performer,Mark of the Unicorn,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FL Studio,Image-Line,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GarageBand,Apple,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Harrison Mixbus,Harrison Consoles,[empty],[empty],[empty],[empty],[empty],[empty],NFS,[empty]
+Kristal,Kreatives,(Freeware),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Live,Ableton,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LMMS,Tobias Doerffel,[empty],[empty],[empty],[empty],[empty],[empty],NFS,[empty]
+Logic Pro,Apple,[empty],(last version: 5.5.1),[empty],[empty],[empty],[empty],[empty],[empty]
+Mixcraft,Acoustica,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mp3DirectCut,Martin Pesch,Freeware,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MuLab,MuTools,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MultitrackStudio,Bremmers Audio Design,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MusE,MuseE,[empty],[empty],[empty],[empty],[empty],[empty],NFS,[empty]
+n-Track,Fasoft,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nuendo,Steinberg,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Podium,Zynewave,/ Freemium,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pro Tools,Avid,[empty],[empty],[empty],[empty],[empty],[empty],MediaNet (proprietary),[empty]
+Qtractor,Qtractor,[empty],[empty],[empty],[empty],[empty],[empty],NFS,[empty]
+REAPER,Cockos,[empty],[empty],[empty],(pre-beta),[empty],[empty],[empty],[empty]
+Reason,Propellerhead Software,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Record,Propellerhead Software,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Renoise,Renoise Team,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rosegarden,Rosegarden,[empty],[empty],[empty],[empty],[empty],[empty],NFS,[empty]
+Samplitude/Sequoia,Magix,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sonar,Cakewalk,[empty],Discontinued,[empty],[empty],[empty],[empty],[empty],[empty]
+Soundscape 32,Mackie,[empty],[empty],[empty],[empty],[empty],[empty],[empty],External 2U rack unit
+Studio One,PreSonus,[empty],[empty],[empty],[empty],[empty],[empty],SoundCloud,[empty]
+Tracktion,Tracktion Software Inc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Digital audio editor,Creator / developer,Software license,Microsoft Windows,MacOS,Linux,iOS,[empty],Network storage,External hardware

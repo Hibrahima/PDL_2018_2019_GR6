@@ -1,10 +1,10 @@
 Feature / Framework,Adobe Flex built-in charts,Axiis,BirdEye,Flare,Flexmonster,IBM ILOG Elixir,Kap IT Labs,yFiles,amCharts
-3D charts,,,,,,,,,
-Rotate  zoom chart in 3D,,,,,,,,,
-Show-up & other animation effects,,,,,,,
-Interactive legend,,,,,,,,,
-Show total values over the bars,,,,,,,,,
-String formater for labels,,,,,,,,,
-Ability to define custom color for each bar (chart item),,,,,,,,,
-Combined charts,,,,,,,,,
-Multiple axis,,,,,,,,,
+3D charts,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rotate  zoom chart in 3D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Show-up & other animation effects,[empty],[empty],(only for Dependency Graph),[empty],(only for Pie Chart),[empty],[empty],[empty],[empty]
+Interactive legend,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Show total values over the bars,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+String formater for labels,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ability to define custom color for each bar (chart item),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Combined charts,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Multiple axis,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

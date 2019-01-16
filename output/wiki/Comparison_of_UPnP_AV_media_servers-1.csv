@@ -1,49 +1,49 @@
 Name,License,Cost,OS X,Unix-like,Windows,Audio,Images,Video,Transcoding,Web Interface,DLNA support,Multilingual<ref name="Multilingual">For example  multilingual isn't supported if char 'Й' isn't displayed correctly on movie filename on the client device.</ref>,Implementation,Subtitles<ref name="Subtitles">For example  subtitles are not supported if they only work with few renderers.</ref>,Still Supported
-360 Media Server,,,,,,,,,,,,,Java,,
-ArkMS,,,,,,,,,,,,,C++,,
-aVia Media Player,,,,,,,,,,,,,Java,,
-BRisa,,,<ref name="Python">Python or external packages are required.</ref>,<ref name="Python" />,,,,,<ref name="Coherence-WebUI">Work in progress</ref>,,,,Python,,
-Coherence,,,<ref name="Python" />,<ref name="Python" />,<ref name="Python" />,,,,<ref name="Coherence-AV">Audio: using gstreamer  Video: work in progress</ref>,<ref name="Coherence-WebUI">Work in progress</ref>,,,Python,,
-DivX,,,,,,,,,,,,,C++,,
-Elgato Eyeconnect,,,,,,,,,,,,,,,
-Foobar2000<ref name="Foobar2000">With foo_upnp plugin</ref>,,,,,,,,,,,,,C++,,
-FUPPES,,,,,,,,,,,,,C++,,
-GeeXboX uShare,,,,<ref name="GeeXboX">GeeXboX is provided as its own Linux distribution</ref>,,,,,,,,,C,,
-Gmediaserver,,,,,,,,,,,,,C,,
-Home Media Center<ref>http://hmc.codeplex.com</ref>,,,,,,,,,,,,,.NET 4,,
-iSedora Media Server,,,,,,,,,,,,,Objective C / C++ / JavaScript,,
-Jamcast,,,,,,,,,,,,,C++ / C# / Java,,
-JRiver Media Center,,,,,,,,,,,,,C++,,
-Kodi (formerly XBMC),,,,,,,<ref name="XBMCPictures">This feature is not in the latest stable release of XBMC but is available in the latest nightly releases.</ref>,,,,,,C++,,
-KooRaRoo Media,,<ref>Free version available with fewer features.</ref>,<ref>Run on MAC OS X using WineBottler</ref>,<ref>Run on *nix systems using Wine</ref>,,,,,,,,,C++,<ref name="KooRaRoo-Subtitles">Supports streaming external subtitles (SRT  SMI  SUB)  embedded subtitles and burning-in subtitles (including DVD graphical subtitles) on devices that don't support external subtitles.</ref>,
-LimboMedia,,,,,,,,,,,,,Java,,
-LXiMedia,,,,,,,,,, mandatory,,,,C++,,
-Majestic Media Server,,,,,,,,,,,,,,,
-MediaMonkey,,,,,,,,,,,,,Delphi,,
-MediaTomb,,,<ref name="MediaTomb">Mac support provided by Fink at http://pdb.finkproject.org/pdb/package.php/mediatomb</ref>,,,,,,,,,,C++,,
-ReadyMedia (formerly MiniDLNA),,,<ref name="minidlna Mac OS X">Patches can be found at https://sourceforge.net/projects/minidlna/forums/forum/879956/topic/3412747</ref>,,<ref name="minidlna cygwin">See https://sourceforge.net/projects/minidlna/forums/forum/879956/topic/4397860</ref>,,,,<ref name="minidlna transcode">Patches and discussion at https://sourceforge.net/tracker/index.php?func=detail&aid=3193201&group_id=243163&atid=1121518  and branched version to handle transcoding at https://bitbucket.org/stativ/readymedia-transcode</ref>,<ref name="minidlna web interface">Web interface supported via a Webmin module  see https://sourceforge.net/projects/minidlnawebmin/</ref>,,,C,,
-Mezzmo,,,,,,,,,,,,,C++,,
-myiHome,,,,,,,,,,,,,Java,,
-MythTV with uPnP,,,,,,,,,,,,,C++,,
-Nullriver Medialink,,,,,,,,,,,,,,,
-PlayOn,,,,,,,,,,,,,C#,<ref name="PlayOn-Subtitles">Only on selected renderers  both embedded subtitles and external SRT</ref>,
-Plex,,<ref>Free version available with fewer features</ref>,,,,,,,,,,,C++ / Python,,
-PS3 Media Server,,,,,,,,,,<ref name="PS3 Media Server">A WIP limited web interface for the optional media library exists in the latest betas.</ref>,,,Java,,
-PyMedS,,,<ref name="Python" />,<ref name="Python" />,,,,,<ref name="PyMedSOTF">Uses ffmpeg for video only</ref>,,,,Python,,
-Rygel,,,,,<ref name="Rygel">Preliminary experimental support available  see http://jensge.org/2010/04/1-21-gigawatts/</ref>,,,,,,,,Vala,,
-Rivet<ref name="Rivet">Discontinued paid version as of 21 July 2011 see http://thelittleappfactory.com/rivet/. A free  but unsupported  version is still available.</ref>,,,,,,,,,,,,,,,<ref name="Rivet"/>
-Serviio,,<ref>Free version available with fewer features</ref>,,,,,,,,<ref name="Serviio-WebUI">Via 3rd party add-ons</ref>,,,Java,<ref name="Serviio-Subtitles">Only on selected renderers  and never for embedded subtitles (external SRT only) http://www.serviio.org/index.php?option=com_content&view=article&id=33</ref>,
-SimpleCenter Premium,,,,,,,,,,,,,,,
-Skifta,,,,,,,,,,,,,Java,,
-Songbird,,,,,,,,,,,,,C++,,<ref name="Discontinued June 2013">Development discontinued in June 2013 https://web.archive.org/web/20130921202235/http://blog.songbirdnest.com/</ref>
-TVble,,,,,,,,,,,,,C#/C++,,
-TVersity,,<ref>Free version available with fewer features</ref>,,,,,,,,,,,,,
-TVMOBiLi,,,,,,,,,,,,,C++,,
-TVShare,,,,,,,,,,,,,Java,,
-TwonkyMedia server,,,,,,,,,<ref name="TwonkyMedia">Transcoding supported in TMS 5.0 and later on the PC. Must download FFmpeg  VLC or other 3rd-party transcoding engines to use</ref>,,,,,,
-Universal Media Server,,,,,,,,,,,,,Java,,
-Windows Media Connect,,<ref name="WMC">Must purchase a Microsoft Windows license to use</ref>,,,,,,,<ref>http://blogs.msdn.com/b/e7/archive/2009/05/12/media-streaming-with-windows-7.aspx</ref>,,,,,,
-Wild Media Server,,Trialware,<ref>MAC OS X using WineBottler </ref>,<ref>UNIX-like systems by using Wine</ref>,,,,,,,,,Delphi,,
-xupnpd,,,,,,,,,,,,,C++,,
-Yazsoft Playback,,,,,,,,,,,,,,,
+360 Media Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Java,[empty],[empty]
+ArkMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,[empty],[empty]
+aVia Media Player,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Java,[empty],[empty]
+BRisa,[empty],[empty],<ref name="Python">Python or external packages are required.</ref>,<ref name="Python" />,[empty],[empty],[empty],[empty],<ref name="Coherence-WebUI">Work in progress</ref>,[empty],[empty],[empty],Python,[empty],[empty]
+Coherence,[empty],[empty],<ref name="Python" />,<ref name="Python" />,<ref name="Python" />,[empty],[empty],[empty],<ref name="Coherence-AV">Audio: using gstreamer  Video: work in progress</ref>,<ref name="Coherence-WebUI">Work in progress</ref>,[empty],[empty],Python,[empty],[empty]
+DivX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,[empty],[empty]
+Elgato Eyeconnect,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Foobar2000<ref name="Foobar2000">With foo_upnp plugin</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,[empty],[empty]
+FUPPES,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,[empty],[empty]
+GeeXboX uShare,[empty],[empty],[empty],<ref name="GeeXboX">GeeXboX is provided as its own Linux distribution</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C,[empty],[empty]
+Gmediaserver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C,[empty],[empty]
+Home Media Center<ref>http://hmc.codeplex.com</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],.NET 4,[empty],[empty]
+iSedora Media Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Objective C / C++ / JavaScript,[empty],[empty]
+Jamcast,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++ / C# / Java,[empty],[empty]
+JRiver Media Center,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,[empty],[empty]
+Kodi (formerly XBMC),[empty],[empty],[empty],[empty],[empty],[empty],<ref name="XBMCPictures">This feature is not in the latest stable release of XBMC but is available in the latest nightly releases.</ref>,[empty],[empty],[empty],[empty],[empty],C++,[empty],[empty]
+KooRaRoo Media,[empty],<ref>Free version available with fewer features.</ref>,<ref>Run on MAC OS X using WineBottler</ref>,<ref>Run on *nix systems using Wine</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,<ref name="KooRaRoo-Subtitles">Supports streaming external subtitles (SRT  SMI  SUB)  embedded subtitles and burning-in subtitles (including DVD graphical subtitles) on devices that don't support external subtitles.</ref>,[empty]
+LimboMedia,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Java,[empty],[empty]
+LXiMedia,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],, mandatory,[empty],[empty],[empty],C++,[empty],[empty]
+Majestic Media Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MediaMonkey,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Delphi,[empty],[empty]
+MediaTomb,[empty],[empty],<ref name="MediaTomb">Mac support provided by Fink at http://pdb.finkproject.org/pdb/package.php/mediatomb</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,[empty],[empty]
+ReadyMedia (formerly MiniDLNA),[empty],[empty],<ref name="minidlna Mac OS X">Patches can be found at https://sourceforge.net/projects/minidlna/forums/forum/879956/topic/3412747</ref>,[empty],<ref name="minidlna cygwin">See https://sourceforge.net/projects/minidlna/forums/forum/879956/topic/4397860</ref>,[empty],[empty],[empty],<ref name="minidlna transcode">Patches and discussion at https://sourceforge.net/tracker/index.php?func=detail&aid=3193201&group_id=243163&atid=1121518  and branched version to handle transcoding at https://bitbucket.org/stativ/readymedia-transcode</ref>,<ref name="minidlna web interface">Web interface supported via a Webmin module  see https://sourceforge.net/projects/minidlnawebmin/</ref>,[empty],[empty],C,[empty],[empty]
+Mezzmo,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,[empty],[empty]
+myiHome,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Java,[empty],[empty]
+MythTV with uPnP,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,[empty],[empty]
+Nullriver Medialink,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PlayOn,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C#,<ref name="PlayOn-Subtitles">Only on selected renderers  both embedded subtitles and external SRT</ref>,[empty]
+Plex,[empty],<ref>Free version available with fewer features</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++ / Python,[empty],[empty]
+PS3 Media Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="PS3 Media Server">A WIP limited web interface for the optional media library exists in the latest betas.</ref>,[empty],[empty],Java,[empty],[empty]
+PyMedS,[empty],[empty],<ref name="Python" />,<ref name="Python" />,[empty],[empty],[empty],[empty],<ref name="PyMedSOTF">Uses ffmpeg for video only</ref>,[empty],[empty],[empty],Python,[empty],[empty]
+Rygel,[empty],[empty],[empty],[empty],<ref name="Rygel">Preliminary experimental support available  see http://jensge.org/2010/04/1-21-gigawatts/</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],Vala,[empty],[empty]
+Rivet<ref name="Rivet">Discontinued paid version as of 21 July 2011 see http://thelittleappfactory.com/rivet/. A free  but unsupported  version is still available.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="Rivet"/>
+Serviio,[empty],<ref>Free version available with fewer features</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="Serviio-WebUI">Via 3rd party add-ons</ref>,[empty],[empty],Java,<ref name="Serviio-Subtitles">Only on selected renderers  and never for embedded subtitles (external SRT only) http://www.serviio.org/index.php?option=com_content&view=article&id=33</ref>,[empty]
+SimpleCenter Premium,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Skifta,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Java,[empty],[empty]
+Songbird,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,[empty],<ref name="Discontinued June 2013">Development discontinued in June 2013 https://web.archive.org/web/20130921202235/http://blog.songbirdnest.com/</ref>
+TVble,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C#/C++,[empty],[empty]
+TVersity,[empty],<ref>Free version available with fewer features</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TVMOBiLi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,[empty],[empty]
+TVShare,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Java,[empty],[empty]
+TwonkyMedia server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="TwonkyMedia">Transcoding supported in TMS 5.0 and later on the PC. Must download FFmpeg  VLC or other 3rd-party transcoding engines to use</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Universal Media Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Java,[empty],[empty]
+Windows Media Connect,[empty],<ref name="WMC">Must purchase a Microsoft Windows license to use</ref>,[empty],[empty],[empty],[empty],[empty],[empty],<ref>http://blogs.msdn.com/b/e7/archive/2009/05/12/media-streaming-with-windows-7.aspx</ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Wild Media Server,[empty],Trialware,<ref>MAC OS X using WineBottler </ref>,<ref>UNIX-like systems by using Wine</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Delphi,[empty],[empty]
+xupnpd,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],C++,[empty],[empty]
+Yazsoft Playback,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Name,License,Cost,OS X,Unix-like,Windows,Audio,Images,Video,Transcoding,Web Interface,DLNA support,Multilingual<ref name="Multilingual" />,Implementation,Subtitles<ref name="Subtitles" />,Still Supported

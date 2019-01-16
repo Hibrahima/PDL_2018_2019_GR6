@@ -1,55 +1,55 @@
 Software,Compare multiple files,Hash single file,Hash several files,Hash directories & sub-directories,exclude filter,Binary output,Bubble Babble output,Base64 output,Hexadecimal output
-AccuHash,,,,,,,,,
-BeaverSFV,,,,,,,,,
-CDCheck,,,,,,,,,
-cfv,,,,,,,,,
-Checksum Compare,,,,,,,,,
-Checksums,,,,,,,,,
-CHK,,,,,,,,,
-cksum,,,,,,,,,
-CyoHash,,,,,,,,,
-Data Digester,,,,,,,,,
-DeepDigest,,,,,,,,,
-DySFV,,,,,,,,,
-ExactFile,,,,,,,,,
-eXpress CheckSum Calculator,,,,,,,,,
-FastSum,,,,,,,,,
-FCIV,,,,,,,,,
-Febooti Hash & CRC,,,,,,,,,
-FileVerifier++,,,,,,,,,
-FlashSFV,,,,,,,,,
-FSUM,,,,,,,,,
-FSUM Frontend,,,,,,,,,
-PowerShell's Get-FileHash,,,,,,,,,
-Hashcalc,,,,,,,,,
-HashCheck Shell Extension,,,,,,,,,
-HashForm,,,,,,,,,
-HashShell,,,,,,,,,
-ilSFV,,,,,,,,,
-Jacksum,,,,,,,,,
-jdigest,,,,,,,,,
-jHashCalc,,,,,,,,,
-MD5 File Hasher,,,,,,,,,
-MD5 & SHA Checksum Utility,,,,,,,,,
-md5deep,,,,,,,,,
-md5sum,,,,,,,,,
-MD5summer,,,,,,,,,
-MD5 Win Verifier,,,,,,,,,
-QuickSFV,,,,,,,,,
-PeaZip,,,,,,,,,
-RapidCRC,,,,,,,,,
-RekSFV,,,,,,,,,
-RHash,,,,,,,,,
-SafeFileManager,,,,,,,,,
-Sigcheck,,,,,,,,,
-SFV Checker,,,,,,,,,
-sha1sum,,,,,,,,,
-sha3sum,,,,,,,,,
-SuperSFV,,,,,,,,,
-TeraCopy,,,,,,,,,
-Tom's Hash Explorer,,,,,,,,,
-Toolsley Hash & Validate,,,,,,,,,
-Total Commander,,,,,,,,,
-WinHasher,,,,,,,,,
-wxChecksums,,,,,,,,,
+AccuHash,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BeaverSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CDCheck,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+cfv,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Checksum Compare,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Checksums,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CHK,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+cksum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CyoHash,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Data Digester,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DeepDigest,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DySFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ExactFile,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eXpress CheckSum Calculator,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FastSum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FCIV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Febooti Hash & CRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FileVerifier++,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FlashSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FSUM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FSUM Frontend,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PowerShell's Get-FileHash,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hashcalc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HashCheck Shell Extension,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HashForm,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HashShell,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ilSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Jacksum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+jdigest,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+jHashCalc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MD5 File Hasher,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MD5 & SHA Checksum Utility,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+md5deep,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+md5sum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MD5summer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MD5 Win Verifier,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QuickSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PeaZip,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RapidCRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RekSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RHash,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SafeFileManager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sigcheck,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SFV Checker,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+sha1sum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+sha3sum,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SuperSFV,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TeraCopy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tom's Hash Explorer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Toolsley Hash & Validate,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Total Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinHasher,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+wxChecksums,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Software,Compare multiple files,Hash single file,Hash several files,Hash directories & sub-directories,exclude filter,Binary output,Bubble Babble output,Base64 output,Hexadecimal output

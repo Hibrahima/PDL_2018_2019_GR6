@@ -14,7 +14,7 @@ OpenSSL,Yes[54]
 RomSTL,Yes
 RSA BSAFE,Yes[55]
 rustls,Yes
-S2n,
+S2n,[empty]
 SChannel,Yes[69]
 Secure Transport,No
 wolfSSL,Yes

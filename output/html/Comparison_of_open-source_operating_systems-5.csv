@@ -2,27 +2,27 @@ Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN
 Linux,netfilter iptables/nftables,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 FreeBSD,IPFW2  IPFilter  PF,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 OpenBSD,PF,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes
-NetBSD,IPFilter  NPF  PF,Yes,Yes,,Yes,Yes[Note 1],Yes,Yes,Yes,Yes,Yes
-DragonFly BSD,IPFW2  PF,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,
-OpenSolaris  illumos,IPFilter,Yes,Yes,,Yes,Yes,Yes,Yes,Yes[Note 2],Yes,Yes
-AuroraUX,IPFilter,Yes,Yes,,Yes,Yes,Yes,Yes,,Yes,Yes
-Darwin  OpenDarwin,IPFW,Yes,Yes,,,,Yes,,,Yes,
-MINIX,,Yes,,,,,,,,Yes,
-FreeDOS,,Yes,,Yes,Yes,Yes,Yes,,,Yes,
-Genode,software IP routing,Yes,,No,No,No,Yes,Yes,,,
-Haiku,None,Yes,Yes,,,,Yes,,,Yes,Yes
-KolibriOS,None,Yes,,No,Yes,No,Yes,,,,
-MenuetOS,None,Yes,,No,No,No,,,,,
-GNU,netfilter iptables/nftables (with Linux-libre and Linux kernel)[Note 3],Yes,Yes[Note 4],,,,Yes[Note 5],,,Yes,
-ReactOS,,Yes,Yes,,,,,,,,
-L4  Fiasco  Pistachio,,,,,,,,,,,
+NetBSD,IPFilter  NPF  PF,Yes,Yes,[empty],Yes,Yes[Note 1],Yes,Yes,Yes,Yes,Yes
+DragonFly BSD,IPFW2  PF,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,[empty]
+OpenSolaris  illumos,IPFilter,Yes,Yes,[empty],Yes,Yes,Yes,Yes,Yes[Note 2],Yes,Yes
+AuroraUX,IPFilter,Yes,Yes,[empty],Yes,Yes,Yes,Yes,[empty],Yes,Yes
+Darwin  OpenDarwin,IPFW,Yes,Yes,[empty],[empty],[empty],Yes,[empty],[empty],Yes,[empty]
+MINIX,[empty],Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],Yes,[empty]
+FreeDOS,[empty],Yes,[empty],Yes,Yes,Yes,Yes,[empty],[empty],Yes,[empty]
+Genode,software IP routing,Yes,[empty],No,No,No,Yes,Yes,[empty],[empty],[empty]
+Haiku,None,Yes,Yes,[empty],[empty],[empty],Yes,[empty],[empty],Yes,Yes
+KolibriOS,None,Yes,[empty],No,Yes,No,Yes,[empty],[empty],[empty],[empty]
+MenuetOS,None,Yes,[empty],No,No,No,[empty],[empty],[empty],[empty],[empty]
+GNU,netfilter iptables/nftables (with Linux-libre and Linux kernel)[Note 3],Yes,Yes[Note 4],[empty],[empty],[empty],Yes[Note 5],[empty],[empty],Yes,[empty]
+ReactOS,[empty],Yes,Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Plan 9,ipmux,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No
-AROS,,Yes,,,,,,,,,
-Syllable,,Yes,,,Yes,Yes,Yes,,,Yes,
+AROS,[empty],Yes,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Syllable,[empty],Yes,[empty],[empty],Yes,Yes,Yes,[empty],[empty],Yes,[empty]
 Inferno,ipmux,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No
-FreeRTOS,,,,,,,,,,,
-eCos,,Yes,Yes,,Yes,,Yes,,,Yes,
-RTEMS,,Yes,No,,Yes,Yes,Yes,Yes,Yes,,
-HelenOS,,Yes,Yes,No,No,No,Yes,No,No,No,No
-E/OS,,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eCos,[empty],Yes,Yes,[empty],Yes,[empty],Yes,[empty],[empty],Yes,[empty]
+RTEMS,[empty],Yes,No,[empty],Yes,Yes,Yes,Yes,Yes,[empty],[empty]
+HelenOS,[empty],Yes,Yes,No,No,No,Yes,No,No,No,No
+E/OS,[empty],Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No
 Name,Firewall,TCP/IP,IPv6,IPX,PPP,PPPoE,DHCP,bridge,TUN/TAP,ssh,OpenVPN

@@ -1,29 +1,30 @@
 Tools,User Interface,Create & Alter wizard,Browse,Auto Completion,Syntax colored,Multi server support,Monitoring server
 Database,Table,Procedure,Trigger,Database,Table,Procedure,Trigger
-Adminer,Browser-based,,,,,,,,,,,,
-Altova DatabaseSpy,desktop,,,,,,,,,,,,
-DaDaBIK,Browser-based,,,,,,,,,,,,
-Database Deployment Manager,desktop,,,,,,,,,,,,
-Database Workbench,desktop,,,,,,,,,,,,
-DataGrip,desktop,,,,,,,,,,,,
-DBeaver,desktop,,,,,,,,,,,,
-DBEdit,desktop,,,,,,,,,,,,
-Epictetus,desktop,,,,,,,,,,,,
-ER/Builder Data Modeler,desktop,,,,,,,,,,,,
-Microsoft SQL Server Management Studio,desktop,,,,,,,,,,,,
-ModelRight,desktop,,,,,,,,,,,,
-MySQL Workbench,desktop,,,,,,,,,,,,
-Navicat,desktop,,,,,,,,,,,,
-Navicat Data Modeler,desktop,,,,,,,,,,,,
-Oracle Enterprise Manager,Browser-based,,,,,,,,,,,,
-Oracle SQL Developer,desktop,,,,,,,,,,,,
-Orbada,desktop,,,,,,,,,,,,
-pgAdmin III,TDI,,,,,,,,,,,,
-phpLiteAdmin,Browser-based,,,,,,,,,,,,
-phpMyAdmin,Browser-based,,,,,,,,,,,,
-SQL Database Studio,desktop,,,,,,,,,,,,
-SQLyog,desktop,,,,,,,,,,,,
-SQuirreL SQL,desktop,,,,,,,,,,,,
-Toad,desktop,,,,,,,,,,,,
-Toad Data Modeler,desktop,,,,,,,,,,,,
-TOra,desktop,,,,,,,,,,,,
+Adminer,Browser-based,[empty],[empty],[empty],[empty],[empty],[empty]
+Altova DatabaseSpy,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+DaDaBIK,Browser-based,[empty],[empty],[empty],[empty],[empty],[empty]
+Database Deployment Manager,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+Database Workbench,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+DataGrip,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+DBeaver,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added]
+DBEdit,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+Epictetus,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+ER/Builder Data Modeler,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft SQL Server Management Studio,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+ModelRight,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+MySQL Workbench,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+Navicat,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+Navicat Data Modeler,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+Oracle Enterprise Manager,Browser-based,[empty],[empty],[empty],[empty],[empty],[empty]
+Oracle SQL Developer,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+Orbada,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+pgAdmin III,TDI,[empty],[empty],[empty],[empty],[empty],[empty]
+phpLiteAdmin,Browser-based,[empty],[empty],[empty],[empty],[empty],[empty]
+phpMyAdmin,Browser-based,[empty],[empty],[empty],[empty],[empty],[empty]
+SQL Database Studio,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+SQLyog,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+SQuirreL SQL,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+Toad,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+Toad Data Modeler,desktop,[empty],[empty],[empty],[empty],[empty],[empty]
+TOra,desktop,[empty],[empty],[empty],[empty],[empty],[empty]

@@ -1,8 +1,8 @@
 Model,Memory slots,Memory Max,User-replaceable HDD/SSD?,HDD/SSD bays,Expansion slots
-Mac Mini<ref name="ministore"/>,,16 GB,,1,
-iMac<ref name="imacstore"/>,None (21.5")  4 (27"),16 GB (21.5")  64 GB (27"),,1,
-Mac Pro<ref name="macprostore"/>,4,64 GB,,1,
-MacBook Air<ref name="macbookair" />,,8 GB,,1,
-MacBook,,16 GB,,,
-MacBook Pro (2017)<ref name="macbookpro" />,,16 GB,,,
-MacBook Pro (2015)<ref name="macbookpro" />,,16 GB,,1,
+Mac Mini<ref name="ministore"/>,[empty],16 GB,[empty],1,[empty]
+iMac<ref name="imacstore"/>,None (21.5")  4 (27"),16 GB (21.5")  64 GB (27"),[empty],1,[empty]
+Mac Pro<ref name="macprostore"/>,4,64 GB,[empty],1,[empty]
+MacBook Air<ref name="macbookair" />,[empty],8 GB,[empty],1,[empty]
+MacBook,[empty],16 GB,[empty],[empty],[empty]
+MacBook Pro (2017)<ref name="macbookpro" />,[empty],16 GB,[empty],[empty],[empty]
+MacBook Pro (2015)<ref name="macbookpro" />,[empty],16 GB,[empty],1,[empty]

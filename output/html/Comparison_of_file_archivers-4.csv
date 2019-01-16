@@ -1,7 +1,6 @@
-,ZIP,TAR,GZ,BZ/BZ2,7z,xz,RAR,LHA/LZH,ACE,SIT,SITX,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ
+[empty],ZIP,TAR,GZ,BZ/BZ2,7z,xz,RAR,LHA/LZH,ACE,SIT,SITX,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ
 7-Zip,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No[1],No,No,Yes,No,No,No,Yes,No,Yes,No
-ALZip,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No
-Archive Manager,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,Yes,Yes,Yes,No
+ALZip,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,Yes,Yes,No,No,Yes,No,No,Yes,Yes,Yes,Yes,No169TAR-->style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes"|Yes
 Archive Utility,Yes,Yes,Yes,Yes,No,Unknown,No,No,No,No,No,No,No,No,No,No,No,No[7],No
 Ark,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No
 B1 Free Archiver,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No[11],No,No,No,Yes,Yes,Yes,No
@@ -30,4 +29,4 @@ WinZip,Yes,Yes,Yes,Yes,Yes,Unknown,Yes[4],Yes,No,No,No,Yes[5],No,No,Yes[5],Yes,N
 XAD,Yes,Yes,Yes,Yes,No,Unknown,Yes,Yes,Partial,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No
 Xarchiver,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,Yes,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No
 ZipGenius,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,Yes[10],Yes,No,No,Yes[10],No,No,Yes,Yes,No,Yes,No
-,ZIP,TAR,GZ,BZ/BZ2,7z,xz,RAR,LHA/LZH,ACE,SIT,SITX,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ
+[empty],ZIP,TAR,GZ,BZ/BZ2,7z,xz,RAR,LHA/LZH,ACE,SIT,SITX,ARJ,KGB,DAR,ARC,CAB,ALZ,ISO/CD Image,ZPAQ

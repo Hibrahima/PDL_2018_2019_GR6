@@ -1,44 +1,31 @@
-,Range,Hash,Composite (Range+Hash),List,Expression
-4th Dimension,,,,,
-ADABAS,,,,,
-Adaptive Server Enterprise,,,,,
-Advantage Database Server,,,,,
-Altibase,,,,,
-Apache Derby,,,,,
-ClustrixDB,,,,,
-CUBRID,,,,,
-IBM DB2,,,,,
-Empress Embedded Database,,,,,
-EXASolution,,,,,
-Firebird,,,,,
-HSQLDB,,,,,
-H2,,,,,
-Informix Dynamic Server,,,,,
-Ingres,,,,,
-InterBase,,,,,
-Linter SQL RDBMS,,,,,
-MariaDB,,,,,
-MaxDB,,,,,
-Microsoft Access (JET),,,,,
-Microsoft Visual Foxpro,,,,,
-Microsoft SQL Server,,,,,
-Microsoft SQL Server Compact (Embedded Database),,,,,
-Mimer SQL,,,,,
-MonetDB,,,,,
-MySQL,,,,,
-OpenBase SQL,,,,,
-Oracle,,,,,
-Oracle Rdb,,,,,
-OpenLink Virtuoso,,,,,
-Pervasive PSQL,,,,,
-Polyhedra DBMS,,,,,
-PostgreSQL,1,1,1,1,1
-Raima Database Manager,2,2,2,,
-RDM Server,,,,,
-SAP HANA,,,,,
-solidDB,,,,,
-SQL Anywhere,,,,,
-SQLite,,,,,
-Teradata,,,,,
-UniVerse,,,,,
-,Range,Hash,Composite (Range+Hash),List,Expression
+[empty],Native network encryption1,Brute-force protection,Enterprise directory compatibility,Password complexity rules2,Patch access3,Run unprivileged4,Audit,Resource limit,Separation of duties (RBAC)5,Security Certification,Attribute-Based Access Control (ABAC)
+4D,(with SSL),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Adaptive Server Enterprise,(optional; to pay),[empty],(optional ?),[empty],(need to register; depend on which product)<ref></ref>,[empty],[empty],[empty],[empty],(EAL4+ 1),[empty]
+Advantage Database Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DB2,[empty],[empty],(LDAP  Kerberos…),[empty],[empty],[empty],[empty],[empty],[empty],(EAL4+6),[empty]
+Empress Embedded Database,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+EXASolution,[empty],[empty],(LDAP),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Firebird,[empty],<ref></ref>,(Windows trusted authenification),(by custom plugin),(no security page)<ref></ref>,[empty],<ref></ref>,[empty],7,[empty],[empty]
+HSQLDB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+H2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Informix Dynamic Server,[empty],[empty],10,10,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linter SQL RDBMS,(with SSL),[empty],[empty],(length only),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MariaDB,(SSL),[empty],(with 5.2  but not on Windows servers),<ref name="mdb_cpc"></ref><ref name="mdb_spc"></ref>,<ref name="mdb_security"></ref>,[empty],[empty],[empty],8,[empty],[empty]
+Microsoft SQL Server,[empty],[empty],(Microsoft Active Directory),[empty],[empty],[empty],(From 2008),[empty],[empty],(EAL4+11),[empty]
+Microsoft SQL Server Compact (Embedded Database),(not relevant  only file permissions),(not relevant),(not relevant),(not relevant),[empty],(file access),[empty],[empty],[empty],[empty],[empty]
+Mimer SQL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MySQL,(SSL with 4.0),[empty],(with 5.5  but only in commercial edition),[empty],(no security page)<ref></ref>,[empty],[empty],[empty],8,[empty],[empty]
+OpenBase SQL,[empty],[empty],(Open Directory  LDAP),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenLink Virtuoso,[empty],[empty],[empty],(optional),(optional),[empty],(optional),(optional),[empty],[empty],(optional)
+Oracle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(EAL4+1),[empty]
+Pervasive PSQL,[empty],[empty],[empty],[empty],[empty],[empty],12,[empty],[empty],[empty],[empty]
+Polyhedra DBMS,(with SSL. Optional),[empty],[empty],[empty],[empty],[empty],13,[empty],13,[empty],[empty]
+PostgreSQL,[empty],(for 9.1),(LDAP  Kerberos…9),(as of 9.0 with passwordcheck module),<ref></ref>,[empty],, with triggers<ref></ref>,[empty],[empty],(EAL11),[empty]
+Raima Database Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RDM Server,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SAP HANA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+solidDB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SQL Anywhere,[empty],[empty],(Kerberos),[empty],[empty],[empty],[empty],[empty],[empty],(EAL3+1 as Adaptive Server Anywhere),[empty]
+SQLite,(not relevant  only file permissions),(not relevant),(not relevant),(not relevant),(no security page)<ref></ref>,(file access),[empty],[empty],[empty],[empty],[empty]
+Teradata,[empty],[empty],(LDAP  Kerberos…),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[empty],Native network encryption1,Brute-force protection,Enterprise directory compatibility,Password complexity rules2,Patch access3,Run unprivileged4,Audit,Resource limit,Separation of duties (RBAC)5,Security Certification,Attribute-Based Access Control (ABAC)

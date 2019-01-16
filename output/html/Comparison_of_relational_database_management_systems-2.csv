@@ -1,4 +1,4 @@
-,Windows,macOS,Linux,BSD,UNIX,AmigaOS,z/OS,iOS,Android,OpenVMS
+[empty],Windows,macOS,Linux,BSD,UNIX,AmigaOS,z/OS,iOS,Android,OpenVMS
 4th Dimension,Yes,Yes,No,No,No,No,No,No,No,No
 ADABAS,Yes,No,Yes,No,Yes,No,Yes,No,No,No
 Adaptive Server Enterprise,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,No
@@ -51,4 +51,4 @@ Teradata,Yes,No,Yes,No,Yes,No,No,No,No,No
 Tibero,Yes,No,Yes,No,Yes,No,No,No,No,No
 UniData,Yes,No,Yes,No,Yes,No,No,No,No,No
 UniVerse,Yes,No,Yes,No,Yes,No,No,No,No,No
-,Windows,macOS,Linux,BSD,UNIX,AmigaOS,z/OS,iOS,Android,OpenVMS
+[empty],Windows,macOS,Linux,BSD,UNIX,AmigaOS,z/OS,iOS,Android,OpenVMS

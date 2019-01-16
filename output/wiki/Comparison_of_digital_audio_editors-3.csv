@@ -1,56 +1,56 @@
-,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
-ACID Pro,,,,,,,,,,,
-Acoustica,,,,,,,,,,,
-Ardour,,,,,,,,,,,
-Audacity,,,,,,,,,<ref>Audacity: Plug-Ins and Libraries </ref>,,
-AudioDesk,,,,,,,,,,,
-Audiotool,,,,,,,,,,,
-Audition,(Pre CS5.5 - Yes  CS5.5 - No),,,,,,,,,(Pre CS5.5 - Yes  CS5.5 - No),
-BIAS Peak,,,,,,,,,,,
-Cubase,,,,,,,,,,(SX3.1),
-Diamond Cut ART,,,,,,,,,,,
-Digital Performer,,,,,,,,(with Digi TDM or HD hardware via DAE),,,
-Ecasound,,,,,,,,,,,
-FL Studio,,,,,,,,,,,
-GarageBand,,,,,,,,,,,
-Goldwave,,,,,,,,,,,
-,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
-Harrison Mixbus,,,,,,,,,,,
-Jokosher,,,,,,,,,,,
-Kristal,,,,,,,,,,,
-Live,,,,,,,,,,,
-LMMS,,,,,,,,,,,
-Logic Express/Studio,,,,,,,,,,,
-Mixcraft,,,,,,,,,,,
-mp3DirectCut,,,,,,,,,,,
-MuLab,,,,,,,,,,,
-MusE,,,,,,,,,,,
-n-Track,,,,,,,,,,,
-Nuendo,,,,,,,,,,,
-NU-Tech,,,,,,,,,,,
-Podium,,,,,,,,,,,
-Pro Tools,,,,,,,,,,,
-Qtractor,,,,,,,,,,,
-,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
-REAPER,,,,,,,,,,,
-Reason,,,,,,,,,,,
-Record,,,,,,,,,,,
-Renoise,,,,,,,,,,,
-RiffWorks,,,,,,,,,,,
-Rosegarden,,,,,,,,,,,
-Samplitude,,,,,,,,,,,
-SONAR,,,,,,,,,,,
-Sound Forge,,,,,,,,,,,
-Soundbooth,,,,,,,,,,,
-Soundscape 32,,,,,,,,,,,
-SoX,,,,,,,,,,,
-SpectraLayers,,,,,,,,,,,
-Studio One,,,,,,,,,,,
-Sweep,,,,,,,,,,,
-Total Recorder,,,,,,,,,,,
-Tracktion,,,,,,,,,,,
-Traverso,,,,,,,,,,,
-WaveLab,,,,,,,,,,,
-WavePad,,,,,,,,,,,
-WaveSurfer,,,,,,,,,,,
-,ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
+[empty],ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
+ACID Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Acoustica,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ardour,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Audacity,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>Audacity: Plug-Ins and Libraries </ref>,[empty],[empty]
+AudioDesk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Audiotool,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Audition,(Pre CS5.5 - Yes  CS5.5 - No),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(Pre CS5.5 - Yes  CS5.5 - No),[empty]
+BIAS Peak,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cubase,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(SX3.1),[empty]
+Diamond Cut ART,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Digital Performer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],(with Digi TDM or HD hardware via DAE),[empty],[empty],[empty]
+Ecasound,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FL Studio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GarageBand,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Goldwave,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[empty],ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
+Harrison Mixbus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Jokosher,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Kristal,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Live,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LMMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Logic Express/Studio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mixcraft,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mp3DirectCut,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MuLab,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MusE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+n-Track,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nuendo,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NU-Tech,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Podium,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pro Tools,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Qtractor,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[empty],ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS
+REAPER,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Reason,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Record,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Renoise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RiffWorks,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rosegarden,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Samplitude,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SONAR,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sound Forge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Soundbooth,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Soundscape 32,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SoX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SpectraLayers,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Studio One,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sweep,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Total Recorder,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tracktion,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Traverso,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WaveLab,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WavePad,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WaveSurfer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[empty],ReWire,JACK,VST,VST3,LADSPA,LV2,DSSI,RTAS,AU,DXi,MAS

@@ -1,25 +1,24 @@
-Shell,String processing,Alternation (Brace expansion),Pattern matching (regular expressions built-in),Pattern matching (filename globbing),Globbing qualifiers (filename generation based on file attributes),Recursive globbing (generating files from any level of subdirectories)
-Bourne shell 1977 version,?,,,,,
-Bourne shell recent version,(prefix and suffix stripping in variable expansion),,,,,
-POSIX shell,(prefix and suffix stripping in variable expansion),,,,,
-bash (v4.0),(prefix and suffix stripping in variable expansion),,,Yes (*  ?  […]  {…})}},,(**/...)
-csh,,,,,,
-tcsh,,,,,,
-Hamilton C shell,,,,,,</ref>)}}
-Scsh,?,?,,,,
-ksh (ksh93t+),(prefix  suffix stripping and string replacement in variable expansion),<ref name="Apress"></ref>,,,,(with set -G  no following of symlinks)
-pdksh,?,<ref name="Apress"/>,,,,
-zsh,(through variable processing: e.g. substring extraction  various transformations via parameter expansion),,,,,(**/... or ***/... to follow symlinks)
-ash,?,?,,,,
-CCP,,,,,,
-COMMAND.COM,,,,,,
-OS/2 CMD.EXE,,,,,(only in DIR /A:… command),
-Windows CMD.EXE,(only through FOR /F and SET /A),,,,(only in DIR /A:… command),(via FOR /R command  or  where available  indirectly via /S subdir option)
-4DOS,(through variable functions %@…[]  extended environment variable processing  various string commands and FOR /F and SET /A),,,,(via /A:… attribute and /I"…" description options and /[S…] size  /[T…] time  /[D…] date  and /[!…] file exclusion ranges),(via FOR /R command  or indirectly via GLOBAL command or  where available  /S subdir option)
-4OS2,?,,,?,?,?
-TCC (formerly 4NT),(through variable functions %@…[]  extended environment variable processing  various string commands and FOR /F and SET /A),,,,(via /A:… attribute and /I"…" description options and /[S…] size  /[T…] time  /[D…] date  /[O…] owner  and /[!…] file exclusion ranges),(via FOR /R command  or indirectly via GLOBAL command or  where available  /S subdir option)
-PowerShell,,,,,?,?
-rc,?,?,,,,
-BeanShell,?,?,,?,?,?
-VMS DCL,,,,,,(via [SUBDIR…])
-fish,,,,Yes (*  ?  {…})}},,(**/...)
+Shell,Pipes,Command substitution,Process substitution,Subshells,TCP/UDP connections as streams,Keystroke stacking
+Bourne shell,[empty],[empty],[empty],[empty],[empty],<ref name="xautomation">xautomation and xdotool can be used to generate keystrokes under X Window System; or a program can be run in a pseudoterminal to be able to control it (as with the expect tool).</ref>
+POSIX shell,[empty],[empty],[empty],[empty],[empty],<ref name="xautomation"/>
+bash (v4.0),[empty],[empty],[empty],[empty],[empty],<ref name="xautomation"/>
+csh,[empty],[empty],[empty],[empty],[empty],<ref name="xautomation"/>
+tcsh,[empty],[empty],[empty],[empty],[empty],<ref name="xautomation"/>
+Hamilton C shell,[empty],[empty],[empty],[empty],[empty],?
+Scsh,[empty],?,?,?,[empty],<ref name="xautomation"/>
+ksh (ksh93t+),[empty],Yes ($(…) and ${<space>…;})}},[empty],[empty],[empty],<ref name="xautomation"/>
+pdksh,[empty],[empty],[empty],[empty],[empty],<ref name="xautomation"/>
+zsh,[empty],[empty],[empty],[empty],[empty],<ref name="xautomation"/>
+ash,[empty],[empty],[empty],[empty],[empty],<ref name="xautomation"/>
+CCP,[empty],[empty],[empty],[empty],[empty],[empty]
+COMMAND.COM,[empty],[empty],[empty],(only under DR-DOS multitasker via COMMAND.COM /T),[empty],[empty]
+OS/2 CMD.EXE,[empty],[empty],[empty],?,[empty],[empty]
+Windows CMD.EXE,[empty],[empty],[empty],[empty],[empty],[empty]
+4DOS,[empty],[empty],?,(via %@EXECSTR[] and %@EXEC[]  or via SET /M  ESET /M and UNSET /M and %@MASTER[…]),[empty],(via KEYSTACK and KSTACK)<ref name="4DOS_8.00_HELP"></ref>
+4OS2,[empty],?,?,?,[empty],(via KEYSTACK)
+TCC (formerly 4NT),[empty],[empty],?,(via %@EXECSTR[] and %@EXEC[]),(via FTP  TFTP  FTPS  SFTP  HTTP  HTTPS and IFTP  client only),(via KEYSTACK)
+PowerShell,[empty],[empty],[empty],[empty],[empty],?
+rc,[empty],[empty],Yes (via: <{cmd} if system supports /dev/fd/''<n>'')}},[empty],[empty],?
+BeanShell,[empty],?,?,?,[empty],?
+VMS DCL,[empty],[empty],[empty],[empty],[empty],[empty]
+fish,[empty],(...),</ref>}},[empty],[empty],<ref name="xautomation"/>

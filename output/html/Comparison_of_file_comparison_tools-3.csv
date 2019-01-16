@@ -1,27 +1,27 @@
 Name,GUI,CLI,Scripting,Horizontal / Vertical,Syntax Highlighting,Reports
 Beyond Compare,Yes,Yes,Yes,Both,Yes,XML  HTML  CSV  Text  Unix Patch
-Compare++,Yes,Yes,,Both,Yes,HTML  Text(combined or side-by-side)
-diff,No,Yes,,Horizontal,Yes pipe to diff-highlight[31],
-diff3,No,Yes,,Horizontal,,
-Eclipse (compare),Yes,,,Vertical,Yes,
-Ediff,Yes,Yes,elisp,Both,Yes,
-ExamDiff Pro,Yes,Yes,,optional,Yes,UNIX  HTML  Diff
-Far Manager (compare),Yes,Yes,Yes,,Yes,No
-fc,No,Yes,,Horizontal,,
-FileMerge (aka opendiff),Yes,Yes,,Vertical,Yes,No
+Compare++,Yes,Yes,[empty],Both,Yes,HTML  Text(combined or side-by-side)
+diff,No,Yes,[empty],Horizontal,Yes pipe to diff-highlight[30],[empty]
+diff3,No,Yes,[empty],Horizontal,[empty],[empty]
+Eclipse (compare),Yes,[empty],[empty],Vertical,Yes,[empty]
+Ediff,Yes,Yes,elisp,Both,Yes,[empty]
+ExamDiff Pro,Yes,Yes,[empty],optional,Yes,UNIX  HTML  Diff
+Far Manager (compare),Yes,Yes,Yes,[empty],Yes,No
+fc,No,Yes,[empty],Horizontal,[empty],[empty]
+FileMerge (aka opendiff),Yes,Yes,[empty],Vertical,Yes,No
 Guiffy SureMerge,Yes,Yes,Java API,Both,Yes,HTML  Text  Unix Patch
-IntelliJ IDEA (compare),Yes,,,Vertical,Yes,
-jEdit JDiff plugin,Yes,,,Both,Yes,
-Kompare,Yes,,,Vertical,No,
-Lazarus Diff,Yes,,,,Yes,
-Meld,Yes,No,,Horizontal,Yes,No
-Notepad++ (compare),Yes,Yes,,Both,Yes,No
-Perforce P4Merge,Yes,Yes,,Vertical,No,No
+IntelliJ IDEA (compare),Yes,[empty],[empty],Vertical,Yes,[empty]
+jEdit JDiff plugin,Yes,[empty],[empty],Both,Yes,[empty]
+Kompare,Yes,[empty],[empty],Vertical,No,[empty]
+Lazarus Diff,Yes,[empty],[empty],[empty],Yes,[empty]
+Meld,Yes,No,[empty],Horizontal,Yes,No
+Notepad++ (compare),Yes,Yes,[empty],Both,Yes,No
+Perforce P4Merge,Yes,Yes,[empty],Vertical,No,No
 Pretty Diff,Yes,Yes,JavaScript,Both,Yes,XHTML
-Tkdiff,Yes,,,,,
-Total Commander (compare),Yes,,,Both,No,No
+Tkdiff,Yes,[empty],[empty],[empty],[empty],[empty]
+Total Commander (compare),Yes,[empty],[empty],Both,No,No
 vimdiff,Yes,Yes,vim script,Both,Yes,HTML
-WinDiff,Yes,Yes,,Horizontal,No,Text
-WinMerge,Yes,Yes,,Vertical,Yes,CSV  Tab-delimited  HTML  XML
-UCC,Yes,Yes,,Vertical,Yes,Text  CSV
+WinDiff,Yes,Yes,[empty],Horizontal,No,Text
+WinMerge,Yes,Yes,[empty],Vertical,Yes,CSV  Tab-delimited  HTML  XML
+UCC,Yes,Yes,[empty],Vertical,Yes,Text  CSV
 Name,GUI,CLI,Scripting,Horizontal / Vertical,Syntax Highlighting,Reports

@@ -1,12 +1,12 @@
 Other software,Software type,FOSS,Software license,Active,Last Update
-ADCCore,General library,,,,
-DCBouncer,Relay,,,,
-DC-Hublink,Hub linker,,,,
-DCWatch,Hub operator helper,,,,
-Embla,General library,,,,
-FlowLib,General library,,,,
-NetChatLink,Hub linker,,,,
-Announcer Bot,Announce new Releases,,,,
-Certmanager,Manage SSL Certificates,,,,
-SerieBot,SerieBot,,,,
-Other software,Software type,FOSS,Software license,Active,
+ADCCore,General library,[empty],[empty],[empty],[empty]
+DCBouncer,Relay,[empty],[empty],[empty],[empty]
+DC-Hublink,Hub linker,[empty],[empty],[empty],[empty]
+DCWatch,Hub operator helper,[empty],[empty],[empty],[empty]
+Embla,General library,[empty],[empty],[empty],[empty]
+FlowLib,General library,[empty],[empty],[empty],[empty]
+NetChatLink,Hub linker,[empty],[empty],[empty],[empty]
+Announcer Bot,Announce new Releases,[empty],[empty],[empty],[empty]
+Certmanager,Manage SSL Certificates,[empty],[empty],[empty],[empty]
+SerieBot,SerieBot,[empty],[empty],[empty],[empty]
+Other software,Software type,FOSS,Software license,Active,[empty]

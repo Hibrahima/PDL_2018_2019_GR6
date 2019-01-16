@@ -1,135 +1,136 @@
 Software,Web-based,Hosted On-Premises,SaaS,License,Programming language
 2-plan,Yes[1],Yes,Yes,Proprietary  Open source[2],Java and PHP
-24SevenOffice,Yes,No,Yes,Proprietary,
-Actionspace,Yes,No,Yes,Proprietary,
+24SevenOffice,Yes,No,Yes,Proprietary,[empty]
+Actionspace,Yes,No,Yes,Proprietary,[empty]
 AnyChart (AnyGantt),Yes,Yes,Yes,Proprietary,JavaScript
-Apache Allura,Yes,Yes,,Apache License,Python
+Apache Allura,Yes,Yes,[empty],Apache License,Python
 Apache OFBiz,Yes,Yes,Yes,Apache License,Java  XML  FreeMarker  Groovy  JavaScript
 Apache Bloodhound,Yes,Yes,Yes,Apache License,Python
-Asana,Yes,No,Yes,Proprietary,
-Assembla,Yes,Yes,Yes,Proprietary,
-Axosoft,Yes,Yes,Yes,Proprietary,
+Asana,Yes,No,Yes,Proprietary,[empty]
+Assembla,Yes,Yes,Yes,Proprietary,[empty]
+Axosoft,Yes,Yes,Yes,Proprietary,[empty]
 Basecamp,Yes[3],No[4],Yes,Proprietary,Ruby
 CEITON,Yes,Yes,Yes,Proprietary,ASP.NET  JavaScript
-Clarizen,Yes[5],No,Yes[5],Proprietary,
+Celoxis,Yes,Yes,Yes,[empty],[empty]
+Clarizen,Yes[5],No,Yes[5],Proprietary,[empty]
 Collabtive,Yes,Yes,Yes,Open source (core only),PHP
-Compuware Changepoint,Yes,Yes,Yes,Proprietary,
-ConceptDraw Project,No,Yes,No,Proprietary,
+Compuware Changepoint,Yes,Yes,Yes,Proprietary,[empty]
+ConceptDraw Project,No,Yes,No,Proprietary,[empty]
 ConceptDraw PLAN,Yes,No,Yes,Proprietary,PHP and Java
-Concerto Project Management,Yes,Yes,Yes,Proprietary,
+Concerto Project Management,Yes,Yes,Yes,Proprietary,[empty]
 Calligra Plan,No,Unknown,Unknown,GPL,C++ and Java
-Copper Project,Yes,Yes,Yes,Proprietary,
+Copper Project,Yes,Yes,Yes,Proprietary,[empty]
 dotProject,Yes,Yes,Yes,GPL,PHP
-DynaRoad,No,Unknown,Unknown,Proprietary,
+DynaRoad,No,Unknown,Unknown,Proprietary,[empty]
 Easy projects,Yes[6],Yes[6],Yes[6],Proprietary,ASP.NET
-Eclipse PPM software,Yes,No,Yes,Proprietary,
+Eclipse PPM software,Yes,No,Yes,Proprietary,[empty]
 Endeavour Software Project Management,Yes,Unknown,Unknown,GPL,Java
 eGroupWare,Yes,Unknown,Unknown,GPL,PHP
 enQuire,Yes,Unknown,Yes,Proprietary,Java
-FastTrack Schedule,No,Yes,No,Proprietary,
+FastTrack Schedule,No,Yes,No,Proprietary,[empty]
 Feng Office Community Edition,Yes,Yes,Yes,AGPLv3,PHP
-FinancialForce.com,Yes,Unknown,Yes,Proprietary,
+FinancialForce.com,Yes,Unknown,Yes,Proprietary,[empty]
 FogBugz,Yes,Yes,Yes,Proprietary,ASP.NET
 Fossil-scm,Yes[7],Yes[8],Yes[9],2-clause BSD license,SQLite and C
-Freedcamp,Yes,No,Yes,Proprietary,
+Freedcamp,Yes,No,Yes,Proprietary,[empty]
 FusionForge,Yes,Yes,Unknown,GPL,PHP
 GanttProject,No,Yes,Unknown,GPL,Java
-Genius Project,Yes,Yes,Yes,Proprietary,
-Group-Office,Yes,Yes,Yes,Proprietary,
+Genius Project,Yes,Yes,Yes,Proprietary,[empty]
+Group-Office,Yes,Yes,Yes,Proprietary,[empty]
 Groupiful,Yes,No,Yes,Proprietary,PHP
-GroveSite,Yes,Unknown,Yes,Unknown,
-Hall.com,Yes,Unknown,Yes,Unknown,
+GroveSite,Yes,Unknown,Yes,Unknown,[empty]
+Hall.com,Yes,Unknown,Yes,Unknown,[empty]
 Helix ALM,Yes,Yes,Yes,Proprietary,C++
 HeySpace,Yes,No,Yes,Proprietary,JavaScript
-HP Project & Portfolio Software,Yes,Yes,Proprietary,
-Huddle,Yes,Unknown,Unknown,Proprietary,
-Hyperoffice,Yes,Unknown,Unknown,Proprietary,
-iManageProject,Yes,Unknown,Yes,Unknown,
-InLoox,Yes,Yes,Yes,Proprietary,
-in-Step BLUE,Yes,Yes,No,Proprietary,
+HP Project & Portfolio Software,Yes,Yes,Proprietary,[empty],[added]
+Huddle,Yes,Unknown,Unknown,Proprietary,[empty]
+Hyperoffice,Yes,Unknown,Unknown,Proprietary,[empty]
+iManageProject,Yes,Unknown,Yes,Unknown,[empty]
+InLoox,Yes,Yes,Yes,Proprietary,[empty]
+in-Step BLUE,Yes,Yes,No,Proprietary,[empty]
 IRise,Yes,Yes,Yes,Proprietary,Java
 Jira,Yes,Yes,Yes,Proprietary,Java
 Launchpad,Yes,No,Yes,AGPL,Python
 LibrePlan,Yes,Yes,Yes,AGPL,Java
 LiquidPlanner,Yes,No,Yes,Proprietary,Ruby
-LisaProject,No,Unknown,Unknown,Proprietary,
-MacProject,No,Unknown,Unknown,Proprietary,
+LisaProject,No,Unknown,Unknown,Proprietary,[empty]
+MacProject,No,Unknown,Unknown,Proprietary,[empty]
 MantisBT,Yes,Yes,No,GPL,PHP
-Métier,Yes,Yes,Yes,Proprietary,
+Métier,Yes,Yes,Yes,Proprietary,[empty]
 Microsoft Dynamics AX,No,Yes,No,Proprietary,X++
-Microsoft Office Project Server,Yes,Yes,Yes,Proprietary,
-Microsoft Project,Yes,Yes,Yes,Proprietary,
-Microsoft SharePoint Server,Yes,Yes,Yes,Proprietary,
-Microsoft Team Foundation Server,Yes,Yes,Yes,Proprietary,
+Microsoft Office Project Server,Yes,Yes,Yes,Proprietary,[empty]
+Microsoft Project,Yes,Yes,Yes,Proprietary,[empty]
+Microsoft SharePoint Server,Yes,Yes,Yes,Proprietary,[empty]
+Microsoft Team Foundation Server,Yes,Yes,Yes,Proprietary,[empty]
 Milestones Professional,No,Yes,No,Proprietary,C++
 Mingle,Yes,Yes,Yes,Proprietary,Ruby on Rails
-NetPoint,No,Unknown,Unknown,Proprietary,
-NetSuite,Yes,Unknown,Yes,Unknown,
-MyWorkPLAN,No,Unknown,Unknown,Proprietary,
-O3Spaces,No,Unknown,Unknown,Proprietary,
-OmniPlan,No,Yes,No,Proprietary,
+NetPoint,No,Unknown,Unknown,Proprietary,[empty]
+NetSuite,Yes,Unknown,Yes,Unknown,[empty]
+MyWorkPLAN,No,Unknown,Unknown,Proprietary,[empty]
+O3Spaces,No,Unknown,Unknown,Proprietary,[empty]
+OmniPlan,No,Yes,No,Proprietary,[empty]
 Onepager pro,No,Yes,No,Proprietary,ASP.NET
-Open Workbench,No,Unknown,Unknown,Open source,
+Open Workbench,No,Unknown,Unknown,Open source,[empty]
 OpenProj,No,Unknown,Yes,CPAL,Java
 OpenProject,Yes,Yes,Yes,GPL,Ruby on Rails and AngularJS
 OnlyOffice,Yes,Yes,Yes,GPL,ASP.NET
-Oracle Primavera EPPM (Primavera P6),Yes,Yes,Yes,Proprietary,
+Oracle Primavera EPPM (Primavera P6),Yes,Yes,Yes,Proprietary,[empty]
 phpGroupWare,Yes,Unknown,Unknown,GPL,PHP
 PHProjekt,Yes,Unknown,Unknown,LGPL,PHP
 Pivotal Tracker,Yes,No,Yes,Unknown,Ruby
 Plandora,Yes,Yes,Unknown,LGPL,Java
-Planisware,Yes,Yes,Yes,Proprietary,
-PLANTA Project,Yes,Yes,No,Proprietary,
-Project Builder,Yes,Yes,Yes,Proprietary,
-Project KickStart,No,Yes,Unknown,Proprietary,
-Project Team Builder,Yes,Yes,Yes,Proprietary,
-Projector PSA,Yes,Yes,Yes,Proprietary,
+Planisware,Yes,Yes,Yes,Proprietary,[empty]
+PLANTA Project,Yes,Yes,No,Proprietary,[empty]
+Project Builder,Yes,Yes,Yes,Proprietary,[empty]
+Project KickStart,No,Yes,Unknown,Proprietary,[empty]
+Project Team Builder,Yes,Yes,Yes,Proprietary,[empty]
+Projector PSA,Yes,Yes,Yes,Proprietary,[empty]
 ProjectLibre,No (Cloud based version under development)[10],Yes,No (Included in future plans)[11],CPAL,Java
-ProjectManager.com,Yes[12],No,Yes,Proprietary,
+ProjectManager.com,Yes[12],No,Yes,Proprietary,[empty]
 Project.net,Yes,Yes,Yes,GPL,Java
-Projectplace,Yes,No,Yes,Proprietary,
+Projectplace,Yes,No,Yes,Proprietary,[empty]
 Projektron BCS,Yes,Yes,Yes,Proprietary,Java
 ProjeQtOr,Yes,Yes,Yes,AGPL,PHP
-Proliance,Yes,Yes,Yes,Proprietary,
-ProjectLink,Yes,Yes,Yes,Proprietary,
-Prolog,Yes,Yes,Yes,Proprietary,
-Priority Matrix,Yes,No,Yes,Proprietary
-Pyrus,Yes,Yes,Yes,Proprietary,
-RationalPlan,Yes,Yes,Yes,Proprietary,
-Realisor,No,Yes,No,Proprietary,
+Proliance,Yes,Yes,Yes,Proprietary,[empty]
+ProjectLink,Yes,Yes,Yes,Proprietary,[empty]
+Prolog,Yes,Yes,Yes,Proprietary,[empty]
+Priority Matrix,Yes,No,Yes,Proprietary,[added]
+Pyrus,Yes,Yes,Yes,Proprietary,[empty]
+RationalPlan,Yes,Yes,Yes,Proprietary,[empty]
+Realisor,No,Yes,No,Proprietary,[empty]
 Redbooth,Yes[13],Yes,Yes[13],AGPL;[14] Proprietary (version 4),Ruby on Rails
 Redmine,Yes,Yes,Yes [15][16][17],GPL,Ruby
 Rillsoft Project & Integration Server,Yes,Yes,Yes,Proprietary,C++ and PHP
-RiskyProject,Yes,Yes,Yes,Proprietary,
-SAP Business ByDesign,Yes,Unknown,Yes,Proprietary,
-Sciforma,Yes,Yes,Yes,Proprietary,
+RiskyProject,Yes,Yes,Yes,Proprietary,[empty]
+SAP Business ByDesign,Yes,Unknown,Yes,Proprietary,[empty]
+Sciforma,Yes,Yes,Yes,Proprietary,[empty]
 Scoro,Yes,No,Yes,Proprietary,PHP[18]
 Seavus Project Viewer (software),Yes,Yes,Yes,Proprietary,C++
-Severa,Yes,Unknown,Yes,Unknown,
+Severa,Yes,Unknown,Yes,Unknown,[empty]
 Smartsheet,Yes,Unknown,Yes,Proprietary,PHP
-Spider Project,No,No,No,Proprietary
+Spider Project,No,No,No,Proprietary,[added]
 Streamtime Software,Yes,No,Yes,Proprietary,PHP
 TACTIC,Yes,Yes,Yes,Eclipse Public License,Python
 Talygen,Yes,No,Yes,Proprietary,ASP.NET
 TaskJuggler,No,Yes,No,GPL,Ruby
-Teamcenter,Yes,Yes,Yes,Proprietary,
-TeamDynamixHE,Yes,Yes,Yes,Proprietary,
-Teamwork.com,Yes,No,Yes,Proprietary,
+Teamcenter,Yes,Yes,Yes,Proprietary,[empty]
+TeamDynamixHE,Yes,Yes,Yes,Proprietary,[empty]
+Teamwork.com,Yes,No,Yes,Proprietary,[empty]
 The Bug Genie,Yes,Yes,Yes,Mozilla Public License,PHP
-Tom's Planner,Yes,Unknown,Unknown,Proprietary,
+Tom's Planner,Yes,Unknown,Unknown,Proprietary,[empty]
 Trac,Yes,Yes,Yes,(modified) BSD license,Python
-TrackerSuite.Net,Yes,Yes,Yes,Proprietary,
+TrackerSuite.Net,Yes,Yes,Yes,Proprietary,[empty]
 Traction TeamPage,Yes,Yes,Yes,Proprietary,Java
 Trello,Yes,No,Yes,Proprietary,JavaScript
 Triskell,Yes,No,Yes,Proprietary,Java
-Tuleap,Yes,Yes,Yes,GPL,
-Twproject,Yes,Yes,Yes,Proprietary,
+Tuleap,Yes,Yes,Yes,GPL,[empty]
+Twproject,Yes,Yes,Yes,Proprietary,[empty]
 UniPhi,Yes,Yes,Yes,Proprietary,ASP.NET
-Vpmi,Yes,Unknown,Unknown,Proprietary,
+Vpmi,Yes,Unknown,Unknown,Proprietary,[empty]
 web2project,Yes,Unknown,Unknown,GPL,PHP
-Workamajig,Yes,Yes,Yes,Proprietary,
-Workfront,Yes[19],No,Yes,Proprietary,
-WorkPLAN Enterprise,No,Unknown,Unknown,Proprietary,
-workspace.com,Yes,Unknown,Yes,Proprietary,
-Wrike,Yes,Unknown,Yes,Proprietary
+Workamajig,Yes,Yes,Yes,Proprietary,[empty]
+Workfront,Yes[19],No,Yes,Proprietary,[empty]
+WorkPLAN Enterprise,No,Unknown,Unknown,Proprietary,[empty]
+workspace.com,Yes,Unknown,Yes,Proprietary,[empty]
+Wrike,Yes,Unknown,Yes,Proprietary,[added]
 Zoho Projects,Yes,No,Yes,Proprietary,PHP

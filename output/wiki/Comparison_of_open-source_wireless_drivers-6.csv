@@ -1,31 +1,31 @@
 Driver,Chipset,Integration,Free firmware<ref group="note" name="free firmware"/>,License,Original/Primary developer,Development,Free software<ref group=note name="'free software'" />
-acx,Texas Instruments ACX100/ACX111,Integrated,<ref></ref>,BSD,Ported from DragonFlyBSD,Reverse engineering,
-an,Aironet 4500/4800  Cisco Aironet 340/350,Integrated,,BSD,,,
-ath,Atheros AR5210/ AR5211/ AR5212,Integrated,<ref name="atheros"/>,BSD,,Reverse engineering,
-athn,Atheros AR5416/AR9160/AR928X,Integrated (since 4.7),<ref></ref>,BSD,Damien Bergamini,Partly based on the ath9k driver for Linux,
-atu,Atmel AT76C503/ AT76C503A/ AT76C505/ AT76C505A,Integrated,<ref></ref>,BSD,,Reverse engineering,
-atw,ADMtek ADM8211,Integrated,,BSD,,Documentation based,
-awi,BayStack 650,2.7 to 4.3,,BSD,,,
-bwi,Broadcom BCM430x/4318,Integrated,,BSD,Sepherosa Ziehau,Ported from DragonFly BSD,
-cnw,NetWave AirSurfer,2.6 to 6.0,,BSD,,,
-ipw,Intel PRO/Wireless 2100,Integrated,<ref></ref>,BSD,Damien Bergamini,Reverse engineering,
-iwi,Intel PRO/Wireless 2200BG/ 2225BG/ 2915ABG,Integrated,<ref></ref>,BSD,Damien Bergamini,Reverse engineering,
-iwn,Intel Wireless WiFi Link 4965/ 5000/ 1000/ 6000,Integrated,<ref></ref>,BSD,Damien Bergamini,Reverse engineering,
-iwm,Intel Wireless WiFi Link 3160ac/ 7260ac/ 7265ac,Integrated (since 5.8),<ref></ref>,BSD,Antti Kantee <ref></ref> Stefan Sperling,Based on iwn  and iwlwifi driver released by Intel for Linux under dual GPLv2/BSD license<ref></ref>,
-malo,Marvell 88W8335/ 88W8310,Integrated,<ref></ref>,BSD,Marcus Glocker and Claudio Jeker,Reverse engineering<ref></ref>,
-otus,Atheros AR9170,Integrated (since 4.6),<ref></ref>,BSD,Damien Bergamini,Based on source code released by Atheros for Linux under the ISC,
-pgt,Conexant/Intersil Prism GT Full-MAC ISL3877  ISL3880  and ISL3890 chips,Integrated,<ref></ref>,BSD,Ported from FreeBSD,Reverse engineering<ref name="openbsd-reverse" />,
-ral/ural,Ralink RT2500  RT2501  RT2600  RT2700  RT2800  RT3090  RT3292  RT3592 and RT5390 (ral)  RT2500USB (ural),Integrated,<ref></ref>,BSD,Damien Bergamini,Documentation based,
-ray,Raytheon Raylink/WebGear Aviator IEEE 802.11FH,2.7 to 5.4,,BSD,,,
-rsu,Realtek RTL8188SU/RTL8191SU/RTL8192SU,Integrated (since 4.9),,BSD,Damien Bergamini,Reverse engineering,
-rtw,Realtek RTL8180L,Integrated,,BSD,Ported from NetBSD,Documentation based,
-rtwn,Realtek RTL8188CE/RTL8192CE,Integrated,<ref></ref>,BSD,Stefan Sperling,Based on urtwn driver.,
-rum,Ralink RT2501USB/ RT2601USB,Integrated,<ref name="rum-firmware"></ref>,BSD,Niall O'Higgins and Damien Bergamini,Documentation based,
-run,Ralink RT2700U/ RT2800U/ RT3000U,Integrated,<ref name="rum-firmware"/>,BSD,Damien Bergamini,Documentation based,
-uath,Atheros AR5005UG/ AR5005UX,Integrated,<ref></ref>,BSD,Damien Bergamini,Reverse Engineering<ref name="openbsd-reverse"></ref>,
-upgt,GW3887 (Conexant/Intersil PrismGT series),Integrated,<ref></ref>,BSD,Marcus Glocker,Reverse engineering,
-urtw,Realtek RTL8187L,Integrated,,BSD,Weongyo Jeong (FreeBSD),?,
-urtwn,Realtek RTL8188CU/RTL8192CU,Integrated (since 4.9),,BSD,Damien Bergamini,Reverse engineering,
-wi,Lucent Hermes (WaveLAN/ ORiNOCO); Intersil PRISM-2  PRISM-2.5  PRISM-3; Symbol Spectrum24,Integrated,Yes for Spectrum24<ref></ref> and N/A for others,BSD,Bill Paul,Documentation based,
-wpi<ref>There is more details about the port at kerneltrap </ref>,Intel PRO/Wireless 3945ABG,Integrated,<ref></ref>,BSD,Damien Bergamini,Reverse engineering,
-zyd,ZyDAS ZD1211/ZD1211B,Integrated,<ref></ref>,BSD,Florian Stoehr  Damien Bergamini  and Jonathan Gray,Documentation based,
+acx,Texas Instruments ACX100/ACX111,Integrated,<ref></ref>,BSD,Ported from DragonFlyBSD,Reverse engineering,[empty]
+an,Aironet 4500/4800  Cisco Aironet 340/350,Integrated,[empty],BSD,[empty],[empty],[empty]
+ath,Atheros AR5210/ AR5211/ AR5212,Integrated,<ref name="atheros"/>,BSD,[empty],Reverse engineering,[empty]
+athn,Atheros AR5416/AR9160/AR928X,Integrated (since 4.7),<ref></ref>,BSD,Damien Bergamini,Partly based on the ath9k driver for Linux,[empty]
+atu,Atmel AT76C503/ AT76C503A/ AT76C505/ AT76C505A,Integrated,<ref></ref>,BSD,[empty],Reverse engineering,[empty]
+atw,ADMtek ADM8211,Integrated,[empty],BSD,[empty],Documentation based,[empty]
+awi,BayStack 650,2.7 to 4.3,[empty],BSD,[empty],[empty],[empty]
+bwi,Broadcom BCM430x/4318,Integrated,[empty],BSD,Sepherosa Ziehau,Ported from DragonFly BSD,[empty]
+cnw,NetWave AirSurfer,2.6 to 6.0,[empty],BSD,[empty],[empty],[empty]
+ipw,Intel PRO/Wireless 2100,Integrated,<ref></ref>,BSD,Damien Bergamini,Reverse engineering,[empty]
+iwi,Intel PRO/Wireless 2200BG/ 2225BG/ 2915ABG,Integrated,<ref></ref>,BSD,Damien Bergamini,Reverse engineering,[empty]
+iwn,Intel Wireless WiFi Link 4965/ 5000/ 1000/ 6000,Integrated,<ref></ref>,BSD,Damien Bergamini,Reverse engineering,[empty]
+iwm,Intel Wireless WiFi Link 3160ac/ 7260ac/ 7265ac,Integrated (since 5.8),<ref></ref>,BSD,Antti Kantee <ref></ref> Stefan Sperling,Based on iwn  and iwlwifi driver released by Intel for Linux under dual GPLv2/BSD license<ref></ref>,[empty]
+malo,Marvell 88W8335/ 88W8310,Integrated,<ref></ref>,BSD,Marcus Glocker and Claudio Jeker,Reverse engineering<ref></ref>,[empty]
+otus,Atheros AR9170,Integrated (since 4.6),<ref></ref>,BSD,Damien Bergamini,Based on source code released by Atheros for Linux under the ISC,[empty]
+pgt,Conexant/Intersil Prism GT Full-MAC ISL3877  ISL3880  and ISL3890 chips,Integrated,<ref></ref>,BSD,Ported from FreeBSD,Reverse engineering<ref name="openbsd-reverse" />,[empty]
+ral/ural,Ralink RT2500  RT2501  RT2600  RT2700  RT2800  RT3090  RT3292  RT3592 and RT5390 (ral)  RT2500USB (ural),Integrated,<ref></ref>,BSD,Damien Bergamini,Documentation based,[empty]
+ray,Raytheon Raylink/WebGear Aviator IEEE 802.11FH,2.7 to 5.4,[empty],BSD,[empty],[empty],[empty]
+rsu,Realtek RTL8188SU/RTL8191SU/RTL8192SU,Integrated (since 4.9),[empty],BSD,Damien Bergamini,Reverse engineering,[empty]
+rtw,Realtek RTL8180L,Integrated,[empty],BSD,Ported from NetBSD,Documentation based,[empty]
+rtwn,Realtek RTL8188CE/RTL8192CE,Integrated,<ref></ref>,BSD,Stefan Sperling,Based on urtwn driver.,[empty]
+rum,Ralink RT2501USB/ RT2601USB,Integrated,<ref name="rum-firmware"></ref>,BSD,Niall O'Higgins and Damien Bergamini,Documentation based,[empty]
+run,Ralink RT2700U/ RT2800U/ RT3000U,Integrated,<ref name="rum-firmware"/>,BSD,Damien Bergamini,Documentation based,[empty]
+uath,Atheros AR5005UG/ AR5005UX,Integrated,<ref></ref>,BSD,Damien Bergamini,Reverse Engineering<ref name="openbsd-reverse"></ref>,[empty]
+upgt,GW3887 (Conexant/Intersil PrismGT series),Integrated,<ref></ref>,BSD,Marcus Glocker,Reverse engineering,[empty]
+urtw,Realtek RTL8187L,Integrated,[empty],BSD,Weongyo Jeong (FreeBSD),?,[empty]
+urtwn,Realtek RTL8188CU/RTL8192CU,Integrated (since 4.9),[empty],BSD,Damien Bergamini,Reverse engineering,[empty]
+wi,Lucent Hermes (WaveLAN/ ORiNOCO); Intersil PRISM-2  PRISM-2.5  PRISM-3; Symbol Spectrum24,Integrated,Yes for Spectrum24<ref></ref> and N/A for others,BSD,Bill Paul,Documentation based,[empty]
+wpi<ref>There is more details about the port at kerneltrap </ref>,Intel PRO/Wireless 3945ABG,Integrated,<ref></ref>,BSD,Damien Bergamini,Reverse engineering,[empty]
+zyd,ZyDAS ZD1211/ZD1211B,Integrated,<ref></ref>,BSD,Florian Stoehr  Damien Bergamini  and Jonathan Gray,Documentation based,[empty]

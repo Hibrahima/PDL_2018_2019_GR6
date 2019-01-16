@@ -1,31 +1,32 @@
 +
-Product,Creator,Latest stable release date,Latest stable release,Latest testing release,License,Runs on Windows,Runs on Mac OS X,Runs on Linux,Oracle,MySQL,PostgreSQL,MS SQL Server,ODBC,JDBC,SQLite,Other,Programming language
-Adminer,Jakub Vrána,2018-06-28,4.6.3<ref name="adminer_release">https://www.adminer.org/</ref>,none distributed,Apache License or GPL,,,,,,,,,,,,PHP
-DaDaBIK,Eugenio Tacchini,2012-04-03,4.4,,Proprietary,,,,,,,,,,,,PHP
-Database Deployment Manager,The Unauthorized Frog project,2012-05-29,v0.1i,,LGPL,,,,,,,,,,,,Qt/C++
-DatabaseSpy,Altova,2013-06-12,v2013r2sp1,,Proprietary,,,,,,,,,,,IBM DB2  Sybase  MS Access,C++
-Database Workbench,Upscene Productions,2017-06-29,5.3.2,,Proprietary,,,,,,,,,,,InterBase  Firebird  SQL Anywhere  NexusDB and MariaDB,Delphi
-DataGrip,JetBrains,2017-09-06,2017.2.2,2017.3 RC  build 173.3727.95,Proprietary,,,,,,,,,,,Sybase  DB2  H2  Hypersonic SQL  Amazon Redshift  Apache Derby,Java
-DBeaver,Serge Rider,2018-10-21,5.2.3,,Apache License,,,,,,,,,,,MySQL  PostgreSQL  Oracle  EXASOL  IBM DB2  SQL Server  Apache Derby  Firebird all with JDBC driver,Java
-DBEdit,Jef Van Den Ouweland,2011-03-18,2.4,,GPL,,,,,,,,,,,IBM DB2  HSQLDB  Apache Derby  H2,Java
-Epictetus,Antilogic Software,,,1.0 (2009-06-17),Proprietary,,,,,,,,,,,Sybase  InterBase/Firebird  H2  HSQLDB,Java
-ER/Builder Data Modeler,SoftBuilder,2018-10-15,1.0,,Freeware,,,,,,,,,,,InterBase  Firebird and MariaDB,
-HeidiSQL,Ansgar Becker,2017-12-19,9.5,,GPL,,,,,,,,,,,,Embarcadero Delphi
-Maatkit,Baron Schwartz,2010-06-01,5247,discontinued since 2011,GPL,,,,,,,,,,,,Perl
-Microsoft SQL Server Management Studio,Microsoft,2018-05-9<ref name="ssms_release"></ref>,17.7,,Proprietary,,,,,,,,,,,including SSAS management  and MDX  DMX  and XMLA languages,.Net
-ModelRight,ModelRight,,3.6,3.7,Proprietary,,,,,,,,,,,SQL Server  Oracle  MySQL  PostgreSQL  DB2  DB2/zOS  MS Access,C++
-MySQL Workbench,Oracle Corporation,2017-02-07,6.3.9,?,,,,,,,,,,,,C++/C# Objective-C Python (programming language)
-Navicat,PremiumSoft CyberTech Ltd.,2018-07-26,12.1,?,Proprietary,,,,,,,,,,,,Borland Delphi Objective-C
-Navicat Data Modeler,PremiumSoft CyberTech Ltd.,2015-12-10,2.1,?,Proprietary,,,,,,,,,,,,Borland Delphi Objective-C
-Oracle Enterprise Manager,Oracle Corp.,2015-06-16,12.1.0.5,,Proprietary,,,,,,,,,,,DB2  Sybase  TimesTen,Java
-Oracle SQL Developer,Oracle Corp.,2018-04-05,18.1.0.095.1630,?,Proprietary,,,,,,,,,,,Microsoft Access  Sybase  DB2  Teradata,Java
-Orbada,Andrzej Kaluza,2014-08-13,1.2.2.335,none,GPL,,,,,,,,,,,Firebird  HSQL  InterBase  Derby all with JDBC driver,Java
-pgAdmin III,pgAdmin Development Team,2012-09-11,1.22.2,,PostgreSQL License,,,,,,,,,,,,C++
-phpLiteAdmin,Dane Iracleous,2016-12-14,1.9.7.1<ref>https://bitbucket.org/phpliteadmin/public/downloads</ref>,,GPL,,,,,,,,,,,,PHP
-phpMyAdmin,phpMyAdmin Development Team,,,none,GPL,,,,,,,,,,,Drizzle  MariaDB,php
-SQL Database Studio,Jan Prochazka,2016-05-27,3.4.1,,Proprietary,,,,,,,,,,,,.NET  WPF  C#
-SQLyog,Webyog Softworks Pvt. Ltd.,2017-06-14,12.4.3<ref name="sqlyog"></ref>,,GPLv2,,,,,,,,,,,,C++
-SQuirreL SQL,Colin Bell  Gerd Wagner  Rob Manning and others,2017-12-29,3.8.1,,GPLv2 & LGPLv2,,,,,,,,,,,Access Axion Java RDBMS  Apache Derby  Daffodil DB  FileMaker (JDBC)  Fujitsu Siemens SESAM/SQL  Firebird  FrontBase  HSQLDB  Hypersonic SQL  H2 (DBMS)  IBM DB2  Informix  Ingres  OpenIngres  InstantDB  InterBase  Mckoi SQL Database  Microsoft SQL Server  Mimer SQL  Netezza  Pointbase  SAPDB  Sybase  Sunopsis XML Driver  Teradata Warehouse  ThinkSQL RDBMS  Vertica Analytic Database  and others with JDBC drivers.,Java
-Toad,Quest Software,Various,Various,Betas,Proprietary,,,,,,,,,,,DB2  Sybase,Embarcadero Delphi  C#.NET
-Toad Data Modeler,Quest Software,2009-03-05,3.3.8,Betas<ref>Toad Data Modeler Betas</ref>,Proprietary,,,,,,,,,,,DB2  MS Access  Sybase,Embarcadero Delphi
-TOra,Community,2017-07-04,3.2,,GPL,,,,,,,,,,,Teradata,C++/Qt
+Product
+Adminer
+DaDaBIK
+Database Deployment Manager
+DatabaseSpy
+Database Workbench
+DataGrip
+[added]
+DBeaver
+DBEdit
+Epictetus
+ER/Builder Data Modeler
+HeidiSQL
+Maatkit
+Microsoft SQL Server Management Studio
+ModelRight
+MySQL Workbench
+Navicat
+Navicat Data Modeler
+Oracle Enterprise Manager
+Oracle SQL Developer
+Orbada
+pgAdmin III
+phpLiteAdmin
+phpMyAdmin
+SQL Database Studio
+SQLyog
+SQuirreL SQL
+Toad
+Toad Data Modeler
+TOra

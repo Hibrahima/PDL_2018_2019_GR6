@@ -1,7 +1,8 @@
 Name,Developer,First release date,Last release,Last release date,License
-Apache MINA SSHD,Apache Software Foundation,2009,2.0.0,2018-05-28<ref>http://mina.apache.org/sshd-project/</ref>,
+Apache MINA SSHD,Apache Software Foundation,2009,2.1.0,2018-10-02<ref>http://mina.apache.org/sshd-project/</ref>,[empty]
 CopSSH,Itefix,2003-08-12,6.1.2,2018-02-19<ref></ref>,, Free for non-commercial use
 CrushFTP Server,CrushFTP  LLC,2003-01-01,7.6.0,2016-05-07,, shareware
-Dropbear,Matt Johnston,2003-04-06<ref>Changes in Dropbear in official web page</ref>,2018.76,2018-02-27<ref></ref>,
-lsh,Niels Möller,1999-05-23<ref></ref>,2.1,2013-06-26,
-OpenSSH,The OpenBSD project,1999-12-01,7.7,2018-04-03<ref></ref>,
+Dropbear,Matt Johnston,2003-04-06<ref>Changes in Dropbear in official web page</ref>,2018.76,2018-02-27<ref></ref>,[empty]
+lsh,Niels Möller,1999-05-23<ref></ref>,2.1,2013-06-26,[empty]
+OpenSSH,The OpenBSD project,1999-12-01,7.7,2018-04-03<ref></ref>,[empty]
+[added],[added],[added],[added],[added],[added]

@@ -1,30 +1,30 @@
 Ido,IPA,Novial
-A  a,,A  a
-B  b,,B  b
-C  c,,TS  ts
-CH  ch;,,CH  ch
-D  d,,D  d
+A  a,[empty],A  a
+B  b,[empty],B  b
+C  c,[empty],TS  ts
+CH  ch;,[empty],CH  ch
+D  d,[empty],D  d
 E  e,or,E  e
-F  f,,F  f
-G  g,,G  g
-Dj  dj,,J  j
-H  h,,H  h
-I  i,,I  i
-J  j,,J  j
-K  k,,K  k
-L  l,,L  l
-M  m,,M  m
-N  n,,N  n
+F  f,[empty],F  f
+G  g,[empty],G  g
+Dj  dj,[empty],J  j
+H  h,[empty],H  h
+I  i,[empty],I  i
+J  j,[empty],J  j
+K  k,[empty],K  k
+L  l,[empty],L  l
+M  m,[empty],M  m
+N  n,[empty],N  n
 O  o,or,O  o
-P  p,,P  p
+P  p,[empty],P  p
 QU  qu,or,QU  qu
-R  r,,R  r
-S  s,,S  s (also Z z)
-SH  sh,,SH  sh
-T  t,,T  t
-U  u,,U  u
-W  w,
-V  v,,V  v
+R  r,[empty],R  r
+S  s,[empty],S  s (also Z z)
+SH  sh,[empty],SH  sh
+T  t,[empty],T  t
+U  u,[empty],U  u
+W  w,[empty],W  w (before a vowel) U  u (after a vowel)
+V  v,[empty],V  v
 X  x,or,X  x
-Y  y,,Y  y
-Z  z,,Z  z (also S  s)
+Y  y,[empty],Y  y
+Z  z,[empty],Z  z (also S  s)

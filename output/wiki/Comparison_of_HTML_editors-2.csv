@@ -1,38 +1,38 @@
 Editor,Windows,OS X,Linux,BSD,Unix,iOS,Android
-Amaya,2012,2012,2012,source only 2012,source only 2012,,
-Aptana,,,,,,,
-Arachnophilia,,,,,,,
-Bluefish,,,,,,,
-BlueGriffon,,,,,,,
-Brackets,,,,,,,
-Claris Homepage,(3.0),,,,,,
-Codelobster,,,,,,,
-CoffeeCup HTML Editor,,,,,,,
-CudaText,,,,,,,
-Contribute,,,,,,,
-Dreamweaver,,,,,,,
-EZGenerator,,,,,,,
-Freeway,,,,,,,
-GoLive,(9.0),(9.0),,,,,
-HTML-Kit,,,,,,,
-KompoZer <ref>Nvu/Kompozer can be built successfully on any platform with the Netscape Portable Runtime.</ref>,,,,,,,
-LibreOffice,,,,source only,source only,,
-Maqetta,,,Cloud<ref name="cloud">[Google Chrome (current release)  Mozilla Firefox 4 users can edit HTML if Maquetta is running in the cloud.]</ref>,Cloud<ref name="cloud"/>,,,
-Microsoft Expression Web,,,,,,,
-Microsoft FrontPage,(2003),,,,,,
-Microsoft SharePoint Designer,,,,,,,
-Microsoft Visual Web Developer,,,,,,,
-Web Architect,,,,,,,
-Mobirise,,,,,,,
-Mozilla Composer,(1.7.13),(1.7.13),(1.7.13),(1.7.13),(1.7.13),,
-Nvu <ref>Nvu can be built successfully on any platform with the Netscape Portable Runtime.</ref>,(1.0),(1.0),(1.0),(1.0),,,
-openElement,,,,,,,
-OpenOffice.org,,,,source only,source only,,
-oXygenXML Editor,,,,,,,
-Quanta Gold (deprecated),,,,,,,
-Quanta Plus (Discontinued),,2009,2009,2009,2009,,
-RocketCake,,,,,,,
-SeaMonkey Composer,,,,,,,
-TOWeb,,,,,,,
-WebStorm IDE,,,,,,,
+Amaya,2012,2012,2012,source only 2012,source only 2012,[empty],[empty]
+Aptana,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Arachnophilia,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bluefish,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BlueGriffon,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Brackets,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Claris Homepage,(3.0),[empty],[empty],[empty],[empty],[empty],[empty]
+Codelobster,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CoffeeCup HTML Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CudaText,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Contribute,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dreamweaver,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+EZGenerator,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Freeway,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GoLive,(9.0),(9.0),[empty],[empty],[empty],[empty],[empty]
+HTML-Kit,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KompoZer <ref>Nvu/Kompozer can be built successfully on any platform with the Netscape Portable Runtime.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LibreOffice,[empty],[empty],[empty],source only,source only,[empty],[empty]
+Maqetta,[empty],[empty],Cloud<ref name="cloud">[Google Chrome (current release)  Mozilla Firefox 4 users can edit HTML if Maquetta is running in the cloud.]</ref>,Cloud<ref name="cloud"/>,[empty],[empty],[empty]
+Microsoft Expression Web,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft FrontPage,(2003),[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft SharePoint Designer,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Visual Web Developer,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Web Architect,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mobirise,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mozilla Composer,(1.7.13),(1.7.13),(1.7.13),(1.7.13),(1.7.13),[empty],[empty]
+Nvu <ref>Nvu can be built successfully on any platform with the Netscape Portable Runtime.</ref>,(1.0),(1.0),(1.0),(1.0),[empty],[empty],[empty]
+openElement,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenOffice.org,[empty],[empty],[empty],source only,source only,[empty],[empty]
+oXygenXML Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quanta Gold (deprecated),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quanta Plus (Discontinued),[empty],2009,2009,2009,2009,[empty],[empty]
+RocketCake,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SeaMonkey Composer,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TOWeb,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WebStorm IDE,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Editor,Windows,OS X,Linux,BSD,Unix,iOS,Android

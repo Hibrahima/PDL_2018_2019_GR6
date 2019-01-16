@@ -8,12 +8,12 @@ IronKey S200,IronKey,2009,Yes
 IronKey D200,IronKey,2009,Yes
 CryptX2,CryptX2 / Open Source,2012,Yes
 DataTraveler 5000,Kingston Technology,2010,Yes
-DataTraveler Locker+,Kingston Technology,,Yes
-DataTraveler Vault,Kingston Technology,,Yes
-DataTraveler Vault – Privacy Edition,Kingston Technology,,Yes
-JumpDrive SecureII Plus,Lexar,,Yes
+DataTraveler Locker+,Kingston Technology,[empty],Yes
+DataTraveler Vault,Kingston Technology,[empty],Yes
+DataTraveler Vault – Privacy Edition,Kingston Technology,[empty],Yes
+JumpDrive SecureII Plus,Lexar,[empty],Yes
 IronClad,Lockheed Martin,2010,Yes
-Cruzer Enterprise,SanDisk,,Yes
-Store 'n' Go Corporate,Verbatim,,Yes
+Cruzer Enterprise,SanDisk,[empty],Yes
+Store 'n' Go Corporate,Verbatim,[empty],Yes
 Kanguru Defender 2000,Kanguru Solutions,2012,Yes
 Name,Developer/Manufacturer,Release Year,Current Model?

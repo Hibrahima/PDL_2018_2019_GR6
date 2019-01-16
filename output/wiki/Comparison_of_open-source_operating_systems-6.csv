@@ -1,30 +1,30 @@
 Name,FAT16  dosfs; FAT32  vfat,NTFS,Ext2,Ext3,XFS,ReiserFS,UFS,UFS2,HFS,HFS+,MINIXfs,BFS,ISO 9660,UDF,NFS,SMBFS,RAM disk  tmpfs,ZFS,Other special file systems
-Linux,,,,,,,,<ref>http://hawking.nonlogic.org/archives/2007/04/06/ufs2_write_support_for_linux</ref>,,,,,,,,,,,9P  FUSE  sysfs  configfs  Reiser4  JFS  Btrfs  UnionFS  Ext4
-FreeBSD,,,,,,,,,,,,,,,,,,,FUSE  nullfs  UnionFS
-NetBSD,,,,,,,,,,,,,,,,,,,PUFFS  LFS  EFS
-OpenBSD,,,,,,,,,,,,,,,,,,,AFS
-DragonFly BSD,,,,,,,,,,,,,,,,,,,HAMMER  nullfs  PUFFS
-OpenSolaris  illumos,,,,,,,,,,,,,,,,,,,SMB (native)  QFS
-AuroraUX,,,,,,,,,,,,,,,,,,,SMB (native)  QFS
-Darwin  OpenDarwin,,,,,,,,,,,,,,,,,,,
-MINIX,,,,,,,,,,,,,,,,,,,
-FreeDOS,,,,,,,,,,,,,,,,,,,
-Genode,,,,,,,,,,,,,,,,,,,Extensible VFS layer
-Haiku,,,,,,,,,,,,,,,,,,,
-KolibriOS,,,,,,,,,,,,,,,,,,,
-MenuetOS,,,,,,,,,,,,,,,,,,,
-GNU,,,,,,,,,,,,,,,,,,,
-ReactOS,,,,,,,,,,,,,,,,,,,
-L4  Fiasco  Pistachio,,,,,,,,,,,,,,,,,,,
-Plan 9,,,,,,,,,,,,,,,,,,,Fossil  Venti  most system services
-AROS,,,,,,,,,,,,,,,,,,,SFS  AFFS
-Syllable,,,,,,,,,,,,,,,,,,,AFS
-Inferno,,,,,,,,,,,,,,,,,,,kfs  most system services
-FreeRTOS,,,,,,,,,,,,,,,,,,,
-eCos,,,,,,,,,,,,,,,,,,,MMFS  ROMfs  JFFS2  YAFFS
-RTEMS,,,,,,,,,,,,,,,,,,,TarFS  TFTP FS  IMFS  miniIMFS
-HelenOS,,,,,,,,,,,,,,,,,,,locfs  exFAT
-E/OS,,,,,,,,,,,,,,,,,,,,V2 OS
-K42
-UnixLite -->
+Linux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>http://hawking.nonlogic.org/archives/2007/04/06/ufs2_write_support_for_linux</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],9P  FUSE  sysfs  configfs  Reiser4  JFS  Btrfs  UnionFS  Ext4
+FreeBSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],FUSE  nullfs  UnionFS
+NetBSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],PUFFS  LFS  EFS
+OpenBSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],AFS
+DragonFly BSD,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],HAMMER  nullfs  PUFFS
+OpenSolaris  illumos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SMB (native)  QFS
+AuroraUX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SMB (native)  QFS
+Darwin  OpenDarwin,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MINIX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeDOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Genode,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Extensible VFS layer
+Haiku,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KolibriOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MenuetOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReactOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+L4  Fiasco  Pistachio,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Plan 9,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Fossil  Venti  most system services
+AROS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],SFS  AFFS
+Syllable,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],AFS
+Inferno,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],kfs  most system services
+FreeRTOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+eCos,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],MMFS  ROMfs  JFFS2  YAFFS
+RTEMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],TarFS  TFTP FS  IMFS  miniIMFS
+HelenOS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],locfs  exFAT
+E/OS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+K42,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
+UnixLite -->,[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
 Name,FAT16  dosfs; FAT32  vfat,NTFS,Ext2,Ext3,XFS,ReiserFS,UFS,UFS2,HFS,HFS+,MINIXfs,BFS,ISO 9660,UDF,NFS,SMBFS,RAM disk  tmpfs,ZFS,Other special file systems

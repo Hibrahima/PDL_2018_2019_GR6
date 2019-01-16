@@ -1,3 +1,2 @@
-Definition,charAt(string integer) returns character.
-Description,Returns character at index in the string.
-Equivalent,See substring of length 1 character.
+Definition,<string>.partition(separator) returns the sub-string before the separator; the separator; then the sub-string after the separator.
+Description,Splits the given string by the separator and returns the three substrings that together make the original.

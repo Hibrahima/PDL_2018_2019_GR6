@@ -1,8 +1,8 @@
 Application,PBR viewport,Viewport effects,Interactive GI Rendering,Integrated Compositing,Text editor for shader writing,Material Nodes,Turntable Rendering
-Maya,,,,,{{?}},,
-3ds Max,,,,,,,
-MODO,,{{?}},,,{{?}},,<ref>Render Commands  Foundry</ref>
-Blender,,,,,,,
-Gaffer,,,,,,,
-Marmoset Toolbag,,,,,{{?}},,<ref>Getting Started with Toolbag 2  Marmoset LLC  December 1  2015</ref>
-Substance Designer,,,,{{?}},{{?}},,{{?}}
+Maya,[empty],[empty],[empty],[empty],{{?}},[empty],[empty]
+3ds Max,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MODO,[empty],{{?}},[empty],[empty],{{?}},[empty],<ref>Render Commands  Foundry</ref>
+Blender,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Gaffer,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Marmoset Toolbag,[empty],[empty],[empty],[empty],{{?}},[empty],<ref>Getting Started with Toolbag 2  Marmoset LLC  December 1  2015</ref>
+Substance Designer,[empty],[empty],[empty],{{?}},{{?}},[empty],{{?}}

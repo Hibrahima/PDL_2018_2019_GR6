@@ -1,69 +1,69 @@
-,sRGB,Adobe RGB,Indexed,Grayscale,CMYK,LAB,HSV
-Ability Photopaint,,,,,,,
-ACD Canvas,,,,,,,
-ACDSee (Win),,,,,,,
-Acorn Image Editor,,,,,,,
-Adobe Fireworks*,,,,,,,
-Adobe Photoshop,,,,,,,
-Adobe Photoshop Lightroom,,,,,,,
-Affinity Photo,,,,,,,
-Autodesk SketchBook Pro,,,,,,,
-Artipic,,,,,,,
-ArtRage,,,,,,,
-Artweaver,,,,,,,
-Bibble*,,,,,,,
-Brush Strokes Image Editor,,,,,,,
-Capture One,,,,,,,
-Chasys Draw IES,,,,,,,
-CinePaint,,,,,,,
-CodedColor PhotoStudio Pro,,,,,,,
-Corel PaintShop Pro,,,,,,<ref name="sp" />,<ref name="sp">Split to channels</ref>
-Corel Painter,,,,,,,
-Corel Photo-Paint,,,,,,,
-darktable,,,,,,,
-Deluxe Paint*,,,,,,,
-Erdas Imagine,,,,,,,
-Fatpaint,,,,,,,
-Fotografix,,,,,,,
-GIMP,,,,,<ref name="gimp_cmyk" />,<ref name="sp" />,
-GIMPshop,,,,,<ref name="gimp_cmyk">Via the Separate+ plug-in</ref>,,
-GrafX2,,,,,,,
-GraphicConverter,,,,,,,
-Helicon Filter,,,,,,,
-iPhoto*,,,,,,,
-IrfanView,,,,,,,
-Iridient Developer,,,,,,,
-Kolourpaint,,,,,,,
-Krita,,,,,,,
-MacPaint*,,,,,,,
-Microsoft Office Picture Manager*,,,,,,,
-Microsoft Paint,,,,,,,
-Microsoft Photo Editor*,,,,,,,
-OpenCanvas,,,,,,,
-Paint.NET,,,,,,,
-PC Paintbrush*,,,,,,,
-Photofinish*,,,,,,,
-Photogenics,,,,,,,
-PhotoLine,,,,,,,
-PhotoPerfect*,,,,,,,
-Photos,,,,,,,
-Photo Raster,,,,,,,
-Picasa*,,,,,,,
-PicMaster,,,,,,,
-PixBuilder Photo Editor,,,,,,,
-Pixelmator,,,,,,,
-Pixia,,,,,,,
-Project Dogwaffle,,,,,,,
-QFX,,,,,,,
-RawTherapee,,,,,,,
-Seashore,,,,,,,
-Serif PhotoPlus,,,,,,,
-Tux Paint,,,,,,,
-TVPaint,,,,,,,
-Ulead PhotoImpact*,,,,,,,
-Ultimate Paint*,,,,,,,
-WinImages,,,,,,,
-Xara Photo & Graphic Designer,,,,,,,
-XnView,,,,,,,
-XPaint,,,,,,,
-Zoner Photo Studio,,,,,,,
+[empty],sRGB,Adobe RGB,Indexed,Grayscale,CMYK,LAB,HSV
+Ability Photopaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ACD Canvas,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ACDSee (Win),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Acorn Image Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Adobe Fireworks*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Adobe Photoshop,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Adobe Photoshop Lightroom,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Affinity Photo,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Autodesk SketchBook Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Artipic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ArtRage,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Artweaver,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bibble*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Brush Strokes Image Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Capture One,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Chasys Draw IES,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CinePaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CodedColor PhotoStudio Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Corel PaintShop Pro,[empty],[empty],[empty],[empty],[empty],<ref name="sp" />,<ref name="sp">Split to channels</ref>
+Corel Painter,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Corel Photo-Paint,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+darktable,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Deluxe Paint*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Erdas Imagine,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fatpaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fotografix,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GIMP,[empty],[empty],[empty],[empty],<ref name="gimp_cmyk" />,<ref name="sp" />,[empty]
+GIMPshop,[empty],[empty],[empty],[empty],<ref name="gimp_cmyk">Via the Separate+ plug-in</ref>,[empty],[empty]
+GrafX2,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GraphicConverter,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Helicon Filter,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+iPhoto*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IrfanView,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Iridient Developer,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Kolourpaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Krita,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MacPaint*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Office Picture Manager*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Paint,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Microsoft Photo Editor*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenCanvas,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Paint.NET,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PC Paintbrush*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photofinish*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photogenics,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PhotoLine,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PhotoPerfect*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photos,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Photo Raster,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Picasa*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PicMaster,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PixBuilder Photo Editor,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pixelmator,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pixia,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Project Dogwaffle,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QFX,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RawTherapee,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Seashore,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Serif PhotoPlus,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Tux Paint,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TVPaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ulead PhotoImpact*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ultimate Paint*,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinImages,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xara Photo & Graphic Designer,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XnView,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XPaint,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Zoner Photo Studio,[empty],[empty],[empty],[empty],[empty],[empty],[empty]

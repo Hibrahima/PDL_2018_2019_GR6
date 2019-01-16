@@ -1,74 +1,61 @@
-File system,Maximum filename length,name=note-25 |These are the restrictions imposed by the on-disk directory entry structures themselves. Particular Installable File System drivers may place restrictions of their own on file and directory names; operating systems may also place restrictions of their own  across all filesystems. DOS  Windows  and OS/2 allow only the following characters from the current 8-bit OEM codepage in SFNs: A-Z  0-9  characters ! # $ % & ' ( ) - @ ^ _ ` { } ~  as well as 0x80-0xFF and 0x20 (SPACE). Specifically  lowercase letters a-z  characters " * / : < > ? \ | +   . ; = [ ]  control codes 0x00-0x1F  0x7F and in some cases also 0xE5 are not allowed.) In LFNs  any UCS-2 Unicode except \ / : ? * " &gt; &lt; | and NUL are allowed in file and directory names across all filesystems. Unix-like systems disallow the characters / and NUL in file and directory names across all filesystems.}},Maximum pathname length,Maximum file size,Maximum volume size,Max number of files
-BeeGFS,255 bytes,Any byte except NUL,No limit defined,16 EiB,16 EiB,
-CP/M file system,8.3,ASCII except for &lt; &gt; .   ; : = ? * [ ],No directory hierarchy (but accessibility of files depends on user areas via USER command since CP/M 2.2),32 MiB,512 MiB,
-IBM SFS,8.8,,,Non-hierarchical<ref></ref>,data-sort-type="number" data-sort-value="0",
-DECtape,6.3,A–Z  0–9,DTxN:FILNAM.EXT = 15,369.280 bytes (577 * 640),369.920 bytes (578 * 640),
-Elektronika BK tape format,16 bytes,,No directory hierarchy,64 KiB,Not limited. Approx. 800KB (one side) for 90 min cassette,
-MicroDOS file system,14 bytes,,,16 MiB,32 MiB,
-Level-D,6.3,A–Z  0–9,DEVICE:FILNAM.EXT[PROJCT PROGRM] = 7 + 10 + 15 = 32; + 5*7 for SFDs = 67,34.359.738.368 words (2**35-1); 206.158.430.208 SIXBIT bytes,Approx 12 GB (64 * 178 MB),
-RT-11,6.3,A–Z  0–9  $,0 (no directory hierarchy),33.554.432 bytes (65536 * 512),33.554.432 bytes,
-Version 6 Unix file system (V6FS),14 bytes,Any byte except NUL and /,No limit defined,16 MiB,32 MiB,
-Disk Operating System (GEC DOS),,,,data-sort-type="number" data-sort-value="0" at least 131.072 bytes,data-sort-type="number" data-sort-value="0",
-GEC DOS filing system extended,8 bytes,A–Z  0–9. Period was directory separator,No limit defined (workaround for OS limit),data-sort-type="number" data-sort-value="0" at least 131.072 bytes,data-sort-type="number" data-sort-value="0",
-CBM DOS,16 bytes,Any byte except NUL,0 (no directory hierarchy),16 MiB,16 MiB,
-Version 7 Unix file system (V7FS),14 bytes,Any byte except NUL or /,No limit defined,1 GiB,2 TiB,
-exFAT,255 UTF-16 characters,,32.760 Unicode characters with each path component no more than 255 characters<ref name="msdn-FS-functionality"></ref>,16 EiB<ref name="msdn-FS-functionality" />,64 ZiB (276 bytes),
-FAT (8-bit),6.3 (binary files) / 9 characters (ASCII files),ASCII (0x00 and 0xFF not allowed in first character),No directory hierarchy,data-sort-type="number" data-sort-value="0",data-sort-type="number" data-sort-value="0",
-FAT12/FAT16,8.3 (255 UCS-2 characters with LFN),SFN: OEM A-Z  0-9  ! # $ % & ' ( ) - @ ^ _ ` { } ~  0x80-0xFF  0x20. LFN: Unicode except NUL  " * / : < > ? \ |,No limit defined,32 MiB (4 GiB),1 MiB to 32 MiB,
-FAT16B/FAT16X,8.3 (255 UCS-2 characters with LFN),SFN: OEM A-Z  0-9  ! # $ % & ' ( ) - @ ^ _ ` { } ~  0x80-0xFF  0x20. LFN: Unicode except NUL  " * / : < > ? \ |,No limit defined,2 (4) GiB,16 MiB to 2 (4) GiB,
-FAT32/FAT32X,8.3 (255 UCS-2 characters with LFN),SFN: OEM A-Z  0-9  ! # $ % & ' ( ) - @ ^ _ ` { } ~  0x80-0xFF  0x20. LFN: Unicode except NUL  " * / : < > ? \ |,32.760 Unicode characters with each path component no more than 255 characters<ref name="msdn-FS-functionality" />,4 GiB<ref name="msdn-FS-functionality" />,512 MiB to 16 TiB</ref>}},
-FATX,42 bytes,ASCII. Unicode not permitted.,No limit defined,2 GiB,16 MiB to 2 GiB,
-Fossil,,,,data-sort-type="number" data-sort-value="0",data-sort-type="number" data-sort-value="0",
-GEMDOS,8.3,[ ] ( ) _</nowiki><ref></ref>,,,,
-APFS,255 UTF-8 characters,Unicode 9.0 encoded in UTF-8 <ref>https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/APFS_Guide/FAQ/FAQ.html</ref>,,8 EiB,data-sort-type="number" data-sort-value="0",263 <ref>https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/APFS_Guide/VolumeFormatComparison/VolumeFormatComparison.html</ref>
-F2FS,255 bytes,Any byte except NUL  /,No limit defined,3.94 TiB,16 TiB,
-MFS,255 bytes,Any byte except :,No path (flat filesystem),256 MiB,256 MiB,
-HFS,31 bytes,Any byte except :,Unlimited,2 GiB,2 TiB,
-HPFS,255 bytes,Any byte except NUL,No limit defined,2 GiB,2 TiB,
-NTFS,255 characters,32.767 Unicode characters with each path component (directory or filename) up to 255 characters long,16 EiB,16 EiB,
-ReFS,255 UTF-16 characters<ref name="blogs.msdn.microsoft.com"></ref>,Any Unicode except NUL  /<ref name="blogs.msdn.microsoft.com"/>,32.767 Unicode characters with each path component (directory or filename) up to 255 characters long<ref name="blogs.msdn.microsoft.com"/>,16 EiB<ref name="blogs.msdn.microsoft.com" />,3.76 ZiB<ref></ref>,
-HFS Plus,255 UTF-16 characters,Any valid Unicode,Unlimited,slightly less than 8 EiB,slightly less than 8 EiB<ref></ref><ref></ref>,
-FFS,255 bytes,Any byte except NUL,No limit defined,4 GiB,256 TiB,
-HAMMER,255 bytes<ref></ref>,Any byte except NUL,,data-sort-type="number" data-sort-value="0",1 EiB<ref></ref>,
-UFS1,255 bytes,Any byte except NUL,No limit defined,16 GiB to 256 TiB,16 EiB,
-UFS2,255 bytes,Any byte except NUL,No limit defined,512 GiB to 32 PiB,512 ZiB<ref></ref> (279 bytes),
-ext,255 bytes,Any byte except NUL,No limit defined,2 GiB,2 GiB,
-Xiafs,248 bytes,Any byte except NUL,No limit defined,64 MiB,2 GiB,
-ext2,255 bytes,Any byte except NUL  /,No limit defined,16 GiB to 2 TiB,2 TiB to 32 TiB,
-ext3,255 bytes,Any byte except NUL  /,No limit defined,16 GiB to 2 TiB,2 TiB to 32 TiB,
-ext4,255 bytes,Any byte except NUL  /,No limit defined,16 GiB to 16 TiB<ref name="ext4-features"></ref>,1 EiB,232
-NOVA,255 bytes,Any byte except NUL  /,No limit defined,16 EiB,16 EiB,
-Lustre,255 bytes,Any byte except NUL,No limit defined,16 EiB on ZFS,16 EiB,
-GPFS,255 UTF-8 codepoints,Any byte except NUL,No limit defined,No limit found,299 bytes (2 PiB tested),
-GFS,255 bytes,Any byte except NUL,No limit defined,2 TiB to 8 EiB,2 TiB to 8 EiB,
-NILFS,255 bytes,Any byte except NUL,No limit defined,8 EiB,8 EiB,
-ReiserFS,4.032 bytes/255 characters,Any byte except NUL or '/',No limit defined,8 TiB</ref>}} (v3.6)  4 GiB (v3.5),16 TiB,
-Reiser4,3.976 bytes,Any byte except / and NUL,No limit defined,8 TiB on x86,data-sort-type="number" data-sort-value="0",
-OCFS,255 bytes,Any byte except NUL,No limit defined,8 TiB,8 TiB,
-OCFS2,255 bytes,Any byte except NUL,No limit defined,4 PiB,4 PiB,
-XFS,255 bytes,Any byte except NUL,No limit defined,8 EiB,8 EiB,
-JFS1,255 bytes,Any byte except NUL,No limit defined,8 EiB,512 TiB to 4 PiB,
-JFS,255 bytes,Any Unicode except NUL,No limit defined,4 PiB,32 PiB,
-QFS,255 bytes,Any byte except NUL,No limit defined,16 EiB,4 PiB,
-BFS,255 bytes,Any byte except NUL,No limit defined,12.288 bytes to 260 GiB,256 PiB to 2 EiB,
-AdvFS,255 characters,Any byte except NUL,No limit defined,16 TiB,16 TiB,
-NSS,256 characters,Depends on namespace used,Only limited by client,8 TiB,8 TiB,
-NWFS,80 bytes,Depends on namespace used,No limit defined,4 GiB,1 TiB,
-ODS-5,236 bytes,,4.096 bytes,1 TiB,1 TiB,
-VxFS,255 bytes,Any byte except NUL,No limit defined,16 EiB,data-sort-type="number" data-sort-value="0",
-UDF,255 bytes,Any Unicode except NUL,1.023 bytes,16 EiB,512 MiB to 16 TiB,
-ZFS,255 bytes,Any Unicode except NUL,No limit defined,16 EiB,256 ZiB (278 bytes),2128
-Btrfs,255 bytes,Any byte except '/' and NUL,No limit defined,16 EiB,16 EiB,264
-Minix V1 FS,14 or 30 bytes  set at filesystem creation time,Any byte except NUL,No limit defined,256.5 MiB,64 MiB,
-Minix V2 FS,14 or 30 bytes  set at filesystem creation time,Any byte except NUL,No limit defined,2 GiB,1 GiB,
-Minix V3 FS,60 bytes,Any byte except NUL,No limit defined,2 GiB,4 GiB,
-VMFS2,128,Any byte except NUL or /,2.048,4 TiB,64 TiB,
-VMFS3,128,Any byte except NUL or /,2.048,2 TiB,64 TiB,
-ISO 9660:1988,Level 1: 8.3 <br />Level 2 & 3: ~ 180,Depends on Level,~ 180 bytes?,4 GiB (Level 1 & 2) to 8 TiB (Level 3),8 TiB,
-Joliet ("CDFS"),64 Unicode characters,All UCS-2 code except *  /  \  :  ;  and ?<ref></ref>,,same as ISO 9660:1988,same as ISO 9660:1988,
-Rock Ridge,255 bytes,Any byte except NUL or /,No limit defined,same as ISO 9660:1988,same as ISO 9660:1988,
-UniFS,No limit defined (depends on client),,No limit defined (depends on client),Available cache space at time of write (depends on platform),No limit defined,No limit defined
-ISO 9660:1999,,,,data-sort-type="number" data-sort-value="0",data-sort-type="number" data-sort-value="0",
-High Sierra Format,,,,data-sort-type="number" data-sort-value="0",data-sort-type="number" data-sort-value="0",
-SquashFS,,,No limit defined,16 EiB,16 EiB,
-File system,Maximum filename length,Allowable characters in directory entries,Maximum pathname length,Maximum file size,Maximum volume size,Max number of files
+File system,Stores file owner,POSIX file permissions,Creation timestamps,Last access/ read timestamps,Last metadata change timestamps,Last archive timestamps,Access control lists,Security/ MAC labels,Extended attributes/ Alternate data streams/ forks,Checksum/ ECC
+BeeGFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CP/M file system,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DECtape<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Elektronika BK tape format,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Level-D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RT-11<ref></ref>,[empty],[empty],(date only),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 6 Unix file system (V6FS)<ref name="Unixv6"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 7 Unix file system (V7FS)<ref name="Unixv7">See dinode structure on page 355 (FILESYS(5)) of </ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FAT12/FAT16/FAT32,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HPFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NTFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],</ref>}},[empty],[empty]
+ReFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HFS Plus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UFS1,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HAMMER,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xiafs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],</ref>}}
+NOVA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Lustre,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+F2FS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GPFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NILFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReiserFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Reiser4,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+AdvFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NSS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NWFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ODS-5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+APFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VxFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UDF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fossil,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Btrfs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Minix V1,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Minix V2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Minix V3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ISO 9660:1988,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rock Ridge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Joliet ("CDFS"),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ISO 9660:1999,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+High Sierra,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SquashFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+File system,Stores file owner,POSIX file permissions,Creation timestamps,Last access/read timestamps,Last metadata change timestamps,Last archive timestamps,Access control lists,Security/ MAC labels,Extended attributes/ Alternate data streams/ forks,Checksum/ ECC

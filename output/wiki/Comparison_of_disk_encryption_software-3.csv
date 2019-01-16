@@ -1,60 +1,60 @@
 Name,Hidden containers,Pre-boot authentication,Single sign-on,Custom authentication,Multiple keys,Passphrase strengthening,Hardware acceleration,TPM,Filesystems,Two-factor authentication
-Aloaha Secure Stick,,,,,,,,,,
-ArchiCrypt Live,<ref name="ArchiCrypt">Secret-containers and Camouflage files ArchiCrypt Live Description</ref>,,,,<ref name="ArchiCrypt"/><ref>Supports "Guest" keys</ref>,,,,,<ref name="ArchiCrypt"/><ref>Using "Archicrypt Card"</ref>
-BestCrypt,,,,,<ref>Supported by the BestCrypt container format; see BestCrypt SDK</ref>,,,,,<ref>Supported by the BestCrypt Volume Encryption software</ref>
-BitArmor DataControl,,,,,,,,,,
-BitLocker,,<ref>With PIN or USB key</ref>,,<ref>BitLocker Drive Encryption: Value Add Extensibility Options</ref>,<ref name="BL_Overview"/>,<ref>Recovery keys only.</ref>,,<ref name="BL_Overview"></ref>,,
-Bloombase Keyparc,,,,,,,,,,
-CGD,,,,<ref name=cgd-paper></ref>,<ref name=inside-cgd></ref>,<ref name=cgd-paper/>,,,,<ref name="cgd-paper"/>
-CenterTools DriveLock,,,,,,,,,,
-Check Point Full Disk Encryption,,,,,,,,,,
-CipherShed,<br />(limited to one per<br />"outer" container),<ref></ref>,,,<ref>Although each volume encrypted with CipherShed can only have one active master key  it is possible to access its contents through more than one header. Each header can have a different password and/or keyfiles if any (cf. TrueCrypt FAQ: Is there a way for an administrator to reset a volume password or pre-boot authentication password when a user forgets it (or loses a keyfile)?)</ref><ref name="truecrypt.org"></ref>,,,<ref name="TrueCrypt Foundation"></ref>,</ref> }},
-CryFS,,,,,,<ref></ref>,,,,
-CrossCrypt,,,,,,,,,,
-CryptArchiver,,,,,,,,,,
-Cryhod,,,,,,,,,,
-Cryptoloop,,<ref name=dmcrypt-initrd>dm-crypt and cryptoloop volumes can be mounted from the initrd before the system is booted</ref>,,,,,,,,
-Cryptomator,,,,,,,,,,
-CryptoPro Secure Disk Enterprise,,,,,,,,,,
-CryptoPro Secure Disk for BitLocker,,,,,,,,,,
-Cryptsetup / Dmsetup,,<ref name=dmcrypt-initrd/>,,,,,,,,
-DiskCryptor,,,,,,,<ref name=DiskCryptor></ref>,,,<ref name=DiskCryptor/>
-DISK Protect,,<ref name=disk-protect></ref>,,,<ref name=disk-protect/>,,,,,
-Dm-crypt / LUKS,,<ref name=dmcrypt-initrd/>,,,,,,<ref name=dm-crypt_tpm></ref>,,
-DriveCrypt,<ref name=drivecrypt></ref>,,,,,,,,,
-DriveSentry GoAnywhere 2,,,,,,,,,,
-E4M,,,,,,,,,,
-e-Capsule Private Safe,<ref name=ps-mla></ref>,,,,<ref name="ps-mla"/>,,,,,
-eCryptfs,,,,,,,,,<ref>uses the lower filesystem (stacking)</ref>,
-EgoSecure HDD Encryption,,,,,,,<ref name="Intel"></ref>,,,
-FileVault,,,,,<ref name=nsa-vilefault/>,<ref name=nsa-vilefault></ref>,?,,,
-FileVault 2,,,,,,,<ref name=ars-filevault></ref>,,,
-FinalCrypt,,,,,,,,,,
-FREE CompuSec,,,,,,,,,,
-FreeOTFE,,,,<ref name=components>FreeOTFE has a modular architecture and set of components to allow 3rd party integration</ref>,<ref name=keyfiles>FreeOTFE allows multiple keys to mount the same container file via encrypted keyfiles</ref>,,,,,
-GBDE,,<ref name=freebsd-disk></ref>,,,<ref name=gbde-paper></ref>,<ref name=gbde-paper/>,<ref name=freebsd-disk/>,,,
-GELI,,<ref name=freebsd-disk/>,,,<ref name=geli-man></ref>,<ref name=geli-man/>,<ref name=freebsd-disk/>,,,
-Loop-AES,,<ref name=loop-aes></ref>,,<ref name=loop-aes/>,<ref name=loop-aes/>,<ref name=loop-aes/>,<ref name=loop-aes/>,,,<ref>Using customization</ref>
-McAfee Drive Encryption (SafeBoot),,,,,,,<ref name="Intel"/><ref></ref>,,,
-n-Crypt Pro,,,,,,<ref name=ncrypt-bio>n-Crypt Pro does not use password authentication— biometric/USB dongle authentication only</ref>,,,,
-PGPDisk,,<ref name=pgp-faq></ref>,,,,<ref>PGP private keys are always protected by strengthened passphrases</ref>,,,,
-Private Disk,,,,,,,,,,
-ProxyCrypt,,,,,,,,,,
-R-Crypto,,,,,,,,,,
-SafeGuard Easy,,,,,,,,<ref name="EmbeddedSecurity"></ref>,,
-SafeGuard Enterprise,,,,,,,,<ref name="EmbeddedSecurity" />,,
-SafeGuard PrivateDisk,,,,,,,,<ref name="Lenovo"></ref>,,
-SafeHouse Professional,,,,,,,,,,
-Scramdisk,,,,,,,,,,
-Scramdisk 4 Linux,<ref name=sd4l-tc>For Truecrypt containers</ref>,,,,,<ref name=sd4l-tc/>,,,,
-SecuBox,,,,,,,,,,
-SecureDoc,,<ref name=sdoc-faq></ref>,,,,,,,,
-Sentry 2020,,,,,,,,,,
-Softraid / RAID C,,,,,,,,,,
-Svnd / Vnconfig,,,,,,<ref>optional by using -K OpenBSD Manual Pages: vnconfig(8)</ref>,,,,
-Symantec Endpoint Encryption,,,,,,,,,,
-Trend Micro Endpoint Encryption,,,,,,<ref></ref>,<ref></ref>,,,<ref></ref>
-TrueCrypt,<br />(limited to one per<br />"outer" container),<ref name="ReferenceA"></ref>,,,<ref name="truecrypt.org"/><ref>Although each volume encrypted with TrueCrypt can only have one active master key  it is possible to access its contents through more than one header. Each header can have a different password and/or keyfiles if any (cf. TrueCrypt FAQ: Is there a way for an administrator to reset a volume password or pre-boot authentication password when a user forgets it (or loses a keyfile)?)</ref>,,,<ref name="TrueCrypt Foundation"/>,</ref> }},
-VeraCrypt,<br />(limited to one per<br />"outer" container),<ref></ref>,,,,,,,,
-CyberSafe Top Secret,,,,,,,,,,
+Aloaha Secure Stick,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ArchiCrypt Live,<ref name="ArchiCrypt">Secret-containers and Camouflage files ArchiCrypt Live Description</ref>,[empty],[empty],[empty],<ref name="ArchiCrypt"/><ref>Supports "Guest" keys</ref>,[empty],[empty],[empty],[empty],<ref name="ArchiCrypt"/><ref>Using "Archicrypt Card"</ref>
+BestCrypt,[empty],[empty],[empty],[empty],<ref>Supported by the BestCrypt container format; see BestCrypt SDK</ref>,[empty],[empty],[empty],[empty],<ref>Supported by the BestCrypt Volume Encryption software</ref>
+BitArmor DataControl,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitLocker,[empty],<ref>With PIN or USB key</ref>,[empty],<ref>BitLocker Drive Encryption: Value Add Extensibility Options</ref>,<ref name="BL_Overview"/>,<ref>Recovery keys only.</ref>,[empty],<ref name="BL_Overview"></ref>,[empty],[empty]
+Bloombase Keyparc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CGD,[empty],[empty],[empty],<ref name=cgd-paper></ref>,<ref name=inside-cgd></ref>,<ref name=cgd-paper/>,[empty],[empty],[empty],<ref name="cgd-paper"/>
+CenterTools DriveLock,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Check Point Full Disk Encryption,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CipherShed,<br />(limited to one per<br />"outer" container),<ref></ref>,[empty],[empty],<ref>Although each volume encrypted with CipherShed can only have one active master key  it is possible to access its contents through more than one header. Each header can have a different password and/or keyfiles if any (cf. TrueCrypt FAQ: Is there a way for an administrator to reset a volume password or pre-boot authentication password when a user forgets it (or loses a keyfile)?)</ref><ref name="truecrypt.org"></ref>,[empty],[empty],<ref name="TrueCrypt Foundation"></ref>,</ref> }},[empty]
+CryFS,[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[empty],[empty]
+CrossCrypt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CryptArchiver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cryhod,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cryptoloop,[empty],<ref name=dmcrypt-initrd>dm-crypt and cryptoloop volumes can be mounted from the initrd before the system is booted</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cryptomator,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CryptoPro Secure Disk Enterprise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CryptoPro Secure Disk for BitLocker,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cryptsetup / Dmsetup,[empty],<ref name=dmcrypt-initrd/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DiskCryptor,[empty],[empty],[empty],[empty],[empty],[empty],<ref name=DiskCryptor></ref>,[empty],[empty],<ref name=DiskCryptor/>
+DISK Protect,[empty],<ref name=disk-protect></ref>,[empty],[empty],<ref name=disk-protect/>,[empty],[empty],[empty],[empty],[empty]
+Dm-crypt / LUKS,[empty],<ref name=dmcrypt-initrd/>,[empty],[empty],[empty],[empty],[empty],<ref name=dm-crypt_tpm></ref>,[empty],[empty]
+DriveCrypt,<ref name=drivecrypt></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DriveSentry GoAnywhere 2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+E4M,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+e-Capsule Private Safe,<ref name=ps-mla></ref>,[empty],[empty],[empty],<ref name="ps-mla"/>,[empty],[empty],[empty],[empty],[empty]
+eCryptfs,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>uses the lower filesystem (stacking)</ref>,[empty]
+EgoSecure HDD Encryption,[empty],[empty],[empty],[empty],[empty],[empty],<ref name="Intel"></ref>,[empty],[empty],[empty]
+FileVault,[empty],[empty],[empty],[empty],<ref name=nsa-vilefault/>,<ref name=nsa-vilefault></ref>,?,[empty],[empty],[empty]
+FileVault 2,[empty],[empty],[empty],[empty],[empty],[empty],<ref name=ars-filevault></ref>,[empty],[empty],[empty]
+FinalCrypt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FREE CompuSec,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeOTFE,[empty],[empty],[empty],<ref name=components>FreeOTFE has a modular architecture and set of components to allow 3rd party integration</ref>,<ref name=keyfiles>FreeOTFE allows multiple keys to mount the same container file via encrypted keyfiles</ref>,[empty],[empty],[empty],[empty],[empty]
+GBDE,[empty],<ref name=freebsd-disk></ref>,[empty],[empty],<ref name=gbde-paper></ref>,<ref name=gbde-paper/>,<ref name=freebsd-disk/>,[empty],[empty],[empty]
+GELI,[empty],<ref name=freebsd-disk/>,[empty],[empty],<ref name=geli-man></ref>,<ref name=geli-man/>,<ref name=freebsd-disk/>,[empty],[empty],[empty]
+Loop-AES,[empty],<ref name=loop-aes></ref>,[empty],<ref name=loop-aes/>,<ref name=loop-aes/>,<ref name=loop-aes/>,<ref name=loop-aes/>,[empty],[empty],<ref>Using customization</ref>
+McAfee Drive Encryption (SafeBoot),[empty],[empty],[empty],[empty],[empty],[empty],<ref name="Intel"/><ref></ref>,[empty],[empty],[empty]
+n-Crypt Pro,[empty],[empty],[empty],[empty],[empty],<ref name=ncrypt-bio>n-Crypt Pro does not use password authentication— biometric/USB dongle authentication only</ref>,[empty],[empty],[empty],[empty]
+PGPDisk,[empty],<ref name=pgp-faq></ref>,[empty],[empty],[empty],<ref>PGP private keys are always protected by strengthened passphrases</ref>,[empty],[empty],[empty],[empty]
+Private Disk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ProxyCrypt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+R-Crypto,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SafeGuard Easy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="EmbeddedSecurity"></ref>,[empty],[empty]
+SafeGuard Enterprise,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="EmbeddedSecurity" />,[empty],[empty]
+SafeGuard PrivateDisk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name="Lenovo"></ref>,[empty],[empty]
+SafeHouse Professional,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scramdisk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scramdisk 4 Linux,<ref name=sd4l-tc>For Truecrypt containers</ref>,[empty],[empty],[empty],[empty],<ref name=sd4l-tc/>,[empty],[empty],[empty],[empty]
+SecuBox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SecureDoc,[empty],<ref name=sdoc-faq></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sentry 2020,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Softraid / RAID C,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Svnd / Vnconfig,[empty],[empty],[empty],[empty],[empty],<ref>optional by using -K OpenBSD Manual Pages: vnconfig(8)</ref>,[empty],[empty],[empty],[empty]
+Symantec Endpoint Encryption,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Trend Micro Endpoint Encryption,[empty],[empty],[empty],[empty],[empty],<ref></ref>,<ref></ref>,[empty],[empty],<ref></ref>
+TrueCrypt,<br />(limited to one per<br />"outer" container),<ref name="ReferenceA"></ref>,[empty],[empty],<ref name="truecrypt.org"/><ref>Although each volume encrypted with TrueCrypt can only have one active master key  it is possible to access its contents through more than one header. Each header can have a different password and/or keyfiles if any (cf. TrueCrypt FAQ: Is there a way for an administrator to reset a volume password or pre-boot authentication password when a user forgets it (or loses a keyfile)?)</ref>,[empty],[empty],<ref name="TrueCrypt Foundation"/>,</ref> }},[empty]
+VeraCrypt,<br />(limited to one per<br />"outer" container),<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CyberSafe Top Secret,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Name,Hidden containers,Pre-boot authentication,Single sign-on,Custom authentication,Multiple keys,Passphrase strengthening,Hardware acceleration,TPM,Filesystems,Two-factor authentication

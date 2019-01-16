@@ -1,51 +1,51 @@
 Client,Toolkits or SDKs,File transfer,Editing sent messages,Proxy server,Graphical emoticons,Unicode (UTF-8),Built-in games,Themes  skins,Plugin system,Third party add-ons,Scripting,Message logging,Voice messaging,Voice mail,Webcam,Offline,Cloud backup,Remote desktop assistance,Whiteboard,RTL texting
-Adium,Cocoa,,,,,,,,,,,,,,,,,,
-AIM,W32/Cocoa,,,<ref group="lower-alpha" name="win-only" />,,,,<ref group="lower-alpha" name="win-only" />,<ref group="lower-alpha" name="win-only" />,<ref group="lower-alpha" name="win-only" />,,,<ref group="lower-alpha" name="win-only" />,,<ref group="lower-alpha" name="win-only" />,<ref group="lower-alpha" name="win-only" />,,,
-aMSN,Tcl/Tk,,,http  socks5  msn gateway,,,,,,,,,,,,,,,
-Ayttm,GTK2,,,http  socks4/5,,,,,,,,,,,,,,,
-BitlBee,,,,,,,,,,,,,,,,,,,
-Bombus,Java ME,,,,,,,,,,,,,,,,,,
-Centericq,ncurses,,,,,,,,,,,,,,,,,,
-climm,line based,,,,,,,,,,,,,,,,,,
-Coccinella,Tcl/Tk,,,http  socks4/5,,,,,,,,,,,,,,,
-Discord,,,,,,,,,,,,,,,,,,,,<ref>RTL-Discord-Bot</ref>
-eBuddy,,,,,,,,,,,,,,,,,,,
-Empathy,GTK3,,,,,,,,,,,,,,,,,,
-Facebook Messenger,,,,,,,,,,,,,,,,,,,
-Fire,Cocoa,,,,,,,,,,,,,,,,,,
-Gadu-Gadu,Qt,,,,,,,,,,,,,,,,,,
-Gajim,GTK2,,,http,,,,,,,,,,,,,,,
-Google Talk,W32,,,,,,,,,,,,,,Third party plugin,,,,
-IBM Lotus Sametime,,,,,,,,,,,,,,available,,,,,
-ICQ,W32,,,,,,,,,,,,,,,,,,
-IMVU,,,,,,,,,,<ref group="lower-alpha" name="custom-content" />,,,,,,,,,
-Jitsi,Java,,,,,,,,,,,,,,,,,,
-Kadu,Qt,,,,,,,,,,,,,,,,,,
-Kopete,Qt/KDE,,,,,,,,,,With plugin,,,,,,,,
-Line,Line SDK,,,,,,,,,,,,,,,,,,
-Messages,Cocoa,,,,,,,,,,,,,,,,,<ref group="lower-alpha" name="plugin"/>,
-MCabber,Curses,,,,,,,,,,,,,,,,,,
-Miranda IM,W32,,,, socks4/5  http(s),,,,,,,,,<ref group="lower-alpha" name="plugin"/>,,<ref group="lower-alpha" name="plugin"/>,,,,
-Palringo,,,,,,,,,,,,,,,(picture capture only),,,,
-Paltalk,,,,,,,,,,,,,,,,,,,
-Pidgin,GTK2,,,, http  socks4/5,,,,,,,,,(XMPP in Linux),,(XMPP in Linux),,,,
-Psi,Qt,,,,,,,,,,,,(Linux & Unix),,(Linux & Unix),,,,
-QIP,W32  VCL,,,, http(s)  socks4/4A/5,,,,,,,,,,,,,,,
-QuteCom,Qt,,,,,,,,,,,,,,,,,,
-Ring,,,,,,,,,,,,,,,,,,,
-Riot.im,,,,,,,,,,,,,,,,,,,
-Skype,Qt/KDE  W32,,,,,,,,,,,,,,,,,<ref group="lower-alpha" name="plugin"/><ref group="lower-alpha" name="win-only" />,
-Surespot,?,,,,,,,,,,,,,,,,,,
-Tencent QQ,W32,,,,,,,,,,,,,,,,,,
-Telegram,,,,,,,,,,,,,,,,,,,
-Tkabber,Tcl/Tk,,,,,,,,,,,,,,,,,,
-Tox,Many <ref group="lower-alpha" name="tox-clarification" />,,,,,,Up to clients <ref group="lower-alpha" name="tox-clarification"/>,Up to clients <ref group="lower-alpha" name="tox-clarification"/>,Up to clients <ref group="lower-alpha" name="tox-clarification"/>,Up to clients <ref group="lower-alpha" name="tox-clarification"/>,Up to clients <ref group="lower-alpha" name="tox-clarification"/>,,,,,<ref>Not part of the P2P network. Some clients simulate offline-messaging. Using relays is also possible.</ref>,,,
-Trillian,W32  Cocoa,,,,,,,,,,,,,,,,,,
-WhatsApp,,,,,,,,,,,,,,,,,,,
-Wickr,,,,,,,,,,,,,,,,,,,?
-Windows Live Messenger,W32,,,, http  socks4/5,,,,,,,,,,,,,,,,
-Wire,,,,,,,,,,,,,,,,,<ref></ref>,,
-Xfire,W32,,,,,,,,,,,,,,,,,,
-Yahoo! Messenger,W32  Cocoa  GTK,,,,,,,,,,,,,,,,,,
-Yuilop,,,,,,,,,,,,,,,,,,,
+Adium,Cocoa,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+AIM,W32/Cocoa,[empty],[empty],<ref group="lower-alpha" name="win-only" />,[empty],[empty],[empty],<ref group="lower-alpha" name="win-only" />,<ref group="lower-alpha" name="win-only" />,<ref group="lower-alpha" name="win-only" />,[empty],[empty],<ref group="lower-alpha" name="win-only" />,[empty],<ref group="lower-alpha" name="win-only" />,<ref group="lower-alpha" name="win-only" />,[empty],[empty],[empty],[added]
+aMSN,Tcl/Tk,[empty],[empty],http  socks5  msn gateway,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Ayttm,GTK2,[empty],[empty],http  socks4/5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+BitlBee,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Bombus,Java ME,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Centericq,ncurses,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+climm,line based,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Coccinella,Tcl/Tk,[empty],[empty],http  socks4/5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Discord,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref>RTL-Discord-Bot</ref>
+eBuddy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Empathy,GTK3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Facebook Messenger,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Fire,Cocoa,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Gadu-Gadu,Qt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Gajim,GTK2,[empty],[empty],http,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Google Talk,W32,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],Third party plugin,[empty],[empty],[empty],[empty],[added]
+IBM Lotus Sametime,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],available,[empty],[empty],[empty],[empty],[empty],[added]
+ICQ,W32,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+IMVU,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group="lower-alpha" name="custom-content" />,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Jitsi,Java,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Kadu,Qt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Kopete,Qt/KDE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],With plugin,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Line,Line SDK,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Messages,Cocoa,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group="lower-alpha" name="plugin"/>,[empty],[added]
+MCabber,Curses,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Miranda IM,W32,[empty],[empty],, socks4/5  http(s),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group="lower-alpha" name="plugin"/>,[empty],<ref group="lower-alpha" name="plugin"/>,[empty],[empty],[empty],[empty],[added]
+Palringo,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(picture capture only),[empty],[empty],[empty],[empty],[added]
+Paltalk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Pidgin,GTK2,[empty],[empty],, http  socks4/5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(XMPP in Linux),[empty],(XMPP in Linux),[empty],[empty],[empty],[empty],[added]
+Psi,Qt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(Linux & Unix),[empty],(Linux & Unix),[empty],[empty],[empty],[empty],[added]
+QIP,W32  VCL,[empty],[empty],, http(s)  socks4/4A/5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+QuteCom,Qt,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Ring,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Riot.im,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Skype,Qt/KDE  W32,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref group="lower-alpha" name="plugin"/><ref group="lower-alpha" name="win-only" />,[empty],[added]
+Surespot,?,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Tencent QQ,W32,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Telegram,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Tkabber,Tcl/Tk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Tox,Many <ref group="lower-alpha" name="tox-clarification" />,[empty],[empty],[empty],[empty],[empty],Up to clients <ref group="lower-alpha" name="tox-clarification"/>,Up to clients <ref group="lower-alpha" name="tox-clarification"/>,Up to clients <ref group="lower-alpha" name="tox-clarification"/>,Up to clients <ref group="lower-alpha" name="tox-clarification"/>,Up to clients <ref group="lower-alpha" name="tox-clarification"/>,[empty],[empty],[empty],[empty],<ref>Not part of the P2P network. Some clients simulate offline-messaging. Using relays is also possible.</ref>,[empty],[empty],[empty],[added]
+Trillian,W32  Cocoa,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+WhatsApp,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Wickr,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],?,[added]
+Windows Live Messenger,W32,[empty],[empty],, http  socks4/5 ,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Wire,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>,[empty],[empty],[added]
+Xfire,W32,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Yahoo! Messenger,W32  Cocoa  GTK,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
+Yuilop,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[added]
 Client,Toolkits or SDKs,File transfer,Editing sent messages,Proxy server,Graphical emoticons,Unicode (UTF-8),Built-in games,Themes  skins,Plugin system,Third party add-ons,Scripting,Message logging,Voice messaging,Voice mail,Webcam support,Offline messaging,Cloud backup,Remote desktop assistance,Whiteboard,RTL texting

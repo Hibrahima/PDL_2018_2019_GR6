@@ -1,9 +1,9 @@
 Tool,Creator,Target Business Size,License,Supported Database Platforms,Supported OSs,Standalone or bundled into a larger toolkit,Launch Date
-Astah,Change Vision,Enterprises,Proprietary,MySQL  Oracle,,Windows  macOS  Linux,Standalone,2006
+Astah,Change Vision,Enterprises,Proprietary,MySQL  Oracle ,Windows  macOS  Linux,Standalone,2006
 Database Deployment Manager,The Unauthorized Frog project,SMBs and enterprises,LGPL,CUBRID  MySQL  SQLite,Windows  Linux,Standalone,2010 ?
 Database Workbench,Upscene Productions,SMBs and enterprises,Proprietary,MS SQL Server  MySQL  Oracle  Firebird  InterBase  SQL Anywhere  NexusDB  MariaDB,Windows  Linux and FreeBSD (both through Wine),Standalone,2001
 Enterprise Architect,Sparx Systems,SMBs and enterprises,Proprietary,IBM DB2  Firebird  InterBase  Informix  Ingres  Access  MS SQL Server  MySQL  SQLite  Oracle  PostgreSQL  Sybase,Windows  Linux (Wine)  macOS (via CrossOver),Data modeling is supported as part of a complete modeling platform.,2000
-ER/Builder Data Modeler,SoftBuilder,Enterprises  SMBs  personal,Freeware,MS SQL Server  Oracle  MySQL  PostgreSQL Firebird  InterBase   MariaDB,Windows,Standalone,2017
+ER/Builder Data Modeler,SoftBuilder,Enterprises  SMBs  personal,Freeware,MS SQL Server  Oracle  MySQL  PostgreSQL Firebird  SQLite  MariaDB,Windows,Standalone,2017
 ER/Studio,Embarcadero (acquired by IDERA),SMBs and enterprises,Proprietary,Access  IBM DB2  Informix  Hitachi HiRDB  Firebird  Interbase  MySQL  MS SQL Server  Netezza  Oracle  PostgreSQL  Sybase  Teradata  Visual Foxpro and others via ODBC/ANSI SQL,Windows,Standalone,1998
 Erwin Data Modeler,ERWin (formerly CA),SMBs and enterprises,Proprietary,Access  IBM DB2  Informix  MySQL  MS SQL Server  Netezza  Oracle  PostgreSQL  Sybase  and others via ODBC/ANSI SQL,Windows,Standalone,1998
 Erwin NoSQL Data Modeler SaaS platform,ERWin (formerly CA),SMBs and enterprises,Proprietary,MongoDB  Cassandra Couchbase,All,SaaS,2018

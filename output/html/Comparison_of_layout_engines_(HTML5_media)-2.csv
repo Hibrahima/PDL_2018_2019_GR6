@@ -1,5 +1,5 @@
 Engine,Status,Embedded in
-WebKit,Active,Safari browser  plus all browsers hosted on the iOS app store
+WebKit,Active,Safari browser  plus all browsers hosted on the iOS App Store
 Blink,Active,Google Chrome and all other Chromium-based browsers like Microsoft Edge and Opera
 Gecko,Active,Firefox browser and Thunderbird email client  plus forks like SeaMonkey and Waterfox
 KHTML,Discontinued,Konqueror browser

@@ -1,14 +1,14 @@
 ADC hub,Windows,Linux,OS X,Other
-ADCH++,,,,
-ADCH++ GUI,,,,Any Python enabled platform
-DSHub,,,,Any Java enabled platform
-FlexHub,,,,
-Luadch,,,,Raspberry Pi  Synology NAS  any GCC enabled platform
-Nexthub,,,,Any C# enabled platform
-uhub,,,,BSD  Haiku  OpenWrt  Solaris
-Erlhub,,,,Any Erlang enabled platform
-Qhub,,,,
-Starlet ADC Hub,,,,OpenVMS
-Starhub,,,,Any Java enabled platform
-RusHub,,,,FreeBSD  Solaris
+ADCH++,[empty],[empty],[empty],[empty]
+ADCH++ GUI,[empty],[empty],[empty],Any Python enabled platform
+DSHub,[empty],[empty],[empty],Any Java enabled platform
+FlexHub,[empty],[empty],[empty],[empty]
+Luadch,[empty],[empty],[empty],Raspberry Pi  Synology NAS  any GCC enabled platform
+Nexthub,[empty],[empty],[empty],Any C# enabled platform
+uhub,[empty],[empty],[empty],BSD  Haiku  OpenWrt  Solaris
+Erlhub,[empty],[empty],[empty],Any Erlang enabled platform
+Qhub,[empty],[empty],[empty],[empty]
+Starlet ADC Hub,[empty],[empty],[empty],OpenVMS
+Starhub,[empty],[empty],[empty],Any Java enabled platform
+RusHub,[empty],[empty],[empty],FreeBSD  Solaris
 ADC hub,Windows,Linux,OS X,Other

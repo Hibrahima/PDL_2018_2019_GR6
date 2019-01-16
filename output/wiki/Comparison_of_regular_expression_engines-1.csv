@@ -1,31 +1,31 @@
 + List of regular expression libraries
-Name,Official website,Programming language,Software license,Used by
-Boost.Regex,Boost C++ Libraries,C++,,Notepad++ >= 6.0.0  EmEditor
-BoostXpressive,Boost C++ Libraries,C++,,
-CL-PPCRE,Edi Weitz,Common Lisp,,
-cppre,Jeff Stuart,C++,,
-DEELX,RegExLab,C++,personal and commercial use,
-FREJ,Fuzzy Regular Expressions for Java,Java,,
-GLib/GRegex,GLib reference manual,C,,
-GRETA,Microsoft Research,C++,,
-Helios RXPF,Titan IC,RTL,,hardware accelerated regex engine for cybersecurity OEMs
-Hyperscan,Intel,C  x86-specific assembly (SSSE3+<ref>https://intel.github.io/hyperscan/dev-reference/getting_started.html#requirements</ref>),,Rspamd
-ICU,International Components for Unicode,C  C++,,Foundation (Apple and Swift open-source versions)
-Jakarta/Regexp,The Apache Jakarta Project,Java,,
-java.util.regex,Java's User manual,Java,Java license,jEdit
-JRegex,JRegex,Java,,
-MATLAB,Regular Expressions,MATLAB Language,MATLAB  The Language of Technical Computing,
-Oniguruma,Kosako,C,,Atom  Take Command Console  Tera Term  TextMate  Sublime Text  SubEthaEdit  EmEditor and jq
-Pattwo,Stevesoft,Java (compatible with Java 1.0),,
-PCRE,pcre.org,C  C++,,Apache HTTP Server  Nginx  Julia  HHVM  Notepad++ < 6.0.0  PHP
-Qt/QRegExp,Digia,C++,,Kate  Kile
-regex - Henry Spencer's regular expression libraries,ArgList,C,,
-RE2,RE2,C++,,
-Henry Spencer's Advanced Regular Expressions,Tcl,C,,
-RGX,RGX,C++ based component library,,
-SubReg,Matt Bucknall,C,,
-TPerlRegEx,TPerlRegEx VCL Component,Object Pascal,,
-TRE,Ville Laurikari,C,,
-TRegExpr,RegExp Studio,Object Pascal,,Total Commander
-XRegExp,XRegExp,JavaScript,,
-Wolfram Language (Mathematica),Wolfram Language Documentation Center,Wolfram Language,,Mathematica  the Wolfram Development Platform
+Name
+Boost.Regex
+BoostXpressive
+CL-PPCRE
+cppre
+DEELX
+FREJ
+GLib/GRegex
+GRETA
+Helios RXPF
+Hyperscan
+ICU
+Jakarta/Regexp
+java.util.regex
+JRegex
+MATLAB
+Oniguruma
+Pattwo
+PCRE
+Qt/QRegExp
+regex - Henry Spencer's regular expression libraries
+RE2
+Henry Spencer's Advanced Regular Expressions
+RGX
+SubReg
+TPerlRegEx
+TRE
+TRegExpr
+XRegExp
+Wolfram Language (Mathematica)

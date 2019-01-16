@@ -1,16 +1,17 @@
 +Basic features
-Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
-cut  copy  and paste,<ref></ref>,<ref></ref>,<ref></ref>,,<ref></ref>,
-Multi-Device clipboard,,<ref>Apple Beats Microsoft at Releasing a Universal Clipboard Feature </ref>,</ref>}},,,
-undo,<ref></ref>,<ref></ref>,</ref><ref></ref>}},,,<ref>Undo-option in notes app </ref>
-Custom home and lock screen wallpaper,,<ref name="iPhoneTips"/>,,,,(incl. Ambience)
-Desktop sync,No <ref></ref> but available using the vendor's companion/PC suite application such as Samsung Smart Switch & HTC Sense<ref></ref>,,,,,?
-Local full backup,<ref></ref>,<ref></ref>,, removed in WP8 <ref></ref> was available on WP7 in Zune only when performing update  or anytime via 3rd party software<ref></ref><ref></ref>,<ref></ref> and memory card (7+)<ref>BlackBerry OS 7 Device Switch . Youtube.com (2011-06-16). Retrieved on 2012-07-03.</ref>,<ref></ref>,
-Core data missing sync,Bookmarks<ref></ref> (before 4)  SMSs and Settings<ref name="Android Issue 1106: No way to backup or restore on-device data (SMS  most app data  installed apps and settings)"></ref>,,Favorites <ref>can i sync favourites from IE PC and IE windows phone 7? – Microsoft Answers . Answers.microsoft.com (2011-09-06). Retrieved on 2012-07-03.</ref> Text Messages<ref>windows phone & sync text messages – Microsoft Answers . Answers.microsoft.com (2011-09-06). Retrieved on 2012-07-03.</ref> and Settings<ref>MyPhone: Backup Email settings – Microsoft Answers . Answers.microsoft.com (2011-09-06). Retrieved on 2012-07-03.</ref>,?,?,?,?
-Notification center,,<ref name=Notification_Center />,<ref name="blogs.windows.com"/>,<ref>BBE Presents: BlackBerry 6 Notifications . Youtube.com (2010-12-13). Retrieved on 2012-07-03.</ref>,<ref>bada 2.0 on Samsung Wave S8500 – S8500XXKK7 – notifications bar  RAM  lock speed & browser bug . Youtube.com (2011-12-03). Retrieved on 2012-07-03.</ref>,
-Push notifications,<ref name="Android Cloud To Device Messaging"></ref>,,<ref></ref>,,<ref name="Samsung Bada 2.0 to get multitasking  push notifications  a new UI and more"></ref>,
-Screenshot,<ref></ref>,<ref name="iPhoneTips"/><ref>Screenshot#iOS</ref>,<ref></ref>,<ref></ref>,,<ref>Sailfish OS update Aurajoki now available </ref>
-iCalendar import,No <ref>Android Issue 1257: Calendar should support opening iCal .ics files . code.google.com (2008-11-11). Retrieved on 2012-07-03.</ref> but 3rd party app available<ref>iCalParse/CalendarSync (version 7.6) importing iCalendar information on Android – xda-developers . Forum.xda-developers.com. Retrieved on 2012-07-03.</ref>,<ref>Importing ICS Files into the Calendar – Instant Expert: Secrets & Features of iOS 4.2 . iLounge Article. Retrieved on 2012-07-03.</ref>,(only import not subscribe)<ref></ref>,<ref>Add an appointment to your calendar from a text message – BlackBerry Curve 9350/9360/9370 Smartphones – User Guide – BlackBerry Curve Series – 7.0 . Docs.blackberry.com. Retrieved on 2012-07-03.</ref>,?,<ref>Allow import of .ics / iCal files in calendar </ref>
-Text/document support (read only; creating using third party apps),Microsoft Office  PDF  TXT/RTF,Microsoft Office <ref></ref><ref></ref><ref></ref> iWork  PDF  Images  TXT/RTF  VCF,Microsoft Office 2003/2007  PDF  Images  TXT/RTF,Microsoft Office  PDF  OpenDocument  TXT,Read only: text files  PDF  HTML  Multiple office formats,Microsoft Office  OpenDocument  PDF  Text
-Printer support,using Google Cloud Print<ref name="http://developer.android.com/about/versions/kitkat.html"></ref> but not over USB unless proprietary vendor solutions such as HP Print Service are used<ref></ref>,<ref></ref>,<ref></ref>,,,?
-Show remembered Wi-Fi connections,,<ref>Cydia Tweak: Quickly View Saved Wi-Fi Passwords With NetworkList </ref>,,,?,
+Feature
+cut  copy  and paste
+Multi-Device clipboard
+undo
+Custom home and lock screen wallpaper
+Desktop sync
+Local full backup
+Core data missing sync
+Notification center
+Push notifications
+Screenshot
+iCalendar import
+Text/document support (read only; creating using third party apps)
+Printer support
+Show remembered Wi-Fi connections
+[added]

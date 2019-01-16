@@ -1,51 +1,57 @@
-File system,Tail packing,Transparent compression,Block suballocation,Allocate-on-flush,Extents,Variable file block size,Sparse files,Copy on write,Trim support
-DECtape,,,,,,,,,
-BeeGFS,,,,,,,,,
-Level-D,,,,,,,,,
-APFS,,,,,,,,,<ref></ref><ref></ref>
-Version 6 Unix file system (V6FS),,,,,,,,,
-Version 7 Unix file system (V7FS),,,,,,,,,
-FAT12,,,(only inside of Stacker 3/4 and DriveSpace 3 compressed volumes<ref name="DMSDOS"></ref>),,(only inside of compressed volumes)<ref name="CVF814"/>,,(only inside of compressed volumes)<ref name="CVF808"/>,,(Linux)
-FAT16 / FAT16B / FAT16X,,,(only inside of Stacker 3/4 and DriveSpace 3 compressed volumes<ref name="DMSDOS"/>),,(only inside of compressed volumes)<ref name="CVF814"></ref>,,(only inside of compressed volumes)<ref name="CVF808"></ref>,,(Linux)
-FAT32 / FAT32X,,,,,,,,,(Linux)
-GFS,,,,,,,,,
-HPFS,,,,,,,,,
-NTFS,,,,,,,,,(NT 6.1 + newer)
-HFS Plus,,,,,,,,,(macOS)
-FFS,,,8:1,,,,,,
-UFS1,,,8:1,,,,,,
-UFS2,,,8:1,,,,,,<ref>https://svnweb.freebsd.org/base?view=revision&revision=216796</ref><ref>https://www.freebsd.org/cgi/man.cgi?query=newfs&sektion=8&manpath=FreeBSD+8.4-RELEASE</ref>
-LFS,,,8:1,,,,,,
-ext,,,,,,,,,
-Xiafs,,,,,,,,,
-ext2,,,,,,,,,
-ext3,,,,,,,,,
-ext4,,,,,,,,,
-NOVA,,,,,,,,,
-F2FS,,,,,,,,,<ref></ref>
-Lustre,,,,,,,,,
-NILFS,,,,,,,,,
-ReiserFS,,,,,,,,,
-Reiser4,,,,,,,,,
-OCFS,,,,,,,,,
-OCFS2,,,,,,,,,
-XFS,,,,,,,,, on request<ref></ref>,(Linux)
-JFS,,only in JFS1 on AIX<ref></ref>,,,,,,,(Linux)
-QFS,,,,,,,,,
-BFS,,,,,,,,,(Haiku)
-NSS,,,,,,,,,
-NWFS,,,,,,,,,
-ODS-5,,,,,,,,,
-VxFS,,,,,,,,,
-UDF,,,,,,,,,
-Fossil,,,,,,,,,
-ZFS,,,,,,,,,(FreeBSD  illumos)
-Btrfs,,,,,,,,,
-VMFS2,,,,,,,,,
-VMFS3,,,,,,,,,
-ReFS,,,,,,,,,
-ISO 9660,,,,,,,,,
-Rock Ridge,,,,,,,,,
-Joliet ("CDFS"),,,,,,,,,
-SquashFS,,,,,,,,,
-File system,Tail packing,Transparent compression,Block suballocation,Allocate-on-flush,Extents,Variable file block size,Sparse files,Copy on write,Trim support
+File system,DOS,Windows 9x,Windows NT,Linux,"classic" Mac OS,macOS,FreeBSD,OS/2,BeOS,Minix,Solaris,z/OS
+APFS,[empty],[empty],[empty],[empty],[empty],<br />(Since macOS Sierra),[empty],[empty],[empty],[empty],[empty],[empty]
+BeeGFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DECtape,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Level-D,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RT-11,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 6 Unix file system (V6FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Version 7 Unix file system (V7FS),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FAT12,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(via dosdir  dosread  doswrite),[empty],[empty]
+FAT16 / FAT16B / FAT16X,(FAT16 from DOS 3.0  FAT16B from DOS 3.31  FAT16X from DOS 7.0),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(via dosdir  dosread  doswrite  not FAT16X),[empty],[empty]
+FAT32 / FAT32X,(from DOS 7.10),(from Windows 95 OSR2),(from Windows 2000),[empty],?,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HPFS,(with third-party drivers),[empty],(with NT 3.1 to 4.0 only),[empty],[empty],[empty],[empty],(from OS/2 1.2),[empty],[empty],[empty],[empty]
+NTFS,(with third-party drivers),(with 3rd-party drivers like “Paragon NTFS for Win98” “DiskInternals NTFS Reader”）,[empty],with ntfs-3g,[empty],natively read only  write support with Paragon NTFS or ntfs-3g,with ntfs-3g,[empty],with ntfs-3g,[empty],with ntfs-3g,[empty]
+Apple HFS,[empty],[empty],with Paragon HFS+ <ref name="Paragon HFS"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Apple HFS Plus,[empty],[empty],with Paragon HFS+ <ref name="Paragon HFS"/>,- writing support only to unjournalled FS,from Mac OS 8.1,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UFS1,[empty],[empty],(with ufs2tools  read only),- read only,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UFS2,[empty],[empty],(with ufs2tools  read only),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext,[empty],[empty],[empty],- until 2.1.20,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xiafs,[empty],[empty],[empty],- until 2.1.20<br /> Experimental port available to 2.6.32 and later <ref name="Porting an Ancient Filesystem to Modern Linux"></ref><ref name="Github modern-xiafs"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ext2,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Windows"></ref> or partial with Ext2 IFS<ref name="Ext2 IFS for Windows"> (Provides kernel level read/write access to Ext2 and Ext3 volumes in Windows NT4  2000  XP and Vista.)</ref> or ext2fsd<ref name="Ext2fs Driver"></ref>,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Mac"></ref> or ext2fsx,[empty],[empty],[empty],[empty],[empty],[empty]
+ext3,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Windows"></ref> or partial with Ext2 IFS<ref name="Ext2 IFS for Windows"/> or ext2fsd<ref name="Ext2fs Driver"/>,[empty],(read only),with Paragon ExtFS <ref name="Paragon ExtFS for Mac"></ref> or partial with ext2fsx (journal not updated on writing),(read-only)<ref name="ext3"></ref><ref name="ext3_2"></ref>,[empty],[empty],[empty],[empty],[empty]
+ext4,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Windows"></ref> or partial with Ext2 IFS<ref name="Ext2 IFS for Windows"/> or ext2fsd<ref name="Ext2fs Driver"/>,[empty],[empty],with Paragon ExtFS <ref name="Paragon ExtFS for Mac"></ref>,support in kernel since version 10.1 (read-only)<ref name="ext3"/><ref name="ext3_2"/>,[empty],[empty],[empty],[empty],[empty]
+NOVA,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Lustre,[empty],[empty],[empty],<ref name="lustre"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NILFS,[empty],[empty],[empty],as an external kernel module,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+F2FS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReiserFS,[empty],[empty],[empty],[empty],[empty],[empty],Read Only,[empty],[empty],[empty],[empty],[empty]
+Reiser4,[empty],[empty],[empty],with a kernel patch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SpadFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OCFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+XFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+QFS,[empty],[empty],[empty],- client only<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Be File System,[empty],[empty],[empty],- read-only,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NSS,[empty],[empty],[empty],via EVMS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NWFS,(with Novell drivers),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ODS-2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ODS-5,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+UDF,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VxFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fossil,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ZFS,[empty],[empty],[empty],with FUSE<ref name="zfs on fuse"></ref> or as an external kernel module<ref name="ZoL"></ref>,[empty],with Read/Write Developer Preview<ref name="zfs on mac os x"></ref>,[empty],[empty],[empty],[empty],[empty],[empty]
+Btrfs,[empty],[empty],with WinBtrfs<ref name="Github btrfs"></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VMFS3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IBM HFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IBM zFS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ReFS,[empty],[empty],(from Windows Server 2012 and from Windows 8.1),- with Paragon ReFS for Linux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ISO 9660,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Rock Ridge,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Joliet ("CDFS"),[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SquashFS,[empty],[empty],(There are ports of unsquashfs and mksquashfs.),[empty],[empty],(There are ports of unsquashfs and mksquashfs.),(There are ports of unsquashfs and mksquashfs and fusefs-port.<ref></ref><ref></ref>),[empty],[empty],[empty],[empty],[empty]
+File system,DOS,Windows 9x,Windows NT,Linux,"classic" Mac OS,macOS,FreeBSD,OS/2,BeOS,Minix,Solaris,z/OS

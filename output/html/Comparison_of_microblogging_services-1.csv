@@ -8,6 +8,8 @@ identi.ca,Status Net  Inc.,2008-07 [2],micro-blogging,Apache v2 (pump.io),CC-BY 
 Tout,Tout,2010-04 [3],micro-blogging,proprietary,own TOS,Yes,Yes
 Twitter,Twitter  Inc.,2006-08 [4],micro-blogging,proprietary,own TOS,Yes,No
 Yammer,Yammer  Inc.,2008-09 [5],micro-blogging,proprietary,own TOS,Yes,Yes
-Mastodon,Open source,2016[6],micro-blogging,AGPLv3,own TOS,Yes,Yes
+Mastodon,Open source,2016-10[6],micro-blogging,AGPLv3,own TOS,Yes,Yes
+Misskey,Open source,2014,micro-blogging,AGPLv3,own TOS,Yes,Yes
+Pleroma,Open source,2017,micro-blogging,AGPLv3,own TOS,Yes,Yes
 Twister,Open source,2013,micro-blogging,MIT and BSD licenses,own TOS,Yes,Yes
 Tumblr,Oath Inc.,2007,micro-blogging,proprietary,own TOS,Yes,No

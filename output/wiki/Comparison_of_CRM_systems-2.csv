@@ -1,30 +1,31 @@
 System,Office Integration,Multi Lingual,Languages Supported,Web-Based,Time Tracking,Attaching Emails to Business Objects,Desktop Environment,Global Search,LDAP Support
-Act! CRM,,,en  de  fr,,,,,,
+Act! CRM,[empty],[empty],en  de  fr,[empty],[empty],[empty],[empty],[empty],[empty]
 Adempiere,?,?,?,?,?,?,?,?,?
-Base CRM,,,de  en  es  fr  nl  pl  pt,,,,,,
-CiviCRM,?,,,,?,?,?,?,?
-Dolibarr,A module google is available for customer and agenda sync,,Over 30,,,(when email is sent from software),?,,
-Microsoft Dynamics CRM,,,over 40,,,,,,with ADFS
-Epesi CRM,Any type of file attachments,,ar  bg  cs  da  de  el  en  es  et  fa  fi  fr  he  hr  hu  id  in  it  jp  ko  lt  nl  no  pl  pt  ro  ru  sk  sl  sr  sv  th  tr  vi  zh,,,,?,?,?
-GNU Enterprise,,,,,,?,?,?,?
-Group-Office,,,Over 20 languages,,,?,?,?,?
-HubSpot CRM Free,Gmail  G Suite  Outlook  Office 365 for Windows<ref name="Houpes15"></ref>,,en  fr  jp  de  pt  es<ref name="HubSpotLanguages"></ref>,<ref name="Houpes15"/>,,<ref name="Brooks17"></ref>,<ref name="Campbell14"></ref>,,
-Nutshell CRM,Google Apps  Microsoft Exchange,,,,,,?,,?
+Base CRM,[empty],[empty],de  en  es  fr  nl  pl  pt,[empty],[empty],[empty],[empty],[empty],[empty]
+CiviCRM,?,[empty],[empty],[empty],?,?,?,?,?
+Dolibarr,A module google is available for customer and agenda sync,[empty],Over 30,[empty],[empty],(when email is sent from software),?,[empty],[empty]
+Microsoft Dynamics CRM,[empty],[empty],over 40,[empty],[empty],[empty],[empty],[empty],with ADFS
+Epesi CRM,Any type of file attachments,[empty],ar  bg  cs  da  de  el  en  es  et  fa  fi  fr  he  hr  hu  id  in  it  jp  ko  lt  nl  no  pl  pt  ro  ru  sk  sl  sr  sv  th  tr  vi  zh,[empty],[empty],[empty],?,?,?
+GNU Enterprise,[empty],[empty],[empty],[empty],[empty],?,?,?,?
+Group-Office,[empty],[empty],Over 20 languages,[empty],[empty],?,?,?,?
+HubSpot CRM Free,Gmail  G Suite  Outlook  Office 365 for Windows<ref name="Houpes15"></ref>,[empty],en  fr  jp  de  pt  es<ref name="HubSpotLanguages"></ref>,<ref name="Houpes15"/>,[empty],<ref name="Brooks17"></ref>,<ref name="Campbell14"></ref>,[empty],[empty]
+Nutshell CRM,Google Apps  Microsoft Exchange,[empty],[empty],[empty],[empty],[empty],?,[empty],?
 Pega CRM<ref name=forrester-crm/>,?,?,?,?,?,?,?,website=community.pega.com|language=en|access-date=2018-10-28}}</ref>,website=community.pega.com|language=en|access-date=2018-10-28}}</ref>
-Pipedrive,,,de  en  es  et  fi  fr  it  no  nl  pl  pt  ru  tr  ko  ja,,,,,,
-Pivotal CRM,,,,Web/Windows,?,,?,,
-Really Simple Systems,,,en,,,?,?,?,?
-SageCRM,,,,,,,,,?
-Salesbox CRM,,,de  en  es  fr  nl  pt  se  no  fi  tr  ro  ru  jp  ch  ko  hu,,,,,,
-Salesforce.com<ref></ref>,,,en  fi  fr  de  es  it  ja  ko  pt-br  ru  sv  th  zh-cn  zh-tw  da  nl-nl,,,,,,
-Siebel,,,,,,,?,?,
-Streak,via Google Docs,,de  en  es  fr  it  nl  pl  pt  pt-br  ru  zh-cn,,,?,?,?,?
-SugarCRM,If you use Exchange  Riva provides native support for Snow Leopard Mac iCal  Mail and Address Book and Microsoft Entourage for Mac.<ref></ref>,,26 languages,,,?,?,,
-SuiteCRM,Via Plugin,,20 languages,,,,,,
-SuperOfficeCRM,,,cn  de  dk  en  es  fi  fr  it  jp  nl  no  ru  se  zh,,,?,?,?,?
-TeamLab,,,en  de  fr  es  it  ru  lat,,,?,?,?,?
-TeamWox,,,30 languages,,,?,?,?,?
-Tryton,?,,bg  ca  cs  de  en  es-ar  es-co  es-es  fr  nl  ru  sl,,,,,,
-WebCRM,,,en  de  dk  fi  se  nl  no,,,?,?,?,?
-WORKetc,Outlook Addon and Google Docs,,de  en  es  fr  it  nl,,,,?,,?
-Zoho CRM,Outlook & MS Office,,en  fi  fr  de  es  it  ja  ko  pt-br  ru  sv  th  zh-cn  zh-tw  da  nl-nl  pl,,,,?,,
+Pipedrive,[empty],[empty],de  en  es  et  fi  fr  it  no  nl  pl  pt  ru  tr  ko  ja,[empty],[empty],[empty],[empty],[empty],[empty]
+Pivotal CRM,[empty],[empty],[empty],Web/Windows,?,[empty],?,[empty],[empty]
+Really Simple Systems,[empty],[empty],en,[empty],[empty],?,?,?,?
+SageCRM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],?
+Salesbox CRM,[empty],[empty],de  en  es  fr  nl  pt  se  no  fi  tr  ro  ru  jp  ch  ko  hu,[empty],[empty],[empty],[empty],[empty],[empty]
+Salesforce.com<ref></ref>,[empty],[empty],en  fi  fr  de  es  it  ja  ko  pt-br  ru  sv  th  zh-cn  zh-tw  da  nl-nl,[empty],[empty],[empty],[empty],[empty],[empty]
+Siebel,[empty],[empty],[empty],[empty],[empty],[empty],?,?,[empty]
+SAP CRM,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SAP Cloud for Customer,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Streak,via Google Docs,[empty],de  en  es  fr  it  nl  pl  pt  pt-br  ru  zh-cn,[empty],[empty],?,?,?,?
+SugarCRM,If you use Exchange  Riva provides native support for Snow Leopard Mac iCal  Mail and Address Book and Microsoft Entourage for Mac.<ref></ref>,[empty],26 languages,[empty],[empty],?,?,[empty],[empty]
+SuiteCRM,Via Plugin,[empty],20 languages,[empty],[empty],[empty],[empty],[empty],[empty]
+SuperOfficeCRM,[empty],[empty],cn  de  dk  en  es  fi  fr  it  jp  nl  no  ru  se  zh,[empty],[empty],?,?,?,?
+TeamLab,[empty],[empty],en  de  fr  es  it  ru  lat,[empty],[empty],?,?,?,?
+Tryton,?,[empty],bg  ca  cs  de  en  es-ar  es-co  es-es  fr  nl  ru  sl,[empty],[empty],[empty],[empty],[empty],[empty]
+WebCRM,[empty],[empty],en  de  dk  fi  se  nl  no,[empty],[empty],?,?,?,?
+WORKetc,Outlook Addon and Google Docs,[empty],de  en  es  fr  it  nl,[empty],[empty],[empty],?,[empty],?
+Zoho CRM,Outlook & MS Office,[empty],en  fi  fr  de  es  it  ja  ko  pt-br  ru  sv  th  zh-cn  zh-tw  da  nl-nl  pl,[empty],[empty],[empty],?,[empty],[empty]

@@ -1,37 +1,37 @@
 Client,CTCP,DCC,IPv6,SSL,TLS,DANE,OCSP,CRL,SASL,OTR
-Bersirc,,,,,,,,,,
-BitchX,,,,,,,,,,
-ChatZilla,,,,,,,,,,
-Colloquy,,,,,,,,,,<ref></ref>
-degesch,,,,,,,,,,
-DMDirc,,,,,,,,,,
-ERC,,,,,,,,,,
-HexChat,,,,,,,,,,
-HydraIRC,,,,,,,,,,
-IceChat,,,,,,,,,,
-ircII,,,,,,,,,,
-IRCjr,,,,,,,,,,
-Ircle,,,,,,,,,,
-Irssi,,,,,,,,,
-jIRCii,,,,,,,,,,
-KiwiIRC,,,,,,,,,,
-Konversation,,,,,,,,,,
-KVIrc,,,,,,,,,,
-LimeChat,,,,,,,,,,
-Linkinus,,,,,,,,,,
-Mibbit,,,,,,,,,,
-mIRC,,,,,,,,,,
-Nettalk,,,,,,,,,,
-Opera,,,,,,,,,
-PIRCH,,,,,,,,,,
-PJIRC,,,,,,,,,,
-Quassel,,,,,,,,,,<ref></ref>
-qwebirc,,,,,,,,,,
-rcirc,,,,,,,,,,
-Scrollback,,,,,,,,,,
-Smuxi,,,,,,,,,,<ref></ref>
-Snak,,,,,,,,,,
-Visual IRC,,,,,,,,,,
-WeeChat,,,,,,,,,,<ref name=cypherpunks_otr /><ref></ref>
-XChat,,,,,,,,,,<ref name=cypherpunks_otr /><ref name=irssi_xchat_otr />
+Bersirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BitchX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ChatZilla,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Colloquy,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>
+degesch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+DMDirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ERC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HexChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+HydraIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IceChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ircII,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IRCjr,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ircle,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Irssi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=cypherpunks_otr> </ref><ref name=irssi_xchat_otr></ref>
+jIRCii,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KiwiIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Konversation,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+KVIrc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LimeChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linkinus,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mibbit,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nettalk,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Opera,<ref> </ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PIRCH,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PJIRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Quassel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>
+qwebirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rcirc,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scrollback,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Smuxi,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref></ref>
+Snak,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Visual IRC,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WeeChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=cypherpunks_otr /><ref></ref>
+XChat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],<ref name=cypherpunks_otr /><ref name=irssi_xchat_otr />
 Client,CTCP,DCC,IPv6,SSL,TLS,DANE,OCSP,CRL,SASL,OTR

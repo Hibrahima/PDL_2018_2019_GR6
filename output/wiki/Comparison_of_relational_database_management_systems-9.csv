@@ -1,46 +1,44 @@
-,Data Domain,Cursor,Trigger,Function 1,Procedure 1,External routine 1
-4th Dimension,,,,,,
-ADABAS,,,,?,?,
-Adaptive Server Enterprise,,,,,,
-Advantage Database Server,,,,,,
-Altibase,,,,,,
-Apache Derby,,,,2,2,2
-ClustrixDB,,,,,,
-CUBRID,,,,,2,
-Empress Embedded Database,via RANGE CHECK,,,,,
-EXASolution,,,,,,
-DB2,via CHECK CONSTRAINT,,,,,
-Firebird,,,,,,
-HSQLDB,,,,,,
-H2,,,2,2,2,
-Informix Dynamic Server,via CHECK,,,,,5
-Ingres,,,,,,
-InterBase,,,,,,
-Linter SQL RDBMS,,,,,,
-LucidDB,,,,2,2,2
-MariaDB,<ref name="constraint_in_mariadb"></ref>,,,,,
-MaxDB,,,,,,
-Microsoft Access (JET),,,,,,
-Microsoft Visual Foxpro,,,,,,
-Microsoft SQL Server,,,,,,
-Microsoft SQL Server Compact (Embedded Database),,,,,,
-Mimer SQL,,,,,,
-MonetDB,,,,,,
-MySQL,3,,,,,
-OpenBase SQL,,,,,,
-Oracle,,,,,,
-Oracle Rdb,,,,,,
-OpenLink Virtuoso,,,,,,
-Pervasive PSQL,,,,,,
-Polyhedra DBMS,,,,,,
-PostgreSQL,,,,,,
-Raima Database Manager,,,,,,
-RDM Server,,,,,,
-SAP HANA,,,,,,
-solidDB,,,,,,
-SQL Anywhere,,,,,,
-SQLite,,,,,,
-Teradata,,,,,,
-UniData,,,,,,
-UniVerse,,,,,,
-,Data Domain,Cursor,Trigger,Function 1,Procedure 1,External routine 1
+[empty],Range,Hash,Composite (Range+Hash),List,Expression
+4th Dimension,[empty],[empty],[empty],[empty],[empty]
+ADABAS,[empty],[empty],[empty],[empty],[empty]
+Adaptive Server Enterprise,[empty],[empty],[empty],[empty],[empty]
+Advantage Database Server,[empty],[empty],[empty],[empty],[empty]
+Altibase,[empty],[empty],[empty],[empty],[empty]
+Apache Derby,[empty],[empty],[empty],[empty],[empty]
+ClustrixDB,[empty],[empty],[empty],[empty],[empty]
+CUBRID,[empty],[empty],[empty],[empty],[empty]
+IBM DB2,[empty],[empty],[empty],[empty],[empty]
+Empress Embedded Database,[empty],[empty],[empty],[empty],[empty]
+EXASolution,[empty],[empty],[empty],[empty],[empty]
+Firebird,[empty],[empty],[empty],[empty],[empty]
+HSQLDB,[empty],[empty],[empty],[empty],[empty]
+H2,[empty],[empty],[empty],[empty],[empty]
+Informix Dynamic Server,[empty],[empty],[empty],[empty],[empty]
+Ingres,[empty],[empty],[empty],[empty],[empty]
+InterBase,[empty],[empty],[empty],[empty],[empty]
+Linter SQL RDBMS,[empty],[empty],[empty],[empty],[empty]
+MariaDB,[empty],[empty],[empty],[empty],[empty]
+MaxDB,[empty],[empty],[empty],[empty],[empty]
+Microsoft Access (JET),[empty],[empty],[empty],[empty],[empty]
+Microsoft Visual Foxpro,[empty],[empty],[empty],[empty],[empty]
+Microsoft SQL Server,[empty],[empty],[empty],[empty],[empty]
+Microsoft SQL Server Compact (Embedded Database),[empty],[empty],[empty],[empty],[empty]
+Mimer SQL,[empty],[empty],[empty],[empty],[empty]
+MonetDB,[empty],[empty],[empty],[empty],[empty]
+MySQL,[empty],[empty],[empty],[empty],[empty]
+OpenBase SQL,[empty],[empty],[empty],[empty],[empty]
+Oracle,[empty],[empty],[empty],[empty],[empty]
+Oracle Rdb,[empty],[empty],[empty],[empty],[empty]
+OpenLink Virtuoso,[empty],[empty],[empty],[empty],[empty]
+Pervasive PSQL,[empty],[empty],[empty],[empty],[empty]
+Polyhedra DBMS,[empty],[empty],[empty],[empty],[empty]
+PostgreSQL,1,1,1,1,1
+Raima Database Manager,2,2,2,[empty],[empty]
+RDM Server,[empty],[empty],[empty],[empty],[empty]
+SAP HANA,[empty],[empty],[empty],[empty],[empty]
+solidDB,[empty],[empty],[empty],[empty],[empty]
+SQL Anywhere,[empty],[empty],[empty],[empty],[empty]
+SQLite,[empty],[empty],[empty],[empty],[empty]
+Teradata,[empty],[empty],[empty],[empty],[empty]
+UniVerse,[empty],[empty],[empty],[empty],[empty]
+[empty],Range,Hash,Composite (Range+Hash),List,Expression

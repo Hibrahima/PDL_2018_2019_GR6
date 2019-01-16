@@ -1,7 +1,8 @@
-Application,Hard surface Modeling,Sculpt Modeling,Non-destructive Modeling
-Polygon Modeling,Subdivision Modeling,Base-mesh Creation,Sculpting,Retopology,Boolean,Bevel,Procedural,Single Patch
-Maya,,,,,,,,
-3ds Max,,,,,,,,
-Blender,,,,,,,,
-ZBrush,,,,,,,?,
-Curvy 3D,,,,,?,?,?,
+Application,Hard surface Modeling,Sculpt Modeling,Non-destructive Modeling,Patch Modeling -->
+Polygon Modeling,Subdivision Modeling,Base-mesh Creation,Sculpting,Retopology
+Maya,[empty],[empty],[empty],[empty]
+3ds Max,[empty],[empty],[empty],[empty]
+Blender,[empty],[empty],[empty],[empty]
+ZBrush,[empty],[empty],[empty],[empty]
+Curvy 3D,[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added]

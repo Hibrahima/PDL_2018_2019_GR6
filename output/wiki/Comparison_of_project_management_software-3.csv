@@ -1,121 +1,121 @@
 Software,Budget Management,Time Tracking,Invoicing
-2-plan,,,
-24SevenOffice,,,
-Actionspace,,,
-AnyChart (AnyGantt),,,
-Apache Allura,,,
-Apache OFBiz,,,
-Apache Bloodhound,,,
-Asana,,,
-Assembla,,,
-Axosoft,,,
-Basecamp,,,
-Calligra Plan,,,
-CEITON,,,
-Clarizen,,,
-Collabtive,,,
-Compuware Changepoint,,,
-ConceptDraw Project,<ref name="conceptdrawcost" />,<ref name="conceptdrawtimeline"/>,
-Concerto Project Management,,,
-Copper Project,,,
-dotProject,,,
-DynaRoad,,,
-Easy projects,,,
-Eclipse PPM software,,,
-eGroupWare,,,
-enQuire,,,
-FastTrack Schedule,,,
-Feng Office Community Edition,,,
-FinancialForce.com,,,
-FogBugz,,,
-FusionForge,,,
-GanttProject,,,
-Genius Project,,,
-GroveSite,,,
-Hall.com,,,
-Helix ALM,,,
-HeySpace,,,
-HP Project & Portfolio Software,,,
-Huddle,,,
-Hyperoffice,,,
-iManageProject,,<ref name="imanageproject" />,
+2-plan,[empty],[empty],[empty]
+24SevenOffice,[empty],[empty],[empty]
+Actionspace,[empty],[empty],[empty]
+AnyChart (AnyGantt),[empty],[empty],[empty]
+Apache Allura,[empty],[empty],[empty]
+Apache OFBiz,[empty],[empty],[empty]
+Apache Bloodhound,[empty],[empty],[empty]
+Asana,[empty],[empty],[empty]
+Assembla,[empty],[empty],[empty]
+Axosoft,[empty],[empty],[empty]
+Basecamp,[empty],[empty],[empty]
+Calligra Plan,[empty],[empty],[empty]
+CEITON,[empty],[empty],[empty]
+Clarizen,[empty],[empty],[empty]
+Collabtive,[empty],[empty],[empty]
+Compuware Changepoint,[empty],[empty],[empty]
+ConceptDraw Project,<ref name="conceptdrawcost" />,<ref name="conceptdrawtimeline"/>,[empty]
+Concerto Project Management,[empty],[empty],[empty]
+Copper Project,[empty],[empty],[empty]
+dotProject,[empty],[empty],[empty]
+DynaRoad,[empty],[empty],[empty]
+Easy projects,[empty],[empty],[empty]
+Eclipse PPM software,[empty],[empty],[empty]
+eGroupWare,[empty],[empty],[empty]
+enQuire,[empty],[empty],[empty]
+FastTrack Schedule,[empty],[empty],[empty]
+Feng Office Community Edition,[empty],[empty],[empty]
+FinancialForce.com,[empty],[empty],[empty]
+FogBugz,[empty],[empty],[empty]
+FusionForge,[empty],[empty],[empty]
+GanttProject,[empty],[empty],[empty]
+Genius Project,[empty],[empty],[empty]
+GroveSite,[empty],[empty],[empty]
+Hall.com,[empty],[empty],[empty]
+Helix ALM,[empty],[empty],[empty]
+HeySpace,[empty],[empty],[empty]
+HP Project & Portfolio Software,[empty],[empty],[empty]
+Huddle,[empty],[empty],[empty]
+Hyperoffice,[empty],[empty],[empty]
+iManageProject,[empty],<ref name="imanageproject" />,[empty]
 InLoox,<ref name="inloox1" />,<ref name="inloox1"/>,<ref name="inloox1"/>
-in-Step BLUE,,,
-Jira,,,
-Launchpad,,,
-LibrePlan,,,
-LiquidPlanner,,,
-LisaProject,,,
-MacProject,,,
-MantisBT,,<ref name="mantisbt" />,
-Métier,,,
-Microsoft Dynamics AX,,,
-Microsoft Office Project Server,,,
-Microsoft Project,,,
-Microsoft SharePoint Server,,,
-Microsoft Team Foundation Server,,,
-Milestones Professional,,,
-MyWorkPLAN,,,
-NetPoint,,,
-NetSuite,,,
-O3Spaces,,,
-OmniPlan,,,
-OnePager Pro,,,
-Open Workbench,,,
-OpenProj,,,
-OpenProject,,,
-Oracle Primavera EPPM (Primavera P6),,,
-phpGroupWare,,,
-PHProjekt,,<ref name="PHProjekt" />,
-Pivotal Tracker,,,
-Plandora,,,
-Planisware,,,
-PLANTA Project,,,
-Project KickStart,,,
-Project Team Builder,,,
-ProjectLibre,<ref></ref>,<ref></ref>,
-ProjectManager.com,<ref name="projectmanager tracking" />,<ref name="projectmanager features" />,
-Project.net,,<ref name="Project.net time tracking" />,
-Projectplace,,,
-Projektron BCS,,,
-ProjeQtOr,,,
-Proliance,,,
-Prolog,,,
-Pyrus,,,
-RationalPlan,,,
-Realisor,,,
-Redbooth,,,
-Redmine,,,
-Rillsoft Project & Integration Server,,,
-SAP Business ByDesign,,,
-Sciforma,,<ref name="sciforma" />,
-Scoro,,,
-Severa,,,
-Smartsheet,,,
-Streamtime Software,,,
-Spider Project,,,
-TACTIC,,,
-Talygen,,,
-TaskJuggler,,,
-Teamcenter,,,
-TeamDynamixHE,,,
-TeamLab,,,
-Teamwork.com,,,
-The Bug Genie,,,
-Tom's Planner,,,
-Trac,,,
-TrackerSuite.Net,,,
-Traction TeamPage,,,
-Trello,,,
-Triskell,,,
-Tuleap,,,
-Twproject,<ref name="twprojectcostmanagement"/>,,
-UniPhi,,,
-VPMi,,,
-web2project,,<ref name="web2project" />,
-Workamajig,,,
-Workfront,,,
-WorkPLAN Enterprise,,,
-workspace.com,,,
-Wrike,,,
+in-Step BLUE,[empty],[empty],[empty]
+Jira,[empty],[empty],[empty]
+Launchpad,[empty],[empty],[empty]
+LibrePlan,[empty],[empty],[empty]
+LiquidPlanner,[empty],[empty],[empty]
+LisaProject,[empty],[empty],[empty]
+MacProject,[empty],[empty],[empty]
+MantisBT,[empty],<ref name="mantisbt" />,[empty]
+Métier,[empty],[empty],[empty]
+Microsoft Dynamics AX,[empty],[empty],[empty]
+Microsoft Office Project Server,[empty],[empty],[empty]
+Microsoft Project,[empty],[empty],[empty]
+Microsoft SharePoint Server,[empty],[empty],[empty]
+Microsoft Team Foundation Server,[empty],[empty],[empty]
+Milestones Professional,[empty],[empty],[empty]
+MyWorkPLAN,[empty],[empty],[empty]
+NetPoint,[empty],[empty],[empty]
+NetSuite,[empty],[empty],[empty]
+O3Spaces,[empty],[empty],[empty]
+OmniPlan,[empty],[empty],[empty]
+OnePager Pro,[empty],[empty],[empty]
+Open Workbench,[empty],[empty],[empty]
+OpenProj,[empty],[empty],[empty]
+OpenProject,[empty],[empty],[empty]
+Oracle Primavera EPPM (Primavera P6),[empty],[empty],[empty]
+phpGroupWare,[empty],[empty],[empty]
+PHProjekt,[empty],<ref name="PHProjekt" />,[empty]
+Pivotal Tracker,[empty],[empty],[empty]
+Plandora,[empty],[empty],[empty]
+Planisware,[empty],[empty],[empty]
+PLANTA Project,[empty],[empty],[empty]
+Project KickStart,[empty],[empty],[empty]
+Project Team Builder,[empty],[empty],[empty]
+ProjectLibre,<ref></ref>,<ref></ref>,[empty]
+ProjectManager.com,<ref name="projectmanager tracking" />,<ref name="projectmanager features" />,[empty]
+Project.net,[empty],<ref name="Project.net time tracking" />,[empty]
+Projectplace,[empty],[empty],[empty]
+Projektron BCS,[empty],[empty],[empty]
+ProjeQtOr,[empty],[empty],[empty]
+Proliance,[empty],[empty],[empty]
+Prolog,[empty],[empty],[empty]
+Pyrus,[empty],[empty],[empty]
+RationalPlan,[empty],[empty],[empty]
+Realisor,[empty],[empty],[empty]
+Redbooth,[empty],[empty],[empty]
+Redmine,[empty],[empty],[empty]
+Rillsoft Project & Integration Server,[empty],[empty],[empty]
+SAP Business ByDesign,[empty],[empty],[empty]
+Sciforma,[empty],<ref name="sciforma" />,[empty]
+Scoro,[empty],[empty],[empty]
+Severa,[empty],[empty],[empty]
+Smartsheet,[empty],[empty],[empty]
+Streamtime Software,[empty],[empty],[empty]
+Spider Project,[empty],[empty],[empty]
+TACTIC,[empty],[empty],[empty]
+Talygen,[empty],[empty],[empty]
+TaskJuggler,[empty],[empty],[empty]
+Teamcenter,[empty],[empty],[empty]
+TeamDynamixHE,[empty],[empty],[empty]
+TeamLab,[empty],[empty],[empty]
+Teamwork.com,[empty],[empty],[empty]
+The Bug Genie,[empty],[empty],[empty]
+Tom's Planner,[empty],[empty],[empty]
+Trac,[empty],[empty],[empty]
+TrackerSuite.Net,[empty],[empty],[empty]
+Traction TeamPage,[empty],[empty],[empty]
+Trello,[empty],[empty],[empty]
+Triskell,[empty],[empty],[empty]
+Tuleap,[empty],[empty],[empty]
+Twproject,<ref name="twprojectcostmanagement"/>,[empty],[empty]
+UniPhi,[empty],[empty],[empty]
+VPMi,[empty],[empty],[empty]
+web2project,[empty],<ref name="web2project" />,[empty]
+Workamajig,[empty],[empty],[empty]
+Workfront,[empty],[empty],[empty]
+WorkPLAN Enterprise,[empty],[empty],[empty]
+workspace.com,[empty],[empty],[empty]
+Wrike,[empty],[empty],[empty]
 Zoho Projects,<ref name="zoho" />,<ref name="zoho" />,<ref name="zoho" />

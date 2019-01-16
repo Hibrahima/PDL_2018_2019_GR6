@@ -1,5 +1,5 @@
-Kernel name,,,,,,,,,,,,,CMTP,HIDP,HCRP,CAPI,PPP
-FreeBSD kernel,,,,,,,,,,,,,,,,,
-Linux,,,,,,,,,,,,,,,,,
-macOS XNU Kernel,,,,,,,,,,,,,,,,,
+Kernel name,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],CMTP,HIDP,HCRP,CAPI,PPP
+FreeBSD kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linux,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+macOS XNU Kernel,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Kernel name,ACL,SCO,LMP,HCI,L2CAP,BNEP,RFComm.,SDP,TCP,AVTCP,AVDTP,OBEX,CMTP,HIDP,HCRP,CAPI,PPP

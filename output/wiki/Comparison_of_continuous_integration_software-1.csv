@@ -1,24 +1,25 @@
 Name,Platform,License,Builders: Windows,Builders: Java,Builders: other,Notification,Integration  IDEs,Integration  other
-Abstruse CI,Cross-Platform  Self-Hosted,Proprietary  MIT,,,,,,
-AnthillPro,Cross-platform,,,,,Email  XMPP  RSS  Systray,,
-Apache Continuum,JDK  web container,,,,</ref>}},Mail  XMPP and Google Talk  MSN  IRC  report deployment with wagon,,
-Apache Gump,Python,,,,,Email,,
-AppVeyor,Hosted,,,,,Email  HipChat  Slack  Catlight,,
-Bamboo,Web container,,</ref> NAnt <ref></ref> Visual Studio<ref></ref>}},</ref> Maven 1-2-3<ref name="confluence.atlassian.com"></ref>}},</ref> Phing <ref></ref> Grunt  Grails<ref></ref>}},XMPP  Google Talk  Email  RSS  Remote API  HipChat,,
-Buddy,Cross-platform,,,,,Desktop  Email  Slack  SMS,,
-Buildbot,Python,,,,,Email  Web  GUI  IRC,,
-BuildMaster,Cross-platform,,,,,Email  custom,,
-CABIE,LAMP,,,,,Web,,
-CircleCI,Hosted,,,</ref>}},<ref></ref>,Email  Web<ref></ref>,,
-CruiseControl,Cross-platform,,,,,Email  CCTray,,
-CruiseControl.NET,Cross-platform,,,,,Email  CCTray  RSS,,
-Drone,Cross-platform,,,</ref>}},</ref>  Java  Node.js  Python  Go  Elixir  Scala<ref></ref>}},WeChat  Matrix  Discord  Email  GTalk  Telegram  Facebook  Line  Gitter  HipChat  Slack<ref></ref>,,</ref>  Bitbucket  Gitlab  Gitea  Gogs  Coding}}
-GitLab,Cross-Platform  Self-Hosted,Proprietary  MIT,</ref>}},</ref>  Gradle<ref></ref>}},</ref>}},{{Email  Web  Slack and others<ref></ref>}},</ref>}},
-GoCD,Cross-platform,,,,,Email  hipchat  Slack  Gerrit  Gitter  Riemann etc,,
-Jenkins-Hudson,Web container,,,,,Android  Email  Google Calendar  IRC  XMPP  RSS  Twitter  Slack  Catlight  CCMenu  CCTray,,
-OpenMake Software Meister,Cross-platform,,,,,Email  XMPP  RSS  Systray,,
-Semaphore (software),Hosted,,,,,Email  Campfire  HipChat  Slack  Flowdock  Webhooks  Remote API,,
-Travis CI,Hosted,,,</ref>}},,Email  Campfire  HipChat  IRC  Slack  Catlight  CCMenu  CCTray,,
-TeamCity,Web container,,,,</ref> Xcode <ref></ref> Rake  FxCop}},Email  XMPP  RSS  IDE  SysTray  Catlight,,
-Team Foundation Server  Visual Studio Team Services (VSTS),Cross-platform,Proprietary  MIT,,,,Email  SOAP  Catlight,,
-Vexor,Hosted,,,,,Email  HipChat  Slack,,
+Abstruse CI,Cross-Platform  Self-Hosted,Proprietary  MIT,[empty],[empty],[empty],[empty],[empty],[empty]
+AnthillPro,Cross-platform,[empty],[empty],[empty],[empty],Email  XMPP  RSS  Systray,[empty],[empty]
+Apache Continuum,JDK  web container,[empty],[empty],[empty],</ref>}},Mail  XMPP and Google Talk  MSN  IRC  report deployment with wagon,[empty],[empty]
+Apache Gump,Python,[empty],[empty],[empty],[empty],Email,[empty],[empty]
+AppVeyor,Hosted,[empty],[empty],[empty],[empty],Email  HipChat  Slack  Catlight,[empty],[empty]
+Bamboo,Web container,[empty],</ref> NAnt <ref></ref> Visual Studio<ref></ref>}},</ref> Maven 1-2-3<ref name="confluence.atlassian.com"></ref>}},</ref> Phing <ref></ref> Grunt  Grails<ref></ref>}},XMPP  Google Talk  Email  RSS  Remote API  HipChat,[empty],[empty]
+Buddy,Cross-platform,[empty],[empty],[empty],[empty],Desktop  Email  Slack  SMS,[empty],[empty]
+Buildbot,Python,[empty],[empty],[empty],[empty],Email  Web  GUI  IRC,[empty],[empty]
+BuildMaster,Cross-platform,[empty],[empty],[empty],[empty],Email  custom,[empty],[empty]
+CABIE,LAMP,[empty],[empty],[empty],[empty],Web,[empty],[empty]
+CircleCI,Hosted,[empty],[empty],</ref>}},<ref></ref>,Email  Web<ref></ref>,[empty],[empty]
+CruiseControl,Cross-platform,[empty],[empty],[empty],[empty],Email  CCTray,[empty],[empty]
+CruiseControl.NET,Cross-platform,[empty],[empty],[empty],[empty],Email  CCTray  RSS,[empty],[empty]
+Drone,Cross-platform,[empty],[empty],</ref>}},</ref>  Java  Node.js  Python  Go  Elixir  Scala<ref></ref>}},WeChat  Matrix  Discord  Email  GTalk  Telegram  Facebook  Line  Gitter  HipChat  Slack<ref></ref>,[empty],</ref>  Bitbucket  Gitlab  Gitea  Gogs  Coding}}
+GitLab,Cross-Platform  Self-Hosted,Proprietary  MIT,</ref>}},</ref>  Gradle<ref></ref>}},</ref>}},{{Email  Web  Slack and others<ref></ref>}},</ref>}},[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added]
+GoCD,Cross-platform,[empty],[empty],[empty],[empty],Email  hipchat  Slack  Gerrit  Gitter  Riemann etc,[empty],[empty]
+Jenkins-Hudson,Web container,[empty],[empty],[empty],[empty],Android  Email  Google Calendar  IRC  XMPP  RSS  Twitter  Slack  Catlight  CCMenu  CCTray,[empty],[empty]
+OpenMake Software Meister,Cross-platform,[empty],[empty],[empty],[empty],Email  XMPP  RSS  Systray,[empty],[empty]
+Semaphore (software),Hosted,[empty],[empty],[empty],[empty],Email  Campfire  HipChat  Slack  Flowdock  Webhooks  Remote API,[empty],[empty]
+Travis CI,Hosted,[empty],[empty],</ref>}},[empty],Email  Campfire  HipChat  IRC  Slack  Catlight  CCMenu  CCTray,[empty],[empty]
+TeamCity,Web container,[empty],[empty],[empty],</ref> Xcode <ref></ref> Rake  FxCop}},Email  XMPP  RSS  IDE  SysTray  Catlight,[empty],[empty]
+Team Foundation Server  Visual Studio Team Services (VSTS),Cross-platform,Proprietary  MIT,[empty],[empty],[empty],Email  SOAP  Catlight,[empty],[empty]
+Vexor,Hosted,[empty],[empty],[empty],[empty],Email  HipChat  Slack,[empty],[empty]

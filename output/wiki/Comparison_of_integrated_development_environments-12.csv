@@ -1,4 +1,4 @@
 +,IDE,License,Windows,Linux,macOS,Developer,Latest stable release
-Microsoft Visual Studio,Yes,No,No,Microsoft,15.7 / August 1  2018
-Visual Studio Code<ref> The F# Software Foundation|website=fsharp.org|language=en|access-date=2018-08-07}}</ref>,source code(MIT License) - binary(Proprietary),Yes,Yes,Yes,Microsoft,1.25 / June  2018
-Rider<ref></ref>,Proprietary,Yes,Yes,Yes,JetBrains,2018.1 / April 19  2018
+Microsoft Visual Studio,Proprietary Community Edition: Freeware,Yes,No,No,Microsoft,15.7 / August 1  2018,[added]
+Visual Studio Code<ref> The F# Software Foundation|website=fsharp.org|language=en|access-date=2018-08-07}}</ref>,source code(MIT License) - binary(Proprietary),Yes,Yes,Yes,Microsoft,1.25 / June  2018,[added]
+Rider<ref></ref>,Proprietary,Yes,Yes,Yes,JetBrains,2018.1 / April 19  2018,[added]

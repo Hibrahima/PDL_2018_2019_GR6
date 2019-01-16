@@ -139,8 +139,10 @@ public class WikiConverter implements Converter {
 					for (int i = 0; i < currentTableTrs.size(); i++) {
 						Element currentTr = currentTableTrs.get(i);
 						Elements currentRowTds = currentTr.select("td");
+						Element currentTd;
 						for (int j = 0; j < currentRowTds.size(); j++) {
-							currentTdText = new StringBuilder(currentRowTds.get(j).text());
+							currentTd = currentRowTds.get(j);
+							currentTdText = new StringBuilder(currentTd.text());
 							currentTdText = processCurrentTDText(currentTdText);
 							if (j == currentRowTds.size() - 1)
 								line += currentTdText.toString();
@@ -148,6 +150,7 @@ public class WikiConverter implements Converter {
 								line += currentTdText.toString() + separator;
 						}
 						if (line != "") {
+							line = processLine(line);
 							data.add(line);
 							line = "";
 						}
@@ -165,13 +168,23 @@ public class WikiConverter implements Converter {
 		}
 
 	}
+	
+	private String processLine(String line) {
+		StringBuilder sb = new StringBuilder(line);
+		for (int i = 0; i < sb.length(); i++) {
+			if (sb.charAt(i) == '\n') 
+				sb.setCharAt(i, ' ');
+		}
+		
+		return sb.toString();
+	}
+
 
 	/**
 	 * {@inheritDoc}
 	 */
 	@Override
 	public StringBuilder processCurrentTDText(StringBuilder tdText) {
-		tdText = new StringBuilder(tdText);
 		for (int k = 0; k < tdText.length(); k++) {
 			if (tdText.charAt(k) == separator) {
 				if (k > 0) {
@@ -186,11 +199,11 @@ public class WikiConverter implements Converter {
 						}
 					}
 				}
-				if(k == tdText.length()-1)
-					tdText.setCharAt(k, separator);
+				if (k == tdText.length() - 1)
+					tdText.setCharAt(k, ' ');
 			}
 		}
-		
+
 		return tdText;
 	}
 

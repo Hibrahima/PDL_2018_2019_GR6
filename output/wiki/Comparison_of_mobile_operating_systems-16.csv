@@ -1,16 +1,17 @@
 +Security and privacy
-Feature,Android,iOS,Windows 10 Mobile,BlackBerry 10,Tizen,Sailfish OS,Ubuntu Touch
-Proxy server,<ref></ref> but only global  not per connection<ref></ref> and only works for the browser<ref></ref> 3rd party apps available<ref></ref>,,,,,<ref>Cannot enable proxy </ref>
-On-device encryption,<ref>Android Issue 3748: Add support for partition/block device encryption . Code.google.com (2009-09-01). Retrieved on 2012-07-03.</ref> but insecure on Qualcomm devices<ref>Android’s full-disk encryption just got much weaker—here’s why | Ars Technica </ref>,<ref></ref> (3rd party software may attempt brute-force attacks on password<ref name="Elcomsoft Phone Password Breaker">Recover passwords protecting iPhone/iPod and BlackBerry backups . Elcomsoft.com. Retrieved on 2012-07-03.</ref>),<ref></ref>,<ref></ref> (3rd party software may attempt brute-force attacks on password<ref name="Elcomsoft Phone Password Breaker"/>),,<ref>optional encryption of the device </ref>
-External storage encryption,<ref name="liliputing.com"/>,,Apps and data only<ref></ref>,<ref>How to secure your BlackBerry « BlackBerryInsight – BlackBerry News & Information . Blackberryinsight.com. Retrieved on 2012-07-03.</ref>,,
-Zero knowledge encryption<ref>Snowden: Dropbox is hostile to privacy  unlike 'zero knowledge' Spideroak | Technology | theguardian.com </ref>,<ref></ref> and shared with the American PRISM surveillance program.<ref name="mikko-prism"/>,, data stored on iCloud is accessible by Apple<ref></ref> and shared with the American PRISM surveillance program.<ref name="mikko-prism"></ref>,<ref>Microsoft: European cloud data may not be immune to the Patriot Act . Engadget.com (2011-06-30). Retrieved on 2012-07-03.</ref> and shared with the American PRISM surveillance program.<ref name="mikko-prism"/>,?,?,?
-Privacy of synchronization<ref>Are There Any Smartphones That Respect Privacy? – Slashdot . Yro.slashdot.org. Retrieved on 2012-07-03.</ref>,3rd party software like ownCloud<ref>Break away from free cloud storage providers by using ownCloud - TechRepublic </ref>,,, Contacts  Calendar and Mail can be kept private when using your own Exchange server or Office 365 own cloud instead of synchronizing with public cloud servers (that keeps data unencrypted)<ref>Windows Phone 7 is a good solution – Are There Any Smartphones That Respect Privacy? – Slashdot . Yro.slashdot.org. Retrieved on 2012-07-03.</ref> for Photos and Office docs can be kept private when using your own Office 365 cloud or SharePoint <ref></ref> or synchronization of Phones can be disabled (by default).<ref></ref>,<ref>Want Privacy? Get your own BES – Are There Any Smartphones That Respect Privacy? – Slashdot . Yro.slashdot.org (2011-11-21). Retrieved on 2012-07-03.</ref>,?,?,?
-Sync to cloud communication encryption,<ref></ref>,<ref></ref>,<ref></ref>,<ref></ref>,?,?,?
-Wireless anti-tracking<ref>IEEE group recommends random MAC addresses for Wi-Fi security | CSO Online </ref>,3rd party software<ref>Protect Your Privacy on Your Mobile Device with Pry-Fi - xda-developersxda-developers </ref>,<ref>iOS 8 to stymie trackers and marketers with MAC address randomization | Ars Technica </ref>,<ref>Use a random hardware address in Windows 10 Mobile</ref>,,,?
-Remote device location tracking,<ref></ref>,<ref name="find-my-iphone"></ref>,<ref name="downloadsquad.switched.com"></ref>,,?,?
-Remote device locking and/or data wipe,<ref></ref>,<ref name="find-my-iphone"/>,<ref name="downloadsquad.switched.com"/>,,?,?
-End-to-end encrypted push notifications,<ref name="Android Cloud To Device Messaging" />,<ref></ref>,<ref>How to: Send and Receive Raw Notifications for Windows Phone . Msdn.microsoft.com (2012-03-22). Retrieved on 2012-07-03.</ref>,?,?,?
-SSH Client,,<ref>iSSH – Zingersoft . Zinger-soft.com. Retrieved on 2012-07-03.</ref><ref>Instant Cocoa – pTerm . Instantcocoa.com (2011-03-31). Retrieved on 2012-07-03.</ref>,<ref></ref>,,?,
-VPN,<ref>Wallen  Jack. (2011-01-21) Connect to a PPTP VPN from your Android phone . TechRepublic. Retrieved on 2012-07-03.</ref>,<ref>iOS: Setting up VPN . Support.apple.com (2011-10-26). Retrieved on 2012-07-03.</ref>,<ref name="blogs.windows.com"/>,<ref></ref>,?,
-OpenVPN,No  but possible with 3rd party firmware<ref></ref>,<ref>Setup a VPN on Your iPhone With OpenVPN and Linux . Retrieved on 2015-04-10.</ref>,,,?,
-WPA PEAP,<ref></ref>,<ref></ref>,<ref></ref>,Yes,?,<ref>WPA-802.1X (enterprise) +Others GUI wifi support needed + workaround - together.jolla.com </ref>
+Feature
+Proxy server
+On-device encryption
+External storage encryption
+Zero knowledge encryption<ref>Snowden: Dropbox is hostile to privacy  unlike 'zero knowledge' Spideroak | Technology | theguardian.com </ref>
+Privacy of synchronization<ref>Are There Any Smartphones That Respect Privacy? – Slashdot . Yro.slashdot.org. Retrieved on 2012-07-03.</ref>
+Sync to cloud communication encryption
+Wireless anti-tracking<ref>IEEE group recommends random MAC addresses for Wi-Fi security | CSO Online </ref>
+Remote device location tracking
+Remote device locking and/or data wipe
+End-to-end encrypted push notifications
+SSH Client
+VPN
+OpenVPN
+WPA PEAP
+[added]

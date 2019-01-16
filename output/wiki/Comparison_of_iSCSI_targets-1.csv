@@ -1,25 +1,25 @@
-Function,FalconStor,FreeNAS,Openfiler
-Continuous Data Protection (CDP),,,,,
-Snapshot,,,,,
-Mirroring and Replication,,,,,
-Thin Provisioning,,,,,
-I/O caching,,,,,
-Challenge Handshake Authentication Protocol (CHAP),,,,,
-Multi-user mutual CHAP authorization,,,,,
-IPsec tunnelling,,,,,
-Software RAID,,,,,
-Virtual Optical Drive,,,,,
-Virtual tape library,,,,,
-Microsoft Management Console support,,,,,
-PerfMon support,,,,,
-High availability support,,,,
-VHD support,,-CHAP,,,
-Dynamically expanding file support,,,,,
-Virtual Burner support,,,,,
-EventViewer support,,,,,
-MPIO,,,,,
-Windows Volume Snapshot Service,,,,,
-VMware integration toolkit,,,,,
-Remote management,,,,,
-Unlimited Network Interface Controller Support,,,,,(Old v:1)
-Storage unlimited,64 TB,,,4/8/16 (more need additional license),
+Function,FalconStor,FreeNAS,Microsoft Windows Storage Server<ref> </ref>,Open-E <ref> </ref>,Openfiler
+Continuous Data Protection (CDP),[empty],[empty],[empty],[empty],[empty]
+Snapshot,[empty],[empty],[empty],[empty],[empty]
+Mirroring and Replication,[empty],[empty],[empty],[empty],[empty]
+Thin Provisioning,[empty],[empty],[empty],[empty],[empty]
+I/O caching,[empty],[empty],[empty],[empty],[empty]
+Challenge Handshake Authentication Protocol (CHAP),[empty],[empty],[empty],[empty],[empty]
+Multi-user mutual CHAP authorization,[empty],[empty],[empty],[empty],[empty]
+IPsec tunnelling,[empty],[empty],[empty],[empty],[empty]
+Software RAID,[empty],[empty],[empty],[empty],[empty]
+Virtual Optical Drive,[empty],[empty],[empty],[empty],[empty]
+Virtual tape library,[empty],[empty],[empty],[empty],[empty]
+Microsoft Management Console support,[empty],[empty],[empty],[empty],[empty]
+PerfMon support,[empty],[empty],[empty],[empty],[empty]
+High availability support,[empty],[empty],[empty],, but unstable <ref> </ref>,[empty]
+VHD support,[empty],-CHAP,[empty],[empty],[empty]
+Dynamically expanding file support,[empty],[empty],[empty],[empty],[empty]
+Virtual Burner support,[empty],[empty],[empty],[empty],[empty]
+EventViewer support,[empty],[empty],[empty],[empty],[empty]
+MPIO,[empty],[empty],[empty],[empty],[empty]
+Windows Volume Snapshot Service,[empty],[empty],[empty],[empty],[empty]
+VMware integration toolkit,[empty],[empty],[empty],[empty],[empty]
+Remote management,[empty],[empty],[empty],[empty],[empty]
+Unlimited Network Interface Controller Support,[empty],[empty],[empty],[empty],(Old v:1)
+Storage unlimited,64 TB,[empty],[empty],4/8/16 (more need additional license),[empty]

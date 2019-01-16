@@ -1,5 +1,5 @@
 IDE,Developer,License,Windows,Linux,macOS,Other platforms,Debugger,GUI builder
-Dolphin Smalltalk,Object Arts,,,,,,,
-Pharo,INRIA,,,,,various,,
-Squeak,squeak.org,,,,,various,,
-VisualWorks,Cincom,,,,,various,,
+Dolphin Smalltalk,Object Arts,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pharo,INRIA,[empty],[empty],[empty],[empty],various,[empty],[empty]
+Squeak,squeak.org,[empty],[empty],[empty],[empty],various,[empty],[empty]
+VisualWorks,Cincom,[empty],[empty],[empty],[empty],various,[empty],[empty]

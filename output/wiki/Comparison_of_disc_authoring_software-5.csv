@@ -1,13 +1,13 @@
 Application,bin/cue,Apple disk image,img,ISO image,Nero CD image,Audio file/cue
-Alcohol 120%,,,,,,
-CDBurnerXP,<ref name="disk-image-format-support-convert">Unsupported format can be converted to a supported one.</ref>,,,,<ref name="disk-image-format-support-convert" />,
-cdrtools,,,,,,
-DeepBurner,,,,,,
-ExpressBurn,,,,,,
-ImgBurn,,,,,,
-InfraRecorder,,,,,,
-K3b,,,,,,
-Nero Burning ROM,,,,,,
-UltraISO,,,,,,
-X-CD-Roast,,,,,,
+Alcohol 120%,[empty],[empty],[empty],[empty],[empty],[empty]
+CDBurnerXP,<ref name="disk-image-format-support-convert">Unsupported format can be converted to a supported one.</ref>,[empty],[empty],[empty],<ref name="disk-image-format-support-convert" />,[empty]
+cdrtools,[empty],[empty],[empty],[empty],[empty],[empty]
+DeepBurner,[empty],[empty],[empty],[empty],[empty],[empty]
+ExpressBurn,[empty],[empty],[empty],[empty],[empty],[empty]
+ImgBurn,[empty],[empty],[empty],[empty],[empty],[empty]
+InfraRecorder,[empty],[empty],[empty],[empty],[empty],[empty]
+K3b,[empty],[empty],[empty],[empty],[empty],[empty]
+Nero Burning ROM,[empty],[empty],[empty],[empty],[empty],[empty]
+UltraISO,[empty],[empty],[empty],[empty],[empty],[empty]
+X-CD-Roast,[empty],[empty],[empty],[empty],[empty],[empty]
 Application,bin/cue,Apple disk image,img,ISO image,Nero CD image,Audio file/cue

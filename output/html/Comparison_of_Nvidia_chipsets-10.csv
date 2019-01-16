@@ -1,3 +1,4 @@
 Model,Code Name,Release Date,Processors Supported,Fabrication process (nm),FSB/HT Frequency (MHz),Memory,PCI-Express,SLI,PCI,USB,PATA,SATA,LAN,Sound,Features,Notes
-GeForce 9100M,,2008,Core2 Mobile  Celeron Mobile,,1066 MHz,DDR3-1066 dual channel,2.0 20 lanes,No,5 Ports,12 Ports Rev 2.0,No,4 Ports 3.0Gbit/s,1000 Mbit/s,HDA,Onboard GeForce 9100M,
-GeForce 9400M,,2008,Core2 Mobile  Celeron Mobile,,1066 MHz,DDR3-1066 dual channel,2.0 20 lanes,x8+x8,5 Ports,12 Ports Rev 2.0,No,6 Ports 3.0Gbit/s,1000 Mbit/s,HDA,Onboard GeForce 9400M,
+GeForce 9100M,MCP77MH  MCP79MH,2008,Core2 Mobile  Celeron Mobile,65nm,1066 MHz,DDR3-1066 dual channel,2.0 20 lanes,No,5 Ports,12 Ports Rev 2.0,No,4 Ports 3.0Gbit/s,1000 Mbit/s,HDA,Onboard GeForce 9100M,[empty]
+GeForce 9400M,MCP79MX,2008,Core2 Mobile  Celeron Mobile,65nm,1066 MHz,DDR3-1066 dual channel,2.0 20 lanes,x8+x8,5 Ports,12 Ports Rev 2.0,No,6 Ports 3.0Gbit/s,1000 Mbit/s,HDA,Onboard GeForce 9400M,[empty]
+GeForce 320M,MCP89,2010,Core2 Mobile,40nm,1066 MHz,DDR3-1066 dual channel,2.0,[empty],[empty],[empty],No,6.0Gbit/s,1000 Mbit/s,HDA,Onboard GeForce 320M,Used in Apple MacBook Pro and MacBook Air models in 2010

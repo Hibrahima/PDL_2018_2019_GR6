@@ -1,32 +1,33 @@
-,Windows,macOS,Linux,BSD,Unix,DOS,Android,SaaS
-ADMB,,,,,,,,
-Analytica,,,,,,,,
-Ch,,,,,,,,
-Dyalog APL,,,,,,<ref name="once">Once was supported</ref>,,
-DADiSP,,,,,,,,
-Euler Math Toolbox,,,,,,,,
-FlexPro,,,,,,,,
-FreeMat,,,,,,,,
-GAUSS,,,,,,,,
-GNU Data Language,,,,,,,,
-GNU MCSim,,,,,,,,
-GNU Octave,,,,,,,,
-IGOR Pro,,,,,,,,
-Julia,,,,,,,,
-LabVIEW,,,,,,,,
-Maple,,,,,,,,
-Mathematica,,,,,,,,
-MATLAB,,,,,,,,
-MLAB,,,,,,,,
-Origin,,,,,,,,
-Perl Data Language,,,,,,,,
-R,,,,,,,,
-SageMath,,,,,,,,
-SAS,,,,,,,,
-SequenceL,,,,,,,,
-S-Lang,,,,,,,,
-Scilab,,,,,,,,
-Sysquake,,,,,,,,
-TK Solver,,,,,,,,
-The Unscrambler,,,,,,,,
-VisSim,,,,,,,,
+[empty],Windows,macOS,Linux,BSD,Unix,DOS,Android,SaaS
+ADMB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Analytica,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Ch,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Dyalog APL,[empty],[empty],[empty],[empty],[empty],<ref name="once">Once was supported</ref>,[empty],[empty]
+DADiSP,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Euler Math Toolbox,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FlexPro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FreeMat,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GAUSS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU Data Language,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU MCSim,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GNU Octave,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+IGOR Pro,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Julia,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LabVIEW,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Maple,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mathematica,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MATLAB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MLAB,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Origin,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Perl Data Language,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+R,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SageMath,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SAS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SequenceL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+S-Lang,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Scilab,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sysquake,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TK Solver,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+The Unscrambler,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+VisSim,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added]

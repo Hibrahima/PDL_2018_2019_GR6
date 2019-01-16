@@ -1,56 +1,57 @@
 Client,Windows,macOS,Linux,BSD,Unix,AmigaOS,ChromeOS
-AbsoluteTelnet,,,,,,,
-ALFTP,,,,,,,
-Beyond Compare,,,,,,,
-Classic FTP,,,,,,,
-Codeanywhere (webbased),,,,,,,
-Commander One,,,,,,,
-CoreFTP,,,,,,,
-CrossFTP,,,,,,,
-cURL (CL),,,,,,,
-CuteFTP,,,,,,,
-Cyberduck,,,,,,,
-Directory Opus,,,,,,,
-ExpanDrive,,,,,,,
-FAR Manager,,,,,,,
-Fetch,,,,,,,
-FileZilla,,,,,,,
-FireFTP,,,,,,,
-FlashFXP,,,,,,,
-Fling FTP,,,,,,,
-ForkLift,,,,,,,
+AbsoluteTelnet,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ALFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Beyond Compare,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Classic FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Codeanywhere (webbased),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Commander One,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CoreFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CrossFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+cURL (CL),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+CuteFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Cyberduck,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Directory Opus,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ExpanDrive,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FAR Manager,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fetch,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FileZilla,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FireFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FlashFXP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fling FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+ForkLift,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Client,Windows,Mac OS X,Linux,BSD,Unix,AmigaOS,ChromeOS
-FTP Client,,,,,,,
-FTP Commander,,,,,,,
-FTP Explorer,,,,,,,
-FTP Voyager,,,,,,,
-Fugu,,,,,,,
-gFTP,,,,,,,
-Interarchy,,,,,,,
-LeechFTP,,,,,,,
-lftp (CL),(cygwin),,,,,,
-Macfusion,,,,,,,
-mimiFTP,,,,,,,
-Monsta FTP,,,,,,,
-Mosaic,,,,,,,
-NcFTP (CL),,,,,,,
-net2ftp (web-based),,,,,,,
-pbFtpClient,,,,,,,
-PSFTP (PuTTY) (CL),,,,,,,
-RaiDrive,,,,,,,
-Robo-FTP,,,,,,,
-Secure FTP,,,,,,,
-SmartFTP,,,,,,,
-Steed,,,,,,,
-Sysax FTP Automation,,,,,,,
-Total Commander,,,,,,,
-Transmit,,,,,,,
-WebDrive,,,,,,,
-WinSCP,,,,,,,
-WISE-FTP,,,,,,,
-WS_FTP,,,,,,,
-Xftp,,,,,,,
-Yummy FTP,,,,,,,
-sFTP Client,,,,,,,
-Desktop.Tech,,,,,,,
+FTP Client,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FTP Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+FTP Explorer,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added]
+FTP Voyager,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Fugu,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+gFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Interarchy,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LeechFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+lftp (CL),(cygwin),[empty],[empty],[empty],[empty],[empty],[empty]
+Macfusion,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mimiFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Monsta FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mosaic,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NcFTP (CL),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+net2ftp (web-based),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+pbFtpClient,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+PSFTP (PuTTY) (CL),[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RaiDrive,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Robo-FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Secure FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SmartFTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Steed,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sysax FTP Automation,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Total Commander,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Transmit,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WebDrive,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WinSCP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WISE-FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+WS_FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Xftp,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Yummy FTP,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+sFTP Client,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Desktop.Tech,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
 Client,Windows,Mac OS X,Linux,BSD,Unix,AmigaOS,ChromeOS

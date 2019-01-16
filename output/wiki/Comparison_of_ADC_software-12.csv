@@ -1,10 +1,10 @@
 Other software,Encryption,IPv6,Plugin  extendable,Hash algorithms,ADC support,Other
-ADCCore,,,,Tiger tree hash,TIGR  ADCS,
-DCBouncer,,,,Tiger tree hash,Any clients  hubs,
-DC-Hublink,,,,Tiger tree hash,TIGR,
-DCWatch,,,Java  Lua,Tiger tree hash,TIGR  ADCS,
-Embla,,,,Tiger tree hash,TIGR,
-FlowLib,,,,Tiger tree hash,TIGR,
-NetChatLink,,,,Tiger tree hash,TIGR,
-Announcer Bot,,,,,ADCS  OSNR,only Luadch supports OSNR
+ADCCore,[empty],[empty],[empty],Tiger tree hash,TIGR  ADCS,[empty]
+DCBouncer,[empty],[empty],[empty],Tiger tree hash,Any clients  hubs,[empty]
+DC-Hublink,[empty],[empty],[empty],Tiger tree hash,TIGR,[empty]
+DCWatch,[empty],[empty],Java  Lua,Tiger tree hash,TIGR  ADCS,[empty]
+Embla,[empty],[empty],[empty],Tiger tree hash,TIGR,[empty]
+FlowLib,[empty],[empty],[empty],Tiger tree hash,TIGR,[empty]
+NetChatLink,[empty],[empty],[empty],Tiger tree hash,TIGR,[empty]
+Announcer Bot,[empty],[empty],[empty],[empty],ADCS  OSNR,only Luadch supports OSNR
 Other software,Encryption,IPv6,Plugin  extendable,Hash algorithms,ADC support,Other

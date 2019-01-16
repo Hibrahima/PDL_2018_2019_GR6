@@ -1,18 +1,18 @@
 IDE,License,Written in Java only,Windows,Linux,macOS,Other platforms,GUI builder
-BlueJ,,,,,,Solaris,
-DrJava,,,,,,Solaris,
-Eclipse JDT,,<ref></ref>,,,,FreeBSD  JVM  Solaris,
-Geany,,,,,,FreeBSD  AIX  OpenBSD  Solaris  other Unix,
-Greenfoot,,,,,,Solaris,
-IntelliJ IDEA,, Ultimate Edition: proprietary,,,,,FreeBSD  OpenBSD  Solaris,
-JBuilder,,,,,,Solaris,
-JCreator,,,,,,,
-JDeveloper,(freeware),,,,,generic JVM,
-jGRASP,(freeware),,,,,,
-MyEclipse,,,,,,FreeBSD  JVM  Solaris,
-NetBeans,, GPL2,,,,,OpenBSD  Solaris,
-Rational Application Developer,,,,,,AIX  Solaris,
-Servoy,,,,,,Solaris,
-SlickEdit,,,,,,Solaris  Solaris SPARC  AIX  HP-UX,
-Understand,,,,,,Solaris,
-Xcode (Apple),,,,,,,
+BlueJ,[empty],[empty],[empty],[empty],[empty],Solaris,[empty]
+DrJava,[empty],[empty],[empty],[empty],[empty],Solaris,[empty]
+Eclipse JDT,[empty],<ref></ref>,[empty],[empty],[empty],FreeBSD  JVM  Solaris,[empty]
+Geany,[empty],[empty],[empty],[empty],[empty],FreeBSD  AIX  OpenBSD  Solaris  other Unix,[empty]
+Greenfoot,[empty],[empty],[empty],[empty],[empty],Solaris,[empty]
+IntelliJ IDEA,, Ultimate Edition: proprietary,[empty],[empty],[empty],[empty],FreeBSD  OpenBSD  Solaris,[empty]
+JBuilder,[empty],[empty],[empty],[empty],[empty],Solaris,[empty]
+JCreator,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JDeveloper,(freeware),[empty],[empty],[empty],[empty],generic JVM,[empty]
+jGRASP,(freeware),[empty],[empty],[empty],[empty],[empty],[empty]
+MyEclipse,[empty],[empty],[empty],[empty],[empty],FreeBSD  JVM  Solaris,[empty]
+NetBeans,, GPL2,[empty],[empty],[empty],[empty],OpenBSD  Solaris,[empty]
+Rational Application Developer,[empty],[empty],[empty],[empty],[empty],AIX  Solaris,[empty]
+Servoy,[empty],[empty],[empty],[empty],[empty],Solaris,[empty]
+SlickEdit,[empty],[empty],[empty],[empty],[empty],Solaris  Solaris SPARC  AIX  HP-UX,[empty]
+Understand,[empty],[empty],[empty],[empty],[empty],Solaris,[empty]
+Xcode (Apple),[empty],[empty],[empty],[empty],[empty],[empty],[empty]

@@ -1,22 +1,22 @@
 Data types,Java,C#
 Arbitrary-size decimals,<ref></ref>,<ref></ref>
-Arbitrary-size integers,,<ref name="microsoft1"></ref>
-Arrays,<ref></ref>
-Boolean type,
-Character,<ref></ref>
-Complex numbers,<ref></ref>
+Arbitrary-size integers,[empty],<ref name="microsoft1"></ref>
+Arrays,<ref></ref>,[added]
+Boolean type,[empty],[added]
+Character,<ref></ref>,[added]
+Complex numbers,<ref></ref>,[added]
 Date/time,; reference type<ref></ref>,; value type
 Enumerated types,; reference type,; scalar
 High-precision decimal number,; but see 'Arbitrary-size decimals' above,</ref>}}
-IEEE 754 binary32 floating point number,
-IEEE 754 binary64 floating point number,
-Lifted (nullable) types,; but wrapper types
+IEEE 754 binary32 floating point number,[empty],[added]
+IEEE 754 binary64 floating point number,[empty],[added]
+Lifted (nullable) types,; but wrapper types,[added]
 Pointers,;<ref name="oracle.com"></ref> only method references<ref name="oracle1"></ref>,<ref>Only available in unsafe mode or through IntPtr managed type</ref>
-Reference types,
+Reference types,[empty],[added]
 Signed integers,; 8  16  32  64 bits,; 8  16  32  64 bits
-Strings,
-Type annotations,
+Strings,[empty],[added]
+Type annotations,[empty],[added]
 Single-root (unified) type system,; but wrapper types,<ref>The type system is unified by default  unless the compiler is switched into unsafe mode where raw pointers are available as a datatype. Pointers are not derived from object nor does it have implicit conversions to/from the object data type</ref>
 Tuples,; limited 3rd party available.<ref></ref>,<ref name="Tuple Class in C#"></ref>
 Unsigned integers,; but some method support.<ref></ref>,; 8  16  32  64 bits
-Value types,; only primitive types
+Value types,; only primitive types,[added]

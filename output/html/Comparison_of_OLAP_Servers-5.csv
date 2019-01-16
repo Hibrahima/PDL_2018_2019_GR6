@@ -7,7 +7,7 @@ IBM Cognos TM1,Yes,Yes,Yes,?,?,?,?,?,?
 icCube,Yes[31],Yes[32],Yes,Yes,?,Yes,Yes,?,?
 Infor BI OLAP Server,Yes,?,Yes,?,Yes,?,?,?,?
 Jedox OLAP Server,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,?
-Kyligence,Yes,No,No,No,Yes,Yes,,Yes,
+Kyligence,Yes,No,Yes,No,Yes,Yes,[empty],Yes,[empty]
 Kyvos BI on Big Data,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No
 Microsoft Analysis Services,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 MicroStrategy Intelligence Server,Yes,?,?,?,?,?,?,?,?

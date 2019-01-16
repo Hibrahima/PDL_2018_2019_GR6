@@ -1,11 +1,11 @@
 +Comparison of early HTML editors,Program,Author or Based On,Version,System,HTML Compliant,Display,Forms,Tables,Integrated Browser,Cost
-asWedit,Andrzej Stochniol,1.1,Unix,HTML 3,source,,,,freeware
-HoTMetaL,SoftQuad,1.0+,Unix Windows,HTML 1,WYSIWYG,,,,freeware
-HoTMetaL pro,SoftQuad,1,Unix  Windows  Macintosh,HTML 2,WYSIWYG,,,,commercial
-Live Markup,MediaTech,16b4a,Windows,HTML 2,WYSIWYG,,,,commercial
-Symposia,GRIF,0.8,Unix,HTML 2,WYSIWYG,,,,beta
-Tkhtml,Liem Bahenmann,2.3,Unix,,source,,,,freeware
-Phoenix,University of Chicago,0.1.7,Unix,,WYSIWYG,,,,freeware
-WebPages,DART Software,1.7,NextStep,HTML 1,WYSIWYG,,,,commercial
-WebMagic,SiliconGraphics,1,Irix,HTML 2,WYSIWYG,,,,commercial
-Webtor,Jochen Schales,.91prealpha2,Macintosh,HTML2,WYSIWYG,,,,freeware
+asWedit,Andrzej Stochniol,1.1,Unix,HTML 3,source,[empty],[empty],[empty],freeware,[added]
+HoTMetaL,SoftQuad,1.0+,Unix Windows,HTML 1,WYSIWYG,[empty],[empty],[empty],freeware,[added]
+HoTMetaL pro,SoftQuad,1,Unix  Windows  Macintosh,HTML 2,WYSIWYG,[empty],[empty],[empty],commercial,[added]
+Live Markup,MediaTech,16b4a,Windows,HTML 2,WYSIWYG,[empty],[empty],[empty],commercial,[added]
+Symposia,GRIF,0.8,Unix,HTML 2,WYSIWYG,[empty],[empty],[empty],beta,[added]
+Tkhtml,Liem Bahenmann,2.3,Unix,[empty],source,[empty],[empty],[empty],freeware,[added]
+Phoenix,University of Chicago,0.1.7,Unix,[empty],WYSIWYG,[empty],[empty],[empty],freeware,[added]
+WebPages,DART Software,1.7,NextStep,HTML 1,WYSIWYG,[empty],[empty],[empty],commercial,[added]
+WebMagic,SiliconGraphics,1,Irix,HTML 2,WYSIWYG,[empty],[empty],[empty],commercial,[added]
+Webtor,Jochen Schales,.91prealpha2,Macintosh,HTML2,WYSIWYG,[empty],[empty],[empty],freeware,[added]

@@ -1,31 +1,31 @@
 Reader,Plain text,PDF,ePub,HTML,Mobi- Pocket,Fiction- Book (fb2),DjVu,Broadband eBook (BBeB)<ref group=h name=propr>Proprietary format</ref>,eReader<ref group=h name=propr/>,Kindle<ref group=h name=propr/>,WOLF<ref group=h name=propr/>,Tome Raider<ref group=h name=propr/>,Open eBook<ref group=h>Predecessor of ePUB</ref>,Comic Book,OpenXPS
-Amazon Kindle 1,,,,,,,,,,,,,,,
-Amazon Kindle 2  DX,,,,,,,,,,,,,,,
-Amazon Kindle 3,,,<ref group=h name=3part>Yes  if the Duokan alternate Kindle OS (third-party software add-on) is used.</ref>,,,,,,,,,,,,
-Amazon Kindle Fire,,,<ref group=h>By adding epub capable apps  such as Aldiko</ref>,,,,,,,,,,,,
-Android Devices,,,,,<ref group=h name=firm>Requires latest firmware</ref><ref></ref>,,<ref group=h name=firm/><ref></ref>,,<ref group=h name=firm/><ref></ref>,,,<ref group=h name=firm/><ref name="tomeraider.com"/>,<ref group=h name=firm/>,,
-Apple iOS Devices,,,,,<ref group=h name=firm/>,<ref group=h name=firm/>,<ref group=h name=firm/>,,<ref group=h name=firm/>,<ref group=h name=firm/>,,<ref group=h name=firm/>,<ref group=h name=firm/>,<ref group=h>With third party apps  such as CloudReader</ref>,
-Azbooka WISEreader,,,,,,,,,,,,,,,
-Barnes & Noble Nook,,,,,,,,,,,,,,,
-Barnes & Noble Nook Color,,,,,,,,,,,,,,,
-Bookeen Cybook Gen3  Opus,,,<ref group=h name=epmb>Versions support either ePUB or MobiPocket</ref>,,<ref group=h name=epmb/>,<ref group=h>Only ePUB version and with FW 2.0+</ref>,,,,,,,,,
-COOL-ER Classic,,,,,,,,,,,,,,,
-Linux Operating System,,,,,,<ref group=h>KDE's Okular supports fb2</ref>,,<ref group=h>Calibre supports lrf/lrx</ref>,,,,,,,
-Foxit eSlick,,,,,,,,,,,,,,,
-Hanlin e-Reader V3,,,,,,,,,,,,,,,
-Hanvon WISEreader,,,,,,,,,,,,,,,
-iRex iLiad,,,,,,,,,,,,,,,
-Iriver Story,,,,,,<ref group=h name=firm/>,<ref group=h name=firm/>,,,,,,,,
-Kobo eReader,,,,,,,,,,,,,,,
-Nokia N900,,,,,,,,,,,,,,,
-NUUTbook 2,,,,,,,,,,,,,,,
-OLPC XO  Sugar,,,,,,,,,,,,,,,
-Onyx Boox 60,,,,,,,,,,,,,,,
-Mac OS X,,,,,,,,,,,,,,,
-TrekStor eBook Reader Pyrus<ref></ref>,,,,,,,,,,,,,,,
-Windows,,,,,,<ref group=h>ICE Book Reader for Windows supports fb2</ref>,,,,<ref group=h>DRM-protected publications are supported as of Kindle for PC v1.3.0</ref>,,,,<ref group=h>Comic Book Reader for Windows</ref>,<ref group="h">XP or later  not on Windows 2000</ref>
-Pocketbook 301 Plus  302  360°,,,,,,,,,,,,,,,
-Pocketbook Aqua,,,,,,,,,,,,,,,
-Sony Reader,,,,,,,,,,,,,,,
-Viewsonic VEB612,,,,,,,,,,,,,,,
-Windows Phone 7,,,,,,,,,,,,,,,
+Amazon Kindle 1,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Amazon Kindle 2  DX,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Amazon Kindle 3,[empty],[empty],<ref group=h name=3part>Yes  if the Duokan alternate Kindle OS (third-party software add-on) is used.</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Amazon Kindle Fire,[empty],[empty],<ref group=h>By adding epub capable apps  such as Aldiko</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Android Devices,[empty],[empty],[empty],[empty],<ref group=h name=firm>Requires latest firmware</ref><ref></ref>,[empty],<ref group=h name=firm/><ref></ref>,[empty],<ref group=h name=firm/><ref></ref>,[empty],[empty],<ref group=h name=firm/><ref name="tomeraider.com"/>,<ref group=h name=firm/>,[empty],[empty]
+Apple iOS Devices,[empty],[empty],[empty],[empty],<ref group=h name=firm/>,<ref group=h name=firm/>,<ref group=h name=firm/>,[empty],<ref group=h name=firm/>,<ref group=h name=firm/>,[empty],<ref group=h name=firm/>,<ref group=h name=firm/>,<ref group=h>With third party apps  such as CloudReader</ref>,[empty]
+Azbooka WISEreader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Barnes & Noble Nook,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Barnes & Noble Nook Color,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Bookeen Cybook Gen3  Opus,[empty],[empty],<ref group=h name=epmb>Versions support either ePUB or MobiPocket</ref>,[empty],<ref group=h name=epmb/>,<ref group=h>Only ePUB version and with FW 2.0+</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+COOL-ER Classic,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Linux Operating System,[empty],[empty],[empty],[empty],[empty],<ref group=h>KDE's Okular supports fb2</ref>,[empty],<ref group=h>Calibre supports lrf/lrx</ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Foxit eSlick,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hanlin e-Reader V3,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Hanvon WISEreader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+iRex iLiad,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Iriver Story,[empty],[empty],[empty],[empty],[empty],<ref group=h name=firm/>,<ref group=h name=firm/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Kobo eReader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Nokia N900,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NUUTbook 2,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OLPC XO  Sugar,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Onyx Boox 60,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Mac OS X,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+TrekStor eBook Reader Pyrus<ref></ref>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Windows,[empty],[empty],[empty],[empty],[empty],<ref group=h>ICE Book Reader for Windows supports fb2</ref>,[empty],[empty],[empty],<ref group=h>DRM-protected publications are supported as of Kindle for PC v1.3.0</ref>,[empty],[empty],[empty],<ref group=h>Comic Book Reader for Windows</ref>,<ref group="h">XP or later  not on Windows 2000</ref>
+Pocketbook 301 Plus  302  360°,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Pocketbook Aqua,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Sony Reader,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Viewsonic VEB612,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Windows Phone 7,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]

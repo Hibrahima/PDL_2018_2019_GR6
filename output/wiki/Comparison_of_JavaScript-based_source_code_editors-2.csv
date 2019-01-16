@@ -1,26 +1,49 @@
 + List of source code editor features
-Feature,Ace,CodeMirror,Orion,CodePress,CodeTextArea,EditArea,Helene,markItUp!,MDK-Editor
-Implementation,,,,,,,,,
-Syntax highlight,,,,,,,PHP,,
-Syntax checking,,,,,,,,,
-Tab support,,,,,,,,,
-Indent  new line keeps level,,,,,,,,,
-Indent  syntax,,,,,,,,,
-Indent  selected block,,,,,,,,,
-Bracket matching,,,,}},,,,,matching bracket ([{<>}]) always highlighted}}
-XML matching tag highlight,,,,,,,,,
-Code folding,,<ref></ref>,<ref></ref>,,,,,,
-Code snippets,,,,,,,,,
-Code suggestion,,,through esprima content assist plugin,,,}},,,
-Toggle syntax highlight on/off,,,,,,,,N/A,
-Keyboard shortcuts,,,,,,,,,
-Line numbers,,,,,,,,,
-Search & replace,,,,,,,,,
-Spell checking,,,,,,,,,
-Toolbar,,,,,,,,,
-Visual styling,,,,,,,,,
-Undo/Redo,,,,,,,,,
-Multiple cursors / Block selection,,,,,,,,,
-IndentGuides,,,,,,,,,
-Inline widgets,,,,,,,,,
-Non US charset support,,,,,,,,,
+Feature
+Implementation
+[added]
+Syntax highlight
+[added]
+Syntax checking
+[added]
+Tab support
+[added]
+Indent  new line keeps level
+[added]
+Indent  syntax
+[added]
+Indent  selected block
+[added]
+Bracket matching
+[added]
+XML matching tag highlight
+[added]
+Code folding
+[added]
+Code snippets
+[added]
+Code suggestion
+[added]
+Toggle syntax highlight on/off
+[added]
+Keyboard shortcuts
+[added]
+Line numbers
+[added]
+Search & replace
+[added]
+Spell checking
+[added]
+Toolbar
+[added]
+Visual styling
+[added]
+Undo/Redo
+[added]
+Multiple cursors / Block selection
+[added]
+IndentGuides
+[added]
+Inline widgets
+[added]
+Non US charset support

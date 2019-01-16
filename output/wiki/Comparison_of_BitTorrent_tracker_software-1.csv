@@ -1,9 +1,9 @@
 Tracker,Programming Language,License,IPv4,IPv6,Operating System Support,Description
-MLDonkey<ref></ref>,OCaml,,,,Windows  OS X  Unix-like  Morph OS,Has a built-in tracker and announcement service
-MonoTorrent<ref>http://www.monotorrent.com</ref>,C#,,,,Windows  Mac OS  Unix-like,Uses Mono for cross-platform support (.NET)
-Opentracker<ref></ref>,C,,,(IPv4 and IPv6 have separate binaries and processes that do not share any information between them. If a client communicates to the tracker over IPv6  it will only receive IPv6 addresses in the response.),Unix-like (source code only),Uses libowfat <ref></ref> performs well even on embedded hardware. Only requirement is a POSIX compliant OS. Supports only a compact peer list.
-PeerTracker<ref>https://github.com/JonnyJD/peertracker</ref>,PHP,,,,Web application,Extremely lightweight and efficient BitTorrent tracker. Supports SQLite3  and MySQL for storage.
-μTorrent<ref></ref>,C++,,,,Windows  OS X  Linux  Android,Does not have a list of hosted torrents.
-qBittorrent<ref></ref>,C++,,,,Windows  OS X  Unix-like  OS/2,Lightweight. Supports DHT  PEX  announcements via UDP. Does not have a web interface or list of hosted torrents; it is not designed for secure or large-scale application.
-Vuze<ref>http://azureus.sourceforge.net/faq.php#17</ref>,Java,,,,Windows  Mac OS  Linux,Vuze (formerly Azureus) has a built in tracker.
-XBT Tracker<ref></ref><ref></ref>,C++,,,,Windows  Linux,Uses MySQL for data storage  lightweight tracker
+MLDonkey<ref></ref>,OCaml,[empty],[empty],[empty],Windows  OS X  Unix-like  Morph OS,Has a built-in tracker and announcement service
+MonoTorrent<ref>http://www.monotorrent.com</ref>,C#,[empty],[empty],[empty],Windows  Mac OS  Unix-like,Uses Mono for cross-platform support (.NET)
+Opentracker<ref></ref>,C,[empty],[empty],(IPv4 and IPv6 have separate binaries and processes that do not share any information between them. If a client communicates to the tracker over IPv6  it will only receive IPv6 addresses in the response.),Unix-like (source code only),Uses libowfat <ref></ref> performs well even on embedded hardware. Only requirement is a POSIX compliant OS. Supports only a compact peer list.
+PeerTracker<ref>https://github.com/JonnyJD/peertracker</ref>,PHP,[empty],[empty],[empty],Web application,Extremely lightweight and efficient BitTorrent tracker. Supports SQLite3  and MySQL for storage.
+μTorrent<ref></ref>,C++,[empty],[empty],[empty],Windows  OS X  Linux  Android,Does not have a list of hosted torrents.
+qBittorrent<ref></ref>,C++,[empty],[empty],[empty],Windows  OS X  Unix-like  OS/2,Lightweight. Supports DHT  PEX  announcements via UDP. Does not have a web interface or list of hosted torrents; it is not designed for secure or large-scale application.
+Vuze<ref>http://azureus.sourceforge.net/faq.php#17</ref>,Java,[empty],[empty],[empty],Windows  Mac OS  Linux,Vuze (formerly Azureus) has a built in tracker.
+XBT Tracker<ref></ref><ref></ref>,C++,[empty],[empty],[empty],Windows  Linux,Uses MySQL for data storage  lightweight tracker

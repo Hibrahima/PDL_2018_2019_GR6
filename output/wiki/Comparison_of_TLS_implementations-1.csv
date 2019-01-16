@@ -1,24 +1,26 @@
 Implementation,Developed by,Open source,Software license,Copyright owner,Written in,Latest stable version  release date,Origin
-BearSSL<ref name="bearssl"></ref>,Thomas Pornin,,,Thomas Pornin,C,0.6 beta,Canada
-Botan,Jack Lloyd,,,Jack Lloyd,C++,,US (Vermont)
-BoringSSL,Google,,,Eric Young  Tim Hudson  Sun  OpenSSL project  Google  and others,C  C++  Go  assembly,??,Australia/EU
-Bouncy Castle,The Legion of the Bouncy Castle Inc.,,,Legion of the Bouncy Castle Inc.,Java  C#,,Australia
-CryptoComply,SafeLogic,,and commercial license,SafeLogic,Java  C,Continuous,US
-cryptlib,Peter Gutmann,,and commercial license,Peter Gutmann,C,,NZ
-GnuTLS,GnuTLS project,,,Free Software Foundation,C,,EU (Greece and Sweden)
-Java Secure Socket Extension (JSSE),Oracle,,and commercial license,Oracle,Java,,US
-LibreSSL,OpenBSD Project,,,Eric Young  Tim Hudson  Sun  OpenSSL project  OpenBSD Project  and others,C  assembly,,Canada
-MatrixSSL<ref name=matrixssl>The features listed are for the closed source version</ref>,PeerSec Networks,,and commercial license,PeerSec Networks,C,,US
-mbed TLS (previously PolarSSL),ARM,,and commercial license,ARM Holdings,C,,EU (Netherlands)
-Network Security Services (NSS),Mozilla  AOL  Red Hat  Sun  Oracle  Google and others,,,NSS contributors,C  assembly,,US
-OpenSSL,OpenSSL project,,,Eric Young  Tim Hudson  Sun  OpenSSL project  and others,C  assembly,,Australia/EU
-RomSTL<ref name="RomSTL"></ref>,Allegro Software Development Corporation<ref name="ASDC"></ref>,,,Allegro Software Development Corporation<ref name="ASDC" />,C,6.20,US
-RSA BSAFE SSL-J,RSA Security,,,RSA Security,Java,6.2.4,Australia
-RSA BSAFE Micro-Edition Suite,RSA Security,,,RSA Security,C  assembly,4.1.6.1,Australia
-rustls<ref name="rustls"></ref>,Joseph Birr-Pixton,,,Joseph Birr-Pixton,Rust,0.12.0  2018-01-06,Cambridge  UK
-S2n,Amazon,,and commercial license,Amazon  Inc.,C,Continuous,US
-SChannel,Microsoft,,,Microsoft Inc.,,Windows 10  2015-07-29,US
-Secure Transport,Apple Inc.,,,Apple Inc.,,57337.20.44 (OS X 10.11.2)  2015-12-08,US
-wolfSSL (previously CyaSSL),wolfSSL<ref name="wolfsslproduct"></ref>,,and commercial license,wolfSSL Inc.<ref name="wolfsslcompany"></ref>,C,,US
-Erlang/OTP SSL application,Ericsson,,,Ericsson,Erlang,OTP-21  2018-06-19,Sweden
+BearSSL<ref name="bearssl"></ref>,Thomas Pornin,[empty],[empty],Thomas Pornin,C,0.6 beta,Canada
+Botan,Jack Lloyd,[empty],[empty],Jack Lloyd,C++,[empty],US (Vermont)
+[added],[added],[added],[added],[added],[added],[added],[added]
+BoringSSL,Google,[empty],[empty],Eric Young  Tim Hudson  Sun  OpenSSL project  Google  and others,C  C++  Go  assembly,??,Australia/EU
+Bouncy Castle,The Legion of the Bouncy Castle Inc.,[empty],[empty],Legion of the Bouncy Castle Inc.,Java  C#,[empty],Australia
+CryptoComply,SafeLogic,[empty],and commercial license,SafeLogic,Java  C,Continuous,US
+cryptlib,Peter Gutmann,[empty],and commercial license,Peter Gutmann,C,[empty],NZ
+GnuTLS,GnuTLS project,[empty],[empty],Free Software Foundation,C,[empty],EU (Greece and Sweden)
+Java Secure Socket Extension (JSSE),Oracle,[empty],and commercial license,Oracle,Java,[empty],US
+LibreSSL,OpenBSD Project,[empty],[empty],Eric Young  Tim Hudson  Sun  OpenSSL project  OpenBSD Project  and others,C  assembly,[empty],Canada
+MatrixSSL<ref name=matrixssl>The features listed are for the closed source version</ref>,PeerSec Networks,[empty],and commercial license,PeerSec Networks,C,[empty],US
+mbed TLS (previously PolarSSL),ARM,[empty],and commercial license,ARM Holdings,C,[empty],EU (Netherlands)
+Network Security Services (NSS),Mozilla  AOL  Red Hat  Sun  Oracle  Google and others,[empty],[empty],NSS contributors,C  assembly,[empty],US
+OpenSSL,OpenSSL project,[empty],[empty],Eric Young  Tim Hudson  Sun  OpenSSL project  and others,C  assembly,[empty],Australia/EU
+RomSTL<ref name="RomSTL"></ref>,Allegro Software Development Corporation<ref name="ASDC"></ref>,[empty],[empty],Allegro Software Development Corporation<ref name="ASDC" />,C,6.20,US
+RSA BSAFE SSL-J,RSA Security,[empty],[empty],RSA Security,Java,6.2.4,Australia
+RSA BSAFE Micro-Edition Suite,RSA Security,[empty],[empty],RSA Security,C  assembly,4.1.6.1,Australia
+rustls<ref name="rustls"></ref>,Joseph Birr-Pixton,[empty],[empty],Joseph Birr-Pixton,Rust,0.12.0  2018-01-06,Cambridge  UK
+S2n,Amazon,[empty],and commercial license,Amazon  Inc.,C,Continuous,US
+SChannel,Microsoft,[empty],[empty],Microsoft Inc.,[empty],Windows 10  2015-07-29,US
+Secure Transport,Apple Inc.,[empty],[empty],Apple Inc.,[empty],57337.20.44 (OS X 10.11.2)  2015-12-08,US
+wolfSSL (previously CyaSSL),wolfSSL<ref name="wolfsslproduct"></ref>,[empty],and commercial license,wolfSSL Inc.<ref name="wolfsslcompany"></ref>,C,[empty],US
+Erlang/OTP SSL application,Ericsson,[empty],[empty],Ericsson,Erlang,OTP-21  2018-06-19,Sweden
+[added],[added],[added],[added],[added],[added],[added],[added]
 Implementation,Developed by,Open source,Software license,Copyright owner,Written in,Latest stable version  release date,Origin

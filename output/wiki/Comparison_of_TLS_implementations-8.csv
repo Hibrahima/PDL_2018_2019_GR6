@@ -1,20 +1,21 @@
 Implementation,secp160k1 (15)<ref name="rfc4492"/>,secp160r1 (16)<ref name="rfc4492"/>,secp160r2 (17)<ref name="rfc4492"/>,secp192k1 (18)<ref name="rfc4492"/>,secp192r1 prime192v1 (19)<ref name="rfc4492"/>,secp224k1 (20)<ref name="rfc4492"/>,secp224r1 (21)<ref name="rfc4492"/>,secp256k1 (22)<ref name="rfc4492"/>,secp256r1 prime256v1 (23)<ref name="rfc4492"/>,secp384r1 (24)<ref name="rfc4492"/>,secp521r1 (25)<ref name="rfc4492"/>,arbitrary prime curves (0xFF01)<ref name="rfc4492"/><ref name="arbitrary-curves">Negotiation of arbitrary curves has been shown to be insecure for certain curve sizes </ref>,arbitrary char2 curves (0xFF02)<ref name="rfc4492"/><ref name="arbitrary-curves"/>
-BearSSL<ref name="bearssl-ec"/>,,,,,,,,,,,,,
-Botan,,,,,,,,,,,,,
-BoringSSL,,,,,,,,,,,(disabled by default),,
-CryptoComply,,,,,,,,,,,,,
-GnuTLS,,,,,,,,,,,,,
-JSSE,,,,,,,,,,,,,
-LibreSSL,,,,,,,,,,,,,
-MatrixSSL,,,,,,,,,,,,,
-mbed TLS,,,,,,,,,,,,,
-NSS,,,,,,,,,,,,,
-OpenSSL,,,,,,,,,,,,,
-RomSTL,,,,,,,,,,,,,
-RSA BSAFE,,,,,,,,,,,,,
-rustls,,,,,,,,,,,,,
-SChannel Vista/2008  7/2008R2  8/2012  8.1/2012R2  10,,,,,,,,,,,,,
-Secure Transport,,,,,,,,,,,,,
-wolfSSL,,,,,,,,,,,,,
-Erlang/OTP SSL application,,,,,,,,,,,,,
+BearSSL<ref name="bearssl-ec"/>,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Botan,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+BoringSSL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],(disabled by default),[empty],[empty]
+CryptoComply,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+GnuTLS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+JSSE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+LibreSSL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+MatrixSSL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+mbed TLS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+NSS,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+OpenSSL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RomSTL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+RSA BSAFE,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+rustls,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+SChannel Vista/2008  7/2008R2  8/2012  8.1/2012R2  10,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Secure Transport,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+wolfSSL,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+Erlang/OTP SSL application,[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty],[empty]
+[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added],[added]
 Implementation,secp160k1 (15)<ref name="rfc4492"/>,secp160r1 (16)<ref name="rfc4492"/>,secp160r2 (17)<ref name="rfc4492"/>,secp192k1 (18)<ref name="rfc4492"/>,secp192r1 prime192v1 (19)<ref name="rfc4492"/>,secp224k1 (20)<ref name="rfc4492"/>,secp224r1 (21)<ref name="rfc4492"/>,secp256k1 (22)<ref name="rfc4492"/>,secp256r1 prime256v1 (23)<ref name="rfc4492"/>,secp384r1 (24)<ref name="rfc4492"/>,secp521r1 (25)<ref name="rfc4492"/>,arbitrary prime curves (0xFF01)<ref name="rfc4492"/><ref name="arbitrary-curves"/>,arbitrary char2 curves (0xFF02)<ref name="rfc4492"/><ref name="arbitrary-curves"/>
